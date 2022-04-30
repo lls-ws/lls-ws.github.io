@@ -1,6 +1,4 @@
-## Welcome to LLS-WS GitHub Pages
-
-Listas IPTV
+##Listas IPTV
 
 LLS: https://lls-ws.github.io/iptv/LLS_TV.m3u
 
