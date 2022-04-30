@@ -222,7 +222,7 @@ http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/620aca7a4d8ea4
 #EXTINF:0 tvg-id="nickelodeon-icarly-ptv1" tvg-logo="http://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Entretenimento", Nickelodeon iCarly
 http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8f6b8290-c7d2-11ec-94ab-71ee390c3b73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cb4b6bd6-da2e-41d2-8225-1c9a3e8a0ff2&userId=&serverSideAds=true
 
-############################### LISTAIPTV.GRATIS #############################################
+############################### IPTV.GRATIS #############################################
 
 #EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="Anime & Geek",Loading Web TV
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
