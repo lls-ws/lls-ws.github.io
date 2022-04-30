@@ -1,6 +1,5 @@
 ## Welcome to LLS-WS GitHub Pages
 
-Lista M3U
 https://lls-ws.github.io/iptv/LLS_TV.m3u
 
 You can use the [editor on GitHub](https://github.com/lls-ws/lls-ws.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
