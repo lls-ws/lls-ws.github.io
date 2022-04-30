@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 LLS: <a href="https://lls-ws.github.io/iptv/LLS_TV.m3u" > https://lls-ws.github.io/iptv/LLS_TV.m3u </a>
 
 PLUTO_TV_BR: <a href="https://lls-ws.github.io/iptv/PlutoTV_br.m3u8" > https://lls-ws.github.io/iptv/PlutoTV_br.m3u8 </a>
