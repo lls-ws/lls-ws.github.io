@@ -520,3 +520,11 @@ https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Esportes",Motorvision (Brazil) (Geo)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+
+############################### REDBOX ###############################
+
+#EXTINF:-1 group-title="RedBox Movies",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="RedBox Movies",FilmRise Classic TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
