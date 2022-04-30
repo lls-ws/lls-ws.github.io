@@ -1,8 +1,8 @@
 LLS: <a href="https://lls-ws.github.io/iptv/LLS_TV.m3u" > https://lls-ws.github.io/iptv/LLS_TV.m3u </a>
 
-PLUTO_TV_BR: <a href="https://lls-ws.github.io/iptv/PlutoTV_br.m3u" > https://lls-ws.github.io/iptv/PlutoTV_br.m3u </a>
+PLUTO_TV_BR: <a href="https://lls-ws.github.io/iptv/PlutoTV_br.m3u8" > https://lls-ws.github.io/iptv/PlutoTV_br.m3u8 </a>
 
-PLUTO_TV_MR: <a href="https://lls-ws.github.io/iptv/PlutoTV_mr.m3u" > https://lls-ws.github.io/iptv/PlutoTV_mr.m3u </a>
+PLUTO_TV_MR: <a href="https://lls-ws.github.io/iptv/PlutoTV_mr.m3u8" > https://lls-ws.github.io/iptv/PlutoTV_mr.m3u8 </a>
 
 IPTV_GRATIS: <a href="https://lls-ws.github.io/iptv/br.m3u" > https://lls-ws.github.io/iptv/br.m3u </a>
 
