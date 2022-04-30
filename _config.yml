@@ -4,4 +4,3 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: LLS-WS
 description: Some iptv lists for watch!
-site_favicon: favicon.ico
