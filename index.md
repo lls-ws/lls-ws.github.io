@@ -1,4 +1,4 @@
-LLS: https://lls-ws.github.io/iptv/LLS_TV.m3u
+LLS: permalink: /iptv/LLS_TV.m3u
 
 PLUTO_TV_BR: https://lls-ws.github.io/iptv/PlutoTV_br.m3u
 
