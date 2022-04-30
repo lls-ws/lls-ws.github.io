@@ -15,3 +15,9 @@ The Roku Channel: <a href="https://lls-ws.github.io/iptv/rok.m3u" >https://lls-w
 SamsungTVPlus US: <a href="https://lls-ws.github.io/iptv/ssungusa.m3u" >https://lls-ws.github.io/iptv/ssungusa.m3u</a>
 
 SamsungTVPlus BR: <a href="https://lls-ws.github.io/iptv/ssungbra.m3u" >https://lls-ws.github.io/iptv/ssungbra.m3u</a>
+
+LG Channels: <a href="https://lls-ws.github.io/iptv/lg.m3u" >https://lls-ws.github.io/iptv/lg.m3u</a>
+
+Redbox TV: <a href="https://lls-ws.github.io/iptv/redbox.m3u" >https://lls-ws.github.io/iptv/redbox.m3u</a>
+
+TCL TV: <a href="https://lls-ws.github.io/iptv/tcl.m3u" >https://lls-ws.github.io/iptv/tcl.m3u</a>
