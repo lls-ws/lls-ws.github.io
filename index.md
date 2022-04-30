@@ -1,4 +1,6 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<head>
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+  </head>
 
 LLS: <a href="https://lls-ws.github.io/iptv/LLS_TV.m3u" > https://lls-ws.github.io/iptv/LLS_TV.m3u </a>
 
