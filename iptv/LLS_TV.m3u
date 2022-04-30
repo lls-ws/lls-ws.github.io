@@ -523,8 +523,29 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/
 
 ############################### REDBOX ###############################
 
+#EXTINF:-1 group-title="RedBox Movies",Filmrise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+
 #EXTINF:-1 group-title="RedBox Movies",FilmRise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="RedBox Movies",FilmRise Classic TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="RedBox Movies",Redbox War and Westerns
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="RedBox Movies",Redbox Free movies
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="RedBox Movies",Redbox Rewind
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="RedBox Movies",Cinevault Westerns
+https://7590bb52ed354228b7fafee823374cbd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_CinevaultWesterns/playlist.m3u8
+
+#EXTINF:-1 group-title="RedBox Movies",Cinevault 80's
+https://974e6936323b42fcb0553ebb0a9f3e52.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault80s/playlist.m3u8
+
+#EXTINF:-1 group-title="RedBox Movies",Cinevault 70's
+https://3357912395d4453bb8e0e934e0b4f54a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault70s/playlist.m3u8
