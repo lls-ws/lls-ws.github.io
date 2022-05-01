@@ -31,4 +31,4 @@ SlyGuy: <a href="https://k.slyguy.xyz" >https://k.slyguy.xyz</a>
 Vikings: <a href="https://vkodi.net/repo/" >https://vkodi.net/repo/</a>
 
 <b>LLS GitHub:</b>
-<a href="https://lls-ws.github.io" >https://lls-ws.github.io</a>
+<a href="https://github.com/lls-ws/lls-ws.github.io" >https://github.com/lls-ws/lls-ws.github.io</a>
