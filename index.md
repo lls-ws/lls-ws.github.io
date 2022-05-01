@@ -1,4 +1,4 @@
-<b>Listas IPTV:</b>
+<b>IPTV Lists:</b>
 
 LLS_TV: <a href="https://lls-ws.github.io/iptv/LLS_TV.m3u" >https://lls-ws.github.io/iptv/LLS_TV.m3u</a>
 
@@ -24,7 +24,7 @@ Redbox TV: <a href="https://lls-ws.github.io/iptv/redbox.m3u" >https://lls-ws.gi
 
 TCL TV: <a href="https://lls-ws.github.io/iptv/tcl.m3u" >https://lls-ws.github.io/iptv/tcl.m3u</a>
 
-<b>Kodi add-ons:</b>
+<b>Kodi Repositories:</b>
 
 SlyGuy: <a href="https://k.slyguy.xyz" >https://k.slyguy.xyz</a>
 
