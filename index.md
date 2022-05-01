@@ -21,3 +21,9 @@ LG Channels: <a href="https://lls-ws.github.io/iptv/lg.m3u" >https://lls-ws.gith
 Redbox TV: <a href="https://lls-ws.github.io/iptv/redbox.m3u" >https://lls-ws.github.io/iptv/redbox.m3u</a>
 
 TCL TV: <a href="https://lls-ws.github.io/iptv/tcl.m3u" >https://lls-ws.github.io/iptv/tcl.m3u</a>
+
+Kodi add-ons:</n>
+
+SlyGuy: <a href="https://k.slyguy.xyz" >https://k.slyguy.xyz</a>
+
+Vikings: <a href="https://vkodi.net/repo/" >https://vkodi.net/repo/</a>
