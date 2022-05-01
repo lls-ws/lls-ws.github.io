@@ -29,3 +29,6 @@ TCL TV: <a href="https://lls-ws.github.io/iptv/tcl.m3u" >https://lls-ws.github.i
 SlyGuy: <a href="https://k.slyguy.xyz" >https://k.slyguy.xyz</a>
 
 Vikings: <a href="https://vkodi.net/repo/" >https://vkodi.net/repo/</a>
+
+<b>LLS GitHub:</b>
+<a href="https://lls-ws.github.io" >https://lls-ws.github.io</a>
