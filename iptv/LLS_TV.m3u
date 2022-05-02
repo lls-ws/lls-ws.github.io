@@ -278,7 +278,7 @@ https://cast.cdnseguro.com:19360/8094/8094.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retroplus.png" group-title="Música", Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes",Ghost TV
+#EXTINF:-1 group-title="Entretenimento",Ghost TV
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 
 #EXTINF:-1 group-title="Entretenimento",Yeeaah!
