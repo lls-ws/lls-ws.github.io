@@ -35,3 +35,5 @@ Vikings: <a href="https://vkodi.net/repo/" >https://vkodi.net/repo/</a>
 
 <b>Radios:</b>
 https://www.radios.com.br/play/playlist/31289/listen-radio.m3u
+
+https://www.uturnradio.com/media/classic_rock.m3u
