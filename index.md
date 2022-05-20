@@ -33,7 +33,8 @@ Vikings: <a href="https://vkodi.net/repo/" >https://vkodi.net/repo/</a>
 <b>LLS GitHub:</b>
 <a href="https://github.com/lls-ws/lls-ws.github.io" >https://github.com/lls-ws/lls-ws.github.io</a>
 
-<b>Radios:</b>
+<b>89FM:</b>
 https://www.radios.com.br/play/playlist/31289/listen-radio.m3u
 
+<b>UturnRadio:</b>
 https://www.uturnradio.com/media/classic_rock.m3u
