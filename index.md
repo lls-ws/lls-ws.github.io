@@ -32,3 +32,5 @@ Vikings: <a href="https://vkodi.net/repo/" >https://vkodi.net/repo/</a>
 
 <b>LLS GitHub:</b>
 <a href="https://github.com/lls-ws/lls-ws.github.io" >https://github.com/lls-ws/lls-ws.github.io</a>
+
+https://www.radios.com.br/play/playlist/31289/listen-radio.m3u
