@@ -549,3 +549,6 @@ https://974e6936323b42fcb0553ebb0a9f3e52.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="RedBox Movies",Cinevault 70's
 https://3357912395d4453bb8e0e934e0b4f54a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault70s/playlist.m3u8
+
+#EXTINF:-1 group-title="Pluto TV",Os Simpsons
+http://b5.vc:80/DouglasPrado/753728/47875.ts
