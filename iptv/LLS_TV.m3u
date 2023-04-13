@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
-#EXTINF:0 channel-id="pluto-62c5d32e2c48f9000715b6e9" tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Filmes" , Runtime
+#EXTINF:0 channel-id="pluto-tv-runtime" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Filmes" , Runtime
 https://i.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8
 
 #EXTINF:0 tvg-id="pluto-tv-cine-sucessos" tvg-logo="http://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes", Pluto TV Cine Sucessos
@@ -552,6 +552,3 @@ https://974e6936323b42fcb0553ebb0a9f3e52.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="RedBox Movies",Cinevault 70's
 https://3357912395d4453bb8e0e934e0b4f54a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault70s/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/x1ct2vde5/SIMPSONS.png" group-title="Pluto TV",The Simpsons Dublado
-http://95.141.32.213:8081/looktvs/simpsons/playlist.m3u8?PEDROJUNIORTUTORIAIS
