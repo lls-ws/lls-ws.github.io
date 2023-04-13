@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
+#EXTINF:0 channel-id="pluto-62c5d32e2c48f9000715b6e9" tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Filmes" , Runtime
+https://i.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8
+
 #EXTINF:0 tvg-id="pluto-tv-cine-sucessos" tvg-logo="http://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes", Pluto TV Cine Sucessos
 http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8f63e170-c7d2-11ec-94ab-71ee390c3b73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d5ef61-e4bc-4f1a-b517-79118a83ab03&userId=&serverSideAds=true
 
