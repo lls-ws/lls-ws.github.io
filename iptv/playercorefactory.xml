@@ -6,14 +6,19 @@
             <hidexbmc>true</hidexbmc>
             <playcountminimumtime>120</playcountminimumtime>
         </player>
+        <player name="xTorrent" type="ExternalPlayer" audio="false" video="true">
+            <filename>com.gamemalt.streamtorrentvideos</filename>
+            <hidexbmc>true</hidexbmc>
+            <playcountminimumtime>120</playcountminimumtime>
+        </player>
     </players>
     <rules action="prepend">
-        <rule protocols="smb" player="VLCPlayer" />
-        <rule dvdimage="true" player="VLCPlayer"/>
-        <rule protocols="rtmp" player="VLCPlayer"/>
-        <rule protocols="rtsp" player="VLCPlayer" />
-        <rule protocols="sop" player="VLCPlayer" />
-        <rule internetstream="true" player="VLCPlayer" />
-        <rule video="true" player="VLCPlayer"/>
+        <rule protocols="smb" player="xTorrent" />
+        <rule dvdimage="true" player="xTorrent"/>
+        <rule protocols="rtmp" player="xTorrent"/>
+        <rule protocols="rtsp" player="xTorrent" />
+        <rule protocols="sop" player="xTorrent" />
+        <rule internetstream="true" player="xTorrent" />
+        <rule video="true" player="xTorrent"/>
     </rules>
 </playercorefactory>
