@@ -13,12 +13,6 @@
         </player>
     </players>
     <rules action="prepend">
-        <rule protocols="smb" player="xTorrent" />
-        <rule dvdimage="true" player="xTorrent"/>
-        <rule protocols="rtmp" player="xTorrent"/>
-        <rule protocols="rtsp" player="xTorrent" />
-        <rule protocols="sop" player="xTorrent" />
-        <rule internetstream="true" player="xTorrent" />
-        <rule video="true" player="xTorrent"/>
+        <rule video="true" player="dvdplayer"/>
     </rules>
 </playercorefactory>
