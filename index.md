@@ -39,5 +39,5 @@ https://www.radios.com.br/play/playlist/31289/listen-radio.m3u
 <b>UturnRadio:</b>
 https://www.uturnradio.com/media/classic_rock.m3u
 
-Kodi Player
-https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/playercorefactory.xml
+<b>Kodi Player:</b>
+https://lls-ws.github.io/iptv/playercorefactory.xml
