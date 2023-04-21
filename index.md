@@ -41,3 +41,4 @@ https://www.uturnradio.com/media/classic_rock.m3u
 
 <b>Kodi Player:</b>
 https://lls-ws.github.io/iptv/playercorefactory.xml
+<b> Android > Data > Files > .kodi  > userdata</b>
