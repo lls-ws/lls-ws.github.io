@@ -2,12 +2,6 @@
     <players>
         <player name="VLCPlayer" type="ExternalPlayer" audio="false" video="true">
             <filename>org.videolan.vlc</filename>
-            <args>--fullscreen "{1}"</args>
-            <hidexbmc>true</hidexbmc>
-            <playcountminimumtime>120</playcountminimumtime>
-        </player>
-        <player name="xTorrent" type="ExternalPlayer" audio="false" video="true">
-            <filename>com.gamemalt.streamtorrentvideos</filename>
             <hidexbmc>true</hidexbmc>
             <playcountminimumtime>120</playcountminimumtime>
         </player>
