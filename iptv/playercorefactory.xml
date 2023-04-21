@@ -1,115 +1,19 @@
 <playercorefactory>
-<players>
-<player name="MXPlayerFree" type="ExternalPlayer" audio="false" video="true">
-<filename>com.mxtech.videoplayer.ad</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="MXPlayerPro" type="ExternalPlayer" audio="false" video="true">
-<filename>com.mxtech.videoplayer.pro</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="TPlayer" type="ExternalPlayer" audio="false" video="true">
-<filename>com.tiantian.android.player.app</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="DicePlayerFree" type="ExternalPlayer" audio="false" video="true">
-<filename>com.inisoft.mediaplayer.trial</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="VLCPlayer" type="ExternalPlayer" audio="false" video="true">
-<filename>com.vlcforandroid.vlcdirectprofree</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="DicePlayerPaid" type="ExternalPlayer" audio="false" video="true">
-<filename>com.inisoft.mediaplayer.a</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="RockPlayerLite" type="ExternalPlayer" audio="false" video="true">
-<filename>com.redirectin.rockplayer.android.unified.lite</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="RockPlayer" type="ExternalPlayer" audio="false" video="true">
-<filename>com.rockplayer</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="BSPlayerFree" type="ExternalPlayer" audio="false" video="true">
-<filename>com.bsplayer.bspandroid.free</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="MoboplayerFree" type="ExternalPlayer" audio="false" video="true">
-<filename>com.clov4r.android.nilz</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="mVideoplayerFree" type="ExternalPlayer" audio="false" video="true">
-<filename>afzkl.development.mVideoPlayer</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player> 
-
-<player name="Vplayer" type="ExternalPlayer" audio="false" video="true">
-<filename>me.abitno.vplayer.t</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="WondersharePlayer" type="ExternalPlayer" audio="false" video="true">
-<filename>com.wondershare.player</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="ArchosVideo" type="ExternalPlayer" audio="false" video="true">
-<filename>com.archos.mediacenter.video</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="SopCast" type="ExternalPlayer" audio="false" video="true">
-<filename>org.sopcast.android</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
- <player name="LocalCast" type="ExternalPlayer" audio="false" video="true"> <filename>de.stefanpledl.localcast</filename> <hidexbmc>true</hidexbmc> <playcountminimumtime>120</playcountminimumtime> </player> 
-
-<player name="DaroonPlayer" type="ExternalPlayer" audio="false" video="true">
-<filename>com.daroonplayer.dsplayer</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-</players>
-<rules action="prepend">
-<!---
-********** **********
-********** EDIT THIS SECTION **********
-********** **********
--->
-<rule protocols="smb" player="VLCPlayer" />
-<rule dvdimage="true" player="VLCPlayer"/>
-<rule protocols="rtmp" player="VLCPlayer"/>
-<rule protocols="rtsp" player="VLCPlayer" />
-<rule protocols="sop" player="VLCPlayer" />
-<rule internetstream="true" player="VLCPlayer" />
-<rule video="true" player="VLCPlayer"/> <!-- Default for anything else not listed -->
-</rules>
+    <players>
+        <player name="VLCPlayer" type="ExternalPlayer" audio="false" video="true">
+            <filename>org.videolan.vlc</filename>
+            <args>--fullscreen "{1}"</args>
+            <hidexbmc>true</hidexbmc>
+            <playcountminimumtime>120</playcountminimumtime>
+        </player>
+    </players>
+    <rules action="prepend">
+        <rule protocols="smb" player="VLCPlayer" />
+        <rule dvdimage="true" player="VLCPlayer"/>
+        <rule protocols="rtmp" player="VLCPlayer"/>
+        <rule protocols="rtsp" player="VLCPlayer" />
+        <rule protocols="sop" player="VLCPlayer" />
+        <rule internetstream="true" player="VLCPlayer" />
+        <rule video="true" player="VLCPlayer"/>
+    </rules>
 </playercorefactory>
