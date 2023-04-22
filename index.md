@@ -45,6 +45,4 @@ https://www.uturnradio.com/media/classic_rock.m3u
 
 <a href="https://lls-ws.github.io/iptv/mediasources.xml" >mediasources.xml</a>
 
-<a href="https://lls-ws.github.io/iptv/playercorefactory.xml" >playercorefactory.xml</a>
-
 <b> Android > Data > Files > .kodi  > userdata</b>
