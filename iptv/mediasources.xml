@@ -1,0 +1,5 @@
+<mediasources>
+     <network>
+         <location id="0">nfs://192.168.15.200/mnt/shared</location>
+      </network>
+ </mediasources>
