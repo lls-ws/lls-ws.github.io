@@ -45,6 +45,8 @@ https://www.uturnradio.com/media/classic_rock.m3u
 
 <b>Kodi Player:</b>
 
+<a href="https://cineroom1.github.io">Cineroom</a>
+
 <a href="https://lls-ws.github.io/iptv/sources.xml" >sources.xml</a>
 
 <a href="https://lls-ws.github.io/iptv/mediasources.xml" >mediasources.xml</a>
