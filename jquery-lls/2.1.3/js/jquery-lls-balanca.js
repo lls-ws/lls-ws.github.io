@@ -57,10 +57,13 @@ function formataPesoBalanca(value, textoPeso) {
 
 	var string = new TextDecoder().decode(value);
 
-	console.log(string);
-	
 	let status = string.charAt(0);
 	let weight = string.substring(1);
+
+	console.log(value);
+	console.log(string);
+	console.log(status);
+	console.log(weight);
 	
 	if (status == "D" || status == "E" || status == "F" || status == "0") {
 		
