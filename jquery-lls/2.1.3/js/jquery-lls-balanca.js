@@ -60,10 +60,10 @@ function formataPesoBalanca(value, textoPeso) {
 	let status = string.charAt(0);
 	let weight = string.substring(1);
 
-	console.log("value" + value);
-	console.log("string:" + string);
-	console.log("status:" + status);
-	console.log("weight:" + weight);
+	console.log("value: " + value);
+	console.log("string: " + string);
+	console.log("status: " + status);
+	console.log("weight: " + weight);
 	
 	if (status == "D" || status == "E" || status == "F" || status == "0") {
 		
