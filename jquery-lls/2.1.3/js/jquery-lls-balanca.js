@@ -54,9 +54,11 @@ function menuBalanca(menu, posicaoMenu) {
  * ========================================================= */
 
 function formataPesoBalanca(value, textoPeso) {
-    
+
 	var string = new TextDecoder().decode(value);
-			
+
+	console.log(string);
+	
 	let status = string.charAt(0);
 	let weight = string.substring(1);
 	
