@@ -1,75 +1,280 @@
 #EXTM3U
-#EXTINF:-1,Bloomberg TV (Brazil)
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Euronews Portugese (Brazil)
-https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Record News (Brazil)
-https://rede-muhler-recordnews-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Hollywire (Brazil)
-https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,InWild (Brazil)
-https://inwild-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,InWonder (Brazil)
-https://inwonder-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,InTrouble (Brazil)
-https://introuble-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,Insight TV (Brazil)
-https://insight-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,People Are Awesome (Brazil)
-https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fuel TV (Brazil)
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Tastemade (Brazil)
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (Brazil)
-https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Classic Nick Pluto TV (Brazil)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1,Nick Junior Club Pluto TV (Brazil)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1,Rocko’s Modern Life (Brazil)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1,The Pet Collective (Brazil)
-https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army (Brazil)
-https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,BCC Gaming (Brazil)
-https://arcade-cloud-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Dark Matter TV (Brazil)
-https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,MyTime Movie Network (Brazil)
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,Runtime (Brazil)
-https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,Clubbing TV (Brazil) (Geo)
-https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,Demand Africa (Brazil) (Geo) 
-https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1,Wild Earth (Brazil) (Geo) 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
-#EXTINF:-1,Cindie Lite (Brazil) (Geo)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
-#EXTINF:-1,Motorvision (Brazil) (Geo)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1,Nashville (Brazil) (Geo)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8
-#EXTINF:-1,Anime Pluto TV (Brazil)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Masterchef (Brazil)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Nosey Escândalos (Brazil)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Naturescape (Brazil)
-https://samsung-br.ott-channels.stingray.com/naturescape/master.m3u8
-#EXTINF:-1,Toon Goggle (Brazil)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-#EXTINF:-1,Xilam TV (Brazil)
-https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Spark TV (Brazil)
-https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fashion TV (Brazil)
+#EXTINF:-1,2002 Tastemade Casa
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/TastemadeHome.m3u8
+#EXTINF:-1,2002 Porta TV (BR) (Substituto BRLG)
+https://amg00740-sofa-amg00740c22-lg-br-9875.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-portatv-lgbr/playlist.m3u8
+#EXTINF:-1,2038 Record News (BR)
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1,2038 Record News (BR) alt H265
+https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn_h265.m3u8
+#EXTINF:-1,2040 TV Jovem Pan News (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lpqo0gcfdazd6/playlist.m3u8
+#EXTINF:-1,2040 TV Jovem Pan News alt (BR)
+https://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+#EXTINF:-1,2042 CNN Brasil (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y4riz7eo92zpm/hls/main.m3u8
+#EXTINF:-1,2042 CNN Brasil (BR) alt
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,2043 CNN Brasil Money (Substituto BRLG)
+https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
+#EXTINF:-1,2044 Times Brasil CNBC (BR) (Substituto BRLG)
+https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
+#EXTINF:-1,2045 BM&C News (BR) (Substituto Pluto)
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:-1,2047 NBC News Now
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876010/hls/master.m3u8?ads.xumo_channelId=88876010
+#EXTINF:-1,2049 Euronews Portugues (BR) (Substituto BRLG)
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619e6614c9d9650007a2b171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1,2050 Breaking News By Leadstory (BR) Loop need fix
+https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
+#EXTINF:-1,2056 Bloomberg TV (BR)
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2067 Cultura Fast (BR) Loop need fix
+https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura.m3u8
+#EXTINF:-1,2071 New Brasil (BR)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1,2074 Canal UOL (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
+#EXTINF:-1,2074 Canal UOL alt (BR)
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
+#EXTINF:-1,2075 Veja Mais (BR) 
+https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
+#EXTINF:-1,2077 TV Aprecida (BR)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_Aparecida.m3u8
+#EXTINF:-1,2080 BR IN TV (BR)
+https://brn-br-samsung.otteravision.com/brn/bt/bt_h265.m3u8
+#EXTINF:-1,2081 Canal Rural (BR)
+https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
+#EXTINF:-1,2081 Canal Rural (BR) alt H265
+https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr_h265/crbr_h265.m3u8
+#EXTINF:-1,2083 WhE Play
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Offgrid/Whe_Play_BR/Whe_Play.m3u8
+#EXTINF:-1,2085 Os Dez Mandamentos (BR)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
+#EXTINF:-1,2086 A Terra Prometica (BR)
+https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Samsung/ATerraPrometida_BR/ATerraPrometida.m3u8
+#EXTINF:-1,2086 A Escrava_Isaura (BR)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
+#EXTINF:-1,2089 Malhação Fast (BR)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+#EXTINF:-1,2090 Wedotv Amor (BR)
+https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2091 Novelisima em Português (BR)
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+#EXTINF:-1,2097 Pluto TV MasterChef (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cts4xd2rn8b9n/playlist.m3u8
+#EXTINF:-1,2097 Pluto TV MasterChef alt (BR)
+https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
+#EXTINF:-1,2100 Sony One Shark Tank Brasil (BR)
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2100 Sony One Shark Tank Brasil alt (BR)
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8 
+#EXTINF:-1,2110 O Encantador de Cães (BR)
+https://rvg-dg-br-samsung.otteravision.com/rvg/dg_br/dg_br_h265.m3u8
+#EXTINF:-1,2111 Hardcore Pawn (BR)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/HardcorePawn_BR/HardcorePawn.m3u8
+#EXTINF:-1,2114 Royalworld Nobreza e Dinastias (BR)
+https://cc-4e6doav3fdfaw.akamaized.net/playlist.m3u8
+#EXTINF:-1,2117 Manual Do Mundo (BR)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/Manual_do_Mundo.m3u8
+#EXTINF:-1,2118 Flow TV (BR)
+https://cc-l2unazbogzufr.akamaized.net/gpf/tvfl/tvfl_h265.m3u8
+#EXTINF:-1,2120 Canal L!ke (BR)
+https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+#EXTINF:-1,2128 DiaTV (BR)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1,2130 Caras TV
+https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
+#EXTINF:-1,2134 Cultne.tv (BR)
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
+#EXTINF:-1,2137 Demand Africa (BR)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungbr-demand-africa-por-samsungbrazil/playlist.m3u8
+#EXTINF:-1,2163 Fashion TV International (BR)
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Nosey alt (Brazil)
-https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Comedia Brazil (Brazil) (Geo)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+#EXTINF:-1,2165 Luxe Fireplace Vibes (Substituto) (GB)
+https://d21izs34d0y5tl.cloudfront.net/Fireplace_4K_SONO20.m3u8
+#EXTINF:-1,2168 Receitas Fast (BR)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+#EXTINF:-1,2169 Sabor and Arte 2
+https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender.m3u8 
+#EXTINF:-1,2170 Tastemade
+https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Tastemade/Tastemade_BR/Tastemade.m3u8
+#EXTINF:-1,2171 Ideias Incríveis
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/The_Soul_Publishing/Ideias_Incriveis_BR/Ideias_Incriveis.m3u8
+#EXTINF:-1,2172 Homeful (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
+#EXTINF:-1,2175 FitDance (BR)
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Offgrid/Fitdance_BR/Fitdance.m3u8
+#EXTINF:-1,2177 Tastemade Viagem
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/TastemadeTravel.m3u8
+#EXTINF:-1,2178 Travel Plus (BR)
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/TravelPlus/Travel_Plus_BR/Travel_Plus.m3u8
+#EXTINF:-1,2180 GoUSA TV (BR)
+https://brandusa-gousa-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2186 Zenlife by Stingray (BR)
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u8
+#EXTINF:-1,2215 Love Nature
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876007/hls/master.m3u8?ads.xumo_channelId=88876007
+#EXTINF:-1,2223 Wild Earth (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0573ljsgymaix/playlist.m3u8
+#EXTINF:-1,2223 Wild Earth alt (BR)
+https://cc-0573ljsgymaix.akamaized.net/playlist.m3u8
+#EXTINF:-1,2227 Stingray Naturescape (BR)
+https://lotus.stingray.com/manifest/naturescape-a003s-montreal/samsungbr/master.m3u8
+#EXTINF:-1,2231 Weather Spy (BR)
+https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2235 D.P.A Fast (BR) 
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+#EXTINF:-1,2238 TV Turma da Mônica (BR)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,2240 3 Palavrinhas (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6207
+#EXTINF:-1,2242 Baby Shark TV (BR)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1,2244 Pocoyo (BR)
+https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
+#EXTINF:-1,2245 O Reino Infantil (BR)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&samsung_app_domain=APP_DOMAIN&samsung_app_name=APP_NAME&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,2246 Duck TV (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
+#EXTINF:-1,2247 Car City Adventures (Substituto)
+https://d2509zmfc5zmey.cloudfront.net/master.m3u8
+#EXTINF:-1,2248 Toon Goggles (BR)
+https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
+#EXTINF:-1,2250 Pluto TV Teletubbies (BR)
+https://stitcher.pluto.tv/stitch/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
+#EXTINF:-1,2251 Pluto TV Moraguinhos (BR)
+https://stitcher.pluto.tv/stitch/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385
+#EXTINF:-1,2253 Nickelodeon Bob Esponja Calça Quadrada (BR)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,2255 Sonic (BR)
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
+#EXTINF:-1,2256 Inspetor Bugiganga (BR)
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876020/hls/master.m3u8?ads.xumo_channelId=88876020
+#EXTINF:-1,2257 Nick Clássico (BR)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1,2258 Nick Junior Club (BR)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1,2283 Cazé TV (BR)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1,2309 Nsports FAST (BR)
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1,2309 Nsports FAST (BR) (H265)
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_h265.m3u8
+#EXTINF:-1,2310 Ge TV (BR) 
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1,2312 Desimpedidos (BR)
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+#EXTINF:-1,2312 Desimpedidos (BR) alt H265
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
+#EXTINF:-1,2313 Fifa Plus (BR)
+https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1,2315 SFT Combat (BR)
+https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8 
+#EXTINF:-1,2317 Fuel TV (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+#EXTINF:-1,2319 Hard Knocks Fight Championship (BR)
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876003/hls/master.m3u8?ads.xumo_channelId=88876003
+#EXTINF:-1,2320 Tennis TV Classics (BR)
+https://amg01470-amg01470c1-samsung-br-4768.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,2324 Acelerados
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/Acelerados_BR/Acelerados.m3u8
+#EXTINF:-1,2330 Racer Brasil (BR) Substituto TCL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,2332 People Are Awesome (BR)
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2334 World Poker Tour em Portuguese (BR)
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/WPT/World_Poker_Tour_BR/World_Poker_Tour.m3u8
+#EXTINF:-1,2334 World Poker Tour Portuguese alt (BR)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/466.m3u8
+#EXTINF:-1,2334 World Poker Tour (BR) Global version
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6654
+#EXTINF:-1,2335 Pluto TV Naruto (BR) 
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,2338 Pluto TV Anime (BR)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,2341 Sato + (BR)
+https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+#EXTINF:-1,2344 Ubisoft TV (BR)
+https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
+#EXTINF:-1,2344 Ubisoft TV (BR) alt H265
+https://ubl-ut-samsung.otteravision.com/ubl/ut/ut_h265.m3u8
+#EXTINF:-1,2435 Qello Concerts by Stingray (BR)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplusbr/master.m3u8
+#EXTINF:-1,2436 MTV Biggest Pop (BR)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2fflivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,2439 Trace Brasil (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
+#EXTINF:-1,2445 Clubbing TV (BR) (Geo)
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,2450 Qwest TV (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
+#EXTINF:-1,2454 Stingray Classica (BR)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsung-br/master.m3u8
+#EXTINF:-1,2460 Nickelodeon iCarly (BR)
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+#EXTINF:-1,2462 Mr Bean Live Action
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction.m3u8
+#EXTINF:-1,2464 Mr Bean Animated
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
+#EXTINF:-1,2465 The Pet Collective (BR)
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2475 FailArmy (BR)
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2485 Just for Laughs Gags (BR)
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2539 Rookie Blue (BR)
+https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,2541 Heartland (BR)
+https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,2543 Clube Do Terror (BR)
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876019/hls/master.m3u8?ads.xumo_channelId=88876019
+#EXTINF:-1,2547 Z Nation (BR)
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876018/hls/master.m3u8?ads.xumo_channelId=88876018
+#EXTINF:-1,2549 Sony One - Emoções (BR)
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2549 Sony One - Emoções alt (BR)
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+#EXTINF:-1,2555 O homem que Veio do Ceu (BR)
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876017/hls/master.m3u8?ads.xumo_channelId=88876017
+#EXTINF:-1,2558 Smithsonian Channel Pluto TV (BR)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=PSID&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1,2560 Revry (BR)
+https://revry-brazil.akamaized.net/playlist.m3u8
+#EXTINF:-1,2560 Revry alt (BR)
+https://dletvjdknba4f.cloudfront.net/playlist.m3u8
+#EXTINF:-1,2640 Grjingo Filmes de Faroeste (BR)
+https://cc-4dvoxbmwicuqr.akamaized.net/playlist.m3u8
+#EXTINF:-1,2640 Grjngo Filmes de Faroeste (BR) alt
+https://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+#EXTINF:-1,2645 Runtime Ação (BR)
+https://run-rt-ra-samsung.otteravision.com/run/rt_ra_h265/rt_ra_h265.m3u8	
+#EXTINF:-1,2645 Runtime Ação alt (BR)
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+#EXTINF:-1,2646 Adrenalina Pura TV (BR) (Substituto TCL)
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)
+https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,2695 Cindie Lite Portuguese (BR)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1,2706 MyTime Movie Network (BR)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
+#EXTINF:-1,2706 MyTime Movie Network alt (BR) 
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,2708 Spark TV (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
+#EXTINF:-1,2710 Filmelier TV Esperança (BR) (Substituto TCL)
+https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,2715 Filmelier TV Vida Real (BR) (Substituto TCL)
+https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,2728 Filmelier TV (BR)
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/Filmelier_TV.m3u8
+#EXTINF:-1,2730 Runtime TV e Filmes (BR)
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+#EXTINF:-1,2731 Sony One Cinema (BR)
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,2733 Moviesphere (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+#EXTINF:-1,3027 New Kpop (Substituto)
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newkpop&channel_id=newid_086&apikey=b97c7a7d0c82424bb607e141ef215779&auth=bcd9c4a7-593190e4-aae64e59-52f8273b&ads.live=%5BCONTENT_LIVE%5D&ads.device_did={PSID}&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name={APP_NAME}&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&nh=true&ads.device_dnt={TARGETOPT}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}&ads.ssai_vendor=SSSLIVE&ads.service_id=GB17000088V
+
