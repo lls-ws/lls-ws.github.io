@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
 #EXTINF:0 tvg-id="pluto-tv-cine-sucessos" tvg-logo="http://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes", Pluto TV Cine Sucessos
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fe76a7c0-bc50-11f0-b506-bd274541efbe&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ad7ef772-a494-4ac2-b4a9-ae021134b70a&userId=&serverSideAds=true
 
