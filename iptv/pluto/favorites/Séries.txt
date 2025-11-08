@@ -1,5 +1,5 @@
 # Séries
-pluto-tv-star-trek-ptv1
+#pluto-tv-star-trek-ptv1
 #bet-pluto-tv-ptv1
 #kenan-and-kel
 #nick-teen-ptv1
@@ -12,9 +12,9 @@ pluto-tv-series-criminais
 clube-do-terror
 rookie-blue-ptv1
 pluto-tv-series-comedia
-pluto-tv-series-drama-ptv1
-z-nation-ptv1
-the-walking-dead-ptv1
+#pluto-tv-series-drama-ptv1
+#z-nation-ptv1
+#the-walking-dead-ptv1
 relic-hunter-ptv1
 charmed-jovens-bruxas
 numbers
