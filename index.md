@@ -18,7 +18,7 @@
 <br><b>Radios</b><br>
 
 <b>UturnRadio:</b>
-https://www.uturnradio.com/media/classic_rock.m3u
+<a href="https://www.uturnradio.com/media/classic_rock.m3u" >https://www.uturnradio.com/media/classic_rock.m3u</a>
 
 <b>89FM:</b>
-https://www.radios.com.br/play/playlist/31289/listen-radio.m3u
+<a href="https://www.radios.com.br/play/playlist/31289/listen-radio.m3u" >https://www.radios.com.br/play/playlist/31289/listen-radio.m3u</a>
