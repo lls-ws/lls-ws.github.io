@@ -7,7 +7,7 @@
 <br><b>IPTV</b><br>
 
 <b>LLS_TV BR:</b>
-<a href="https://lls-ws.github.io/iptv/LLS_TV_br" >https://lls-ws.github.io/iptv/LLS_TV_br.m3u</a>
+<a href="https://lls-ws.github.io/iptv/LLS_TV_br.m3u" >https://lls-ws.github.io/iptv/LLS_TV_br.m3u</a>
 
 <br><b>Radios</b><br>
 
