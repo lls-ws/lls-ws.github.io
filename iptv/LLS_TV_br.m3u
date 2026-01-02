@@ -35,11 +35,23 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 #EXTINF:0 tvg-id="pluto-tv-aliens" tvg-logo="http://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="Mistérios e Sobrenatural", Pluto TV Aliens
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6806d65e84f24b70109485fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8801b61-e762-11f0-8fef-5b19af4c2728&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ddcd3045-5cf7-45ae-8afd-6beea200b49e&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Ação | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime CinEspanto | Suspense e Terror | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Crime | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 group-title="Filmes,Adrenalina Pura TV
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes,Adrenalina Pura TV Halloween
+https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes,Cindie Lite Portuguese
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 group-title="Filmes,MyTime Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="Filmes,Spark TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
+#EXTINF:-1 group-title="Filmes,Filmelier TV Esperança
+https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes,Filmelier TV Vida Real
+https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes,Filmelier TV
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/Filmelier_TV.m3u8
+#EXTINF:-1 group-title="Filmes,Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes,Moviesphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
