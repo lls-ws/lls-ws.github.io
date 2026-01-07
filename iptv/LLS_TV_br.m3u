@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https:\\i.mjh.nz\PlutoTV\br.xml.gz"
-#EXTINF:-1 group-title="Filmes",Adrenalina Pura TV
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/APTV-Logo-%20400x200.png" group-title="Filmes",Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Filmes" tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png",DarkFlix  
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
