@@ -6,7 +6,7 @@ https://030a58d4abe245219e65752f7f51ad25.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 group-title="Top10" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png",Filmelier
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Top10",CINDIE
+#EXTINF:-1 group-title="Top10" tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png",CINDIE
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
 #EXTINF:-1 group-title="Top10" tvg-id="pluto-tv-netmovies" tvg-logo="http://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png",Netmovies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663b9de4f999220008230fa8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6f472081-f2ff-11f0-9a66-09d5e7eed6da&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=829cb112-0bdb-434c-b71c-75164af991eb&userId=&serverSideAds=true
@@ -80,7 +80,7 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663b9dc7cb3ea10008f1a0ce/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6f472080-f2ff-11f0-9a66-09d5e7eed6da&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5eff5796-3129-4c51-8bad-843cff6eee64&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Romance" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png",Esperanca
 https://amg00740-sofa-amg00740c13-lg-br-9131.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvesperanca-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 group-title="Romance",Romance Channel
+#EXTINF:-1 group-title="Romance" tvg-logo="https://image.roku.com/developer_channels/prod/805c999cb8e6206c655778a7f468ab3f8c4a88dbc7790027a69f72e43f8a3986.png",Romance Channel
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
 #EXTINF:-1 group-title="Romance" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png",Runtime Romance
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/daf56ed11a104537888487ebcc17c256/playlist.m3u8
