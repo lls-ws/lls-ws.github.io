@@ -1,24 +1,24 @@
-#EXTINF:-1 group-title="Top10" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/APTV-Logo-%20400x200.png",Adrenalina Pura
+#EXTINF:-1 group-title="Top" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/APTV-Logo-%20400x200.png",Adrenalina Pura
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Top10" tvg-logo="https://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v1.png",Sony One Cinema
+#EXTINF:-1 group-title="Top" tvg-logo="https://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v1.png",Sony One Cinema
 https://030a58d4abe245219e65752f7f51ad25.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneCinema/playlist.m3u8
-#EXTINF:-1 group-title="Top10" tvg-logo="https://i.imgur.com/DF6CIfC.png",MovieSphere
+#EXTINF:-1 group-title="Top" tvg-logo="https://i.imgur.com/DF6CIfC.png",MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 group-title="Top10" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png",Filmelier
+#EXTINF:-1 group-title="Top" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png",Filmelier
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Top10" tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png",CINDIE
+#EXTINF:-1 group-title="Top" tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png",CINDIE
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
-#EXTINF:-1 group-title="Top10" tvg-id="pluto-tv-netmovies" tvg-logo="http://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png",Netmovies
+#EXTINF:-1 group-title="Top" tvg-id="pluto-tv-netmovies" tvg-logo="http://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png",Netmovies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663b9de4f999220008230fa8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6f472081-f2ff-11f0-9a66-09d5e7eed6da&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=829cb112-0bdb-434c-b71c-75164af991eb&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Top10" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png",Runtime
+#EXTINF:-1 group-title="Top" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png",Runtime
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/29fb432077d0470ebec2c65100b3fe16/playlist.m3u8
-#EXTINF:-1 group-title="Top10" tvg-id="pluto-tv-cine-sucessos" tvg-logo="http://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png",Cine Sucessos
+#EXTINF:-1 group-title="Top" tvg-id="pluto-tv-cine-sucessos" tvg-logo="http://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png",Cine Sucessos
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6f460f10-f2ff-11f0-9a66-09d5e7eed6da&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3765cab5-24d8-456a-9d0b-dfe5a71d1d5b&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Top10" tvg-logo="https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png",TOP MIX
+#EXTINF:-1 group-title="Top" tvg-logo="https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png",TOP MIX
 https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
-#EXTINF:-1 group-title="Top10" tvg-logo="https://image.xumo.com/v1/channels/channel/99992307/600x200.png?type=white_cropped",Xumo Filmes
+#EXTINF:-1 group-title="Top" tvg-logo="https://image.xumo.com/v1/channels/channel/99992307/600x200.png?type=white_cropped",Xumo Filmes
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992307&ads.xumo_streamId=99992307&ads.channelId=99992307&ads.csid=lgchannels_br_xumofreemoviesbrazil_ssai&ads.channelName=xumofreemoviesbrazil_br&ads.xumo_contentName=XumoFreeMoviesBrazil&ads.xumo_contentId=5&ads.xumo_providerName=XumoFreeMoviesBrazil&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=tv-ma&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 group-title="Ação" tvg-id="Bradoky" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/BRADOKY_-_logo_2_-_Transp_reduz_V3mcKdI.png",Bradoky
+#EXTINF:-1 group-title="Top" tvg-id="Bradoky" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/BRADOKY_-_logo_2_-_Transp_reduz_V3mcKdI.png",Bradoky
 https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
 #EXTINF:-1 group-title="Ação" tvg-logo="https://www.jwave.com.br/wp-content/uploads/2025/09/ACAO-TOTAL-TV.jpg",Ação Total
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
