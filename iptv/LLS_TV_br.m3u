@@ -104,7 +104,7 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 https://rnw-rn-tcl-roku-syndication.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/2037-LG-Logo-PNG-100x100_v1.png",Times CNBC
 https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",Euronews
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png",Euronews
 https://eae43398.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMLWJyX0V1cm9uZXdzUG9ydHVndWVzX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="Mistério" tvg-id="pluto-tv-aliens" tvg-logo="http://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png",Aliens
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6806d65e84f24b70109485fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6f474791-f2ff-11f0-9a66-09d5e7eed6da&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79c7e4f5-513d-48c5-86c8-5ce3dd23f950&userId=&serverSideAds=true
