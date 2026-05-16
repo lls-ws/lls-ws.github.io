@@ -30,7 +30,7 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e9
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/00c452757e8745849f778dbcafb4e62d/playlist.m3u8
 #EXTINF:-1 group-title="Top" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-#EXTINF:-1 group-title="Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/logoAlt_1770996295190.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Filmes Ação
+#EXTINF:-1 group-title="Top" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/logoAlt_1770996295190.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Filmes Ação
 https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
 #EXTINF:-1 group-title="Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
@@ -48,6 +48,8 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992147&ads.xumo_streamId=99992147&ads.channelId=99992147&ads.csid=lgchannels_br_tricoasttvdarkmattertvportuguesebrazil_ssai&ads.channelName=tricoasttvdarkmattertvportuguesebrazil_br&ads.xumo_contentName=TricoastTVDarkMatterTVPortugueseBrazil&ads.xumo_contentId=2626&ads.xumo_providerName=TricoastTVDarkMatterTVPortugueseBrazil&ads.xumo_providerId=2626&ads.content_category=IAB1-5&ads.content_genre=movies&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 group-title="Suspense" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGay7mqY6LQSqwVNzii1aORvT7auOJBYEWpQ&s",Medo
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
+#EXTINF:-1 group-title="Suspense" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/logoAlt_1772470822047.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Cine Terror
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 #EXTINF:-1 group-title="Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/logoAlt_1762294532960.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Cine Família
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 #EXTINF:-1 group-title="Família" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Cine Drama
@@ -60,29 +62,25 @@ https://amg00740-sofa-amg00740c16-lg-br-9132.playouts.now.amagi.tv/playlist/amg0
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3ada6fb1fe464ae5aa5b8b60ae285c73/playlist.m3u8
 #EXTINF:-1 group-title="Família" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_comedy_brazil_1400x2000.png",Runtime Comédia
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/151f0cac9fb245cfa39b660fecf14382/playlist.m3u8
+#EXTINF:-1 group-title="Família" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Cine Comédia
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 #EXTINF:-1 group-title="Família" tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png",CineMonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:-1 group-title="Família" tvg-logo="https://i.imgur.com/QapVmCb.png",Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1 group-title="Família" tvg-logo="https://db6iftd8li11q.cloudfront.net/Chosen_Logo_400x200.png",The Chosen
-https://amg00353-amg00353c88-lg-br-11648.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-thechosenportuguesecc-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.coppa=[COPPA]
 #EXTINF:-1 group-title="Família",Grjngo
 https://d185afac7321401888ff3bb2fae7ccfc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCL-br_GrjngoFilmesDeFaroeste/playlist.m3u8?ads.wurl_channel=1220&ads.wurl_name=GrjngoFilmesDeFaroeste&ads.coppa=0&ads.device_id={{DID}}&ads.dnt={{DNT}}&ads.us_privacy={{UsPrivacy}}&ads.gdpr={{Gdpr}}&ads.app_name={{appName}}&ads.app_bundle={{appPackage}}&ads.app_store_url={{AppStoreUrl}}&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.video_id=662b4f3e20e82808d84e0ae2&ads.consent={{GdprConsent}}
 #EXTINF:-1 group-title="Família",Adoro Cinema
 #EXTINF:-1 group-title="Família" tvg-logo="https://i.ytimg.com/vi/v6ux1Oty8EA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCuv65d0euYY4rebzVBsXcG246zIw",Grjngo
 https://amogonetworx-grjngo-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/logoAlt_1772470822047.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Cine Terror
-https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
-#EXTINF:-1 group-title="Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Cine Comédia
-https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
-#EXTINF:-1 group-title="Comédia" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Cine Comédia Romântica
-https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
 #EXTINF:-1 group-title="Romance" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png",Filmelier  Esperança
 https://amg00740-sofa-amg00740c13-lg-br-9131.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvesperanca-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 #EXTINF:-1 group-title="Romance" tvg-logo="https://image.roku.com/developer_channels/prod/805c999cb8e6206c655778a7f468ab3f8c4a88dbc7790027a69f72e43f8a3986.png",Romance Channel
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
 #EXTINF:-1 group-title="Romance" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png",Runtime Romance
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/daf56ed11a104537888487ebcc17c256/playlist.m3u8
+#EXTINF:-1 group-title="Romance" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Cine Comédia Romântica
+https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
 #EXTINF:-1 group-title="Romance" tvg-logo="https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png",Filmelier  Paixão
 https://amg00740-sofa-amg00740c17-lg-br-8613.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvpaixao-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 group-title="Romance" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1042-LG-Logo-PNG-100x100_v1.png",Spark  Luz E Amor
@@ -93,3 +91,5 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
 #EXTINF:-1 group-title="Romance" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png", Filmes Nacionais
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:-1 group-title="Séries" tvg-logo="https://db6iftd8li11q.cloudfront.net/Chosen_Logo_400x200.png",The Chosen
+https://amg00353-amg00353c88-lg-br-11648.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-thechosenportuguesecc-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.coppa=[COPPA]
