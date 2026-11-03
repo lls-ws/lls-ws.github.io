@@ -885,24 +885,13 @@ function setEventosCamposPeso(dados, formulario) {
 	}
 	
 	if (dados.tipoOperacao == 0) {
-
-		console.log(formulario.find('#textoPeso').text());
-		
-		if (formulario.find('#textoPeso').text() == "Desconectada!") {
+	
+		formulario.find('#textoPeso').change(function(){
 			
-			$('#peso' + dados.nomeTabela).removeAttr('disabled');
+			$('#peso' + dados.nomeTabela)
+				.val(formataNumero(parseInt($('#textoPeso').text()), 2, false, false, "", " kg"));
 			
-		}
-		else {
-		
-			formulario.find('#textoPeso').change(function(){
-				
-				$('#peso' + dados.nomeTabela)
-					.val(formataNumero(parseInt($('#textoPeso').text()), 2, false, false, "", " kg"));
-				
-			});
-			
-		}
+		});
 		
 	}
 	
