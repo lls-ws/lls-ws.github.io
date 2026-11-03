@@ -886,12 +886,21 @@ function setEventosCamposPeso(dados, formulario) {
 	
 	if (dados.tipoOperacao == 0) {
 		
-		formulario.find('#textoPeso').change(function(){
+		if ($('#textoPeso').text() == "Desconectada!") {
 			
-			$('#peso' + dados.nomeTabela)
-				.val(formataNumero(parseInt($('#textoPeso').text()), 2, false, false, "", " kg"));
+			$('#peso' + dados.nomeTabela).attr("disabled", "enabled");
 			
-		});
+		}
+		else {
+		
+			formulario.find('#textoPeso').change(function(){
+				
+				$('#peso' + dados.nomeTabela)
+					.val(formataNumero(parseInt($('#textoPeso').text()), 2, false, false, "", " kg"));
+				
+			});
+			
+		}
 		
 	}
 	
