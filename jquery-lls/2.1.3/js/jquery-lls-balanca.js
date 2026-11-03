@@ -888,7 +888,7 @@ function setEventosCamposPeso(dados, formulario) {
 		
 		if (formulario.find('#textoPeso').text() == "Desconectada!") {
 			
-			$('#peso' + dados.nomeTabela).prop('disabled', false);
+			$('#peso' + dados.nomeTabela).removeAttr('disabled');
 			
 		}
 		else {
