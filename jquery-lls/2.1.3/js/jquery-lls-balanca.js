@@ -885,6 +885,8 @@ function setEventosCamposPeso(dados, formulario) {
 	}
 	
 	if (dados.tipoOperacao == 0) {
+
+		console.log(formulario.find('#textoPeso').text());
 		
 		if (formulario.find('#textoPeso').text() == "Desconectada!") {
 			
