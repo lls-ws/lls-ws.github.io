@@ -1294,7 +1294,7 @@ function formularioPeso(dados) {
 	var campoPeso = campoNumeroHorizontal(
 		"peso" + dados.nomeTabela, "Peso",
 		'col-xs-9 col-sm-6 col-lg-8', 'col-xs-3 col-sm-6 col-lg-4',
-		2, 7, false, false, "", " kg", "enabled"
+		2, 7, false, false, "", " kg", "disabled"
 	);
 	
 	var campoProdutor = campoSqlProcuraTexto(
