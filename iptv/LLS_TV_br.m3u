@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/TV/br.xml.gz"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLs3tK7wPtRK_7phyNMead3BShGbYH4nXmA&s" group-title="Movieark",Ação Total
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/APTV-Logo-%20400x200.png" group-title="Movieark",Adrenalina Pura
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797"  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/APTV-Logo-%20400x200.png" group-title="Movieark",Adrenalina Pura
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d53d83b32f1c44c88d5bb1ba466089d9/playlist.m3u8
 #EXTINF:-1 group-title="Movieark",Adrenalina Pura Halloween
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/61d31f5ea0524ab392ddf5c3ea37d678/playlist.m3u8
