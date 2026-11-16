@@ -70,9 +70,11 @@ for M3U_FILE in "${TEMP_DIR}"/*.m3u; do
             }
 
             url = ""
-            if (getline > 0) {
+            while (getline > 0) {
+                gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0)
+                if ($0 == "" || $0 ~ /^#/) continue
                 url = $0
-                gsub(/^[[:space:]]+|[[:space:]]+$/, "", url)
+                break
             }
 
             if (nome != "") {

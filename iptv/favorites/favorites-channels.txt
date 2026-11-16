@@ -1,14 +1,11 @@
 #IPTV-org#+MaisUm (720p)
 #IPTV-org#1001 Noites (480p)
-IPTV-org#A&E Latin America Brazil (720p)
 #IPTV-org#Adesso TV (720p)
-IPTV-org#Adrenalina Pura TV Brazil
 #IPTV-org#AgroBrasil TV (720p) [Not 24/7]
 #IPTV-org#AgroCanal (720p)
 #IPTV-org#AgroMais (720p)
 #IPTV-org#Alpha Channel (720p)
 #IPTV-org#Amazon Sat (1080p)
-IPTV-org#AMC Latin America Brazil (720p)
 #IPTV-org#Angel TV Portuguese (720p)
 #IPTV-org#Araruna TV
 #IPTV-org#Aratu On (1080p)
@@ -16,7 +13,6 @@ IPTV-org#AMC Latin America Brazil (720p)
 #IPTV-org#Auge TV (720p)
 #IPTV-org#Avatar: A lenda de Aang
 #IPTV-org#AWTV (1080p) [Geo-blocked]
-IPTV-org#AXN (Brazil) (720p)
 #IPTV-org#BabyFirst Brazil
 #IPTV-org#Band (720p)
 #IPTV-org#Band Sports (1080p)
@@ -54,7 +50,6 @@ IPTV-org#AXN (Brazil) (720p)
 #IPTV-org#Catve2 (720p)
 #IPTV-org#CazeTV (1080p)
 #IPTV-org#Chroma TV (480p)
-IPTV-org#Cine Terror BR
 #IPTV-org#Cinturao Verde
 #IPTV-org#Classique TV (360p)
 #IPTV-org#CNN Brasil (1080p)
@@ -66,7 +61,6 @@ IPTV-org#Cine Terror BR
 #IPTV-org#Conecta Mais TV (720p)
 #IPTV-org#ConecTV Brasil (720p)
 #IPTV-org#Conexao TV (720p)
-IPTV-org#CSI: Miami BR
 #IPTV-org#Cultura Fast (720p)
 #IPTV-org#Cultura Para (720p)
 #IPTV-org#Demais TV (720p)
@@ -85,7 +79,6 @@ IPTV-org#CSI: Miami BR
 #IPTV-org#FailArmy Brazil
 #IPTV-org#Fala Litoral (480p)
 #IPTV-org#FIFA+ Portuguese (720p)
-IPTV-org#Filmes Suspense
 #IPTV-org#Fish TV (1080p)
 #IPTV-org#Fonte TV
 #IPTV-org#Fora Tedio TV (720p)
@@ -99,14 +92,10 @@ IPTV-org#Filmes Suspense
 #IPTV-org#GNT (1080p)
 #IPTV-org#Gospel Cartoon (360p)
 #IPTV-org#Gospel Movie TV (360p)
-IPTV-org#History (Brazil) (720p)
-IPTV-org#History 2 Latin America Brazil (720p)
+#IPTV-org#History (Brazil) (720p)
+#IPTV-org#History 2 Latin America Brazil (720p)
 #IPTV-org#iCarly (United States)
-IPTV-org#ISTV (Brazil) (720p) [Not 24/7]
 #IPTV-org#J3NEWS TV
-IPTV-org#Jornada nas Estrelas: A Nova Geracao
-IPTV-org#Jornada nas Estrelas: Deep Space Nine
-IPTV-org#Jornada nas Estrelas: Voyager
 #IPTV-org#Jovem Pan News (720p)
 #IPTV-org#Kenan & Kel BR
 #IPTV-org#KpopTV Play (576p)
@@ -136,7 +125,6 @@ IPTV-org#Jornada nas Estrelas: Voyager
 #IPTV-org#MTV Rocks
 #IPTV-org#MTV Shore
 #IPTV-org#Music Box Brazil (720p)
-IPTV-org#MyTime Movie Network (Brazil) (720p)
 #IPTV-org#N Sports (1080p)
 #IPTV-org#Naruto Brazil
 #IPTV-org#NCIS (United States)
@@ -159,29 +147,13 @@ IPTV-org#MyTime Movie Network (Brazil) (720p)
 #IPTV-org#Play TV (Brazil) (720p)
 #IPTV-org#Plena TV (720p)
 #IPTV-org#Plenitude TV
-IPTV-org#Pluto TV Aliens
 #IPTV-org#Pluto TV Animais
 #IPTV-org#Pluto TV Anime Acao
 #IPTV-org#Pluto TV Anime BR
-IPTV-org#Pluto TV Bang Bang
 #IPTV-org#Pluto TV Canal UOL (720p)
-IPTV-org#Pluto TV Cine Classicos
-IPTV-org#Pluto TV Cine Comedia (United States) BR
-IPTV-org#Pluto TV Cine Comedia Romantica
-IPTV-org#Pluto TV Cine Crime
-IPTV-org#Pluto TV Cine Drama
-IPTV-org#Pluto TV Cine Familia
-IPTV-org#Pluto TV Cine Inspiracao
-IPTV-org#Pluto TV Cine Romance
-IPTV-org#Pluto TV Cine Sucessos
 #IPTV-org#Pluto TV Cozinha
 #IPTV-org#Pluto TV Desenhos Classicos
 #IPTV-org#Pluto TV Esportes
-IPTV-org#Pluto TV Ficcao Cientifica
-IPTV-org#Pluto TV Filmes Acao
-IPTV-org#Pluto TV Filmes Aventura
-IPTV-org#Pluto TV Filmes de Luta
-IPTV-org#Pluto TV Filmes Nacionais
 #IPTV-org#Pluto TV Historia (United States)
 #IPTV-org#Pluto TV Investigacao
 #IPTV-org#Pluto TV Junior
@@ -193,23 +165,15 @@ IPTV-org#Pluto TV Filmes Nacionais
 #IPTV-org#Pluto TV Misterios
 #IPTV-org#Pluto TV Natureza
 #IPTV-org#Pluto TV Negocio Fechado
-IPTV-org#Pluto TV Netmovies
 #IPTV-org#Pluto TV Novelas BR
 #IPTV-org#Pluto TV Paisagens por Stingray (720p)
 #IPTV-org#Pluto TV Policial
 #IPTV-org#Pluto TV Record News (720p)
 #IPTV-org#Pluto TV Retro
-IPTV-org#Pluto TV Series Acao
-IPTV-org#Pluto TV Series Comedia
-IPTV-org#Pluto TV Series Criminais
-IPTV-org#Pluto TV Series Drama
 #IPTV-org#Pluto TV Series Novelescas
-IPTV-org#Pluto TV Series Sci-Fi
 #IPTV-org#Pluto TV Shows por Stingray (720p)
-IPTV-org#Pluto TV Terror Trash
 #IPTV-org#Pluto TV Turbo
 #IPTV-org#Pluto TV Viagens
-IPTV-org#Pluto TV Vida Real
 #IPTV-org#Primer TV (1080p)
 #IPTV-org#Pronto-socorro: Historias De Emergencia
 #IPTV-org#RBATV (720p)
@@ -253,15 +217,13 @@ IPTV-org#Pluto TV Vida Real
 #IPTV-org#SBT News (720p)
 #IPTV-org#SBT Nova Mutum (818p)
 #IPTV-org#SBT Rondonopolis (720p)
-IPTV-org#Series Classic (720p)
+#IPTV-org#Series Classic (720p)
 #IPTV-org#Sertao TV (720p)
 #IPTV-org#SESC TV (1080p)
 #IPTV-org#Show do Milhao (1080p) [Geo-blocked]
 #IPTV-org#SIC TV (720p)
 #IPTV-org#Smithsonian Channel Pluto TV
-IPTV-org#Sony Channel (Brazil) (720p)
-IPTV-org#Sony Movies (Brazil) (720p)
-IPTV-org#SOU TV
+#IPTV-org#Sony Movies (Brazil) (720p)
 #IPTV-org#South Park: Colecao Cartman
 #IPTV-org#South Park: Colecao Kenny
 #IPTV-org#South Park: Colecao Kyle
@@ -269,22 +231,13 @@ IPTV-org#SOU TV
 #IPTV-org#SporTV 2 (1080p)
 #IPTV-org#SporTV 3 (1080p)
 #IPTV-org#Star Trek
-IPTV-org#Studio Universal Latin America Brazil (720p)
 #IPTV-org#STZ TV (1080p)
 #IPTV-org#Tastemade Brasil (720p)
-IPTV-org#TCM 10 HD (1080p)
-IPTV-org#TELE 6 (720p)
-IPTV-org#Telecine Action (1080p)
-IPTV-org#Telecine Cult
-IPTV-org#Telecine Fun
-IPTV-org#Telecine Premium
-IPTV-org#Telecine Touch
+#IPTV-org#TELE 6 (720p)
 #IPTV-org#Terra Viva (720p)
 #IPTV-org#The Pet Collective Brazil (720p)
 #IPTV-org#TikTok Radio Brasil (1080p)
 #IPTV-org#Times Brasil (720p)
-IPTV-org#TLC Latin America Brazil (720p)
-#IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]
 #IPTV-org#Tokusato
 #IPTV-org#Trace Brazuca HD (1080p)
 #IPTV-org#Travel Box Brazil (720p)
@@ -361,7 +314,6 @@ IPTV-org#TLC Latin America Brazil (720p)
 #IPTV-org#TV Ra Tim Bum (720p)
 #IPTV-org#TV Sao Raimundo (268p)
 #IPTV-org#TV Senado (Brazil) (720p)
-IPTV-org#TV Series (480p)
 #IPTV-org#TV Sim Cachoeiro (720p)
 #IPTV-org#TV Sim Sao Mateus (720p)
 #IPTV-org#TV Sol Comunidade (480p) [Not 24/7]
@@ -1639,6 +1591,54 @@ IPTV-org#TV Series (480p)
 #WhaleTVPlus#World Poker Tour
 #WhaleTVPlus#Xtrem Sports
 #WhaleTVPlus#ZenLife
+IPTV-org#A&E Latin America Brazil (720p)
+IPTV-org#Adrenalina Pura TV Brazil
+IPTV-org#AMC Latin America Brazil (720p)
+IPTV-org#AXN (Brazil) (720p)
+IPTV-org#Cine Terror BR
+IPTV-org#CSI: Miami BR
+IPTV-org#Filmes Suspense
+IPTV-org#ISTV (Brazil) (720p) [Not 24/7]
+IPTV-org#Jornada nas Estrelas: A Nova Geracao
+IPTV-org#Jornada nas Estrelas: Deep Space Nine
+IPTV-org#Jornada nas Estrelas: Voyager
+IPTV-org#MyTime Movie Network (Brazil) (720p)
+IPTV-org#Pluto TV Aliens
+IPTV-org#Pluto TV Bang Bang
+IPTV-org#Pluto TV Cine Classicos
+IPTV-org#Pluto TV Cine Comedia (United States) BR
+IPTV-org#Pluto TV Cine Comedia Romantica
+IPTV-org#Pluto TV Cine Crime
+IPTV-org#Pluto TV Cine Drama
+IPTV-org#Pluto TV Cine Familia
+IPTV-org#Pluto TV Cine Inspiracao
+IPTV-org#Pluto TV Cine Romance
+IPTV-org#Pluto TV Cine Sucessos
+IPTV-org#Pluto TV Ficcao Cientifica
+IPTV-org#Pluto TV Filmes Acao
+IPTV-org#Pluto TV Filmes Aventura
+IPTV-org#Pluto TV Filmes de Luta
+IPTV-org#Pluto TV Filmes Nacionais
+IPTV-org#Pluto TV Netmovies
+IPTV-org#Pluto TV Series Acao
+IPTV-org#Pluto TV Series Comedia
+IPTV-org#Pluto TV Series Criminais
+IPTV-org#Pluto TV Series Drama
+IPTV-org#Pluto TV Series Sci-Fi
+IPTV-org#Pluto TV Terror Trash
+IPTV-org#Pluto TV Vida Real
+IPTV-org#Sony Channel (Brazil) (720p)
+IPTV-org#SOU TV
+IPTV-org#Studio Universal Latin America Brazil (720p)
+IPTV-org#TCM 10 HD (1080p)
+IPTV-org#Telecine Action (1080p)
+IPTV-org#Telecine Cult
+IPTV-org#Telecine Fun
+IPTV-org#Telecine Premium
+IPTV-org#Telecine Touch
+IPTV-org#TLC Latin America Brazil (720p)
+#IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]
+IPTV-org#TV Series (480p)
 LG#161 Sony One Emoções
 LG#162 FilmRise Séries Gratuitas
 LG#897 Xumo Filmes Grátis

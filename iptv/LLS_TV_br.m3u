@@ -13,10 +13,6 @@ https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Telecine",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="History",History
-http://45.177.114.114/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="History",History 2
-http://45.177.114.114/HISTORY_2/index.m3u8
 #EXTINF:-1 tvg-id="ISTV.br@SD" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Telecine",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="JornadanasEstrelasANovaGeracao.us@BR" tvg-logo="https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png" group-title="Séries",Jornada nas Estrelas: A Nova Geracao
@@ -75,20 +71,14 @@ https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" group-title="Pluto",Vida Real
 https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
-#EXTINF:-1 tvg-id="SeriesClassic.br@SD" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/img/mobile/featured/bg_mobile.jpg" group-title="Séries",Series Classic
-https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Telecine",Sony Channel
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Telecine",Sony Movies
-http://45.177.114.115/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" group-title="Telecine",SOU
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Telecine",Studio Universal
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br@SD" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Telecine",TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-id="TELE6.bo@SD" tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Telecine",TELE 6
-https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Telecine",Telecine Action
 http://46.151.196.223:14326
 #EXTINF:-1 tvg-id="TelecineCult.br@SD" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="Telecine",Telecine Cult

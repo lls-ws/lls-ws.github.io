@@ -5,8 +5,6 @@ IPTV-org#AXN (Brazil) (720p)#AXN.br@SD
 IPTV-org#Cine Terror BR#CineTerror.us@BR
 IPTV-org#CSI: Miami BR#CSIMiami.us@BR
 IPTV-org#Filmes Suspense#FilmesSuspense.us@BR
-IPTV-org#History (Brazil) (720p)#History.br@SD
-IPTV-org#History 2 Latin America Brazil (720p)#History2LatinAmerica.us@Brazil
 IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#ISTV.br@SD
 IPTV-org#Jornada nas Estrelas: A Nova Geracao#JornadanasEstrelasANovaGeracao.us@BR
 IPTV-org#Jornada nas Estrelas: Deep Space Nine#JornadanasEstrelasDeepSpaceNine.us@BR
@@ -36,19 +34,17 @@ IPTV-org#Pluto TV Series Drama#PlutoTVSeriesDrama.us@BR
 IPTV-org#Pluto TV Series Sci-Fi#PlutoTVSeriesSciFi.us@BR
 IPTV-org#Pluto TV Terror Trash#PlutoTVTerrorTrash.us@BR
 IPTV-org#Pluto TV Vida Real#PlutoTVVidaReal.us@BR
-IPTV-org#Series Classic (720p)#SeriesClassic.br@SD
 IPTV-org#Sony Channel (Brazil) (720p)#SonyChannel.br@SD
-IPTV-org#Sony Movies (Brazil) (720p)#SonyMovies.br@SD
 IPTV-org#SOU TV#SOUTV.br@SD
 IPTV-org#Studio Universal Latin America Brazil (720p)#StudioUniversalLatinAmerica.us@Brazil
 IPTV-org#TCM 10 HD (1080p)#TCM10HD.br@SD
-IPTV-org#TELE 6 (720p)#TELE6.bo@SD
 IPTV-org#Telecine Action (1080p)#TelecineAction.br@SD
 IPTV-org#Telecine Cult#TelecineCult.br@SD
 IPTV-org#Telecine Fun#TelecineFun.br@SD
 IPTV-org#Telecine Premium#TelecinePremium.br@SD
 IPTV-org#Telecine Touch#TelecineTouch.br@SD
 IPTV-org#TLC Latin America Brazil (720p)#TLCLatinAmerica.us@Brazil
+IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]#TNTLatinAmerica.us@Brazil
 IPTV-org#TV Series (480p)#TVSeries.br@SD
 LG#161 Sony One Emoções#
 LG#162 FilmRise Séries Gratuitas#

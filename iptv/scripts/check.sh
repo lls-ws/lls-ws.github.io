@@ -76,19 +76,27 @@ while IFS='|' read -r CHAVE_ORIGEM GRUPO CANAL URL; do
     printf "[%03d/%03d] Testando: %-35s -> " "${TOTAL}" "${TOTAL_CANAIS}" "${CHAVE_ORIGEM}"
 
     RESP_TMP=$(mktemp)
-    HTTP_CODE=$(curl -s -L --connect-timeout 10 --max-time 18 \
-        -A "Mozilla/5.0 (SmartHub; SMART-TV; U; Linux/SmartTV) AppleWebKit/537.36" \
-        -w "%{http_code}" -o "${RESP_TMP}" "${URL}" 2>/dev/null)
+    INFO=$(curl -s -L --connect-timeout 10 --max-time 18 -A "Mozilla/5.0 (SmartHub; SMART-TV; U; Linux/SmartTV) AppleWebKit/537.36" -w "%{http_code}|%{content_type}" -o "${RESP_TMP}" "${URL}" 2>/dev/null)
 
-    PRIMEIRA_LINHA=$(head -n 1 "${RESP_TMP}" | tr -d '\r')
+    HTTP_CODE="${INFO%%|*}"
+    CONTENT_TYPE="${INFO#*|}"
+    PRIMEIRA_LINHA=$(head -c 64 "${RESP_TMP}" | tr -d '\0\r' | head -n 1)
+
     rm -f "${RESP_TMP}"
 
-    if [[ "${HTTP_CODE}" == "200" || "${HTTP_CODE}" == "206" ]] && [[ "${PRIMEIRA_LINHA}" == \#EXTM3U* ]]; then
+    IS_VALID=0
+    if [[ "${HTTP_CODE}" == "200" || "${HTTP_CODE}" == "206" ]]; then
+        if [[ "${PRIMEIRA_LINHA}" == \#EXTM3U* || "${CONTENT_TYPE}" == *video* || "${CONTENT_TYPE}" == *octet-stream* || "${CONTENT_TYPE}" == *mpegurl* ]]; then
+            IS_VALID=1
+        fi
+    fi
+
+    if [ "${IS_VALID}" -eq 1 ]; then
         echo "[OK]"
     else
         MOTIVO="HTTP ${HTTP_CODE}"
         [ "${HTTP_CODE}" == "000" ] && MOTIVO="TIMEOUT / SEM RESPOSTA"
-        [[ "${HTTP_CODE}" == "200" && "${PRIMEIRA_LINHA}" != \#EXTM3U* ]] && MOTIVO="HTTP 200 (CONTEÚDO INVÁLIDO / NÃO É M3U8)"
+        [[ "${HTTP_CODE}" == "200" ]] && MOTIVO="HTTP 200 (CONTEÚDO INVÁLIDO: ${CONTENT_TYPE})"
 
         echo "[FALHA: ${MOTIVO}]"
         echo "${CHAVE_ORIGEM}  |  Grupo: [${GRUPO}]  |  Erro: ${MOTIVO}" >> "${QUEBRADOS_TMP}"
