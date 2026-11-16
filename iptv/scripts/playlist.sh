@@ -87,6 +87,25 @@ awk -F'#' '
             next
         }
 
+        # 1. Links Ottera com network_id: mantém apenas até network_id=XXXX
+        if (url ~ /stream\.ads\.ottera\.tv\/playlist\.m3u8\?network_id=[0-9]+/) {
+            sub(/&.*$/, "", url)
+        }
+        # 2. Links Xumo/CloudFront da LG: mantém identificação inicial e corta a partir de &ads.did=
+        else if (url ~ /cloudfront\.net\/hls\/master\.m3u8\?.*xumo_channelId=/) {
+            sub(/&ads\.did=.*$/, "", url)
+        }
+        # 3. Links NewID (Cindie LG): mantém apikey/auth e corta a partir de &ads.live=
+        else if (url ~ /ads\.its-newid\.net\/api\/manifest\.m3u8/) {
+            sub(/&ads\.live=.*$/, "", url)
+        }
+        # 4. Links com placeholders/trackers que NÃO usam API de passthrough/id na query
+        else if (url ~ /\?/ && url !~ /xumo_channelId=/ && url !~ /channel_id=/ && url !~ /[\?&]id=/) {
+            if (url ~ /\[.*\]/ || url ~ /\{\{.*\}\}/ || url ~ /REPLACE_ME/ || url ~ /[\?&]ads\./ || url ~ /[\?&]tag_id=/) {
+                sub(/\?.*$/, "", url)
+            }
+        }
+
         id    = (chave in ids)    ? ids[chave]    : ""
         logo  = (chave in logos)  ? logos[chave]  : ""
         grupo = (chave in groups && groups[chave] != "") ? groups[chave] : "NOGROUP"
@@ -101,7 +120,6 @@ awk -F'#' '
 
 echo "Limpando tags, números e palavras configuradas em clean-words.txt..."
 
-# Monta a expressão regular com as palavras de clean-words.txt
 WORDS_REGEX=$(tr -d '\r' < "${CLEAN_WORDS_TXT}" | grep -vE '^[[:space:]]*(#|$)' | sed 's/[.[\*^$()+?{|]/\\&/g' | paste -sd '|' -)
 
 sed -i -E '/^#EXTINF/ {
@@ -111,9 +129,8 @@ sed -i -E '/^#EXTINF/ {
     s/^.*,//
     s/^[0-9]+[[:space:]-]*//
     s/\(BR\)//g
+    s/\(Substituto TCL\)//g
     s/\|//g
-    s/\(//g
-    s/\)//g
     s/[[:space:]]+-[[:space:]]+/ /g
     '"${WORDS_REGEX:+s/\\b(${WORDS_REGEX})\\b//g}"'
     s/^[[:space:]]+//g

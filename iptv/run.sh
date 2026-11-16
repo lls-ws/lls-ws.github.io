@@ -17,6 +17,7 @@ SCRIPT_DOWNLOAD="${SCRIPTS_DIR}/download.sh"
 SCRIPT_FAVORITES="${SCRIPTS_DIR}/favorites.sh"
 SCRIPT_PLAYLIST="${SCRIPTS_DIR}/playlist.sh"
 SCRIPT_GITHUB="${SCRIPTS_DIR}/github.sh"
+SCRIPT_CHECK="${SCRIPTS_DIR}/check.sh"
 
 # Arquivos de configuração e edição
 FILE_SOURCES="${CONFIG_DIR}/sources.txt"
@@ -24,6 +25,7 @@ FILE_EPG="${CONFIG_DIR}/epg.txt"
 FILE_README="${BASE_DIR}/README.md"
 
 FILE_NEWS_LOG="${FAV_DIR}/news-channels.log"
+FILE_BROKEN_LOG="${FAV_DIR}/broken-links.log"
 
 FILE_FAV_CHANNELS="${FAV_DIR}/favorites-channels.txt"
 FILE_FAV_IDS="${FAV_DIR}/favorites-ids.txt"
@@ -53,6 +55,8 @@ show_help() {
     echo "  edit-meta    -> Abre IDs, Logos, URLs e Grupos para edição manual"
     echo "  news         -> Abre news-channels.log no editor"
     echo "  show         -> Abre a playlist final playlist.m3u no editor"
+    echo "  check        -> Testa todos os links da playlist.m3u e gera broken-links.log"
+    echo "  disable-broken -> Comenta (#) em favorites-channels.txt os canais do broken-links.log"
     echo "======================================================================"
 }
 
@@ -116,6 +120,41 @@ case "$1" in
             exit 1
         fi
         ${TEXT_EDITOR} "${FILE_OUT_M3U}" &
+        ;;
+	check)
+        bash "${SCRIPT_CHECK}"
+        if [ -f "${FILE_BROKEN_LOG}" ]; then
+            ${TEXT_EDITOR} "${FILE_BROKEN_LOG}" &
+        fi
+        ;;
+    disable-broken)
+        if [ ! -f "${FILE_BROKEN_LOG}" ]; then
+            echo "[AVISO] Arquivo broken-links.log não encontrado. Rode 'bash $0 check' primeiro."
+            exit 1
+        fi
+
+        awk -F'  \\|  ' '
+            idx == 1 {
+                gsub(/\r/, "", $0)
+                if ($0 ~ /^[A-Za-z0-9_-]+#/) {
+                    quebrados[tolower($1)] = 1
+                }
+                next
+            }
+            idx == 2 {
+                gsub(/\r/, "", $0)
+                if ($0 != "" && $0 !~ /^[[:space:]]*#/ && (tolower($0) in quebrados)) {
+                    print "#" $0
+                    desativados++
+                } else {
+                    print $0
+                }
+            }
+            END {
+                print "Canais quebrados desativados (#) em favorites-channels.txt: " (desativados + 0) > "/dev/stderr"
+            }
+        ' idx=1 "${FILE_BROKEN_LOG}" idx=2 "${FILE_FAV_CHANNELS}" > "${FILE_FAV_CHANNELS}.tmp" \
+        && mv "${FILE_FAV_CHANNELS}.tmp" "${FILE_FAV_CHANNELS}"
         ;;
     *)
         show_help

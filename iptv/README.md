@@ -51,6 +51,7 @@ flowchart LR
 ```text
 iptv/
 ├── README.md                     # Documentação oficial do projeto (exibida no GitHub)
+├── .gitignore                    # Regras para ignorar temp/ e arquivos temporários
 ├── run.sh                        # Script Gerenciador Principal (CLI)
 ├── playlist.m3u                  # Playlist final compilada localmente
 ├── LLS_TV_br.m3u                 # Playlist publicada e atualizada via GitHub Actions
@@ -61,19 +62,21 @@ iptv/
 │   ├── clean-words.txt           # Palavras e sufixos removidos dos nomes dos canais
 │   └── format-names.txt          # Lista de canais convertidos para Title Case
 │
-├── favorites/                    # Base de curadoria e metadados persistentes
+├── favorites/                    # Base de curadoria, metadados e logs persistentes
 │   ├── favorites-channels.txt    # Lista mestra ('#' = ignorado | sem '#' = ativo)
 │   ├── favorites-ids.txt         # IDs EPG (formato: source_name#channel_name#channel_id)
 │   ├── favorites-urls.txt        # Links ativos (formato: source_name#channel_name#channel_url)
 │   ├── favorites-logos.txt       # Logotipos (formato: source_name#channel_name#channel_logo)
 │   ├── favorites-groups.txt      # Categorias (formato: source_name#channel_name#channel_group)
-│   └── news-channels.log         # Histórico cronológico de novos canais descobertos
+│   ├── news-channels.log         # Histórico cronológico de novos canais descobertos
+│   └── broken-links.log          # Relatório de validação de streams e links offline
 │
 ├── scripts/                      # Módulos de execução do pipeline
 │   ├── download.sh               # Etapa 1: Download e extração de metadados
 │   ├── favorites.sh              # Etapa 2: Cruzamento de favoritos e log de novidades
-│   ├── playlist.sh               # Etapa 3: Montagem, EPG e formatação de nomes
-│   └── github.sh                 # Etapa 4: Deploy e configuração do GitHub Actions
+│   ├── playlist.sh               # Etapa 3: Montagem, EPG, limpeza de URLs e formatação
+│   ├── github.sh                 # Etapa 4: Deploy e configuração do GitHub Actions
+│   └── check.sh                  # Etapa Extra: Teste de disponibilidade HTTP/M3U8
 │
 └── temp/                         # Arquivos temporários de processamento (ignorado no Git)
 ```
@@ -84,14 +87,16 @@ iptv/
 
 Todas as operações do projeto são centralizadas através do gerenciador `run.sh`.
 
-### ⚙️ Comandos de Execução
+### ⚙️ Comandos de Execução e Manutenção
 
 | Comando | Ação Executada | Descrição |
 | :--- | :--- | :--- |
 | `bash run.sh all` | **Etapas 1 + 2 + 3** | Executa o ciclo completo: baixa listas, sincroniza favoritos e gera `playlist.m3u`. |
 | `bash run.sh download` | **Etapa 1** (`download.sh`) | Baixa as fontes de `sources.txt` e adiciona novos canais comentados (`#`). |
 | `bash run.sh favorites` | **Etapa 2** (`favorites.sh`) | Atualiza URLs/IDs/Logos dos ativos e registra novidades em `news-channels.log`. |
-| `bash run.sh playlist` | **Etapa 3** (`playlist.sh`) | Gera `playlist.m3u` aplicando EPG, `clean-words.txt` e `format-names.txt`. |
+| `bash run.sh playlist` | **Etapa 3** (`playlist.sh`) | Gera `playlist.m3u` aplicando EPG, limpeza de trackers e formatação de nomes. |
+| `bash run.sh check` | **Validação** (`check.sh`) | Testa todos os links da `playlist.m3u` e salva o relatório em `broken-links.log`. |
+| `bash run.sh disable-broken` | **Limpeza Automática** | Comenta (`#`) em `favorites-channels.txt` os canais que falharam no `broken-links.log`. |
 | `bash run.sh update` | **Etapa 4** (`github.sh`) | Envia o projeto para `lls-ws.github.io` e atualiza `LLS_TV_br.m3u`. |
 
 ### ✏️ Comandos de Edição e Curadoria
@@ -106,7 +111,6 @@ Todas as operações do projeto são centralizadas através do gerenciador `run.
 | `bash run.sh edit-docs` | `README.md` | Editar esta documentação. |
 | `bash run.sh show` | `playlist.m3u` | Inspecionar o resultado final da playlist gerada. |
 
----
 
 ## 🤖 Automação na Nuvem (GitHub Actions)
 

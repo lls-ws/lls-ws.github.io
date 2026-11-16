@@ -1279,9 +1279,9 @@ Movieark#Filmelier TV Esperança
 Movieark#Filmelier TV Paixão
 Movieark#Filmelier TV Vida Real
 Movieark#FilmRise Séries Gratuitas
-Movieark#FREETV CRIME
-Movieark#FREETV DRAMA
-Movieark#Grjngo
+#Movieark#FREETV CRIME
+#Movieark#FREETV DRAMA
+#Movieark#Grjngo
 Movieark#Medo TV
 Movieark#Moviesphere
 Movieark#Netmovies
@@ -1296,8 +1296,8 @@ Movieark#Sessão Trash
 Olhosnatv#CLASSIQUE TV
 Olhosnatv#CLASSIQUE TV SÉRIES
 Olhosnatv#TV CHANNEL NETWORK
-Olhosnatv#TV CLÁSSICOS DO CINEMA
-Redeitv#Cine Clássicos Do Cinema
+#Olhosnatv#TV CLÁSSICOS DO CINEMA
+#Redeitv#Cine Clássicos Do Cinema
 Redeitv#Séries Classic
 Redeitv#TOP MIX TV CANAL 4 FILMES
 SamsungTVPlus#2565 Sony One - Emoções (BR)
@@ -1318,24 +1318,24 @@ SamsungTVPlus#2714 Filmelier TV (BR)
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)
 SamsungTVPlus#2725 Sony One Cinema (BR)
 SamsungTVPlus#2732 Moviesphere (BR)
-Soultv#GLN TV
-Soultv#ISTV
-Soultv#Séries Classic
-Soultv#TV Sonata
+#Soultv#GLN TV
+#Soultv#ISTV
+#Soultv#Séries Classic
+#Soultv#TV Sonata
 TCL#10020 Spark TV (BR)
-TCL#10021 Sony One Emoções (BR)
-TCL#1006 Grjngo Brasil (BR)
-TCL#1014 Sony One Cinema (BR)
+#TCL#10021 Sony One Emoções (BR)
+#TCL#1006 Grjngo Brasil (BR)
+#TCL#1014 Sony One Cinema (BR)
 TCL#1016 Filmelier TV (BR)
 TCL#1025 Made in Hollywood (BR)
-TCL#1043 Go Usa (BR)
+#TCL#1043 Go Usa (BR)
 TCL#143 Adrenalina Pura TV Halloween (BR)
 TCL#147 Filmelier TV Paixão (BR)
 TCL#1569 Adrenalina Pura TV (BR)
-TCL#2125 Free TV Crime (BR)
+#TCL#2125 Free TV Crime (BR)
 TCL#2175 Filmelier TV Esperança (BR)
 TCL#2280 Filmelier TV Vida Real (BR)
-TCL#2400 Free TV Drama (BR)
+#TCL#2400 Free TV Drama (BR)
 TCL#3050 Moviesphere (BR)
 WhaleTVPlus#a-z Classic Flix
 WhaleTVPlus#CINDIE
