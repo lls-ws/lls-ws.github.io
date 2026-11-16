@@ -5,8 +5,11 @@
 # Autor: Modo IA Google
 
 BASE_DIR="$(cd "$(dirname "${BASH_SOURCE}")/.." && pwd)"
+CONFIG_DIR="${BASE_DIR}/config"
 TEMP_DIR="${BASE_DIR}/temp"
 FAV_DIR="${BASE_DIR}/favorites"
+
+GROUPS_MAP_TXT="${CONFIG_DIR}/groups-map.txt"
 
 FAV_CHANNELS="${FAV_DIR}/favorites-channels.txt"
 FAV_IDS="${FAV_DIR}/favorites-ids.txt"
@@ -22,9 +25,22 @@ if [ ! -f "${FAV_CHANNELS}" ]; then
     exit 1
 fi
 
-mkdir -p "${TEMP_DIR}" "${FAV_DIR}"
+mkdir -p "${CONFIG_DIR}" "${TEMP_DIR}" "${FAV_DIR}"
 touch "${FAV_IDS}" "${FAV_LOGOS}" "${FAV_URLS}" "${FAV_GROUPS}"
 touch "${TEMP_NAMES}" "${TEMP_DIR}/channels-ids.txt" "${TEMP_DIR}/channels-logos.txt" "${TEMP_DIR}/channels-urls.txt"
+
+# Cria config/groups-map.txt padrão se não existir
+if [ ! -f "${GROUPS_MAP_TXT}" ]; then
+    cat << 'EOF' > "${GROUPS_MAP_TXT}"
+Terror & Suspense#Terror|Espanto|Halloween|Trash|Suspense|Medo|Dark Matter
+Ação & Luta#Ação|Acao|Luta|Adrenalina|Crime|Criminais|Aliens|Sci-Fi|Ficção|Ficcao|Scifi
+Comédia & Romance#Comédia|Comedia|Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark
+Faroeste & Clássicos#Bang Bang|Faroeste|Grjngo|Clássicos|Classicos|Classic|Classique|TCM
+Séries#Séries|Series|CSI|Andromeda|FilmRise|Jornada nas Estrelas|Sony One Emoções|Sony One - Emoções|Emoções
+TV & Variedades#A&E|AMC|AXN|Sony Channel|Studio Universal|TLC|ISTV|SOU TV|Vida Real|Inspiração|Inspiracao|Esperança|Esperanca|Made in Hollywood|Booh!|Channel Network|TOP MIX
+Filmes#Telecine|Filmelier|Runtime|Cindie|Moviesphere|MyTime|Film Plus|Filmzie|Movie Mania|Netmovies|Xumo|Sony One Cinema|Familia|Família|Drama|Sucessos|Nacionais|Aventura
+EOF
+fi
 
 echo "=== 1. Detectando novos canais para news-channels.log ==="
 
@@ -33,9 +49,8 @@ REF_CHANNELS="${TEMP_DIR}/prev-channels.txt"
 
 NOVOS_TMP=$(mktemp)
 
-# Compara temp/channels-names.txt com favorites-channels.txt (ativos e comentados)
 awk -F'#' '
-        idx == 1 {
+    idx == 1 {
         gsub(/\r/, "", $0)
         gsub(/\xc2\xa0/, " ", $0)
         gsub(/[[:space:]]+/, " ", $0)
@@ -143,9 +158,37 @@ sync_favorite_file "${FAV_IDS}"    "${TEMP_DIR}/channels-ids.txt"   ""
 sync_favorite_file "${FAV_LOGOS}"  "${TEMP_DIR}/channels-logos.txt" ""
 sync_favorite_file "${FAV_URLS}"   "${TEMP_DIR}/channels-urls.txt"  ""
 
-EMPTY_REF=$(mktemp)
-sync_favorite_file "${FAV_GROUPS}" "${EMPTY_REF}" "NOGROUP"
-rm -f "${EMPTY_REF}" "${ACTIVE_TMP}"
+# Gera referência de grupos a partir de config/groups-map.txt
+MAPPED_GROUPS_REF=$(mktemp)
+awk -F'#' '
+    idx == 1 {
+        gsub(/\r/, "", $0)
+        if ($0 == "" || $0 ~ /^[[:space:]]*#/) next
+        grp_nome = $1
+        grp_padrao = tolower(substr($0, length(grp_nome "#") + 1))
+        if (grp_nome != "" && grp_padrao != "") {
+            map_ordem[++total_map] = grp_nome
+            map_regex[total_map] = grp_padrao
+        }
+        next
+    }
+    idx == 2 {
+        gsub(/\r/, "", $0)
+        if ($0 == "") next
+        canal_low = tolower($2)
+        grupo_encontrado = ""
+        for (m = 1; m <= total_map; m++) {
+            if (canal_low ~ map_regex[m]) {
+                grupo_encontrado = map_ordem[m]
+                break
+            }
+        }
+        print $1 "#" $2 "#" grupo_encontrado
+    }
+' idx=1 "${GROUPS_MAP_TXT}" idx=2 "${ACTIVE_TMP}" > "${MAPPED_GROUPS_REF}"
+
+sync_favorite_file "${FAV_GROUPS}" "${MAPPED_GROUPS_REF}" "NOGROUP"
+rm -f "${MAPPED_GROUPS_REF}" "${ACTIVE_TMP}"
 
 echo "Arquivos sincronizados com sucesso:"
 wc -l "${FAV_IDS}" "${FAV_LOGOS}" "${FAV_URLS}" "${FAV_GROUPS}" "${NEWS_LOG}"

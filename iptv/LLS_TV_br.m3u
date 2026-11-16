@@ -1,303 +1,303 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Telecine",A&E
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="TV & Variedades",A&E
 http://79.127.238.228:14551
-#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Telecine",Adrenalina Pura
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Ação & Luta",Adrenalina Pura
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Telecine",AMC
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Filmes",AMC
 http://170.83.49.66:8083/AMCHD/index.m3u8
-#EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Séries",AXN
+#EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="TV & Variedades",AXN
 http://170.83.16.50/AXN/index.m3u8
-#EXTINF:-1 tvg-id="CineTerror.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Telecine",Cine Terror
+#EXTINF:-1 tvg-id="CineTerror.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Terror & Suspense",Cine Terror
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 #EXTINF:-1 tvg-id="CSIMiami.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Séries",CSI: Miami
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
-#EXTINF:-1 tvg-id="FilmesSuspense.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Telecine",Filmes Suspense
+#EXTINF:-1 tvg-id="FilmesSuspense.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Terror & Suspense",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-id="ISTV.br@SD" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Telecine",ISTV
+#EXTINF:-1 tvg-id="ISTV.br@SD" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="TV & Variedades",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-id="JornadanasEstrelasANovaGeracao.us@BR" tvg-logo="https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png" group-title="Séries",Jornada nas Estrelas: A Nova Geracao
+#EXTINF:-1 tvg-id="JornadanasEstrelasANovaGeracao.us@BR" tvg-logo="https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png" group-title="Ação & Luta",Jornada nas Estrelas: A Nova Geracao
 https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
 #EXTINF:-1 tvg-id="JornadanasEstrelasDeepSpaceNine.us@BR" tvg-logo="https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png" group-title="Séries",Jornada nas Estrelas: Deep Space Nine
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 #EXTINF:-1 tvg-id="JornadanasEstrelasVoyager.us@BR" tvg-logo="https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png" group-title="Séries",Jornada nas Estrelas: Voyager
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Telecine",MyTime Movie Network
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filmes",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAliens.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="Pluto",Aliens
+#EXTINF:-1 tvg-id="PlutoTVAliens.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="Séries",Aliens
 https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
-#EXTINF:-1 tvg-id="PlutoTVBangBang.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png" group-title="Pluto",Bang Bang
+#EXTINF:-1 tvg-id="PlutoTVBangBang.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png" group-title="Faroeste & Clássicos",Bang Bang
 https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineClassicos.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG_1733440556804.png" group-title="Pluto",Cine Classicos
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG_1733440556804.png" group-title="Faroeste & Clássicos",Cine Classicos
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Pluto",Cine Comedia
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Comédia & Romance",Cine Comedia
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us@BR" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Pluto",Cine Comedia Romantica
+#EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us@BR" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Comédia & Romance",Cine Comedia Romantica
 https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Pluto",Cine Crime
+#EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Ação & Luta",Cine Crime
 https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Pluto",Cine Drama
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Filmes",Cine Drama
 https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="Pluto",Cine Familia
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="Filmes",Cine Familia
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png" group-title="Pluto",Cine Inspiracao
+#EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png" group-title="Ação & Luta",Cine Inspiracao
 https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="Pluto",Cine Romance
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="Comédia & Romance",Cine Romance
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Pluto",Cine Sucessos
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes",Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Pluto",Ficcao Cientifica
+#EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Ação & Luta",Ficcao Cientifica
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Pluto",Filmes Acao
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Ação & Luta",Filmes Acao
 https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmesAventura.us@BR" tvg-logo="https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png" group-title="Pluto",Filmes Aventura
+#EXTINF:-1 tvg-id="PlutoTVFilmesAventura.us@BR" tvg-logo="https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png" group-title="Filmes",Filmes Aventura
 https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png" group-title="Pluto",Filmes de Luta
+#EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png" group-title="Ação & Luta",Filmes de Luta
 https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us@BR" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG_1732044719987.png" group-title="Pluto",Filmes Nacionais
+#EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us@BR" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG_1732044719987.png" group-title="Filmes",Filmes Nacionais
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNetmovies.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png" group-title="Pluto",Netmovies
+#EXTINF:-1 tvg-id="PlutoTVNetmovies.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png" group-title="Filmes",Netmovies
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Séries",Series Acao
+#EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Ação & Luta",Series Acao
 https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Séries",Series Comedia
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Comédia & Romance",Series Comedia
 https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesCriminais.us@BR" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="Séries",Series Criminais
+#EXTINF:-1 tvg-id="PlutoTVSeriesCriminais.us@BR" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="Ação & Luta",Series Criminais
 https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="Séries",Series Drama
 https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us@BR" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Séries",Series Sci-Fi
+#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us@BR" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Ação & Luta",Series Sci-Fi
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTerrorTrash.us@BR" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png" group-title="Pluto",Terror Trash
+#EXTINF:-1 tvg-id="PlutoTVTerrorTrash.us@BR" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png" group-title="Terror & Suspense",Terror Trash
 https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVVidaReal.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" group-title="Pluto",Vida Real
+#EXTINF:-1 tvg-id="PlutoTVVidaReal.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" group-title="TV & Variedades",Vida Real
 https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
-#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Telecine",Sony Channel
+#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="TV & Variedades",Sony Channel
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" group-title="Telecine",SOU
+#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" group-title="TV & Variedades",SOU
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Telecine",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="TV & Variedades",Studio Universal
 http://187.102.210.46/universo/index.m3u8
-#EXTINF:-1 tvg-id="TCM10HD.br@SD" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Telecine",TCM 10
+#EXTINF:-1 tvg-id="TCM10HD.br@SD" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Faroeste & Clássicos",TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Telecine",Telecine Action
+#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Filmes",Telecine Action
 http://46.151.196.223:14326
-#EXTINF:-1 tvg-id="TelecineCult.br@SD" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="Telecine",Telecine Cult
+#EXTINF:-1 tvg-id="TelecineCult.br@SD" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="Filmes",Telecine Cult
 http://45.185.15.154:9080/stream/64/index.m3u8
-#EXTINF:-1 tvg-id="TelecineFun.br@SD" tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="Telecine",Telecine Fun
+#EXTINF:-1 tvg-id="TelecineFun.br@SD" tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="Filmes",Telecine Fun
 http://45.185.15.154:9080/stream/63/index.m3u8
-#EXTINF:-1 tvg-id="TelecinePremium.br@SD" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="Telecine",Telecine Premium
+#EXTINF:-1 tvg-id="TelecinePremium.br@SD" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="Filmes",Telecine Premium
 http://45.185.15.154:9080/stream/28/index.m3u8
-#EXTINF:-1 tvg-id="TelecineTouch.br@SD" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="Telecine",Telecine Touch
+#EXTINF:-1 tvg-id="TelecineTouch.br@SD" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="Filmes",Telecine Touch
 http://45.185.15.154:9080/stream/29/index.m3u8
-#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Telecine",TLC
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="TV & Variedades",TLC
 http://79.127.238.228:14433
 #EXTINF:-1 tvg-id="TVSeries.br@SD" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Séries",Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="LG",Sony One Emoções
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="Séries",Sony One Emoções
 https://a100d86d23bf4aab8a2f5d0a97acc2c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneEmocoes/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992531/400x200.png?type=white_cropped" group-title="Séries",FilmRise Séries
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992531&ads.xumo_streamId=99992531&ads.channelId=99992531&ads.ad_tag_id=147499&ads.csid=lgchannels_br_filmriseseriesgratuitas_ssai&ads.channelName=FilmRiseTrueCrimeBrazil&ads.xumo_contentName=FilmRiseTrueCrimeBrazil&ads.xumo_contentId=2647&ads.xumo_providerName=FilmRiseTrueCrimeBrazil&ads.xumo_providerId=2647&ads.content_category=IAB1-7&ads.content_genre=Entertainment,Drama,GD&ads.content_language=pt&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&aws.brightLineAdSignalingEnabled=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992307/400x200.png?type=white_cropped" group-title="LG",Xumo Filmes
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992307/400x200.png?type=white_cropped" group-title="Filmes",Xumo Filmes
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307&ads.xumo_streamId=99992307&ads.channelId=99992307&ads.inventory_router_id=377&ads.csid=lgchannels_br_xumofreemoviesbrazil_ssai&ads.channelName=&ads.xumo_contentName=XumoFreeMoviesBrazil&ads.xumo_contentId=5&ads.xumo_providerName=XumoFreeMoviesBrazil&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=tv-ma&ads.coppa=0&ads._fw_content_genre=Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992241/400x200.png?type=white_cropped" group-title="LG",American Classics
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992241/400x200.png?type=white_cropped" group-title="Faroeste & Clássicos",American Classics
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992241&ads.xumo_streamId=99992241&ads.channelId=99992241&ads.inventory_router_id=377&ads.csid=lgchannels_br_americanclassics_ssai&ads.channelName=AmericanClassics&ads.xumo_contentName=AmericanClassics&ads.xumo_contentId=286&ads.xumo_providerName=AmericanClassics&ads.xumo_providerId=286&ads.content_category=IAB1-7&ads.content_genre=Entertainment,Action,Drama,GD&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads._fw_content_genre=Entertainment,Action,Drama,GD&aws.brightLineAdSignalingEnabled=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992147/400x200.png?type=white_cropped" group-title="LG",Dark Matter
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992147/400x200.png?type=white_cropped" group-title="Terror & Suspense",Dark Matter
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992147&ads.xumo_streamId=99992147&ads.channelId=99992147&ads.inventory_router_id=377&ads.csid=lgchannels_br_tricoasttvdarkmattertvportuguesebrazil_ssai&ads.channelName=TricoastTVDarkMatterTVPortugueseBrazil&ads.xumo_contentName=TricoastTVDarkMatterTVPortugueseBrazil&ads.xumo_contentId=2626&ads.xumo_providerName=TricoastTVDarkMatterTVPortugueseBrazil&ads.xumo_providerId=2626&ads.content_category=IAB1-5&ads.content_genre=Entertainment,Action,Drama,GD&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads._fw_content_genre=Entertainment,Action,Drama,GD&aws.brightLineAdSignalingEnabled=true
-#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/logoAlt_1785430166268.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Cine Sucessos
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/logoAlt_1785430166268.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Filmes",Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/logoAlt_1770996295190.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Filmes Ação
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/logoAlt_1770996295190.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Ação & Luta",Filmes Ação
 https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
-#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Cine Comédia
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Comédia & Romance",Cine Comédia
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
-#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Cine Drama
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Filmes",Cine Drama
 https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
-#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/logoAlt_1779199057176.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Cine Terror
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/logoAlt_1779199057176.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Terror & Suspense",Cine Terror
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
-#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Filmes Suspense
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Terror & Suspense",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Filmes Nacionais
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Filmes",Filmes Nacionais
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
-#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/logo_1733440547919.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Cine Clássicos
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/logo_1733440547919.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Faroeste & Clássicos",Cine Clássicos
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
-#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/logoAlt_1760454575279.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Cine Romance
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/logoAlt_1760454575279.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Comédia & Romance",Cine Romance
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png" group-title="LG",Spark Luz E Amor
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png" group-title="Comédia & Romance",Spark Luz E Amor
 https://f4e8bda53ab64cbfb9522fc00b413a8f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-br_SparkTVLuzEAmor/playlist.m3u8
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Cine Comédia Romântica
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Comédia & Romance",Cine Comédia Romântica
 https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
-#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Ficção Científica
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Ação & Luta",Ficção Científica
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/logoAlt_1762294532960.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG",Cine Família
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/logoAlt_1762294532960.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Filmes",Cine Família
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
-#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png" group-title="LG",Runtime
+#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png" group-title="Filmes",Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13229
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/cinespanto_brazil_1400x2000.png" group-title="LG",CinEspanto
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/cinespanto_brazil_1400x2000.png" group-title="Terror & Suspense",CinEspanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11823
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_crime_brazil_1400x2000.png" group-title="LG",Runtime Crime
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_crime_brazil_1400x2000.png" group-title="Ação & Luta",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11824
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000.png" group-title="LG",Runtime Romance
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000.png" group-title="Comédia & Romance",Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11828
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_family_brazil_1400x2000.png" group-title="LG",Runtime Familia
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_family_brazil_1400x2000.png" group-title="Filmes",Runtime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11826
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_comedy_brazil_1400x2000.png" group-title="LG",Runtime Comédia
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_comedy_brazil_1400x2000.png" group-title="Comédia & Romance",Runtime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13230
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="LG",Runtime Ação
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Ação & Luta",Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13876
-#EXTINF:-1 tvg-id="" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Logo_SESSAOTRASH_400x200.png" group-title="LG",Sessao Trash
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Logo_SESSAOTRASH_400x200.png" group-title="Terror & Suspense",Sessao Trash
 https://amg00711-amg00711c11-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00711-amg00711c11-amgplt0026/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="LG",Cindie
+#EXTINF:-1 tvg-id="" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Filmes",Cindie
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt077&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=d3f60e44-cb709537-6a6b3eaf-d9186bf8&live_type=retransmission
-#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png" group-title="LG",Filmelier Vida Real
+#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png" group-title="TV & Variedades",Filmelier Vida Real
 https://amg00740-sofa-amg00740c16-lg-br-9132.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-vidareal-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png" group-title="LG",Filmelier Esperança
+#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png" group-title="TV & Variedades",Filmelier Esperança
 https://amg00740-sofa-amg00740c13-lg-br-9131.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvesperanca-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png" group-title="LG",Filmelier Paixão
+#EXTINF:-1 tvg-id="" tvg-logo="https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png" group-title="Comédia & Romance",Filmelier Paixão
 https://amg00740-sofa-amg00740c17-lg-br-8613.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvpaixao-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="LG",Filmelier
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="Filmes",Filmelier
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmelierportuguese-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="LG",Adrenalina Pura
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="Ação & Luta",Adrenalina Pura
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-freezoneportuguese-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png" group-title="LG",Adrenalina Pura Halloween
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png" group-title="Terror & Suspense",Adrenalina Pura Halloween
 https://amg00740-sofa-amg00740c15-lg-br-9130.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-adrenalinapuratvhalloween-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="6a281c0302b6c1c00a1fe570" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png" group-title="LG",Moviesphere
+#EXTINF:-1 tvg-id="6a281c0302b6c1c00a1fe570" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png" group-title="Filmes",Moviesphere
 https://amg00353-amg00353c23-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00353-amg00353c23-amgplt0026/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png" group-title="LG",Sony One Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png" group-title="Filmes",Sony One Cinema
 https://030a58d4abe245219e65752f7f51ad25.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneCinema/playlist.m3u8
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="Movieark",Adrenalina Pura
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="Ação & Luta",Adrenalina Pura
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d53d83b32f1c44c88d5bb1ba466089d9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png" group-title="Movieark",Adrenalina Pura Halloween
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png" group-title="Terror & Suspense",Adrenalina Pura Halloween
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/61d31f5ea0524ab392ddf5c3ea37d678/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Séries",Andromeda
 https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLs3tK7wPtRK_7phyNMead3BShGbYH4nXmA&s" group-title="Movieark",Ação Total
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLs3tK7wPtRK_7phyNMead3BShGbYH4nXmA&s" group-title="Ação & Luta",Ação Total
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movieark",Booh!
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Terror & Suspense",Booh!
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ae48d90078af4f5e960904810501e546/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Movieark",Cindie
+#EXTINF:-1 tvg-id="" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Filmes",Cindie
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="" group-title="Movieark",Cine Familia
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="" group-title="Filmes",Cine Familia
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ebdd098e1daf4002a64bb6e5014cd704/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/cinespanto_brazil_1400x2000.png" group-title="Movieark",CinEspanto
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/cinespanto_brazil_1400x2000.png" group-title="Terror & Suspense",CinEspanto
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/cda1dd579f4c4beea6fc1c6a0064d807/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Séries",CSI New York
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6aaff44baba16f4fd4fd83b1/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg" group-title="Movieark",Film Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg" group-title="Filmes",Film Plus
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/aab19982787e483a8350a1ba06826cab/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-3-1024x576.jpg" group-title="Movieark",Film Plus Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-3-1024x576.jpg" group-title="Filmes",Film Plus Action
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3454e59a9e684ebfa9efc1a3feb15bb7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/eGjUuYEUojgg-i0PY8kNUTwQ3pce1lbWonb2MTyMPfWFf0LrRuc_9Fm-SqVzHLbP-LRG30jaaw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Movieark",Film Plus Emotion
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/eGjUuYEUojgg-i0PY8kNUTwQ3pce1lbWonb2MTyMPfWFf0LrRuc_9Fm-SqVzHLbP-LRG30jaaw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Filmes",Film Plus Emotion
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-5-1024x576.jpg" group-title="Movieark",Film Plus Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-5-1024x576.jpg" group-title="Filmes",Film Plus Family
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ad9587541ca94b08aefe8b63f11537fa/playlist.m3u8
-#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="Movieark",Filmelier
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="Filmes",Filmelier
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/59df292b969c470fb6201c8c99dc02de/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png" group-title="Movieark",Filmelier Esperança
+#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png" group-title="TV & Variedades",Filmelier Esperança
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d8c82ef3962a4866bbff81317936d8cf/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png" group-title="Movieark",Filmelier Paixão
+#EXTINF:-1 tvg-id="" tvg-logo="https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png" group-title="Comédia & Romance",Filmelier Paixão
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a7ca4eafcd6d46528c96254bc06836f5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png" group-title="Movieark",Filmelier Vida Real
+#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png" group-title="TV & Variedades",Filmelier Vida Real
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/565cfbea4dd84fe9af37cf67e9036de7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992531/400x200.png?type=white_cropped" group-title="Séries",FilmRise Séries
 https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884541
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGay7mqY6LQSqwVNzii1aORvT7auOJBYEWpQ&s" group-title="Movieark",Medo
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGay7mqY6LQSqwVNzii1aORvT7auOJBYEWpQ&s" group-title="Terror & Suspense",Medo
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-id="6a281c0302b6c1c00a1fe570" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png" group-title="Movieark",Moviesphere
+#EXTINF:-1 tvg-id="6a281c0302b6c1c00a1fe570" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png" group-title="Filmes",Moviesphere
 https://amg00353-amg00353c29-tcl-us-6383.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-tclus/playlist.m3u8
-#EXTINF:-1 tvg-id="663b9de4f999220008230fa8" tvg-logo="" group-title="Movieark",Netmovies
+#EXTINF:-1 tvg-id="663b9de4f999220008230fa8" tvg-logo="" group-title="Filmes",Netmovies
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/6a731cc3056f7bc47781e9fc/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/805c999cb8e6206c655778a7f468ab3f8c4a88dbc7790027a69f72e43f8a3986.png" group-title="Movieark",Romance Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/805c999cb8e6206c655778a7f468ab3f8c4a88dbc7790027a69f72e43f8a3986.png" group-title="Comédia & Romance",Romance Channel
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Movieark",Runtime Ação
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Ação & Luta",Runtime Ação
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/00c452757e8745849f778dbcafb4e62d/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_comedy_brazil_1400x2000.png" group-title="Movieark",Runtime Comédia
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_comedy_brazil_1400x2000.png" group-title="Comédia & Romance",Runtime Comédia
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/151f0cac9fb245cfa39b660fecf14382/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_crime_brazil_1400x2000.png" group-title="Movieark",Runtime Crime
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_crime_brazil_1400x2000.png" group-title="Ação & Luta",Runtime Crime
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5b99b8c4aa6d4fbc8937eb7d01463c5b/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_family_brazil_1400x2000.png" group-title="Movieark",Runtime Familia
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_family_brazil_1400x2000.png" group-title="Filmes",Runtime Familia
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3ada6fb1fe464ae5aa5b8b60ae285c73/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000.png" group-title="Movieark",Runtime Romance
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000.png" group-title="Comédia & Romance",Runtime Romance
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/daf56ed11a104537888487ebcc17c256/playlist.m3u8
-#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png" group-title="Movieark",Runtime
+#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png" group-title="Filmes",Runtime
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/29fb432077d0470ebec2c65100b3fe16/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movieark",Sessão Trash
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Terror & Suspense",Sessão Trash
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/4ddd716806a344f397c726a9dcdb7908/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Olhos",Classique
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Faroeste & Clássicos",Classique
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Séries",Classique Séries
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Faroeste & Clássicos",Classique Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Olhos",Channel Network
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV & Variedades",Channel Network
 https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png" group-title="Séries",Séries Classic
+#EXTINF:-1 tvg-id="" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png" group-title="Faroeste & Clássicos",Séries Classic
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png" group-title="RedeiTV",Top Mix
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png" group-title="TV & Variedades",Top Mix
 https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="Samsung",Sony One Emoções
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="Séries",Sony One Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="Samsung",Sony One Emoções
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="Séries",Sony One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Samsung",Grjingo Filmes de Faroeste
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Faroeste & Clássicos",Grjingo Filmes de Faroeste
 https://cc-4dvoxbmwicuqr.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Samsung",Runtime Ação
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Ação & Luta",Runtime Ação
 https://run-rt-ra-samsung.otteravision.com/run/rt_ra_h265/rt_ra_h265.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Samsung",Runtime Ação
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Ação & Luta",Runtime Ação
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="Samsung",Adrenalina Pura
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="Ação & Luta",Adrenalina Pura
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png" group-title="Samsung",Adrenalina Pura Halloween
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png" group-title="Terror & Suspense",Adrenalina Pura Halloween
 https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Samsung",Cindie Lite
+#EXTINF:-1 tvg-id="" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Filmes",Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="Samsung",MyTime Movie Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="Filmes",MyTime Movie Network
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="Samsung",MyTime Movie Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="Filmes",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg" group-title="Samsung",Film Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg" group-title="Filmes",Film Plus
 https://pb-7dac9juxe0240.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png" group-title="Samsung",Spark
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png" group-title="Comédia & Romance",Spark
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png" group-title="Samsung",Filmelier Esperanca
+#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png" group-title="TV & Variedades",Filmelier Esperanca
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierEsperanca_BR/FilmelierEsperanca.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Samsung",Vida Real
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV & Variedades",Vida Real
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierVidaReal_BR/FilmelierVidaReal.m3u8
-#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="Samsung",Filmelier
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="Filmes",Filmelier
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/Filmelier_TV.m3u8
-#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png" group-title="Samsung",Runtime e Filmes
+#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png" group-title="Filmes",Runtime e Filmes
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png" group-title="Samsung",Sony One Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png" group-title="Filmes",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="6a281c0302b6c1c00a1fe570" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png" group-title="Samsung",Moviesphere
+#EXTINF:-1 tvg-id="6a281c0302b6c1c00a1fe570" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png" group-title="Filmes",Moviesphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png" group-title="TCL",Spark
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png" group-title="Comédia & Romance",Spark
 https://candlelightmedia-sparklightlove-3-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="TCL",Filmelier
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="Filmes",Filmelier
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TCL",Made in Hollywood
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV & Variedades",Made in Hollywood
 https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png" group-title="TCL",Adrenalina Pura Halloween
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png" group-title="Terror & Suspense",Adrenalina Pura Halloween
 https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png" group-title="TCL",Filmelier Paixão
+#EXTINF:-1 tvg-id="" tvg-logo="https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png" group-title="Comédia & Romance",Filmelier Paixão
 https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="TCL",Adrenalina Pura
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="Ação & Luta",Adrenalina Pura
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png" group-title="TCL",Filmelier Esperança
+#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png" group-title="TV & Variedades",Filmelier Esperança
 https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png" group-title="TCL",Filmelier Vida Real
+#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png" group-title="TV & Variedades",Filmelier Vida Real
 https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="6a281c0302b6c1c00a1fe570" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png" group-title="TCL",Moviesphere
+#EXTINF:-1 tvg-id="6a281c0302b6c1c00a1fe570" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png" group-title="Filmes",Moviesphere
 https://amg00353-amg00353c29-tcl-us-6383.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="azclassicflix" tvg-logo="" group-title="Whale",Classic Flix
+#EXTINF:-1 tvg-id="azclassicflix" tvg-logo="" group-title="Faroeste & Clássicos",Classic Flix
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/7I5T3RBJ6UYJ13J0D1DW/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-id="cindie" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Whale",Cindie
+#EXTINF:-1 tvg-id="cindie" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Filmes",Cindie
 https://d3odceb9yi9vvo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ZEASN-MuxIP-CINDIELite/387.m3u8?ads.tag_id=138602&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=CINDIE&ads.wtv_channel_id=0532&ads.content_id=&ads.content_genre=Movies+and+Series&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.dur=&ads.rating=12%2B&ads.content_producer_name=MuxIP_DigitalMediaDistribution_Cindie&ads.content_categories=IAB1-5%2CIAB19-29%2CIAB1-7&ads.content_custom_1_param=MuxIP&ads.content_custom_2_param=M%2CF&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.ua=&ads.ip=&ads.dnt=0&ads.lmt=&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.sid=df734d68-aa68-4834-a42c-3941ce45f76a&ads.h=&ads.w=&ads.content_livestream=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
-#EXTINF:-1 tvg-id="filmzie" tvg-logo="" group-title="Whale",Filmzie
+#EXTINF:-1 tvg-id="filmzie" tvg-logo="" group-title="Filmes",Filmzie
 https://bf5ecf8744b84262bc23f2b55f312b14.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_Filmzie/playlist.m3u8
-#EXTINF:-1 tvg-id="freetvcrime" tvg-logo="" group-title="Whale",Freetv Crime
+#EXTINF:-1 tvg-id="freetvcrime" tvg-logo="" group-title="Ação & Luta",Freetv Crime
 https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=11871&partner=whaletv&tag_id=133142&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0452&content_id=&content_genre=Movies+and+Series&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_Olympusat_FreeTVCrime&content_categories=IAB1-5%2CIAB1-7%2CIAB19-29&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
-#EXTINF:-1 tvg-id="freetvdrama_br" tvg-logo="" group-title="Whale",Freetv Drama
+#EXTINF:-1 tvg-id="freetvdrama_br" tvg-logo="" group-title="Filmes",Freetv Drama
 https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=11873&partner=whaletv&tag_id=133143&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0451&content_id=&content_genre=Movies+and+Series&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_Olympusat_FreeTVDramaBR&content_categories=IAB1-5%2CIAB19-29%2CIAB1-7&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
-#EXTINF:-1 tvg-id="moviemania_en" tvg-logo="" group-title="Whale",Movie Mania
+#EXTINF:-1 tvg-id="moviemania_en" tvg-logo="" group-title="Filmes",Movie Mania
 https://stream.broadpeak.io/828752f77ada1b8b1628c024cbfe914e/channels/6416f0d10f43c8665f42a8e9/master.m3u8?app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&channel_name=Movie+Mania&content_id=&content_genre=Movies+and+Series&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=MyCastTV_MyCastTV_MovieManiaEN&content_categories=IAB1%2CIAB1-5&content_custom_3_param=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&dnt=&lmt=&coppa=0&us_privacy=1YNN&cb=&h=&w=&content_livestream=1&tag_id=106494&wtv_channel_id=0059&tv_language=&placement=1&ap=1&mute=0&skip=0&gender=F%2CM&age=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&sid=&ssai_vendor=MyCastTV&min_dur=5&max_dur=30&ads.gdpr=0
-#EXTINF:-1 tvg-id="scifiworld" tvg-logo="" group-title="Whale",Scifi World
+#EXTINF:-1 tvg-id="scifiworld" tvg-logo="" group-title="Ação & Luta",Scifi World
 https://streams2.sofast.tv/ptnr-whaletv/title-SCIFI-WORLD-ENG_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/793a5e43-6bf1-4088-a10c-819b89538a54/manifest.m3u8?ads.tag_id=148557&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Scifi+World&ads.wtv_channel_id=0552&ads.content_id=&ads.content_genre=Movies+and+Series&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_ScifiWorld&ads.content_categories=IAB1-5%2CIAB1-7%2CIAB9-26&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=M%2CF&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.did=ff4c0917-443b-4038-84fb-584c960b6b89&ads.dnt=0&ads.lmt=&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.sid=ff4c0917-443b-4038-84fb-584c960b6b89&ads.h=&ads.w=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
-#EXTINF:-1 tvg-id="sessaotrash" tvg-logo="" group-title="Whale",Sessão Trash
+#EXTINF:-1 tvg-id="sessaotrash" tvg-logo="" group-title="Terror & Suspense",Sessão Trash
 https://amg00711-zylo-amg00711c12-rlaxx-us-8301.playouts.now.amagi.tv/playlist/amg00711-zylofast-sessaotrash-rlaxxus/playlist.m3u8?tag_id=121259&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0393&content_producer_name=AmagiConnect_Zylo_SessaoTrash&content_categories=IAB1-5%2CIAB19-29&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0

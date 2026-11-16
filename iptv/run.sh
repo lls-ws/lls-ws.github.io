@@ -27,6 +27,8 @@ FILE_README="${BASE_DIR}/README.md"
 FILE_NEWS_LOG="${FAV_DIR}/news-channels.log"
 FILE_BROKEN_LOG="${FAV_DIR}/broken-links.log"
 
+FILE_GROUPS_MAP="${CONFIG_DIR}/groups-map.txt"
+
 FILE_FAV_CHANNELS="${FAV_DIR}/favorites-channels.txt"
 FILE_FAV_IDS="${FAV_DIR}/favorites-ids.txt"
 FILE_FAV_LOGOS="${FAV_DIR}/favorites-logos.txt"
@@ -49,10 +51,11 @@ show_help() {
     echo ""
     echo "Comandos de Edição e Visualização:"
     echo "  edit-sources -> Abre sources.txt e epg.txt no editor"
+    echo "  edit-groups  -> Abre groups-map.txt e favorites-groups.txt no editor"
     echo "  edit-config  -> Abre clean-words.txt e format-names.txt no editor"
     echo "  edit-docs    -> Abre README.md no editor"
     echo "  edit-favs    -> Abre favorites-channels.txt para ativar canais"
-    echo "  edit-meta    -> Abre IDs, Logos, URLs e Grupos para edição manual"
+    echo "  edit-meta    -> Abre Logos, IDs e URLs para edição manual"
     echo "  news         -> Abre news-channels.log no editor"
     echo "  show         -> Abre a playlist final playlist.m3u no editor"
     echo "  check        -> Testa todos os links da playlist.m3u e gera broken-links.log"
@@ -83,6 +86,11 @@ case "$1" in
 		touch "${FILE_SOURCES}" "${FILE_EPG}"
 		${TEXT_EDITOR} "${FILE_SOURCES}" "${FILE_EPG}" &
 		;;
+	edit-groups)
+        mkdir -p "${CONFIG_DIR}" "${FAV_DIR}"
+        touch "${FILE_GROUPS_MAP}" "${FILE_FAV_GROUPS}"
+        ${TEXT_EDITOR} "${FILE_GROUPS_MAP}" "${FILE_FAV_GROUPS}" &
+        ;;
     edit-config)
         mkdir -p "${CONFIG_DIR}"
         touch "${CONFIG_DIR}/clean-words.txt" "${CONFIG_DIR}/format-names.txt"
@@ -100,12 +108,12 @@ case "$1" in
         fi
         ${TEXT_EDITOR} "${FILE_FAV_CHANNELS}" &
         ;;
-    edit-meta)
-        if [ ! -f "${FILE_FAV_GROUPS}" ]; then
+	edit-meta)
+        if [ ! -f "${FILE_FAV_LOGOS}" ]; then
             echo "[AVISO] Arquivos não existem ainda. Rode 'bash $0 favorites' primeiro."
             exit 1
         fi
-        ${TEXT_EDITOR} "${FILE_FAV_GROUPS}" "${FILE_FAV_LOGOS}" "${FILE_FAV_IDS}" "${FILE_FAV_URLS}" &
+        ${TEXT_EDITOR} "${FILE_FAV_LOGOS}" "${FILE_FAV_IDS}" "${FILE_FAV_URLS}" &
         ;;
     news)
         if [ ! -f "${FILE_NEWS_LOG}" ]; then

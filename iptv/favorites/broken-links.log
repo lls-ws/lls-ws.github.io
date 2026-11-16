@@ -1,6 +1,6 @@
 ==========================================================
-Verificação de Links em: 16/11/2026 às 04:37:45
-Total testado: 148 | Links quebrados: 1
+Verificação de Links em: 16/11/2026 às 20:35:41
+Total testado: 151 | Links quebrados: 1
 ==========================================================
-IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]  |  Grupo: [NOGROUP]  |  Erro: HTTP 403
-    URL: http://15.204.246.24:8080/TNTHD/index.m3u8
+IPTV-org#Studio Universal Latin America Brazil (720p)  |  Grupo: [TV & Variedades]  |  Erro: TIMEOUT / SEM RESPOSTA
+    URL: http://187.102.210.46/universo/index.m3u8

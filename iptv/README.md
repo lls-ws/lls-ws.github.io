@@ -60,7 +60,8 @@ iptv/
 │   ├── epg.txt                   # URL do guia de programação (formato: epg_name#epg_url)
 │   ├── sources.txt               # Fontes M3U (formato: source_name#source_url)
 │   ├── clean-words.txt           # Palavras e sufixos removidos dos nomes dos canais
-│   └── format-names.txt          # Lista de canais convertidos para Title Case
+│   ├── format-names.txt          # Lista de canais convertidos para Title Case
+│   └── groups-map.txt            # Dicionário de palavras-chave para categorização por gênero
 │
 ├── favorites/                    # Base de curadoria, metadados e logs persistentes
 │   ├── favorites-channels.txt    # Lista mestra ('#' = ignorado | sem '#' = ativo)
@@ -73,7 +74,7 @@ iptv/
 │
 ├── scripts/                      # Módulos de execução do pipeline
 │   ├── download.sh               # Etapa 1: Download e extração de metadados
-│   ├── favorites.sh              # Etapa 2: Cruzamento de favoritos e log de novidades
+│   ├── favorites.sh              # Etapa 2: Cruzamento de favoritos, grupos e log de novidades
 │   ├── playlist.sh               # Etapa 3: Montagem, EPG, limpeza de URLs e formatação
 │   ├── github.sh                 # Etapa 4: Deploy e configuração do GitHub Actions
 │   └── check.sh                  # Etapa Extra: Teste de disponibilidade HTTP/M3U8
@@ -93,7 +94,7 @@ Todas as operações do projeto são centralizadas através do gerenciador `run.
 | :--- | :--- | :--- |
 | `bash run.sh all` | **Etapas 1 + 2 + 3** | Executa o ciclo completo: baixa listas, sincroniza favoritos e gera `playlist.m3u`. |
 | `bash run.sh download` | **Etapa 1** (`download.sh`) | Baixa as fontes de `sources.txt` e adiciona novos canais comentados (`#`). |
-| `bash run.sh favorites` | **Etapa 2** (`favorites.sh`) | Atualiza URLs/IDs/Logos dos ativos e registra novidades em `news-channels.log`. |
+| `bash run.sh favorites` | **Etapa 2** (`favorites.sh`) | Atualiza URLs/IDs/Logos, aplica `groups-map.txt` e registra novidades em `news-channels.log`. |
 | `bash run.sh playlist` | **Etapa 3** (`playlist.sh`) | Gera `playlist.m3u` aplicando EPG, limpeza de trackers e formatação de nomes. |
 | `bash run.sh check` | **Validação** (`check.sh`) | Testa todos os links da `playlist.m3u` e salva o relatório em `broken-links.log`. |
 | `bash run.sh disable-broken` | **Limpeza Automática** | Comenta (`#`) em `favorites-channels.txt` os canais que falharam no `broken-links.log`. |
@@ -103,14 +104,14 @@ Todas as operações do projeto são centralizadas através do gerenciador `run.
 
 | Comando | Arquivos Abertos no Editor | Finalidade |
 | :--- | :--- | :--- |
-| `bash run.sh news` | `favorites/news-channels.log` | Visualizar os canais inéditos descobertos na última busca (ordenados por data). |
+| `bash run.sh news` | `favorites/news-channels.log`, `favorites-channels.txt` | Visualizar os canais inéditos descobertos e ativar os desejados. |
 | `bash run.sh edit-favs` | `favorites/favorites-channels.txt` | Ativar canais removendo o `#` do início da linha. |
-| `bash run.sh edit-meta` | `groups`, `logos`, `ids`, `urls` | Editar manualmente categorias (`group-title`), logos ou links específicos. |
+| `bash run.sh edit-meta` | `logos`, `ids`, `urls` | Editar manualmente logotipos, IDs de EPG ou links específicos. |
 | `bash run.sh edit-sources` | `config/sources.txt`, `config/epg.txt` | Adicionar/remover URLs de listas M3U ou alterar a fonte do EPG. |
-| `bash run.sh edit-config` | `clean-words.txt`, `format-names.txt` | Ajustar palavras removidas ou canais formatados em Title Case. |
+| `bash run.sh edit-groups` | `config/groups-map.txt`, `favorites/favorites-groups.txt` | Gerenciar regras automáticas de gênero e exceções manuais de grupos. |
+| `bash run.sh edit-config` | `config/clean-words.txt`, `config/format-names.txt` | Ajustar palavras removidas e formatação de nomes (Title Case). |
 | `bash run.sh edit-docs` | `README.md` | Editar esta documentação. |
 | `bash run.sh show` | `playlist.m3u` | Inspecionar o resultado final da playlist gerada. |
-
 
 ## 🤖 Automação na Nuvem (GitHub Actions)
 
