@@ -1,0 +1,8 @@
+# Arquivos e diretórios temporários de processamento
+temp/
+*.tmp
+
+# Logs ou backups locais acidentais
+*.bak
+*.swp
+*~

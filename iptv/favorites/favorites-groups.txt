@@ -1,0 +1,119 @@
+LG#161 Sony One Emoções#LG
+LG#162 FilmRise Séries Gratuitas#Séries
+LG#897 Xumo Filmes Grátis#LG
+LG#899 American Classics#LG
+LG#900 Dark Matter TV Brazil#LG
+LG#901 Pluto TV Cine Sucessos#LG
+LG#902 Pluto TV Filmes Ação#LG
+LG#903 Pluto TV Cine Comédia#LG
+LG#904 Pluto TV Cine Drama#LG
+LG#905 Pluto TV Cine Terror#LG
+LG#906 Filmes Suspense#LG
+LG#907 Pluto TV Filmes Nacionais#LG
+LG#908 Pluto TV Cine Clássicos#LG
+LG#909 Pluto TV Cine Romance#LG
+LG#910 Spark TV Luz E Amor#LG
+LG#911 Pluto TV Cine Comédia Romântica#LG
+LG#912 Pluto TV Ficção Científica#LG
+LG#913 Pluto TV Cine Família#LG
+LG#915 Runtime#LG
+LG#916 CinEspanto#LG
+LG#917 Runtime Crime#LG
+LG#918 Runtime Romance#LG
+LG#919 Runtime Familia#LG
+LG#920 Runtime Comédia#LG
+LG#921 Runtime Ação#LG
+LG#923 Sessao Trash#LG
+LG#924 Cindie TV#LG
+LG#925 Filmelier TV Vida Real#LG
+LG#926 Filmelier TV Esperança#LG
+LG#927 Filmelier TV Paixão#LG
+LG#928 Filmelier TV#LG
+LG#930 Adrenalina Pura TV#LG
+LG#931 Adrenalina Pura TV Halloween#LG
+LG#939 Moviesphere#LG
+LG#940 Sony One Cinema#LG
+Movieark#Adrenalina Pura TV#Movieark
+Movieark#Adrenalina Pura TV Halloween#Movieark
+Movieark#Andromeda#Séries
+Movieark#Ação Total TV#Movieark
+Movieark#Booh!#Movieark
+Movieark#CINDIE LITE#Movieark
+Movieark#Cine Familia#Movieark
+Movieark#CinEspanto#Movieark
+Movieark#CSI New York#Séries
+Movieark#Film Plus#Movieark
+Movieark#Film Plus Action#Movieark
+Movieark#Film Plus Emotion#Movieark
+Movieark#Film Plus Family#Movieark
+Movieark#Filmelier TV#Movieark
+Movieark#Filmelier TV Esperança#Movieark
+Movieark#Filmelier TV Paixão#Movieark
+Movieark#Filmelier TV Vida Real#Movieark
+Movieark#FilmRise Séries Gratuitas#Séries
+Movieark#FREETV CRIME#Movieark
+Movieark#FREETV DRAMA#Movieark
+Movieark#Grjngo#Movieark
+Movieark#Medo TV#Movieark
+Movieark#Moviesphere#Movieark
+Movieark#Netmovies#Movieark
+Movieark#Romance Channel#Movieark
+Movieark#Runtime Ação#Movieark
+Movieark#Runtime Comédia#Movieark
+Movieark#Runtime Crime#Movieark
+Movieark#Runtime Familia#Movieark
+Movieark#Runtime Romance#Movieark
+Movieark#Runtime TV E Filmes#Movieark
+Movieark#Sessão Trash#Movieark
+Olhosnatv#CLASSIQUE TV#Olhos
+Olhosnatv#CLASSIQUE TV SÉRIES#Séries
+Olhosnatv#TV CHANNEL NETWORK#Olhos
+Olhosnatv#TV CLÁSSICOS DO CINEMA#Olhos
+Redeitv#Cine Clássicos Do Cinema#RedeiTV
+Redeitv#Séries Classic#Séries
+Redeitv#TOP MIX TV CANAL 4 FILMES#RedeiTV
+SamsungTVPlus#2565 Sony One - Emoções (BR)#Samsung
+SamsungTVPlus#2565 Sony One - Emoções alt (BR)#Samsung
+SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#Samsung
+SamsungTVPlus#2645 Runtime Ação (BR)#Samsung
+SamsungTVPlus#2645 Runtime Ação alt (BR)#Samsung
+SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#Samsung
+SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Samsung
+SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Samsung
+SamsungTVPlus#2695 MyTime Movie Network (BR)#Samsung
+SamsungTVPlus#2695 MyTime Movie Network alt (BR)#Samsung
+SamsungTVPlus#2697 Film Plus TV (BR)#Samsung
+SamsungTVPlus#2705 Spark TV (BR)#Samsung
+SamsungTVPlus#2710 Filmelier Esperanca (BR)#Samsung
+SamsungTVPlus#2712 Vida Real (BR)#Samsung
+SamsungTVPlus#2714 Filmelier TV (BR)#Samsung
+SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Samsung
+SamsungTVPlus#2725 Sony One Cinema (BR)#Samsung
+SamsungTVPlus#2732 Moviesphere (BR)#Samsung
+Soultv#GLN TV#Soul
+Soultv#ISTV#Soul
+Soultv#Séries Classic#Séries
+Soultv#TV Sonata#Soul
+TCL#10020 Spark TV (BR)#TCL
+TCL#10021 Sony One Emoções (BR)#TCL
+TCL#1006 Grjngo Brasil (BR)#TCL
+TCL#1014 Sony One Cinema (BR)#TCL
+TCL#1016 Filmelier TV (BR)#TCL
+TCL#1025 Made in Hollywood (BR)#TCL
+TCL#1043 Go Usa (BR)#TCL
+TCL#143 Adrenalina Pura TV Halloween (BR)#TCL
+TCL#147 Filmelier TV Paixão (BR)#TCL
+TCL#1569 Adrenalina Pura TV (BR)#TCL
+TCL#2125 Free TV Crime (BR)#TCL
+TCL#2175 Filmelier TV Esperança (BR)#TCL
+TCL#2280 Filmelier TV Vida Real (BR)#TCL
+TCL#2400 Free TV Drama (BR)#TCL
+TCL#3050 Moviesphere (BR)#TCL
+WhaleTVPlus#a-z Classic Flix#Whale
+WhaleTVPlus#CINDIE#Whale
+WhaleTVPlus#Filmzie#Whale
+WhaleTVPlus#FreeTV Crime#Whale
+WhaleTVPlus#FreeTV Drama#Whale
+WhaleTVPlus#Movie Mania#Whale
+WhaleTVPlus#Scifi World#Whale
+WhaleTVPlus#Sessão Trash#Whale

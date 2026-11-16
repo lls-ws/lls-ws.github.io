@@ -1,0 +1,8 @@
+LG#https://www.apsattv.com/brlg.m3u
+TCL#https://www.apsattv.com/tclbr.m3u
+Soultv#https://www.apsattv.com/soultv.m3u
+Redeitv#https://www.apsattv.com/redeitv.m3u
+Olhosnatv#https://www.apsattv.com/olhosnatv.m3u
+Movieark#https://www.apsattv.com/moviearkbr.m3u
+SamsungTVPlus#https://www.apsattv.com/ssungbra.m3u
+WhaleTVPlus#https://www.apsattv.com/whaletvplus_br.m3u

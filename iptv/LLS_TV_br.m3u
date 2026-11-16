@@ -133,12 +133,6 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/daf56ed11a10
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/29fb432077d0470ebec2c65100b3fe16/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movieark",Sessão Trash
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/4ddd716806a344f397c726a9dcdb7908/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png" group-title="Movieark",Sony One Cinema
-https://3d51ba4c6dea4941b5e1ca10a471504c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneCinema/playlist.m3u8?ads.wurl_channel=1585&ads.wurl_name=SonyOneCinema&ads.coppa=0&ads.device_id={{DID}}&ads.dnt={{DNT}}&ads.us_privacy={{UsPrivacy}}&ads.gdpr={{Gdpr}}&ads.app_name={{appName}}&ads.app_bundle={{appPackage}}&ads.app_store_url={{AppStoreUrl}}&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.video_id=6791ff38edf6320af87bf83e&ads.consent={{GdprConsent}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="Movieark",Sony One Emoções
-https://1bc1c9c406cd46579d83a6c41b2036ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneEmocoes/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png" group-title="Movieark",Spark Luz E Amor
-https://17aaa99d12174024acbe552cc2f26b17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SparkTVLuzyAmor/playlist.m3u8?ads.wurl_channel=1042&ads.wurl_name=SparkTVLuzyAmor&ads.coppa=0&ads.device_id={{DID}}&ads.dnt={{DNT}}&ads.us_privacy={{UsPrivacy}}&ads.gdpr={{Gdpr}}&ads.app_name={{appName}}&ads.app_bundle={{appPackage}}&ads.app_store_url={{AppStoreUrl}}&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.video_id=66ebc0dcd4f4b36851a814b9&ads.consent={{GdprConsent}}
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Olhos",Classique
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Séries",Classique Séries
@@ -207,8 +201,6 @@ https://amogonetworx-grjngo-1-br.tcl.wurl.tv/playlist.m3u8
 https://spt-sonyoneclassicas-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="TCL",Filmelier
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TCL",Charlie Silent Movies
-https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TCL",Made in Hollywood
 https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TCL",Go Usa
