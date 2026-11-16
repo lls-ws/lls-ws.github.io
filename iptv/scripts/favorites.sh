@@ -35,8 +35,10 @@ NOVOS_TMP=$(mktemp)
 
 # Compara temp/channels-names.txt com favorites-channels.txt (ativos e comentados)
 awk -F'#' '
-    idx == 1 {
+        idx == 1 {
         gsub(/\r/, "", $0)
+        gsub(/\xc2\xa0/, " ", $0)
+        gsub(/[[:space:]]+/, " ", $0)
         if ($0 == "") next
         sub(/^[[:space:]]*#/, "", $0)
         chave = tolower($1 "#" $2)
@@ -45,6 +47,8 @@ awk -F'#' '
     }
     idx == 2 {
         gsub(/\r/, "", $0)
+        gsub(/\xc2\xa0/, " ", $0)
+        gsub(/[[:space:]]+/, " ", $0)
         if ($0 == "") next
         chave = tolower($1 "#" $2)
         if (!(chave in conhecidos)) {

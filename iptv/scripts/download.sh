@@ -56,6 +56,8 @@ for M3U_FILE in "${TEMP_DIR}"/*.m3u; do
             nome = $0
             sub(/.*,/, "", nome)
             gsub(/^[[:space:]]+|[[:space:]]+$/, "", nome)
+            gsub(/\xc2\xa0/, " ", nome)
+            gsub(/[[:space:]]+/, " ", nome)
 
             logo = ""
             if (match($0, /tvg-logo="[^"]*"/)) {

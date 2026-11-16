@@ -417,7 +417,6 @@
 #Redeitv#GERAL TV HD
 #Redeitv#Gramado TV
 #Redeitv#HIP-HOP VAI ALEM NA TV
-#Redeitv#HIP-HOP VAI ALEM NA TV
 #Redeitv#IGREJA MUNDIAL
 #Redeitv#Ijuí Play
 #Redeitv#JOVEM TOTAL TV DIGITAL
@@ -470,7 +469,6 @@
 #Redeitv#REDE UTV BRASIL
 #Redeitv#REDE VIVAX TV
 #Redeitv#REDE WTJMINAS
-#Redeitv#Rede Metrópole
 #Redeitv#Reisen Clube TV
 #Redeitv#Reviva TV
 #Redeitv#RITTV
@@ -495,8 +493,8 @@
 #Redeitv#The JetSons
 #Redeitv#Top Demais TV
 #Redeitv#TOP MIX TV
-#Redeitv#TOP MIX TV -  CANAL SERTANEJO
 #Redeitv#TOP MIX TV - CANAL POP RETRÔ
+#Redeitv#TOP MIX TV - CANAL SERTANEJO
 #Redeitv#TOP MIX TV CANAL 3 GOSPEL
 #Redeitv#TOP MIX TV FILMES GOSPEL
 #Redeitv#TOPMIXTV
@@ -604,7 +602,7 @@
 #Redeitv#TV NORTE PARÁ - SC
 #Redeitv#TV Notícias Agrícolas
 #Redeitv#TV NOVA JUAREZ
-#Redeitv#Tv nova juarez  canal 2
+#Redeitv#Tv nova juarez canal 2
 #Redeitv#tv nova juarez.1
 #Redeitv#TV NOVA MT
 #Redeitv#Tv Nova MT Ao Vivo
@@ -1012,7 +1010,7 @@
 #TCL#1020 Charlie Silent Movies (BR)
 #TCL#1021 Racer Brasil (BR)
 #TCL#1031 The Design Network
-#TCL#10310 Nature Moments by Love Nature  (BR)
+#TCL#10310 Nature Moments by Love Nature (BR)
 #TCL#1034 Documentry plus
 #TCL#1037 Lovestories TV (BR)
 #TCL#1040 Drone TV (BR)
