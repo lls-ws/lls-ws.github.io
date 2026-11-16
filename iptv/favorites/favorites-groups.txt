@@ -44,7 +44,6 @@ IPTV-org#Telecine Fun#Telecine
 IPTV-org#Telecine Premium#Telecine
 IPTV-org#Telecine Touch#Telecine
 IPTV-org#TLC Latin America Brazil (720p)#Telecine
-IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]#NOGROUP
 IPTV-org#TV Series (480p)#Séries
 LG#161 Sony One Emoções#LG
 LG#162 FilmRise Séries Gratuitas#Séries

@@ -44,7 +44,6 @@ IPTV-org#Telecine Fun#https://i.imgur.com/MO2Ynki.png
 IPTV-org#Telecine Premium#https://i.imgur.com/uVFgIr8.png
 IPTV-org#Telecine Touch#https://i.imgur.com/Nky0hRo.png
 IPTV-org#TLC Latin America Brazil (720p)#https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png
-IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]#https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png
 IPTV-org#TV Series (480p)#https://i.imgur.com/Ff5mj0o.png
 LG#161 Sony One Emoções#http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png
 LG#162 FilmRise Séries Gratuitas#https://image.xumo.com/v1/channels/channel/99992531/400x200.png?type=white_cropped

@@ -82,10 +82,11 @@ awk -F'#' '
         chave = tolower(fonte "#" canal)
 
         url = (chave in urls) ? urls[chave] : ""
-        if (url == "") {
-            print "[AVISO] Canal sem URL ignorado: " canal " (" fonte ")" > "/dev/stderr"
+        if (url == "" || url !~ /^https?:\/\//) {
+            print "[AVISO] Canal sem URL http válida ignorado: " canal " (" fonte ")" > "/dev/stderr"
             next
         }
+
 
         # 1. Links Ottera com network_id: mantém apenas até network_id=XXXX
         if (url ~ /stream\.ads\.ottera\.tv\/playlist\.m3u8\?network_id=[0-9]+/) {

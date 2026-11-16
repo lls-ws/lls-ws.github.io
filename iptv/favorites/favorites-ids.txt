@@ -44,7 +44,6 @@ IPTV-org#Telecine Fun#TelecineFun.br@SD
 IPTV-org#Telecine Premium#TelecinePremium.br@SD
 IPTV-org#Telecine Touch#TelecineTouch.br@SD
 IPTV-org#TLC Latin America Brazil (720p)#TLCLatinAmerica.us@Brazil
-IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]#TNTLatinAmerica.us@Brazil
 IPTV-org#TV Series (480p)#TVSeries.br@SD
 LG#161 Sony One Emoções#
 LG#162 FilmRise Séries Gratuitas#
