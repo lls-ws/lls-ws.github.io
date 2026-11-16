@@ -120,7 +120,7 @@ awk -F'#' '
 
 echo "Limpando tags, números e palavras configuradas em clean-words.txt..."
 
-WORDS_REGEX=$(tr -d '\r' < "${CLEAN_WORDS_TXT}" | grep -vE '^[[:space:]]*(#|$)' | sed 's/[.[\*^$()+?{|]/\\&/g' | paste -sd '|' -)
+WORDS_REGEX=$(tr -d '\r' < "${CLEAN_WORDS_TXT}" | grep -vE '^[[:space:]]*(#|$)' | sed 's/[.[\*^$()+?{|/]/\\&/g' | paste -sd '|' -)
 
 sed -i -E '/^#EXTINF/ {
     h
@@ -128,8 +128,10 @@ sed -i -E '/^#EXTINF/ {
     x
     s/^.*,//
     s/^[0-9]+[[:space:]-]*//
-    s/\(BR\)//g
-    s/\(Substituto TCL\)//g
+    s/\(//g
+    s/\)//g
+    s/\[//g
+    s/\]//g
     s/\|//g
     s/[[:space:]]+-[[:space:]]+/ /g
     '"${WORDS_REGEX:+s/\\b(${WORDS_REGEX})\\b//g}"'

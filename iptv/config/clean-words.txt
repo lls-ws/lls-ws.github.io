@@ -13,3 +13,10 @@ E Filmes
 Substituto TCL
 a-z
 alt
+720p
+BR
+Latin America
+Not 24/7
+United States
+1080p
+480p

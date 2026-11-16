@@ -1,5 +1,20 @@
 ==========================================================
-Verificação de Links em: 16/11/2026 às 03:15:53
-Total testado: 104 | Links quebrados: 0
+Verificação de Links em: 16/11/2026 às 04:14:52
+Total testado: 152 | Links quebrados: 8
 ==========================================================
-Nenhum link quebrado encontrado! Todos os canais estão online.
+IPTV-org#A&E Latin America Brazil (720p)  |  Grupo: [Telecine]  |  Erro: HTTP 200 (CONTEÚDO INVÁLIDO / NÃO É M3U8)
+    URL: http://79.127.238.228:14551
+IPTV-org#History (Brazil) (720p)  |  Grupo: [History]  |  Erro: TIMEOUT / SEM RESPOSTA
+    URL: http://45.177.114.114/HISTORY/index.m3u8
+IPTV-org#History 2 Latin America Brazil (720p)  |  Grupo: [History]  |  Erro: TIMEOUT / SEM RESPOSTA
+    URL: http://45.177.114.114/HISTORY_2/index.m3u8
+IPTV-org#Series Classic (720p)  |  Grupo: [Séries]  |  Erro: TIMEOUT / SEM RESPOSTA
+    URL: https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+IPTV-org#Sony Movies (Brazil) (720p)  |  Grupo: [Telecine]  |  Erro: TIMEOUT / SEM RESPOSTA
+    URL: http://45.177.114.115/SONY_MOVIES/index.m3u8
+IPTV-org#TELE 6 (720p)  |  Grupo: [Telecine]  |  Erro: HTTP 502
+    URL: https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
+IPTV-org#Telecine Action (1080p)  |  Grupo: [Telecine]  |  Erro: HTTP 200 (CONTEÚDO INVÁLIDO / NÃO É M3U8)
+    URL: http://46.151.196.223:14326
+IPTV-org#TLC Latin America Brazil (720p)  |  Grupo: [Telecine]  |  Erro: HTTP 200 (CONTEÚDO INVÁLIDO / NÃO É M3U8)
+    URL: http://79.127.238.228:14433

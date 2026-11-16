@@ -1,3 +1,55 @@
+IPTV-org#A&E Latin America Brazil (720p)#Telecine
+IPTV-org#Adrenalina Pura TV Brazil#Telecine
+IPTV-org#AMC Latin America Brazil (720p)#Telecine
+IPTV-org#AXN (Brazil) (720p)#Séries
+IPTV-org#Cine Terror BR#Telecine
+IPTV-org#CSI: Miami BR#Séries
+IPTV-org#Filmes Suspense#Telecine
+IPTV-org#History (Brazil) (720p)#History
+IPTV-org#History 2 Latin America Brazil (720p)#History
+IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#Telecine
+IPTV-org#Jornada nas Estrelas: A Nova Geracao#Séries
+IPTV-org#Jornada nas Estrelas: Deep Space Nine#Séries
+IPTV-org#Jornada nas Estrelas: Voyager#Séries
+IPTV-org#MyTime Movie Network (Brazil) (720p)#Telecine
+IPTV-org#Pluto TV Aliens#Pluto
+IPTV-org#Pluto TV Bang Bang#Pluto
+IPTV-org#Pluto TV Cine Classicos#Pluto
+IPTV-org#Pluto TV Cine Comedia (United States) BR#Pluto
+IPTV-org#Pluto TV Cine Comedia Romantica#Pluto
+IPTV-org#Pluto TV Cine Crime#Pluto
+IPTV-org#Pluto TV Cine Drama#Pluto
+IPTV-org#Pluto TV Cine Familia#Pluto
+IPTV-org#Pluto TV Cine Inspiracao#Pluto
+IPTV-org#Pluto TV Cine Romance#Pluto
+IPTV-org#Pluto TV Cine Sucessos#Pluto
+IPTV-org#Pluto TV Ficcao Cientifica#Pluto
+IPTV-org#Pluto TV Filmes Acao#Pluto
+IPTV-org#Pluto TV Filmes Aventura#Pluto
+IPTV-org#Pluto TV Filmes de Luta#Pluto
+IPTV-org#Pluto TV Filmes Nacionais#Pluto
+IPTV-org#Pluto TV Netmovies#Pluto
+IPTV-org#Pluto TV Series Acao#Séries
+IPTV-org#Pluto TV Series Comedia#Séries
+IPTV-org#Pluto TV Series Criminais#Séries
+IPTV-org#Pluto TV Series Drama#Séries
+IPTV-org#Pluto TV Series Sci-Fi#Séries
+IPTV-org#Pluto TV Terror Trash#Pluto
+IPTV-org#Pluto TV Vida Real#Pluto
+IPTV-org#Series Classic (720p)#Séries
+IPTV-org#Sony Channel (Brazil) (720p)#Telecine
+IPTV-org#Sony Movies (Brazil) (720p)#Telecine
+IPTV-org#SOU TV#Telecine
+IPTV-org#Studio Universal Latin America Brazil (720p)#Telecine
+IPTV-org#TCM 10 HD (1080p)#Telecine
+IPTV-org#TELE 6 (720p)#Telecine
+IPTV-org#Telecine Action (1080p)#Telecine
+IPTV-org#Telecine Cult#Telecine
+IPTV-org#Telecine Fun#Telecine
+IPTV-org#Telecine Premium#Telecine
+IPTV-org#Telecine Touch#Telecine
+IPTV-org#TLC Latin America Brazil (720p)#Telecine
+IPTV-org#TV Series (480p)#Séries
 LG#161 Sony One Emoções#LG
 LG#162 FilmRise Séries Gratuitas#Séries
 LG#897 Xumo Filmes Grátis#LG
@@ -51,9 +103,6 @@ Movieark#Filmelier TV Esperança#Movieark
 Movieark#Filmelier TV Paixão#Movieark
 Movieark#Filmelier TV Vida Real#Movieark
 Movieark#FilmRise Séries Gratuitas#Séries
-Movieark#FREETV CRIME#Movieark
-Movieark#FREETV DRAMA#Movieark
-Movieark#Grjngo#Movieark
 Movieark#Medo TV#Movieark
 Movieark#Moviesphere#Movieark
 Movieark#Netmovies#Movieark
@@ -68,8 +117,6 @@ Movieark#Sessão Trash#Movieark
 Olhosnatv#CLASSIQUE TV#Olhos
 Olhosnatv#CLASSIQUE TV SÉRIES#Séries
 Olhosnatv#TV CHANNEL NETWORK#Olhos
-Olhosnatv#TV CLÁSSICOS DO CINEMA#Olhos
-Redeitv#Cine Clássicos Do Cinema#RedeiTV
 Redeitv#Séries Classic#Séries
 Redeitv#TOP MIX TV CANAL 4 FILMES#RedeiTV
 SamsungTVPlus#2565 Sony One - Emoções (BR)#Samsung
@@ -90,24 +137,14 @@ SamsungTVPlus#2714 Filmelier TV (BR)#Samsung
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Samsung
 SamsungTVPlus#2725 Sony One Cinema (BR)#Samsung
 SamsungTVPlus#2732 Moviesphere (BR)#Samsung
-Soultv#GLN TV#Soul
-Soultv#ISTV#Soul
-Soultv#Séries Classic#Séries
-Soultv#TV Sonata#Soul
 TCL#10020 Spark TV (BR)#TCL
-TCL#10021 Sony One Emoções (BR)#TCL
-TCL#1006 Grjngo Brasil (BR)#TCL
-TCL#1014 Sony One Cinema (BR)#TCL
 TCL#1016 Filmelier TV (BR)#TCL
 TCL#1025 Made in Hollywood (BR)#TCL
-TCL#1043 Go Usa (BR)#TCL
 TCL#143 Adrenalina Pura TV Halloween (BR)#TCL
 TCL#147 Filmelier TV Paixão (BR)#TCL
 TCL#1569 Adrenalina Pura TV (BR)#TCL
-TCL#2125 Free TV Crime (BR)#TCL
 TCL#2175 Filmelier TV Esperança (BR)#TCL
 TCL#2280 Filmelier TV Vida Real (BR)#TCL
-TCL#2400 Free TV Drama (BR)#TCL
 TCL#3050 Moviesphere (BR)#TCL
 WhaleTVPlus#a-z Classic Flix#Whale
 WhaleTVPlus#CINDIE#Whale
