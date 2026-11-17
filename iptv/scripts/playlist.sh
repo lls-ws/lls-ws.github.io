@@ -178,3 +178,70 @@ awk '
         print $0
     }
 ' idx=1 "${FORMAT_NAMES_TXT}" idx=2 "${OUT_M3U}" > "${OUT_M3U}.tmp" && mv "${OUT_M3U}.tmp" "${OUT_M3U}"
+
+echo "Ordenando playlist por prioridade de grupos (groups-map-order.txt)..."
+
+GROUPS_ORDER_TXT="${CONFIG_DIR}/groups-map-order.txt"
+
+if [ ! -f "${GROUPS_ORDER_TXT}" ]; then
+    cat << 'EOF' > "${GROUPS_ORDER_TXT}"
+1#Filmes
+2#Séries
+3#Ação & Luta
+4#Terror & Suspense
+5#Comédia & Romance
+6#Faroeste & Clássicos
+7#TV & Variedades
+EOF
+fi
+
+python3 - "${GROUPS_ORDER_TXT}" "${OUT_M3U}" << 'EOF'
+import sys, re
+
+order_file, m3u_file = sys.argv[1:3]
+
+# 1. Carrega prioridades de grupos (order_number#group_map)
+prioridades = {}
+with open(order_file, "r", encoding="utf-8") as f:
+    for line in f:
+        l = line.strip()
+        if not l or l.startswith("#") or "#" not in l:
+            continue
+        num_str, grp = l.split("#", 1)
+        try:
+            prioridades[grp.strip().lower()] = int(num_str.strip())
+        except ValueError:
+            pass
+
+# 2. Lê cabeçalho e blocos de canais (#EXTINF + URL)
+with open(m3u_file, "r", encoding="utf-8") as f:
+    linhas = f.readlines()
+
+cabecalho = linhas[0] if linhas and linhas[0].startswith("#EXTM3U") else "#EXTM3U\n"
+entradas = []
+
+i = 1 if linhas and linhas[0].startswith("#EXTM3U") else 0
+while i < len(linhas):
+    l = linhas[i].rstrip("\r\n")
+    if l.startswith("#EXTINF"):
+        url = linhas[i + 1].rstrip("\r\n") if (i + 1) < len(linhas) else ""
+        m_grp = re.search(r'group-title="([^"]*)"', l)
+        grupo = m_grp.group(1) if m_grp else "NOGROUP"
+        nome = l.rsplit(",", 1)[-1].strip()
+        rank = prioridades.get(grupo.lower(), 999)
+        entradas.append((rank, grupo.lower(), nome.lower(), l, url))
+        i += 2
+    else:
+        i += 1
+
+# 3. Ordena por: prioridade do grupo -> nome do grupo -> nome do canal
+entradas.sort(key=lambda x: (x[0], x[1], x[2]))
+
+# 4. Reescreve playlist.m3u ordenada
+with open(m3u_file, "w", encoding="utf-8") as f:
+    f.write(cabecalho.rstrip("\r\n") + "\n")
+    for _, _, _, extinf, url in entradas:
+        f.write(f"{extinf}\n{url}\n")
+
+print(f"Playlist ordenada com sucesso! ({len(entradas)} canais organizados)")
+EOF

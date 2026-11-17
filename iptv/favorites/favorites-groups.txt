@@ -1,39 +1,23 @@
 IPTV-org#A&E Latin America Brazil (720p)#TV & Variedades
-IPTV-org#Adrenalina Pura TV Brazil#Ação & Luta
 IPTV-org#AMC Latin America Brazil (720p)#Filmes
 IPTV-org#AXN (Brazil) (720p)#TV & Variedades
-IPTV-org#Cine Terror BR#Terror & Suspense
 IPTV-org#CSI: Miami BR#Séries
-IPTV-org#Filmes Suspense#Terror & Suspense
 IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#TV & Variedades
 IPTV-org#Jornada nas Estrelas: A Nova Geracao#Ação & Luta
 IPTV-org#Jornada nas Estrelas: Deep Space Nine#Séries
 IPTV-org#Jornada nas Estrelas: Voyager#Séries
-IPTV-org#MyTime Movie Network (Brazil) (720p)#Filmes
 IPTV-org#Pluto TV Aliens#Séries
 IPTV-org#Pluto TV Bang Bang#Faroeste & Clássicos
-IPTV-org#Pluto TV Cine Classicos#Faroeste & Clássicos
-IPTV-org#Pluto TV Cine Comedia (United States) BR#Comédia & Romance
-IPTV-org#Pluto TV Cine Comedia Romantica#Comédia & Romance
 IPTV-org#Pluto TV Cine Crime#Ação & Luta
-IPTV-org#Pluto TV Cine Drama#Filmes
-IPTV-org#Pluto TV Cine Familia#Filmes
 IPTV-org#Pluto TV Cine Inspiracao#Ação & Luta
-IPTV-org#Pluto TV Cine Romance#Comédia & Romance
-IPTV-org#Pluto TV Cine Sucessos#Filmes
-IPTV-org#Pluto TV Ficcao Cientifica#Ação & Luta
-IPTV-org#Pluto TV Filmes Acao#Ação & Luta
 IPTV-org#Pluto TV Filmes Aventura#Filmes
 IPTV-org#Pluto TV Filmes de Luta#Ação & Luta
-IPTV-org#Pluto TV Filmes Nacionais#Filmes
-IPTV-org#Pluto TV Netmovies#Filmes
 IPTV-org#Pluto TV Series Acao#Ação & Luta
 IPTV-org#Pluto TV Series Comedia#Comédia & Romance
 IPTV-org#Pluto TV Series Criminais#Ação & Luta
 IPTV-org#Pluto TV Series Drama#Séries
 IPTV-org#Pluto TV Series Sci-Fi#Ação & Luta
 IPTV-org#Pluto TV Terror Trash#Terror & Suspense
-IPTV-org#Pluto TV Vida Real#TV & Variedades
 IPTV-org#Sony Channel (Brazil) (720p)#TV & Variedades
 IPTV-org#SOU TV#TV & Variedades
 IPTV-org#Studio Universal Latin America Brazil (720p)#TV & Variedades
@@ -45,7 +29,6 @@ IPTV-org#Telecine Premium#Filmes
 IPTV-org#Telecine Touch#Filmes
 IPTV-org#TLC Latin America Brazil (720p)#TV & Variedades
 IPTV-org#TV Series (480p)#Séries
-LG#161 Sony One Emoções#Séries
 LG#162 FilmRise Séries Gratuitas#Séries
 LG#897 Xumo Filmes Grátis#Filmes
 LG#899 American Classics#Faroeste & Clássicos
@@ -63,67 +46,36 @@ LG#910 Spark TV Luz E Amor#Comédia & Romance
 LG#911 Pluto TV Cine Comédia Romântica#Comédia & Romance
 LG#912 Pluto TV Ficção Científica#Ação & Luta
 LG#913 Pluto TV Cine Família#Filmes
-LG#915 Runtime#Filmes
 LG#916 CinEspanto#Terror & Suspense
 LG#917 Runtime Crime#Ação & Luta
 LG#918 Runtime Romance#Comédia & Romance
 LG#919 Runtime Familia#Filmes
 LG#920 Runtime Comédia#Comédia & Romance
-LG#921 Runtime Ação#Ação & Luta
 LG#923 Sessao Trash#Terror & Suspense
-LG#924 Cindie TV#Filmes
 LG#925 Filmelier TV Vida Real#TV & Variedades
-LG#926 Filmelier TV Esperança#TV & Variedades
 LG#927 Filmelier TV Paixão#Comédia & Romance
-LG#928 Filmelier TV#Filmes
-LG#930 Adrenalina Pura TV#Ação & Luta
-LG#931 Adrenalina Pura TV Halloween#Terror & Suspense
-LG#939 Moviesphere#Filmes
-LG#940 Sony One Cinema#Filmes
-Movieark#Adrenalina Pura TV#Ação & Luta
-Movieark#Adrenalina Pura TV Halloween#Terror & Suspense
 Movieark#Andromeda#Séries
 Movieark#Ação Total TV#Ação & Luta
 Movieark#Booh!#Terror & Suspense
-Movieark#CINDIE LITE#Filmes
-Movieark#Cine Familia#Filmes
-Movieark#CinEspanto#Terror & Suspense
 Movieark#CSI New York#Séries
-Movieark#Film Plus#Filmes
 Movieark#Film Plus Action#Filmes
 Movieark#Film Plus Emotion#Filmes
 Movieark#Film Plus Family#Filmes
-Movieark#Filmelier TV#Filmes
-Movieark#Filmelier TV Esperança#TV & Variedades
-Movieark#Filmelier TV Paixão#Comédia & Romance
-Movieark#Filmelier TV Vida Real#TV & Variedades
-Movieark#FilmRise Séries Gratuitas#Séries
 Movieark#Medo TV#Terror & Suspense
-Movieark#Moviesphere#Filmes
 Movieark#Netmovies#Filmes
 Movieark#Romance Channel#Comédia & Romance
-Movieark#Runtime Ação#Ação & Luta
-Movieark#Runtime Comédia#Comédia & Romance
-Movieark#Runtime Crime#Ação & Luta
-Movieark#Runtime Familia#Filmes
-Movieark#Runtime Romance#Comédia & Romance
-Movieark#Runtime TV E Filmes#Filmes
-Movieark#Sessão Trash#Terror & Suspense
 Olhosnatv#CLASSIQUE TV#Faroeste & Clássicos
 Olhosnatv#CLASSIQUE TV SÉRIES#Faroeste & Clássicos
 Olhosnatv#TV CHANNEL NETWORK#TV & Variedades
 Redeitv#Séries Classic#Faroeste & Clássicos
 Redeitv#TOP MIX TV CANAL 4 FILMES#TV & Variedades
 SamsungTVPlus#2565 Sony One - Emoções (BR)#Séries
-SamsungTVPlus#2565 Sony One - Emoções alt (BR)#Séries
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#Faroeste & Clássicos
 SamsungTVPlus#2645 Runtime Ação (BR)#Ação & Luta
-SamsungTVPlus#2645 Runtime Ação alt (BR)#Ação & Luta
 SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#Ação & Luta
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Terror & Suspense
 SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Filmes
 SamsungTVPlus#2695 MyTime Movie Network (BR)#Filmes
-SamsungTVPlus#2695 MyTime Movie Network alt (BR)#Filmes
 SamsungTVPlus#2697 Film Plus TV (BR)#Filmes
 SamsungTVPlus#2705 Spark TV (BR)#Comédia & Romance
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#TV & Variedades
@@ -132,20 +84,10 @@ SamsungTVPlus#2714 Filmelier TV (BR)#Filmes
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Filmes
 SamsungTVPlus#2725 Sony One Cinema (BR)#Filmes
 SamsungTVPlus#2732 Moviesphere (BR)#Filmes
-TCL#10020 Spark TV (BR)#Comédia & Romance
-TCL#1016 Filmelier TV (BR)#Filmes
 TCL#1025 Made in Hollywood (BR)#TV & Variedades
-TCL#143 Adrenalina Pura TV Halloween (BR)#Terror & Suspense
-TCL#147 Filmelier TV Paixão (BR)#Comédia & Romance
-TCL#1569 Adrenalina Pura TV (BR)#Ação & Luta
-TCL#2175 Filmelier TV Esperança (BR)#TV & Variedades
-TCL#2280 Filmelier TV Vida Real (BR)#TV & Variedades
-TCL#3050 Moviesphere (BR)#Filmes
 WhaleTVPlus#a-z Classic Flix#Faroeste & Clássicos
-WhaleTVPlus#CINDIE#Filmes
 WhaleTVPlus#Filmzie#Filmes
 WhaleTVPlus#FreeTV Crime#Ação & Luta
 WhaleTVPlus#FreeTV Drama#Filmes
 WhaleTVPlus#Movie Mania#Filmes
 WhaleTVPlus#Scifi World#Ação & Luta
-WhaleTVPlus#Sessão Trash#Terror & Suspense

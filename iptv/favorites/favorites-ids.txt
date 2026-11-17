@@ -1,39 +1,23 @@
 IPTV-org#A&E Latin America Brazil (720p)#AELatinAmerica.us@Brazil
-IPTV-org#Adrenalina Pura TV Brazil#AdrenalinaPuraTV.us@Brazil
 IPTV-org#AMC Latin America Brazil (720p)#AMCLatinAmerica.us@Brazil
 IPTV-org#AXN (Brazil) (720p)#AXN.br@SD
-IPTV-org#Cine Terror BR#CineTerror.us@BR
 IPTV-org#CSI: Miami BR#CSIMiami.us@BR
-IPTV-org#Filmes Suspense#FilmesSuspense.us@BR
 IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#ISTV.br@SD
 IPTV-org#Jornada nas Estrelas: A Nova Geracao#JornadanasEstrelasANovaGeracao.us@BR
 IPTV-org#Jornada nas Estrelas: Deep Space Nine#JornadanasEstrelasDeepSpaceNine.us@BR
 IPTV-org#Jornada nas Estrelas: Voyager#JornadanasEstrelasVoyager.us@BR
-IPTV-org#MyTime Movie Network (Brazil) (720p)#MyTimeMovieNetwork.br@SD
 IPTV-org#Pluto TV Aliens#PlutoTVAliens.us@BR
 IPTV-org#Pluto TV Bang Bang#PlutoTVBangBang.us@BR
-IPTV-org#Pluto TV Cine Classicos#PlutoTVCineClassicos.us@BR
-IPTV-org#Pluto TV Cine Comedia (United States) BR#PlutoTVCineComedia.us@BR
-IPTV-org#Pluto TV Cine Comedia Romantica#PlutoTVCineComediaRomantica.us@BR
 IPTV-org#Pluto TV Cine Crime#PlutoTVCineCrime.us@BR
-IPTV-org#Pluto TV Cine Drama#PlutoTVCineDrama.us@BR
-IPTV-org#Pluto TV Cine Familia#PlutoTVCineFamilia.us@BR
 IPTV-org#Pluto TV Cine Inspiracao#PlutoTVCineInspiracao.us@BR
-IPTV-org#Pluto TV Cine Romance#PlutoTVCineRomance.us@BR
-IPTV-org#Pluto TV Cine Sucessos#PlutoTVCineSucessos.us@BR
-IPTV-org#Pluto TV Ficcao Cientifica#PlutoTVFiccaoCientifica.us@BR
-IPTV-org#Pluto TV Filmes Acao#PlutoTVFilmesAcao.us@BR
 IPTV-org#Pluto TV Filmes Aventura#PlutoTVFilmesAventura.us@BR
 IPTV-org#Pluto TV Filmes de Luta#PlutoTVFilmesdeLuta.us@BR
-IPTV-org#Pluto TV Filmes Nacionais#PlutoTVFilmesNacionais.us@BR
-IPTV-org#Pluto TV Netmovies#PlutoTVNetmovies.us@BR
 IPTV-org#Pluto TV Series Acao#PlutoTVSeriesAcao.us@BR
 IPTV-org#Pluto TV Series Comedia#PlutoTVSeriesComedia.us@BR
 IPTV-org#Pluto TV Series Criminais#PlutoTVSeriesCriminais.us@BR
 IPTV-org#Pluto TV Series Drama#PlutoTVSeriesDrama.us@BR
 IPTV-org#Pluto TV Series Sci-Fi#PlutoTVSeriesSciFi.us@BR
 IPTV-org#Pluto TV Terror Trash#PlutoTVTerrorTrash.us@BR
-IPTV-org#Pluto TV Vida Real#PlutoTVVidaReal.us@BR
 IPTV-org#Sony Channel (Brazil) (720p)#SonyChannel.br@SD
 IPTV-org#SOU TV#SOUTV.br@SD
 IPTV-org#Studio Universal Latin America Brazil (720p)#StudioUniversalLatinAmerica.us@Brazil
@@ -45,7 +29,6 @@ IPTV-org#Telecine Premium#TelecinePremium.br@SD
 IPTV-org#Telecine Touch#TelecineTouch.br@SD
 IPTV-org#TLC Latin America Brazil (720p)#TLCLatinAmerica.us@Brazil
 IPTV-org#TV Series (480p)#TVSeries.br@SD
-LG#161 Sony One Emoções#
 LG#162 FilmRise Séries Gratuitas#
 LG#897 Xumo Filmes Grátis#
 LG#899 American Classics#
@@ -63,67 +46,36 @@ LG#910 Spark TV Luz E Amor#
 LG#911 Pluto TV Cine Comédia Romântica#62545ed3dab4380007582f7c
 LG#912 Pluto TV Ficção Científica#5fa15ad6367e170007cdd098
 LG#913 Pluto TV Cine Família#5f171f032cd22e0007f17f3d
-LG#915 Runtime#62c5d32e2c48f9000715b6e9
 LG#916 CinEspanto#
 LG#917 Runtime Crime#
 LG#918 Runtime Romance#
 LG#919 Runtime Familia#
 LG#920 Runtime Comédia#
-LG#921 Runtime Ação#
 LG#923 Sessao Trash#
-LG#924 Cindie TV#
 LG#925 Filmelier TV Vida Real#
-LG#926 Filmelier TV Esperança#
 LG#927 Filmelier TV Paixão#
-LG#928 Filmelier TV#633dcebd80386500074a2461
-LG#930 Adrenalina Pura TV#61b790b985706b00072cb797
-LG#931 Adrenalina Pura TV Halloween#
-LG#939 Moviesphere#6a281c0302b6c1c00a1fe570
-LG#940 Sony One Cinema#
-Movieark#Adrenalina Pura TV#61b790b985706b00072cb797
-Movieark#Adrenalina Pura TV Halloween#
 Movieark#Andromeda#
 Movieark#Ação Total TV#
 Movieark#Booh!#
-Movieark#CINDIE LITE#
-Movieark#Cine Familia#5f171f032cd22e0007f17f3d
-Movieark#CinEspanto#
 Movieark#CSI New York#
-Movieark#Film Plus#
 Movieark#Film Plus Action#
 Movieark#Film Plus Emotion#
 Movieark#Film Plus Family#
-Movieark#Filmelier TV#633dcebd80386500074a2461
-Movieark#Filmelier TV Esperança#
-Movieark#Filmelier TV Paixão#
-Movieark#Filmelier TV Vida Real#
-Movieark#FilmRise Séries Gratuitas#
 Movieark#Medo TV#
-Movieark#Moviesphere#6a281c0302b6c1c00a1fe570
 Movieark#Netmovies#663b9de4f999220008230fa8
 Movieark#Romance Channel#
-Movieark#Runtime Ação#
-Movieark#Runtime Comédia#
-Movieark#Runtime Crime#
-Movieark#Runtime Familia#
-Movieark#Runtime Romance#
-Movieark#Runtime TV E Filmes#62c5d32e2c48f9000715b6e9
-Movieark#Sessão Trash#
 Olhosnatv#CLASSIQUE TV#
 Olhosnatv#CLASSIQUE TV SÉRIES#
 Olhosnatv#TV CHANNEL NETWORK#
 Redeitv#Séries Classic#
 Redeitv#TOP MIX TV CANAL 4 FILMES#
 SamsungTVPlus#2565 Sony One - Emoções (BR)#
-SamsungTVPlus#2565 Sony One - Emoções alt (BR)#
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#
 SamsungTVPlus#2645 Runtime Ação (BR)#
-SamsungTVPlus#2645 Runtime Ação alt (BR)#
 SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#61b790b985706b00072cb797
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#
 SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#
 SamsungTVPlus#2695 MyTime Movie Network (BR)#
-SamsungTVPlus#2695 MyTime Movie Network alt (BR)#
 SamsungTVPlus#2697 Film Plus TV (BR)#
 SamsungTVPlus#2705 Spark TV (BR)#
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#
@@ -132,20 +84,10 @@ SamsungTVPlus#2714 Filmelier TV (BR)#633dcebd80386500074a2461
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)#62c5d32e2c48f9000715b6e9
 SamsungTVPlus#2725 Sony One Cinema (BR)#
 SamsungTVPlus#2732 Moviesphere (BR)#6a281c0302b6c1c00a1fe570
-TCL#10020 Spark TV (BR)#
-TCL#1016 Filmelier TV (BR)#633dcebd80386500074a2461
 TCL#1025 Made in Hollywood (BR)#
-TCL#143 Adrenalina Pura TV Halloween (BR)#
-TCL#147 Filmelier TV Paixão (BR)#
-TCL#1569 Adrenalina Pura TV (BR)#61b790b985706b00072cb797
-TCL#2175 Filmelier TV Esperança (BR)#
-TCL#2280 Filmelier TV Vida Real (BR)#
-TCL#3050 Moviesphere (BR)#6a281c0302b6c1c00a1fe570
 WhaleTVPlus#a-z Classic Flix#azclassicflix
-WhaleTVPlus#CINDIE#cindie
 WhaleTVPlus#Filmzie#filmzie
 WhaleTVPlus#FreeTV Crime#freetvcrime
 WhaleTVPlus#FreeTV Drama#freetvdrama_br
 WhaleTVPlus#Movie Mania#moviemania_en
 WhaleTVPlus#Scifi World#scifiworld
-WhaleTVPlus#Sessão Trash#sessaotrash

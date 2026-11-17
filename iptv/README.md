@@ -61,7 +61,8 @@ iptv/
 │   ├── sources.txt               # Fontes M3U (formato: source_name#source_url)
 │   ├── clean-words.txt           # Palavras e sufixos removidos dos nomes dos canais
 │   ├── format-names.txt          # Lista de canais convertidos para Title Case
-│   └── groups-map.txt            # Dicionário de palavras-chave para categorização por gênero
+│   ├── groups-map.txt            # Dicionário de palavras-chave para categorização por gênero
+│   └── providers-priority.txt    # Ranking de prioridade dos provedores para deduplicação
 │
 ├── favorites/                    # Base de curadoria, metadados e logs persistentes
 │   ├── favorites-channels.txt    # Lista mestra ('#' = ignorado | sem '#' = ativo)
@@ -70,14 +71,16 @@ iptv/
 │   ├── favorites-logos.txt       # Logotipos (formato: source_name#channel_name#channel_logo)
 │   ├── favorites-groups.txt      # Categorias (formato: source_name#channel_name#channel_group)
 │   ├── news-channels.log         # Histórico cronológico de novos canais descobertos
-│   └── broken-links.log          # Relatório de validação de streams e links offline
+│   ├── broken-links.log          # Relatório de validação de streams e links offline
+│   └── duplicates.log            # Relatório de canais duplicados e herança de ID/Logo
 │
 ├── scripts/                      # Módulos de execução do pipeline
 │   ├── download.sh               # Etapa 1: Download e extração de metadados
 │   ├── favorites.sh              # Etapa 2: Cruzamento de favoritos, grupos e log de novidades
 │   ├── playlist.sh               # Etapa 3: Montagem, EPG, limpeza de URLs e formatação
 │   ├── github.sh                 # Etapa 4: Deploy e configuração do GitHub Actions
-│   └── check.sh                  # Etapa Extra: Teste de disponibilidade HTTP/M3U8
+│   ├── check.sh                  # Etapa Extra: Teste de disponibilidade HTTP/M3U8
+│   └── dedupe.sh                 # Etapa Extra: Deduplicação por provedor e resgate de ID/Logo
 │
 └── temp/                         # Arquivos temporários de processamento (ignorado no Git)
 ```
@@ -97,7 +100,9 @@ Todas as operações do projeto são centralizadas através do gerenciador `run.
 | `bash run.sh favorites` | **Etapa 2** (`favorites.sh`) | Atualiza URLs/IDs/Logos, aplica `groups-map.txt` e registra novidades em `news-channels.log`. |
 | `bash run.sh playlist` | **Etapa 3** (`playlist.sh`) | Gera `playlist.m3u` aplicando EPG, limpeza de trackers e formatação de nomes. |
 | `bash run.sh check` | **Validação** (`check.sh`) | Testa todos os links da `playlist.m3u` e salva o relatório em `broken-links.log`. |
-| `bash run.sh disable-broken` | **Limpeza Automática** | Comenta (`#`) em `favorites-channels.txt` os canais que falharam no `broken-links.log`. |
+| `bash run.sh disable-broken` | **Limpeza de Offline** | Comenta (`#`) em `favorites-channels.txt` os canais que falharam no `broken-links.log`. |
+| `bash run.sh dedupe` | **Simular Duplicados** | Analisa canais repetidos e gera `duplicates.log` sem alterar os arquivos. |
+| `bash run.sh dedupe-apply` | **Deduplicar & Herdar** | Herda `tvg-id`/`tvg-logo` dos duplicados e comenta (`#`) os de menor prioridade. |
 | `bash run.sh update` | **Etapa 4** (`github.sh`) | Envia o projeto para `lls-ws.github.io` e atualiza `LLS_TV_br.m3u`. |
 
 ### ✏️ Comandos de Edição e Curadoria
@@ -106,10 +111,11 @@ Todas as operações do projeto são centralizadas através do gerenciador `run.
 | :--- | :--- | :--- |
 | `bash run.sh news` | `favorites/news-channels.log`, `favorites-channels.txt` | Visualizar os canais inéditos descobertos e ativar os desejados. |
 | `bash run.sh edit-favs` | `favorites/favorites-channels.txt` | Ativar canais removendo o `#` do início da linha. |
-| `bash run.sh edit-meta` | `logos`, `ids`, `urls` | Editar manualmente logotipos, IDs de EPG ou links específicos. |
-| `bash run.sh edit-sources` | `config/sources.txt`, `config/epg.txt` | Adicionar/remover URLs de listas M3U ou alterar a fonte do EPG. |
 | `bash run.sh edit-groups` | `config/groups-map.txt`, `favorites/favorites-groups.txt` | Gerenciar regras automáticas de gênero e exceções manuais de grupos. |
-| `bash run.sh edit-config` | `config/clean-words.txt`, `config/format-names.txt` | Ajustar palavras removidas e formatação de nomes (Title Case). |
+| `bash run.sh edit-meta` | `logos`, `ids`, `urls` | Editar manualmente logotipos, IDs de EPG ou links específicos. |
+| `bash run.sh edit-prio` | `config/providers-priority.txt` | Definir a ordem de preferência dos provedores para remover duplicados. |
+| `bash run.sh edit-sources` | `config/sources.txt`, `config/epg.txt` | Adicionar/remover URLs de listas M3U ou alterar a fonte do EPG. |
+| `bash run.sh edit-config` | `clean-words.txt`, `format-names.txt` | Ajustar palavras removidas e formatação de nomes (Title Case). |
 | `bash run.sh edit-docs` | `README.md` | Editar esta documentação. |
 | `bash run.sh show` | `playlist.m3u` | Inspecionar o resultado final da playlist gerada. |
 

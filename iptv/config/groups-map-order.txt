@@ -1,0 +1,7 @@
+1#Filmes
+2#Séries
+3#Ação & Luta
+4#Terror & Suspense
+5#Comédia & Romance
+6#Faroeste & Clássicos
+7#TV & Variedades

@@ -19,6 +19,10 @@ SCRIPT_PLAYLIST="${SCRIPTS_DIR}/playlist.sh"
 SCRIPT_GITHUB="${SCRIPTS_DIR}/github.sh"
 SCRIPT_CHECK="${SCRIPTS_DIR}/check.sh"
 
+SCRIPT_DEDUPE="${SCRIPTS_DIR}/dedupe.sh"
+FILE_PRIORITY="${CONFIG_DIR}/providers-priority.txt"
+FILE_DUPLICATES_LOG="${FAV_DIR}/duplicates.log"
+
 # Arquivos de configuração e edição
 FILE_SOURCES="${CONFIG_DIR}/sources.txt"
 FILE_EPG="${CONFIG_DIR}/epg.txt"
@@ -28,6 +32,7 @@ FILE_NEWS_LOG="${FAV_DIR}/news-channels.log"
 FILE_BROKEN_LOG="${FAV_DIR}/broken-links.log"
 
 FILE_GROUPS_MAP="${CONFIG_DIR}/groups-map.txt"
+FILE_GROUPS_ORDER="${CONFIG_DIR}/groups-map-order.txt"
 
 FILE_FAV_CHANNELS="${FAV_DIR}/favorites-channels.txt"
 FILE_FAV_IDS="${FAV_DIR}/favorites-ids.txt"
@@ -60,6 +65,9 @@ show_help() {
     echo "  show         -> Abre a playlist final playlist.m3u no editor"
     echo "  check        -> Testa todos os links da playlist.m3u e gera broken-links.log"
     echo "  disable-broken -> Comenta (#) em favorites-channels.txt os canais do broken-links.log"
+    echo "  dedupe       -> Lista canais duplicados em duplicates.log sem alterar nada"
+    echo "  dedupe-apply -> Comenta (#) os duplicados mantendo só o melhor provedor"
+    echo "  edit-prio    -> Abre providers-priority.txt para definir ordem dos provedores"
     echo "======================================================================"
 }
 
@@ -86,10 +94,10 @@ case "$1" in
 		touch "${FILE_SOURCES}" "${FILE_EPG}"
 		${TEXT_EDITOR} "${FILE_SOURCES}" "${FILE_EPG}" &
 		;;
-	edit-groups)
+    edit-groups)
         mkdir -p "${CONFIG_DIR}" "${FAV_DIR}"
-        touch "${FILE_GROUPS_MAP}" "${FILE_FAV_GROUPS}"
-        ${TEXT_EDITOR} "${FILE_GROUPS_MAP}" "${FILE_FAV_GROUPS}" &
+        touch "${FILE_GROUPS_MAP}" "${FILE_GROUPS_ORDER}" "${FILE_FAV_GROUPS}"
+        ${TEXT_EDITOR} "${FILE_GROUPS_MAP}" "${FILE_GROUPS_ORDER}" "${FILE_FAV_GROUPS}" &
         ;;
     edit-config)
         mkdir -p "${CONFIG_DIR}"
@@ -164,6 +172,21 @@ case "$1" in
         ' idx=1 "${FILE_BROKEN_LOG}" idx=2 "${FILE_FAV_CHANNELS}" > "${FILE_FAV_CHANNELS}.tmp" \
         && mv "${FILE_FAV_CHANNELS}.tmp" "${FILE_FAV_CHANNELS}"
         ;;
+    dedupe)
+        chmod +x "${SCRIPT_DEDUPE}"
+        bash "${SCRIPT_DEDUPE}" check
+        [ -f "${FILE_DUPLICATES_LOG}" ] && ${TEXT_EDITOR} "${FILE_DUPLICATES_LOG}" &
+        ;;
+    dedupe-apply)
+        chmod +x "${SCRIPT_DEDUPE}"
+        bash "${SCRIPT_DEDUPE}" apply
+        ;;
+    edit-prio)
+        mkdir -p "${CONFIG_DIR}"
+        touch "${FILE_PRIORITY}"
+        ${TEXT_EDITOR} "${FILE_PRIORITY}" &
+        ;;
+
     *)
         show_help
         exit 1
