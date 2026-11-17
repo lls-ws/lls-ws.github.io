@@ -13,7 +13,7 @@ IPTV-org#Pluto TV Cine Inspiracao#Ação & Luta
 IPTV-org#Pluto TV Filmes Aventura#Filmes
 IPTV-org#Pluto TV Filmes de Luta#Ação & Luta
 IPTV-org#Pluto TV Series Acao#Ação & Luta
-IPTV-org#Pluto TV Series Comedia#Séries
+IPTV-org#Pluto TV Series Comedia#Comédia & Romance
 IPTV-org#Pluto TV Series Criminais#Ação & Luta
 IPTV-org#Pluto TV Series Drama#Séries
 IPTV-org#Pluto TV Series Sci-Fi#Ação & Luta
@@ -77,6 +77,7 @@ SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Terror & S
 SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Filmes
 SamsungTVPlus#2695 MyTime Movie Network (BR)#Filmes
 SamsungTVPlus#2697 Film Plus TV (BR)#Filmes
+SamsungTVPlus#2705 Spark TV (BR)#Comédia & Romance
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#TV & Variedades
 SamsungTVPlus#2712 Vida Real (BR)#TV & Variedades
 SamsungTVPlus#2714 Filmelier TV (BR)#Filmes

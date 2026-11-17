@@ -1,8 +1,9 @@
 name: Atualizar Playlist IPTV (LLS_TV_br.m3u)
 
 on:
+  # Executa toda segunda-feira às 05:00 (horário de Brasília / 08:00 UTC)
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 8 * * 1'
   workflow_dispatch:
 
 permissions:

@@ -4,7 +4,7 @@
 
 **Pipeline modular em Bash + GitHub Actions para agregação, curadoria, higienização e publicação automática de canais IPTV.**
 
-[![Atualização Automática](https://img.shields.io/badge/GitHub_Actions-Diario_06h00_BRT-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](../../actions)
+[![Atualização Automática](https://img.shields.io/badge/GitHub_Actions-Semanal_Segunda_05h00_BRT-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](../../actions)
 [![Shell Script](https://img.shields.io/badge/Bash-Modular_Pipeline-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#-arquitetura-do-projeto)
 [![Playlist M3U](https://img.shields.io/badge/Playlist-LLS_TV_br.m3u-FF6B00?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)](https://lls-ws.github.io/iptv/LLS_TV_br.m3u)
 
