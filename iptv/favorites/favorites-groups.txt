@@ -13,7 +13,7 @@ IPTV-org#Pluto TV Cine Inspiracao#Ação & Luta
 IPTV-org#Pluto TV Filmes Aventura#Filmes
 IPTV-org#Pluto TV Filmes de Luta#Ação & Luta
 IPTV-org#Pluto TV Series Acao#Ação & Luta
-IPTV-org#Pluto TV Series Comedia#Comédia & Romance
+IPTV-org#Pluto TV Series Comedia#Séries
 IPTV-org#Pluto TV Series Criminais#Ação & Luta
 IPTV-org#Pluto TV Series Drama#Séries
 IPTV-org#Pluto TV Series Sci-Fi#Ação & Luta
