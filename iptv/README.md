@@ -25,7 +25,7 @@ Este projeto automatiza todo o ciclo de vida de uma playlist IPTV personalizada:
 1. **Coleta Multi-Fonte (`download.sh`)**: Baixa listas M3U de múltiplas origens, extrai metadados (`tvg-id`, `tvg-logo`, `URL`) e cataloga novos canais automaticamente como inativos (`#`) para revisão.
 2. **Curadoria & Descoberta (`favorites.sh`)**: Sincroniza URLs, logos e IDs atualizados para os canais aprovados, preserva edições manuais de grupos/metadados e registra canais inéditos no topo do log cronológico (`news-channels.log`).
 3. **Higienização & Build (`playlist.sh`)**: Injeta o guia de programação (EPG), remove tags poluentes (`clean-words.txt`), padroniza capitalização (`format-names.txt`) e gera a playlist final limpa (`playlist.m3u`).
-4. **Deploy & Automação Cloud (`github.sh`)**: Publica toda a estrutura no repositório `lls-ws.github.io` e configura o **GitHub Actions** para renovar tokens e links todos os dias às **06:00 (horário de Brasília)**.
+4. **Deploy & Automação Cloud (`github.sh`)**: Publica toda a estrutura no repositório `lls-ws.github.io` e configura o **GitHub Actions** para renovar tokens e links toda segunda-feira às **05:00 (horário de Brasília)**.
 
 ---
 
@@ -124,7 +124,7 @@ Todas as operações do projeto são centralizadas através do gerenciador `run.
 
 O script `scripts/github.sh` gera automaticamente o workflow `.github/workflows/update-iptv.yml` dentro do repositório `lls-ws.github.io`.
 
-* **Agendamento Automático**: Executa todos os dias às **06:00 (UTC-3 / Brasília)** para renovar links com tokens temporários (Pluto, LG, Samsung, TCL, Whale, etc.).
+* **Agendamento Automático**: Executa toda segunda-feira às **05:00 (UTC-3 / Brasília)** para renovar links com tokens temporários (Pluto, LG, Samsung, TCL, Whale, etc.).
 * **Execução Manual**: Pode ser disparado sob demanda a qualquer momento na aba **Actions** do GitHub clicando em **Run workflow**.
 
 ### ⚠️ Configuração Obrigatória no GitHub (Primeiro Uso)
