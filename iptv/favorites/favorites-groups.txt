@@ -1,90 +1,90 @@
-IPTV-org#A&E Latin America Brazil (720p)#Séries
-IPTV-org#AMC Latin America Brazil (720p)#Séries
-IPTV-org#AXN (Brazil) (720p)#Séries
-IPTV-org#CSI: Miami BR#Séries
-IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#Séries
-IPTV-org#Jornada nas Estrelas: A Nova Geracao#Séries
-IPTV-org#Jornada nas Estrelas: Deep Space Nine#Séries
-IPTV-org#Jornada nas Estrelas: Voyager#Séries
-IPTV-org#Pluto TV Aliens#Séries
-IPTV-org#Pluto TV Bang Bang#Séries
-IPTV-org#Pluto TV Cine Crime#Séries
-IPTV-org#Pluto TV Cine Inspiracao#Séries
-IPTV-org#Pluto TV Filmes Aventura#Séries
-IPTV-org#Pluto TV Filmes de Luta#Séries
-IPTV-org#Pluto TV Series Acao#Séries
-IPTV-org#Pluto TV Series Comedia#Séries
-IPTV-org#Pluto TV Series Criminais#Séries
-IPTV-org#Pluto TV Series Drama#Séries
-IPTV-org#Pluto TV Series Sci-Fi#Séries
-IPTV-org#Pluto TV Terror Trash#Séries
-IPTV-org#Sony Channel (Brazil) (720p)#Séries
-IPTV-org#SOU TV#Séries
-IPTV-org#Studio Universal Latin America Brazil (720p)#Séries
-IPTV-org#TCM 10 HD (1080p)#Séries
-IPTV-org#Telecine Action (1080p)#Séries
-IPTV-org#Telecine Cult#Séries
-IPTV-org#Telecine Fun#Séries
-IPTV-org#Telecine Premium#Séries
-IPTV-org#Telecine Touch#Séries
-IPTV-org#TLC Latin America Brazil (720p)#Séries
-IPTV-org#TV Series (480p)#Séries
-LG#162 FilmRise Séries Gratuitas#Séries
-LG#897 Xumo Filmes Grátis#Séries
-LG#899 American Classics#Séries
-LG#900 Dark Matter TV Brazil#Séries
-LG#901 Pluto TV Cine Sucessos#Séries
-LG#902 Pluto TV Filmes Ação#Séries
-LG#903 Pluto TV Cine Comédia#Séries
-LG#904 Pluto TV Cine Drama#Séries
-LG#905 Pluto TV Cine Terror#Séries
-LG#906 Filmes Suspense#Séries
-LG#907 Pluto TV Filmes Nacionais#Séries
-LG#908 Pluto TV Cine Clássicos#Séries
-LG#909 Pluto TV Cine Romance#Séries
-LG#910 Spark TV Luz E Amor#Séries
-LG#911 Pluto TV Cine Comédia Romântica#Séries
-LG#912 Pluto TV Ficção Científica#Séries
-LG#913 Pluto TV Cine Família#Séries
-LG#916 CinEspanto#Séries
-LG#917 Runtime Crime#Séries
-LG#918 Runtime Romance#Séries
-LG#919 Runtime Familia#Séries
-LG#920 Runtime Comédia#Séries
-LG#923 Sessao Trash#Séries
-LG#925 Filmelier TV Vida Real#Séries
-LG#927 Filmelier TV Paixão#Séries
-Movieark#Andromeda#Séries
-Movieark#Ação Total TV#Séries
-Movieark#Booh!#Séries
-Movieark#CSI New York#Séries
-Movieark#Film Plus Action#Séries
-Movieark#Film Plus Emotion#Séries
-Movieark#Film Plus Family#Séries
-Movieark#Medo TV#Séries
-Movieark#Netmovies#Séries
-Movieark#Romance Channel#Séries
-Olhosnatv#CLASSIQUE TV#Séries
-Olhosnatv#CLASSIQUE TV SÉRIES#Séries
-Olhosnatv#TV CHANNEL NETWORK#Séries
-Redeitv#Séries Classic#Séries
-Redeitv#TOP MIX TV CANAL 4 FILMES#Séries
-SamsungTVPlus#2565 Sony One - Emoções (BR)#Séries
-SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#Séries
-SamsungTVPlus#2645 Runtime Ação (BR)#Séries
-SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#Séries
-SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Séries
-SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Séries
-SamsungTVPlus#2695 MyTime Movie Network (BR)#Séries
-SamsungTVPlus#2697 Film Plus TV (BR)#Séries
-SamsungTVPlus#2710 Filmelier Esperanca (BR)#Séries
-SamsungTVPlus#2712 Vida Real (BR)#Séries
-SamsungTVPlus#2714 Filmelier TV (BR)#Séries
-SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Séries
-SamsungTVPlus#2725 Sony One Cinema (BR)#Séries
-SamsungTVPlus#2732 Moviesphere (BR)#Séries
-TCL#1025 Made in Hollywood (BR)#Séries
-WhaleTVPlus#a-z Classic Flix#Séries
-WhaleTVPlus#Filmzie#Séries
-WhaleTVPlus#Movie Mania#Séries
-WhaleTVPlus#Scifi World#Séries
+IPTV-org#A&E Latin America Brazil (720p)#
+IPTV-org#AMC Latin America Brazil (720p)#
+IPTV-org#AXN (Brazil) (720p)#
+IPTV-org#CSI: Miami BR#
+IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#
+IPTV-org#Jornada nas Estrelas: A Nova Geracao#
+IPTV-org#Jornada nas Estrelas: Deep Space Nine#
+IPTV-org#Jornada nas Estrelas: Voyager#
+IPTV-org#Pluto TV Aliens#
+IPTV-org#Pluto TV Bang Bang#
+IPTV-org#Pluto TV Cine Crime#
+IPTV-org#Pluto TV Cine Inspiracao#
+IPTV-org#Pluto TV Filmes Aventura#
+IPTV-org#Pluto TV Filmes de Luta#
+IPTV-org#Pluto TV Series Acao#
+IPTV-org#Pluto TV Series Comedia#
+IPTV-org#Pluto TV Series Criminais#
+IPTV-org#Pluto TV Series Drama#
+IPTV-org#Pluto TV Series Sci-Fi#
+IPTV-org#Pluto TV Terror Trash#
+IPTV-org#Sony Channel (Brazil) (720p)#
+IPTV-org#SOU TV#
+IPTV-org#Studio Universal Latin America Brazil (720p)#
+IPTV-org#TCM 10 HD (1080p)#
+IPTV-org#Telecine Action (1080p)#
+IPTV-org#Telecine Cult#
+IPTV-org#Telecine Fun#
+IPTV-org#Telecine Premium#
+IPTV-org#Telecine Touch#
+IPTV-org#TLC Latin America Brazil (720p)#
+IPTV-org#TV Series (480p)#
+LG#162 FilmRise Séries Gratuitas#
+LG#897 Xumo Filmes Grátis#
+LG#899 American Classics#
+LG#900 Dark Matter TV Brazil#
+LG#901 Pluto TV Cine Sucessos#
+LG#902 Pluto TV Filmes Ação#
+LG#903 Pluto TV Cine Comédia#
+LG#904 Pluto TV Cine Drama#
+LG#905 Pluto TV Cine Terror#
+LG#906 Filmes Suspense#
+LG#907 Pluto TV Filmes Nacionais#
+LG#908 Pluto TV Cine Clássicos#
+LG#909 Pluto TV Cine Romance#
+LG#910 Spark TV Luz E Amor#
+LG#911 Pluto TV Cine Comédia Romântica#
+LG#912 Pluto TV Ficção Científica#
+LG#913 Pluto TV Cine Família#
+LG#916 CinEspanto#
+LG#917 Runtime Crime#
+LG#918 Runtime Romance#
+LG#919 Runtime Familia#
+LG#920 Runtime Comédia#
+LG#923 Sessao Trash#
+LG#925 Filmelier TV Vida Real#
+LG#927 Filmelier TV Paixão#
+Movieark#Andromeda#
+Movieark#Ação Total TV#
+Movieark#Booh!#
+Movieark#CSI New York#
+Movieark#Film Plus Action#
+Movieark#Film Plus Emotion#
+Movieark#Film Plus Family#
+Movieark#Medo TV#
+Movieark#Netmovies#
+Movieark#Romance Channel#
+Olhosnatv#CLASSIQUE TV#
+Olhosnatv#CLASSIQUE TV SÉRIES#
+Olhosnatv#TV CHANNEL NETWORK#
+Redeitv#Séries Classic#
+Redeitv#TOP MIX TV CANAL 4 FILMES#
+SamsungTVPlus#2565 Sony One - Emoções (BR)#
+SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#
+SamsungTVPlus#2645 Runtime Ação (BR)#
+SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#
+SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#
+SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#
+SamsungTVPlus#2695 MyTime Movie Network (BR)#
+SamsungTVPlus#2697 Film Plus TV (BR)#
+SamsungTVPlus#2710 Filmelier Esperanca (BR)#
+SamsungTVPlus#2712 Vida Real (BR)#
+SamsungTVPlus#2714 Filmelier TV (BR)#
+SamsungTVPlus#2720 Runtime TV e Filmes (BR)#
+SamsungTVPlus#2725 Sony One Cinema (BR)#
+SamsungTVPlus#2732 Moviesphere (BR)#
+TCL#1025 Made in Hollywood (BR)#
+WhaleTVPlus#a-z Classic Flix#
+WhaleTVPlus#Filmzie#
+WhaleTVPlus#Movie Mania#
+WhaleTVPlus#Scifi World#
