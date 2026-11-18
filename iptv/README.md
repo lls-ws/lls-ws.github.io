@@ -4,16 +4,16 @@
 
 **Pipeline modular em Bash + GitHub Actions para agregação, curadoria, higienização e publicação automática de canais IPTV.**
 
-[![Atualização Automática](https://shields.io)](https://github.com)
-[![Shell Script](https://shields.io)](#-guia-de-uso-runsh)
-[![Playlist M3U](https://shields.io)](https://github.io)
-[![Painel de Controle](https://shields.io)](#-painel-de-controle-rápido)
+[![Painel de Controle](https://img.shields.io/badge/Painel_de_Controle-8A2BE2?style=for-the-badge&logo=controlpanel&logoColor=white)](#-painel-de-controle-rápido)
+[![Atualização Automática](https://img.shields.io/badge/GitHub_Actions-Semanal_Segunda_05h00_BRT-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/lls-ws/lls-ws.github.io/actions/workflows/update-iptv.yml)
+[![Shell Script](https://img.shields.io/badge/Bash-CLI_run.sh-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#-guia-de-uso-runsh)
+[![Playlist M3U](https://img.shields.io/badge/Playlist-LLS_TV.m3u-FF6B00?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)](https://lls-ws.github.io/iptv/LLS_TV.m3u)
 
 </div>
 
 ### 🔗 Link Direto da Playlist (Pronto para Players IPTV)
 ```text
-https://github.io
+https://lls-ws.github.io/iptv/LLS_TV.m3u
 ```
 
 ---
@@ -115,3 +115,53 @@ iptv/
 
 ## 🚀 Guia de Uso (`run.sh`)
 
+Todas as operações do projeto são centralizadas através do gerenciador `run.sh`.
+
+### ⚙️ Comandos de Execução e Manutenção
+
+| Comando | Ação Executada | Descrição |
+| :--- | :--- | :--- |
+| `bash run.sh all` | **Etapas 1 + 2 + 3** | Executa o ciclo completo: baixa listas, sincroniza favoritos e gera `LLS_TV.m3u`. |
+| `bash run.sh download` | **Etapa 1** (`download.sh`) | Baixa as fontes de `sources.txt` e adiciona novos canais comentados (`#`). |
+| `bash run.sh favorites` | **Etapa 2** (`favorites.sh`) | Atualiza URLs/IDs/Logos, aplica `groups-map.txt` e registra novidades em `news-channels.log`. |
+| `bash run.sh playlist` | **Etapa 3** (`playlist.sh`) | Gera `LLS_TV.m3u` com EPG, limpeza de trackers, formatação e ordenação de grupos. |
+| `bash run.sh check` | **Validação** (`check.sh`) | Testa todos os links da `LLS_TV.m3u` e salva o relatório em `broken-links.log`. |
+| `bash run.sh disable-broken` | **Limpeza de Offline** | Comenta (`#`) em `favorites-channels.txt` os canais que falharam no `broken-links.log`. |
+| `bash run.sh dedupe` | **Simular Duplicados** | Analisa canais repetidos e gera `duplicates.log` sem alterar os arquivos. |
+| `bash run.sh dedupe-apply` | **Deduplicar & Herdar** | Herda `tvg-id`/`tvg-logo` dos duplicados e comenta (`#`) os de menor prioridade. |
+| `bash run.sh update` | **Etapa 4** (`github.sh`) | Limpa `temp/` e envia as alterações e `LLS_TV.m3u` para o GitHub. |
+
+### ✏️ Comandos de Edição e Curadoria
+
+| Comando | Arquivos Abertos no Editor | Finalidade |
+| :--- | :--- | :--- |
+| `bash run.sh news` | `favorites/news-channels.log`, `favorites-channels.txt` | Visualizar os canais inéditos descobertos e ativar os desejados. |
+| `bash run.sh edit-favs` | `favorites/favorites-channels.txt` | Ativar canais removendo o `#` do início da linha. |
+| `bash run.sh edit-groups` | `groups-map.txt`, `groups-map-order.txt`, `favorites-groups.txt` | Gerenciar regras de gênero, ordem de exibição no player e exceções manuais. |
+| `bash run.sh edit-meta` | `logos`, `ids`, `urls` | Editar manualmente logotipos, IDs de EPG ou links específicos. |
+| `bash run.sh edit-prio` | `config/providers-priority.txt` | Definir a ordem de preferência dos provedores para remover duplicados. |
+| `bash run.sh edit-sources` | `config/sources.txt`, `config/epg.txt` | Adicionar/remover URLs de listas M3U ou alterar a fonte do EPG. |
+| `bash run.sh edit-config` | `clean-words.txt`, `format-names.txt` | Ajustar palavras removidas e formatação de nomes (Title Case). |
+| `bash run.sh edit-docs` | `README.md` | Editar esta documentação. |
+| `bash run.sh show` | `LLS_TV.m3u` | Inspecionar o resultado final da playlist gerada. |
+
+---
+
+## 🤖 Automação na Nuvem (GitHub Actions)
+
+O workflow `.github/workflows/update-iptv.yml` (na raiz de `lls-ws.github.io`) automatiza a atualização periódica da playlist na nuvem.
+
+* **Agendamento Automático**: Executa toda segunda-feira às **05:00 (UTC-3 / Brasília)** para renovar links com tokens temporários (Pluto, LG, Samsung, TCL, Whale, etc.).
+* **Execução Manual**: Pode ser disparado sob demanda a qualquer momento na aba **Actions** do GitHub clicando em **Run workflow**.
+
+### ⚠️ Configuração Obrigatória no GitHub (Primeiro Uso)
+Para que o GitHub Actions consiga realizar o *commit* automático da playlist atualizada:
+1. Acesse o repositório **`lls-ws.github.io`** no GitHub.
+2. Navegue até **Settings** > **Actions** > **General**.
+3. Em **Workflow permissions**, selecione **Read and write permissions** e clique em **Save**.
+
+---
+
+<div align="center">
+  <sub>Desenvolvido por <b>Leandro Luiz</b> • Mantido via Bash & GitHub Actions</sub>
+</div>
