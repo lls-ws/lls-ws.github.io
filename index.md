@@ -20,7 +20,7 @@
 
 ### 🎬 Playlist Principal — LLS_TV (91 Canais • Filmes, Séries e Variedades)
 ```text
-https://github.io
+https://lls-ws.github.io/iptv/LLS_TV.m3u
 ```
 
 ### 📅 Guia de Programação (EPG Compactado `.gz`)
