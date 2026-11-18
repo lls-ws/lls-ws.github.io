@@ -1,18 +1,18 @@
 <div align="center">
 
-# 📺 Gerenciador & Automação de Playlist IPTV (`LLS_TV_br.m3u`)
+# 📺 Gerenciador & Automação de Playlist IPTV (`LLS_TV.m3u`)
 
 **Pipeline modular em Bash + GitHub Actions para agregação, curadoria, higienização e publicação automática de canais IPTV.**
 
 [![Atualização Automática](https://img.shields.io/badge/GitHub_Actions-Semanal_Segunda_05h00_BRT-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/lls-ws/lls-ws.github.io/actions/workflows/update-iptv.yml)
 [![Shell Script](https://img.shields.io/badge/Bash-CLI_run.sh-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#-guia-de-uso-runsh)
-[![Playlist M3U](https://img.shields.io/badge/Playlist-LLS_TV_br.m3u-FF6B00?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)](https://lls-ws.github.io/iptv/LLS_TV_br.m3u)
+[![Playlist M3U](https://img.shields.io/badge/Playlist-LLS_TV.m3u-FF6B00?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)](https://lls-ws.github.io/iptv/LLS_TV.m3u)
 
 </div>
 
 ### 🔗 Link Direto da Playlist (Pronto para Players IPTV)
 ```text
-https://lls-ws.github.io/iptv/LLS_TV_br.m3u
+https://lls-ws.github.io/iptv/LLS_TV.m3u
 ```
 
 
@@ -41,7 +41,7 @@ flowchart LR
     F -->|playlist.sh| G[Limpeza & Title Case]
     H[config/epg.txt] --> G
     G --> I[playlist.m3u]
-    I -->|github.sh| J((LLS_TV_br.m3u))
+    I -->|github.sh| J((LLS_TV.m3u))
 ```
 
 ---
@@ -54,7 +54,7 @@ iptv/
 ├── .gitignore                    # Regras para ignorar temp/ e arquivos temporários
 ├── run.sh                        # Script Gerenciador Principal (CLI)
 ├── playlist.m3u                  # Playlist final compilada localmente
-├── LLS_TV_br.m3u                 # Playlist publicada e atualizada via GitHub Actions
+├── LLS_TV.m3u                 # Playlist publicada e atualizada via GitHub Actions
 │
 ├── config/                       # Configurações e regras de filtragem
 │   ├── epg.txt                   # URL do guia de programação (formato: epg_name#epg_url)
@@ -104,7 +104,7 @@ Todas as operações do projeto são centralizadas através do gerenciador `run.
 | `bash run.sh disable-broken` | **Limpeza de Offline** | Comenta (`#`) em `favorites-channels.txt` os canais que falharam no `broken-links.log`. |
 | `bash run.sh dedupe` | **Simular Duplicados** | Analisa canais repetidos e gera `duplicates.log` sem alterar os arquivos. |
 | `bash run.sh dedupe-apply` | **Deduplicar & Herdar** | Herda `tvg-id`/`tvg-logo` dos duplicados e comenta (`#`) os de menor prioridade. |
-| `bash run.sh update` | **Etapa 4** (`github.sh`) | Envia o projeto para `lls-ws.github.io` e atualiza `LLS_TV_br.m3u`. |
+| `bash run.sh update` | **Etapa 4** (`github.sh`) | Envia o projeto para `lls-ws.github.io` e atualiza `LLS_TV.m3u`. |
 
 ### ✏️ Comandos de Edição e Curadoria
 
