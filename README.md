@@ -4,9 +4,8 @@
 
 **Listas M3U curadas, automatizadas via GitHub Actions e sincronizadas com Guia de Programação (EPG) diário.**
 
-[![Página Pública](https://shields.io)](https://github.io)
-[![Atualização Playlist](https://shields.io)](https://github.com)
-[![Atualização EPG](https://shields.io)](https://github.com)
+[![Atualizar Playlist IPTV](https://github.com)](https://github.com)
+[![Gerar e Publicar EPG](https://github.com)](https://github.com)
 
 </div>
 
