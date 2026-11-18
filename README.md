@@ -5,7 +5,7 @@
 | Automação / Recurso | Frequência | Acesso Direto |
 | :--- | :--- | :--- |
 | **🌐 Portal Público (GitHub Pages)** | Tempo Real | **[lls-ws.github.io](https://lls-ws.github.io)** |
-| **⚙️ Atualização Playlist (`LLS_TV.m3u`)** | Segunda-feira • 05:00 | **[Ver Execuções (Actions)](https://github.com/lls-ws/lls-ws.github.io/actions)** |
+| **⚙️ Atualização Playlist (`LLS_TV.m3u`)** | Segunda-feira • 05:00 | **[Ver Execuções (Actions)](https://github.com/lls-ws/lls-ws.github.io/actions/workflows/update-iptv.yml)** |
 | **📅 Geração Guia EPG (`guide.xml.gz`)** | Todos os dias • 00:00 | **[Ver Execuções (Actions)](https://github.com/lls-ws/epg/actions)** |
 
 ---
