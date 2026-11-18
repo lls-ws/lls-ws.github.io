@@ -1,7 +1,15 @@
-Séries#Séries|Series|CSI|Andromeda|Jornada nas Estrelas||Emoções|Aliens|AXN
-Terror & Suspense#Terror|Espanto|Halloween|Trash|Suspense|Medo|Dark Matter|Booh!|Crime
-Ação & Luta#Ação|Acao|Action|Luta|Adrenalina|Crime|Criminais|Sci-Fi|Ficção|Ficcao|Scifi|Aventura
-Comédia & Romance#Comédia|Comedia|Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark|Sony One Emoções|Sony One - Emoções|Drama|Familia|Family|Emotion||MyTime|Fun|Touch
-Faroeste & Clássicos#Bang Bang|Faroeste|Grjngo|Clássicos|Classicos|Classic|Classique|TCM|Cult
-TV & Variedades#A&E|TLC|ISTV|SOU TV|Vida Real|Inspiração|Inspiracao|Esperança|Esperanca|Made in Hollywood|Channel Network|Nacionais
-Filmes#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Filmzie|Movie Mania|Netmovies|Xumo|Sony One Cinema|Familia|Família|Drama|Sucessos|FilmRise|TOP MIX|Sony Channel|Studio Universal
+Faroeste#Bang Bang|Faroeste|Grjngo
+Clássicos#Clássicos|Classicos|Classic|Classique|TCM|Cult
+Terror#Terror|Espanto|Halloween|Trash|Medo|Booh!
+Suspense#Suspense|Crime|Criminais
+Ação#Ação|Acao|Action|Adrenalina
+Luta#Luta
+Ficção#Sci-Fi|Ficção|Ficcao|Scifi|Dark Matter|Aliens|Jornada nas Estrelas|Andromeda
+Aventura#Aventura
+Comédia#Comédia|Comedia|Fun
+Romance#Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark|Touch
+Drama#Drama|Emotion|MyTime|Sony One - Emoções|Sony One Emoções
+Família#Familia|Família|Family|Inspiração|Inspiracao|Esperança|Esperanca
+Variedades#A&E|TLC|ISTV|SOU TV|Vida Real|Made in Hollywood|Channel Network
+Séries#Séries|Series|CSI|AXN|TV Series|FilmRise
+Filmes#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Filmzie|Movie Mania|Netmovies|Xumo|Sony One Cinema|Sucessos|TOP MIX|Sony Channel|Studio Universal|Nacionais
