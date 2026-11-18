@@ -1,7 +1,7 @@
-Terror & Suspense#Terror|Espanto|Halloween|Trash|Suspense|Medo|Dark Matter|Booh!
-Ação & Luta#Ação|Acao|Action|Luta|Adrenalina|Crime|Criminais|Sci-Fi|Ficção|Ficcao|Scifi
-Comédia & Romance#Comédia|Comedia|Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark
-Faroeste & Clássicos#Bang Bang|Faroeste|Grjngo|Clássicos|Classicos|Classic|Classique|TCM
-Séries#Séries|Series|CSI|Andromeda|FilmRise|Jornada nas Estrelas|Sony One Emoções|Sony One - Emoções|Emoções|Aliens
-TV & Variedades#A&E|AXN|Sony Channel|Studio Universal|TLC|ISTV|SOU TV|Vida Real|Inspiração|Inspiracao|Esperança|Esperanca|Made in Hollywood|Channel Network|TOP MIX
-Filmes#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|MyTime|Film Plus|Filmzie|Movie Mania|Netmovies|Xumo|Sony One Cinema|Familia|Família|Drama|Sucessos|Nacionais|Aventura
+Séries#Séries|Series|CSI|Andromeda|Jornada nas Estrelas||Emoções|Aliens|AXN
+Terror & Suspense#Terror|Espanto|Halloween|Trash|Suspense|Medo|Dark Matter|Booh!|Crime
+Ação & Luta#Ação|Acao|Action|Luta|Adrenalina|Crime|Criminais|Sci-Fi|Ficção|Ficcao|Scifi|Aventura
+Comédia & Romance#Comédia|Comedia|Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark|Sony One Emoções|Sony One - Emoções|Drama|Familia|Family|Emotion||MyTime|Fun|Touch
+Faroeste & Clássicos#Bang Bang|Faroeste|Grjngo|Clássicos|Classicos|Classic|Classique|TCM|Cult
+TV & Variedades#A&E|TLC|ISTV|SOU TV|Vida Real|Inspiração|Inspiracao|Esperança|Esperanca|Made in Hollywood|Channel Network|Nacionais
+Filmes#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Filmzie|Movie Mania|Netmovies|Xumo|Sony One Cinema|Familia|Família|Drama|Sucessos|FilmRise|TOP MIX|Sony Channel|Studio Universal
