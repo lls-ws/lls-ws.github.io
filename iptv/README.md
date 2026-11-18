@@ -18,6 +18,8 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 
 ---
 
+<a name="painel"></a>
+
 ## 🎛️ Painel de Controle Rápido
 
 Atalhos diretos para editar configurações e monitorar logs nos repositórios **`lls-ws.github.io`** e **`epg`**.
