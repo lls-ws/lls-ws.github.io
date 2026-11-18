@@ -39,9 +39,9 @@ https://raw.githubusercontent.com/lls-ws/epg/refs/heads/master/guide.xml.gz
 
 ## 🔗 Ecossistema do Projeto
 
-* **[Repositório EPG (`lls-ws/epg`)](https://github.com):** Fork dedicado à geração diária do `guide.xml.gz` (66 canais com programação via `mi.tv`, `plex.tv`, `pluto.tv` e `whaletvplus.com`).
+* **[Repositório EPG (`lls-ws/epg`)](https://github.com/lls-ws/epg):** Fork dedicado à geração diária do `guide.xml.gz` (66 canais com programação via `mi.tv`, `plex.tv`, `pluto.tv` e `whaletvplus.com`).
 * **[Documentação Técnica do Gerenciador (`iptv/README.md`)](iptv/README.md):** Diagrama de fluxo, arquitetura de pastas e guia de comandos CLI.
-* **[Quadro de Gestão (`GitHub Projects`)](https://github.com):** Acompanhamento de tarefas, novos canais e manutenção das fontes.
+* **[Quadro de Gestão (`GitHub Projects`)](https://github.com/users/lls-ws/projects/11):** Acompanhamento de tarefas, novos canais e manutenção das fontes.
 * **[Painel de Controle Rápido (`iptv/README.md#painel`)](iptv/README.md#painel):** Atalhos diretos para editar listas, grupos, metadados e consultar logs de execução.
 
 ---
