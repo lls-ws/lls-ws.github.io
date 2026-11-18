@@ -85,7 +85,7 @@ SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Runtime.us@SD
 SamsungTVPlus#2725 Sony One Cinema (BR)#
 SamsungTVPlus#2732 Moviesphere (BR)#MovieSphere.us@BR
 TCL#1025 Made in Hollywood (BR)#
-WhaleTVPlus#a-z Classic Flix#azclassicflix
-WhaleTVPlus#Filmzie#filmzie
-WhaleTVPlus#Movie Mania#moviemania_en
-WhaleTVPlus#Scifi World#scifiworld
+WhaleTVPlus#a-z Classic Flix#AZClassicFlix.us@BR
+WhaleTVPlus#Filmzie#Filmzie.us@BR
+WhaleTVPlus#Movie Mania#MovieMania.us@BR
+WhaleTVPlus#Scifi World#ScifiWorld.us@BR
