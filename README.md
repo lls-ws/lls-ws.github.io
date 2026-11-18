@@ -1,21 +1,12 @@
-<div align="center">
-
 # 📺 LLS-WS • Central de Listas IPTV & Rádios
 
 **Listas M3U curadas, automatizadas via GitHub Actions e sincronizadas com Guia de Programação (EPG) diário.**
 
-[![Atualizar Playlist IPTV](https://github.com)](https://github.com)
-[![Gerar e Publicar EPG](https://github.com)](https://github.com)
-
-</div>
-
----
-
-## 🌐 Portal Público (Acesso Rápido com Botão de Cópia)
-
-Para copiar os links com apenas um clique no celular ou na TV, acesse a página oficial publicada no GitHub Pages:
-
-👉 **[https://github.io](https://github.io)**
+| Automação / Recurso | Frequência | Acesso Direto |
+| :--- | :--- | :--- |
+| **🌐 Portal Público (GitHub Pages)** | Tempo Real | **[lls-ws.github.io](https://github.io)** |
+| **⚙️ Atualização Playlist (`LLS_TV.m3u`)** | Segunda-feira • 05:00 | **[Ver Execuções (Actions)](https://github.com)** |
+| **📅 Geração Guia EPG (`guide.xml.gz`)** | Todos os dias • 00:00 | **[Ver Execuções (Actions)](https://github.com)** |
 
 ---
 
@@ -52,6 +43,4 @@ https://githubusercontent.com
 
 ---
 
-<div align="center">
-  <sub>Mantido por <a href="https://github.com">lls-ws</a> • Automatizado via GitHub Actions</sub>
-</div>
+> Mantido por **[lls-ws](https://github.com)** • Automatizado via GitHub Actions
