@@ -14,13 +14,13 @@
 
 ### 🎬 Playlist Principal — `LLS_TV.m3u` (91 Canais)
 ```text
-https://github.ioiptv/LLS_TV.m3u
+https://lls-ws.github.io/iptv/LLS_TV.m3u
 ```
 
 ### 📅 Guia de Programação — EPG Compactado (`.gz`)
 *(Já embutido na playlist acima, mas disponível caso seu player solicite separado)*
 ```text
-https://githubusercontent.com
+https://raw.githubusercontent.com/lls-ws/epg/refs/heads/master/guide.xml.gz
 ```
 
 ---
