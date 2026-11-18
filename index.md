@@ -16,18 +16,34 @@
 
 ## 📡 Links Diretos (Copiar e Colar no Player)
 
-> 💡 **Dica:** Basta clicar no ícone de **copiar** no canto direito de cada caixa abaixo e colar no seu aplicativo de IPTV (**TiviMate**, **IPTV Smarters**, **OTT Navigator**, **Kodi** ou **VLC**).
+> 💡 **Dica:** Clique no botão **📋 Copiar** ao lado de cada link e cole diretamente no seu aplicativo de IPTV (**TiviMate**, **IPTV Smarters**, **OTT Navigator**, **Kodi** ou **VLC**).
 
 ### 🎬 Playlist Principal — LLS_TV (91 Canais • Filmes, Séries e Variedades)
-```text
-https://lls-ws.github.io/iptv/LLS_TV.m3u
-```
+
+<div style="display:flex;align-items:center;gap:8px;background:#1e1e1e;padding:10px 12px;border-radius:6px;border:1px solid #333;margin-bottom:16px;">
+  <input id="url-m3u" type="text" value="https://github.io" readonly style="flex:1;background:transparent;border:none;color:#e6edf3;font-family:monospace;font-size:13px;outline:none;">
+  <button onclick="copiarLink('url-m3u', this)" style="background:#2EA44F;color:#fff;border:none;padding:6px 12px;border-radius:4px;cursor:pointer;font-weight:bold;font-size:12px;white-space:nowrap;">📋 Copiar</button>
+</div>
 
 ### 📅 Guia de Programação (EPG Compactado `.gz`)
 *(Já embutido automaticamente na playlist acima, mas disponível caso seu player solicite separado)*
-```text
-https://raw.githubusercontent.com/lls-ws/epg/refs/heads/master/guide.xml.gz
-```
+
+<div style="display:flex;align-items:center;gap:8px;background:#1e1e1e;padding:10px 12px;border-radius:6px;border:1px solid #333;margin-bottom:16px;">
+  <input id="url-epg" type="text" value="https://githubusercontent.com" readonly style="flex:1;background:transparent;border:none;color:#e6edf3;font-family:monospace;font-size:13px;outline:none;">
+  <button onclick="copiarLink('url-epg', this)" style="background:#2088FF;color:#fff;border:none;padding:6px 12px;border-radius:4px;cursor:pointer;font-weight:bold;font-size:12px;white-space:nowrap;">📋 Copiar</button>
+</div>
+
+<script>
+function copiarLink(idCampo, botao) {
+  const campo = document.getElementById(idCampo);
+  campo.select();
+  campo.setSelectionRange(0, 99999);
+  navigator.clipboard.writeText(campo.value);
+  const textoOriginal = botao.innerText;
+  botao.innerText = '✅ Copiado!';
+  setTimeout(() => { botao.innerText = textoOriginal; }, 2000);
+}
+</script>
 
 ---
 
