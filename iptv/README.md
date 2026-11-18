@@ -22,19 +22,19 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 
 ## 🎛️ Painel de Controle Rápido
 
-Atalhos diretos para editar configurações e monitorar logs nos repositórios **`lls-ws.github.io`** e **`epg`**.
+Atalhos diretos para editar configurações e monitorar logs nos repositórios.
 
 ### ⚙️ Arquivos de Configuração (Acesso & Edição)
 
-| Categoria | Arquivos (Visualizar) | Edição Rápida no GitHub |
-| :--- | :--- | :--- |
-| **Fontes** | [epg.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/epg.txt) • [sources.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/sources.txt) • [epg-sources.md](https://github.com/lls-ws/epg/blob/master/lls/epg-sources.md) |  |
-| **Metadados** | [favorites-ids.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-ids.txt) • [favorites-urls.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-urls.txt) • [favorites-logos.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-logos.txt) | |
-| **Canais Ativos** | [favorites-channels.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-channels.txt) |  |
-| **Canais EPG XML** | [channels.xml](https://github.com/lls-ws/epg/blob/master/lls/channels.xml) |  |
-| **Grupos & Ordem** | [groups-map.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/groups-map.txt) • [groups-map-order.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/groups-map-order.txt) • [favorites-groups.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-groups.txt) |  |
-| **Filtros & Nomes** | [clean-words.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/clean-words.txt) • [format-names.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/format-names.txt) | |
-| **Prioridade dos Provedores** | [providers-priority.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/providers-priority.txt) |  |
+| Categoria | Arquivos (Visualizar) |
+| :--- | :--- |
+| **Fontes** | [epg.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/epg.txt) • [sources.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/sources.txt) • [epg-sources.md](https://github.com/lls-ws/epg/blob/master/lls/epg-sources.md) |
+| **Metadados** | [favorites-ids.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-ids.txt) • [favorites-urls.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-urls.txt) • [favorites-logos.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-logos.txt) |
+| **Canais Ativos** | [favorites-channels.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-channels.txt) |
+| **Canais EPG XML** | [channels.xml](https://github.com/lls-ws/epg/blob/master/lls/channels.xml) |
+| **Grupos & Ordem** | [groups-map.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/groups-map.txt) • [groups-map-order.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/groups-map-order.txt) • [favorites-groups.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-groups.txt) |
+| **Filtros & Nomes** | [clean-words.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/clean-words.txt) • [format-names.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/format-names.txt) |
+| **Prioridade dos Provedores** | [providers-priority.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/providers-priority.txt) |
 
 ### 📊 Monitoramento, Automação e Arquivos Finais
 
