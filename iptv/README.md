@@ -34,7 +34,7 @@ Atalhos diretos para editar configurações e monitorar logs nos repositórios.
 | **Canais EPG XML** | [channels.xml](https://github.com/lls-ws/epg/blob/master/lls/channels.xml) |
 | **Grupos & Ordem** | [groups-map.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/groups-map.txt) • [groups-map-order.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/groups-map-order.txt) • [favorites-groups.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-groups.txt) |
 | **Filtros & Nomes** | [clean-words.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/clean-words.txt) • [format-names.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/format-names.txt) |
-| **Prioridade dos Provedores** | [providers-priority.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/providers-priority.txt) |
+| **Prioridade** | [providers-priority.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/providers-priority.txt) |
 
 ### 📊 Monitoramento, Automação e Arquivos Finais
 
