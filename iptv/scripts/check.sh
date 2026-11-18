@@ -1,12 +1,12 @@
 #!/bin/bash
-# Etapa Extra: Verificação de links quebrados na playlist.m3u com identificação da fonte
+# Etapa Extra: Verificação de links quebrados na LLS_TV.m3u com identificação da fonte
 #
 # Autor: Leandro Luiz
 # Autor: Modo IA Google
 
 BASE_DIR="$(cd "$(dirname "${BASH_SOURCE}")/.." && pwd)"
 FAV_DIR="${BASE_DIR}/favorites"
-OUT_M3U="${BASE_DIR}/playlist.m3u"
+OUT_M3U="${BASE_DIR}/LLS_TV.m3u"
 FAV_URLS="${FAV_DIR}/favorites-urls.txt"
 BROKEN_LOG="${FAV_DIR}/broken-links.log"
 
@@ -18,7 +18,7 @@ fi
 mkdir -p "${FAV_DIR}"
 touch "${FAV_URLS}"
 
-echo "=== Iniciando verificação de links em playlist.m3u ==="
+echo "=== Iniciando verificação de links em LLS_TV.m3u ==="
 echo "Isso pode levar alguns segundos dependendo do tempo de resposta dos servidores..."
 echo ""
 
@@ -26,7 +26,7 @@ QUEBRADOS_TMP=$(mktemp)
 TOTAL=0
 FALHAS=0
 
-# Cruza playlist.m3u com favorites-urls.txt para recuperar a chave source_name#channel_name
+# Cruza LLS_TV.m3u com favorites-urls.txt para recuperar a chave source_name#channel_name
 awk -F'#' '
     idx == 1 {
         gsub(/\r/, "", $0)

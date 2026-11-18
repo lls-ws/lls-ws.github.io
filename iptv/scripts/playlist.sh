@@ -1,5 +1,5 @@
 #!/bin/bash
-# Etapa 3: Montagem da playlist final playlist.m3u
+# Etapa 3: Montagem da playlist final LLS_TV.m3u
 #
 # Autor: Leandro Luiz
 # Autor: Modo IA Google
@@ -17,7 +17,7 @@ FAV_IDS="${FAV_DIR}/favorites-ids.txt"
 FAV_LOGOS="${FAV_DIR}/favorites-logos.txt"
 FAV_URLS="${FAV_DIR}/favorites-urls.txt"
 FAV_GROUPS="${FAV_DIR}/favorites-groups.txt"
-OUT_M3U="${BASE_DIR}/playlist.m3u"
+OUT_M3U="${BASE_DIR}/LLS_TV.m3u"
 
 if [ ! -f "${FAV_CHANNELS}" ]; then
     echo "[ERRO] Arquivo ${FAV_CHANNELS} não encontrado!"
@@ -237,7 +237,7 @@ while i < len(linhas):
 # 3. Ordena por: prioridade do grupo -> nome do grupo -> nome do canal
 entradas.sort(key=lambda x: (x[0], x[1], x[2]))
 
-# 4. Reescreve playlist.m3u ordenada
+# 4. Reescreve LLS_TV.m3u ordenada
 with open(m3u_file, "w", encoding="utf-8") as f:
     f.write(cabecalho.rstrip("\r\n") + "\n")
     for _, _, _, extinf, url in entradas:

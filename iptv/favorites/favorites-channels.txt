@@ -238,7 +238,7 @@
 #IPTV-org#The Pet Collective Brazil (720p)
 #IPTV-org#TikTok Radio Brasil (1080p)
 #IPTV-org#Times Brasil (720p)
-#IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]
+IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]
 #IPTV-org#Tokusato
 #IPTV-org#Trace Brazuca HD (1080p)
 #IPTV-org#Travel Box Brazil (720p)
@@ -1738,8 +1738,8 @@ TCL#1025 Made in Hollywood (BR)
 WhaleTVPlus#a-z Classic Flix
 #WhaleTVPlus#CINDIE
 WhaleTVPlus#Filmzie
-WhaleTVPlus#FreeTV Crime
-WhaleTVPlus#FreeTV Drama
+#WhaleTVPlus#FreeTV Crime
+#WhaleTVPlus#FreeTV Drama
 WhaleTVPlus#Movie Mania
 WhaleTVPlus#Scifi World
 #WhaleTVPlus#Sessão Trash

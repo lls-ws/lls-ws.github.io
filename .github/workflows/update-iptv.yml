@@ -18,11 +18,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Executar scripts IPTV
-        working-directory: iptv
         run: |
-          chmod +x run.sh scripts/*.sh
-          bash run.sh all
-          rm -rf temp
+          chmod +x iptv/run.sh iptv/scripts/*.sh
+          bash iptv/run.sh all
+
+      - name: Atualizar LLS_TV.m3u e limpar temporários
+        run: |
+          rm -rf iptv/temp 
 
       - name: Salvar alterações no GitHub (Commit & Push)
         run: |

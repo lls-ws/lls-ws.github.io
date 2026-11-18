@@ -5,12 +5,12 @@
 # Autor: Modo IA Google
 
 BASE_DIR="$(cd "$(dirname "${BASH_SOURCE}")/.." && pwd)"
-FILE_OUT_M3U="${BASE_DIR}/playlist.m3u"
+FILE_OUT_M3U="${BASE_DIR}/LLS_TV.m3u"
 
 REPOSITORY_NAME="lls-ws.github.io"
 REPOSITORY_DIR="${HOME}/${REPOSITORY_NAME}"
 IPTV_DIR="${REPOSITORY_DIR}/iptv"
-TARGET_M3U="${IPTV_DIR}/LLS_TV_br.m3u"
+TARGET_M3U="${IPTV_DIR}/LLS_TV.m3u"
 WORKFLOW_DIR="${REPOSITORY_DIR}/.github/workflows"
 WORKFLOW_FILE="${WORKFLOW_DIR}/update-iptv.yml"
 
@@ -38,7 +38,7 @@ cp -r "${BASE_DIR}/scripts" "${IPTV_DIR}/"
 [ -f "${BASE_DIR}/README.md" ] && cp -f "${BASE_DIR}/README.md" "${IPTV_DIR}/"
 [ -f "${BASE_DIR}/.gitignore" ] && cp -f "${BASE_DIR}/.gitignore" "${IPTV_DIR}/"
 
-echo "=== 3. Publicando playlist como LLS_TV_br.m3u ==="
+echo "=== 3. Publicando playlist como LLS_TV.m3u ==="
 cp -fv "${FILE_OUT_M3U}" "${TARGET_M3U}"
 ls -lh "${TARGET_M3U}"
 
@@ -46,7 +46,7 @@ echo "=== 4. Criando workflow do GitHub Actions (06:00 BRT) ==="
 mkdir -p "${WORKFLOW_DIR}"
 
 cat << 'EOF' > "${WORKFLOW_FILE}"
-name: Atualizar Playlist IPTV (LLS_TV_br.m3u)
+name: Atualizar Playlist IPTV (LLS_TV.m3u)
 
 on:
   # Executa toda segunda-feira às 05:00 (horário de Brasília / 08:00 UTC)
@@ -70,18 +70,17 @@ jobs:
           chmod +x iptv/run.sh iptv/scripts/*.sh
           bash iptv/run.sh all
 
-      - name: Atualizar LLS_TV_br.m3u e limpar temporários
+      - name: Atualizar LLS_TV.m3u e limpar temporários
         run: |
-          cp -f iptv/playlist.m3u iptv/LLS_TV_br.m3u
-          rm -rf iptv/temp iptv/playlist.m3u
+          rm -rf iptv/temp 
 
       - name: Salvar alterações no GitHub (Commit & Push)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@://github.com"
-          git add iptv/LLS_TV_br.m3u iptv/favorites/
+          git add iptv/LLS_TV.m3u iptv/favorites/
           if ! git diff --staged --quiet; then
-            git commit -m "chore(iptv): atualização automática LLS_TV_br.m3u"
+            git commit -m "chore(iptv): atualização automática LLS_TV.m3u"
             git push
           else
             echo "Nenhuma alteração detectada nos canais ou URLs."

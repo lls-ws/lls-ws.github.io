@@ -28,30 +28,31 @@ IPTV-org#Telecine Fun#TelecineFun.br@SD
 IPTV-org#Telecine Premium#TelecinePremium.br@SD
 IPTV-org#Telecine Touch#TelecineTouch.br@SD
 IPTV-org#TLC Latin America Brazil (720p)#TLCLatinAmerica.us@Brazil
+IPTV-org#TNT (Brazil)#TNTLatinAmerica.us@Brazil
 IPTV-org#TV Series (480p)#TVSeries.br@SD
-LG#162 FilmRise Séries Gratuitas#
+LG#162 FilmRise Séries Gratuitas#FilmRiseSeriesGratuitas.br@BR
 LG#897 Xumo Filmes Grátis#
 LG#899 American Classics#
 LG#900 Dark Matter TV Brazil#
-LG#901 Pluto TV Cine Sucessos#5f120e94a5714d00074576a1
-LG#902 Pluto TV Filmes Ação#5f120f41b7d403000783a6d6
-LG#903 Pluto TV Cine Comédia#5f12101f0b12f00007844c7c
-LG#904 Pluto TV Cine Drama#5f1210d14ae1f80007bafb1d
-LG#905 Pluto TV Cine Terror#5f12111c9e6c2c00078ef3bb
-LG#906 Filmes Suspense#5f171d3442a0500007362f22
-LG#907 Pluto TV Filmes Nacionais#5f5a545d0dbf7f0007c09408
-LG#908 Pluto TV Cine Clássicos#5fa1612a669ba0000702017b
-LG#909 Pluto TV Cine Romance#5f171f988ab9780007fa95ea
-LG#910 Spark TV Luz E Amor#
-LG#911 Pluto TV Cine Comédia Romântica#62545ed3dab4380007582f7c
-LG#912 Pluto TV Ficção Científica#5fa15ad6367e170007cdd098
-LG#913 Pluto TV Cine Família#5f171f032cd22e0007f17f3d
-LG#916 CinEspanto#
-LG#917 Runtime Crime#
-LG#918 Runtime Romance#
-LG#919 Runtime Familia#
-LG#920 Runtime Comédia#
-LG#923 Sessao Trash#
+LG#901 Pluto TV Cine Sucessos#PlutoTVCineSucessos.us@BR
+LG#902 Pluto TV Filmes Ação#PlutoTVFilmesAcao.us@BR
+LG#903 Pluto TV Cine Comédia#PlutoTVCineComedia.us@BR
+LG#904 Pluto TV Cine Drama#PlutoTVCineDrama.us@BR
+LG#905 Pluto TV Cine Terror#CineTerror.us@BR
+LG#906 Filmes Suspense#FilmesSuspense.us@Brazil
+LG#907 Pluto TV Filmes Nacionais#PlutoTVFilmesNacionais.us@BR
+LG#908 Pluto TV Cine Clássicos#PlutoTVCineClassicos.us@BR
+LG#909 Pluto TV Cine Romance#PlutoTVCineRomance.us@BR
+LG#910 Spark TV Luz E Amor#SparkTVLuzyAmor.br@BR
+LG#911 Pluto TV Cine Comédia Romântica#PlutoTVCineComediaRomantica.us@BR
+LG#912 Pluto TV Ficção Científica#PlutoTVFiccaoCientifica.us@BR
+LG#913 Pluto TV Cine Família#PlutoTVCineFamilia.us@BR
+LG#916 CinEspanto#CinEspanto.br@BR
+LG#917 Runtime Crime#RuntimeCrimen.es@SD
+LG#918 Runtime Romance#RuntimeRomance.es@SD
+LG#919 Runtime Familia#RuntimeFamilia.br@BR
+LG#920 Runtime Comédia#RuntimeComedia.br@BR
+LG#923 Sessao Trash#SessaoTrash.br@BR
 LG#925 Filmelier TV Vida Real#
 LG#927 Filmelier TV Paixão#
 Movieark#Andromeda#
@@ -62,7 +63,7 @@ Movieark#Film Plus Action#
 Movieark#Film Plus Emotion#
 Movieark#Film Plus Family#
 Movieark#Medo TV#
-Movieark#Netmovies#663b9de4f999220008230fa8
+Movieark#Netmovies#PlutoTVNetmovies.us@BR
 Movieark#Romance Channel#
 Olhosnatv#CLASSIQUE TV#
 Olhosnatv#CLASSIQUE TV SÉRIES#
@@ -70,20 +71,20 @@ Olhosnatv#TV CHANNEL NETWORK#
 Redeitv#Séries Classic#
 Redeitv#TOP MIX TV CANAL 4 FILMES#
 SamsungTVPlus#2565 Sony One - Emoções (BR)#
-SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#
-SamsungTVPlus#2645 Runtime Ação (BR)#
-SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#61b790b985706b00072cb797
+SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#GrjngoFilmesDeFaroeste.br@BR
+SamsungTVPlus#2645 Runtime Ação (BR)#RuntimeAcao.br@BR
+SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#AdrenalinaPuraTV.us@Brazil
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#
-SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#
-SamsungTVPlus#2695 MyTime Movie Network (BR)#
+SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#CindieTV.br@BR
+SamsungTVPlus#2695 MyTime Movie Network (BR)#MyTimeMovieNetwork.br@SD
 SamsungTVPlus#2697 Film Plus TV (BR)#
-SamsungTVPlus#2705 Spark TV (BR)#
+SamsungTVPlus#2705 Spark TV (BR)#SparkTVLuzyAmor.br@BR
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#
-SamsungTVPlus#2712 Vida Real (BR)#
-SamsungTVPlus#2714 Filmelier TV (BR)#633dcebd80386500074a2461
-SamsungTVPlus#2720 Runtime TV e Filmes (BR)#62c5d32e2c48f9000715b6e9
+SamsungTVPlus#2712 Vida Real (BR)#PlutoTVVidaReal.us@BR
+SamsungTVPlus#2714 Filmelier TV (BR)#FilmelierTV.us@BR
+SamsungTVPlus#2720 Runtime TV e Filmes (BR)#RuntimePluto.us@BR
 SamsungTVPlus#2725 Sony One Cinema (BR)#
-SamsungTVPlus#2732 Moviesphere (BR)#6a281c0302b6c1c00a1fe570
+SamsungTVPlus#2732 Moviesphere (BR)#MovieSphere.us@BR
 TCL#1025 Made in Hollywood (BR)#
 WhaleTVPlus#a-z Classic Flix#azclassicflix
 WhaleTVPlus#Filmzie#filmzie
