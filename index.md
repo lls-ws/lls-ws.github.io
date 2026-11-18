@@ -5,15 +5,9 @@
 <p><strong>Listas M3U curadas, automatizadas via GitHub Actions e sincronizadas com Guia de Programação (EPG) diário.</strong></p>
 
 <p>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Atualização Playlist">
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Atualização EPG">
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Repositório">
-  </a>
+  <a href="https://github.com" style="display:inline-block;padding:6px 14px;margin:4px;background:#2088FF;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">⚙️ Playlist IPTV • Semanal</a>
+  <a href="https://github.com" style="display:inline-block;padding:6px 14px;margin:4px;background:#2EA44F;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">📅 Guia EPG • Diário</a>
+  <a href="https://github.com" style="display:inline-block;padding:6px 14px;margin:4px;background:#24292F;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">📂 GitHub • lls-ws</a>
 </p>
 
 </div>
