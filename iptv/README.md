@@ -13,7 +13,7 @@
 
 ### 🔗 Link Direto da Playlist (Pronto para Players IPTV)
 ```text
-https://github.io
+https://lls-ws.github.io/iptv/LLS_TV.m3u
 ```
 
 ---
