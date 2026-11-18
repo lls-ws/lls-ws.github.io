@@ -77,7 +77,6 @@ SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#https://d3
 SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png
 SamsungTVPlus#2695 MyTime Movie Network (BR)#https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png
 SamsungTVPlus#2697 Film Plus TV (BR)#https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg
-SamsungTVPlus#2705 Spark TV (BR)#http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png
 SamsungTVPlus#2712 Vida Real (BR)#
 SamsungTVPlus#2714 Filmelier TV (BR)#https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png

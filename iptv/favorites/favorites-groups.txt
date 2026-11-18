@@ -77,7 +77,6 @@ SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Terror & S
 SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Filmes
 SamsungTVPlus#2695 MyTime Movie Network (BR)#Filmes
 SamsungTVPlus#2697 Film Plus TV (BR)#Filmes
-SamsungTVPlus#2705 Spark TV (BR)#Comédia & Romance
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#TV & Variedades
 SamsungTVPlus#2712 Vida Real (BR)#TV & Variedades
 SamsungTVPlus#2714 Filmelier TV (BR)#Filmes
