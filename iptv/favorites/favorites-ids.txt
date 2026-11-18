@@ -28,7 +28,6 @@ IPTV-org#Telecine Fun#TelecineFun.br@SD
 IPTV-org#Telecine Premium#TelecinePremium.br@SD
 IPTV-org#Telecine Touch#TelecineTouch.br@SD
 IPTV-org#TLC Latin America Brazil (720p)#TLCLatinAmerica.us@Brazil
-IPTV-org#TNT (Brazil)#TNTLatinAmerica.us@Brazil
 IPTV-org#TV Series (480p)#TVSeries.br@SD
 LG#162 FilmRise Séries Gratuitas#FilmRiseSeriesGratuitas.br@BR
 LG#897 Xumo Filmes Grátis#
@@ -82,13 +81,11 @@ SamsungTVPlus#2705 Spark TV (BR)#SparkTVLuzyAmor.br@BR
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#
 SamsungTVPlus#2712 Vida Real (BR)#PlutoTVVidaReal.us@BR
 SamsungTVPlus#2714 Filmelier TV (BR)#FilmelierTV.us@BR
-SamsungTVPlus#2720 Runtime TV e Filmes (BR)#RuntimePluto.us@BR
+SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Runtime.us@SD
 SamsungTVPlus#2725 Sony One Cinema (BR)#
 SamsungTVPlus#2732 Moviesphere (BR)#MovieSphere.us@BR
 TCL#1025 Made in Hollywood (BR)#
 WhaleTVPlus#a-z Classic Flix#azclassicflix
 WhaleTVPlus#Filmzie#filmzie
-WhaleTVPlus#FreeTV Crime#freetvcrime
-WhaleTVPlus#FreeTV Drama#freetvdrama_br
 WhaleTVPlus#Movie Mania#moviemania_en
 WhaleTVPlus#Scifi World#scifiworld

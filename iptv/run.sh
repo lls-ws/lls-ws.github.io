@@ -39,7 +39,7 @@ FILE_FAV_IDS="${FAV_DIR}/favorites-ids.txt"
 FILE_FAV_LOGOS="${FAV_DIR}/favorites-logos.txt"
 FILE_FAV_URLS="${FAV_DIR}/favorites-urls.txt"
 FILE_FAV_GROUPS="${FAV_DIR}/favorites-groups.txt"
-FILE_OUT_M3U="${BASE_DIR}/playlist.m3u"
+FILE_OUT_M3U="${BASE_DIR}/LLS_TV.m3u"
 
 show_help() {
     echo "====================================================================="
@@ -50,9 +50,9 @@ show_help() {
     echo "Comandos de Execução:"
     echo "  download     -> Baixa listas e atualiza favorites-channels.txt"
     echo "  favorites    -> Sincroniza IDs, Logos, URLs e Grupos dos ativos"
-    echo "  playlist     -> Gera a playlist final playlist.m3u"
+    echo "  playlist     -> Gera a playlist final LLS_TV.m3u"
     echo "  all          -> Executa todas as 3 etapas em sequência"
-    echo "  update       -> Envia playlist.m3u como LLS_TV_br.m3u para o GitHub"
+    echo "  update       -> Envia alterações e LLS_TV.m3u para o GitHub"
     echo ""
     echo "Comandos de Edição e Visualização:"
     echo "  edit-sources -> Abre sources.txt e epg.txt no editor"
@@ -62,8 +62,8 @@ show_help() {
     echo "  edit-favs    -> Abre favorites-channels.txt para ativar canais"
     echo "  edit-meta    -> Abre Logos, IDs e URLs para edição manual"
     echo "  news         -> Abre news-channels.log no editor"
-    echo "  show         -> Abre a playlist final playlist.m3u no editor"
-    echo "  check        -> Testa todos os links da playlist.m3u e gera broken-links.log"
+    echo "  show         -> Abre a playlist final LLS_TV.m3u no editor"
+    echo "  check        -> Testa todos os links da LLS_TV.m3u e gera broken-links.log"
     echo "  disable-broken -> Comenta (#) em favorites-channels.txt os canais do broken-links.log"
     echo "  dedupe       -> Lista canais duplicados em duplicates.log sem alterar nada"
     echo "  dedupe-apply -> Comenta (#) os duplicados mantendo só o melhor provedor"
@@ -89,11 +89,11 @@ case "$1" in
     update)
         bash "${SCRIPT_GITHUB}"
         ;;
-	edit-sources)
-		mkdir -p "${CONFIG_DIR}"
-		touch "${FILE_SOURCES}" "${FILE_EPG}"
-		${TEXT_EDITOR} "${FILE_SOURCES}" "${FILE_EPG}" &
-		;;
+    edit-sources)
+        mkdir -p "${CONFIG_DIR}"
+        touch "${FILE_SOURCES}" "${FILE_EPG}"
+        ${TEXT_EDITOR} "${FILE_SOURCES}" "${FILE_EPG}" &
+        ;;
     edit-groups)
         mkdir -p "${CONFIG_DIR}" "${FAV_DIR}"
         touch "${FILE_GROUPS_MAP}" "${FILE_GROUPS_ORDER}" "${FILE_FAV_GROUPS}"
@@ -116,7 +116,7 @@ case "$1" in
         fi
         ${TEXT_EDITOR} "${FILE_FAV_CHANNELS}" &
         ;;
-	edit-meta)
+    edit-meta)
         if [ ! -f "${FILE_FAV_LOGOS}" ]; then
             echo "[AVISO] Arquivos não existem ainda. Rode 'bash $0 favorites' primeiro."
             exit 1
@@ -137,7 +137,7 @@ case "$1" in
         fi
         ${TEXT_EDITOR} "${FILE_OUT_M3U}" &
         ;;
-	check)
+    check)
         bash "${SCRIPT_CHECK}"
         if [ -f "${FILE_BROKEN_LOG}" ]; then
             ${TEXT_EDITOR} "${FILE_BROKEN_LOG}" &

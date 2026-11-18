@@ -87,7 +87,5 @@ SamsungTVPlus#2732 Moviesphere (BR)#https://db6iftd8li11q.cloudfront.net/Moviesp
 TCL#1025 Made in Hollywood (BR)#
 WhaleTVPlus#a-z Classic Flix#
 WhaleTVPlus#Filmzie#
-WhaleTVPlus#FreeTV Crime#
-WhaleTVPlus#FreeTV Drama#
 WhaleTVPlus#Movie Mania#
 WhaleTVPlus#Scifi World#

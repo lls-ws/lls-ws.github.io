@@ -87,7 +87,5 @@ SamsungTVPlus#2732 Moviesphere (BR)#Filmes
 TCL#1025 Made in Hollywood (BR)#TV & Variedades
 WhaleTVPlus#a-z Classic Flix#Faroeste & Clássicos
 WhaleTVPlus#Filmzie#Filmes
-WhaleTVPlus#FreeTV Crime#Ação & Luta
-WhaleTVPlus#FreeTV Drama#Filmes
 WhaleTVPlus#Movie Mania#Filmes
 WhaleTVPlus#Scifi World#Ação & Luta
