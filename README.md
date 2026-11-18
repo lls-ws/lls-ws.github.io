@@ -46,4 +46,4 @@ https://raw.githubusercontent.com/lls-ws/epg/refs/heads/master/guide.xml.gz
 
 ---
 
-> Mantido por **[lls-ws](https://github.com)** • Automatizado via GitHub Actions
+> Mantido por **[lls-ws](https://github.com/lls-ws)** • Automatizado via GitHub Actions
