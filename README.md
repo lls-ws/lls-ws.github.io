@@ -4,9 +4,9 @@
 
 | Automação / Recurso | Frequência | Acesso Direto |
 | :--- | :--- | :--- |
-| **🌐 Portal Público (GitHub Pages)** | Tempo Real | **[lls-ws.github.io](https://github.io)** |
-| **⚙️ Atualização Playlist (`LLS_TV.m3u`)** | Segunda-feira • 05:00 | **[Ver Execuções (Actions)](https://github.com)** |
-| **📅 Geração Guia EPG (`guide.xml.gz`)** | Todos os dias • 00:00 | **[Ver Execuções (Actions)](https://github.com)** |
+| **🌐 Portal Público (GitHub Pages)** | Tempo Real | **[lls-ws.github.io](https://lls-ws.github.io)** |
+| **⚙️ Atualização Playlist (`LLS_TV.m3u`)** | Segunda-feira • 05:00 | **[Ver Execuções (Actions)](https://lls-ws.github.com)** |
+| **📅 Geração Guia EPG (`guide.xml.gz`)** | Todos os dias • 00:00 | **[Ver Execuções (Actions)](https://lls-ws.github.com)** |
 
 ---
 
