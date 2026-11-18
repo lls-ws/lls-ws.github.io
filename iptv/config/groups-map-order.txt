@@ -1,7 +1,15 @@
 1#Filmes
-2#Ação & Luta
-3#Terror & Suspense
-4#Comédia & Romance
-5#Faroeste & Clássicos
-6#TV & Variedades
-7#Séries
+2#Ação
+3#Luta
+4#Ficção
+5#Aventura
+6#Terror
+7#Suspense
+8#Comédia
+9#Romance
+10#Drama
+11#Família
+12#Faroeste
+13#Clássicos
+14#Variedades
+15#Séries
