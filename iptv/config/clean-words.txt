@@ -10,6 +10,7 @@ Soul
 HD
 E Filmes
 Filmes
+Cine
 Substituto TCL
 a-z
 alt
