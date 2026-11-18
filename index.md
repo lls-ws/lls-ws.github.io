@@ -1,12 +1,20 @@
 <div align="center">
 
-# 📺 LLS-WS • Central de Listas IPTV & Rádios
+<h1>📺 LLS-WS • Central de Listas IPTV &amp; Rádios</h1>
 
-**Listas M3U curadas, automatizadas via GitHub Actions e sincronizadas com Guia de Programação (EPG) diário.**
+<p><strong>Listas M3U curadas, automatizadas via GitHub Actions e sincronizadas com Guia de Programação (EPG) diário.</strong></p>
 
-[![Atualização Playlist](https://shields.io)](https://github.com)
-[![Atualização EPG](https://shields.io)](https://github.com)
-[![Repositório](https://shields.io)](https://github.com)
+<p>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Atualização Playlist">
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Atualização EPG">
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Repositório">
+  </a>
+</p>
 
 </div>
 
