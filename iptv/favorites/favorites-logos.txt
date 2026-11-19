@@ -2,10 +2,6 @@ IPTV-org#A&E Latin America Brazil (720p)#https://upload.wikimedia.org/wikipedia/
 IPTV-org#AMC Latin America Brazil (720p)#https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png
 IPTV-org#AXN (Brazil) (720p)#https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
 IPTV-org#CSI: Miami BR#https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png
-IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#https://i.imgur.com/RUKVrOH.png
-IPTV-org#Jornada nas Estrelas: A Nova Geracao#https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png
-IPTV-org#Jornada nas Estrelas: Deep Space Nine#https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png
-IPTV-org#Jornada nas Estrelas: Voyager#https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png
 IPTV-org#NCIS (United States)#https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png
 IPTV-org#Pluto TV Aliens#https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png
 IPTV-org#Pluto TV Bang Bang#https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png
@@ -20,16 +16,13 @@ IPTV-org#Pluto TV Series Drama#https://images.pluto.tv/channels/65f060d84e017400
 IPTV-org#Pluto TV Series Sci-Fi#https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png
 IPTV-org#Pluto TV Terror Trash#https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png
 IPTV-org#Sony Channel (Brazil) (720p)#https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png
-IPTV-org#SOU TV#https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png
 IPTV-org#Studio Universal Latin America Brazil (720p)#https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png
 IPTV-org#Telecine Action (1080p)#https://i.imgur.com/BHYWG0h.png
 IPTV-org#Telecine Cult#https://i.imgur.com/6GuHXnr.png
 IPTV-org#Telecine Fun#https://i.imgur.com/MO2Ynki.png
 IPTV-org#Telecine Premium#https://i.imgur.com/uVFgIr8.png
 IPTV-org#Telecine Touch#https://i.imgur.com/Nky0hRo.png
-IPTV-org#TV Series (480p)#https://i.imgur.com/Ff5mj0o.png
 LG#162 FilmRise Séries Gratuitas#https://image.xumo.com/v1/channels/channel/99992531/400x200.png?type=white_cropped
-LG#897 Xumo Filmes Grátis#https://image.xumo.com/v1/channels/channel/99992307/400x200.png?type=white_cropped
 LG#899 American Classics#https://image.xumo.com/v1/channels/channel/99992241/400x200.png?type=white_cropped
 LG#900 Dark Matter TV Brazil#https://image.xumo.com/v1/channels/channel/99992147/400x200.png?type=white_cropped
 LG#901 Pluto TV Cine Sucessos#https://images.pluto.tv/channels/5f120e94a5714d00074576a1/logoAlt_1785430166268.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
@@ -53,7 +46,6 @@ LG#920 Runtime Comédia#https://lge-static.ottera.tv/prod/run/linear_channel/thu
 LG#923 Sessao Trash#https://d2mxb63djushzm.cloudfront.net/images/Logo_SESSAOTRASH_400x200.png
 LG#925 Filmelier TV Vida Real#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png
 LG#927 Filmelier TV Paixão#https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png
-Movieark#Andromeda#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYiX-Qj92CLcTAXL0WjQ4adnzX4r8p_3EJkbbzcJi9w&s=10
 Movieark#Ação Total TV#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLs3tK7wPtRK_7phyNMead3BShGbYH4nXmA&s
 Movieark#Booh!#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0je_3YrLEwiBHw8QYLHk30XIka8Ruym1oI3ZSjuQaQ&s
 Movieark#Cine Familia#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMr_V-oGaLlMj-PcLRfMAAQISoBAX81fX5Jw-QkuAgQ&s

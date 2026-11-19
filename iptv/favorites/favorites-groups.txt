@@ -2,10 +2,6 @@ IPTV-org#A&E Latin America Brazil (720p)#Variedades
 IPTV-org#AMC Latin America Brazil (720p)#Filmes
 IPTV-org#AXN (Brazil) (720p)#Séries
 IPTV-org#CSI: Miami BR#Séries
-IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#Variedades
-IPTV-org#Jornada nas Estrelas: A Nova Geracao#Séries
-IPTV-org#Jornada nas Estrelas: Deep Space Nine#Séries
-IPTV-org#Jornada nas Estrelas: Voyager#Séries
 IPTV-org#NCIS (United States)#Séries
 IPTV-org#Pluto TV Aliens#Séries
 IPTV-org#Pluto TV Bang Bang#Faroeste
@@ -20,16 +16,13 @@ IPTV-org#Pluto TV Series Drama#Séries
 IPTV-org#Pluto TV Series Sci-Fi#Séries
 IPTV-org#Pluto TV Terror Trash#Terror
 IPTV-org#Sony Channel (Brazil) (720p)#Filmes
-IPTV-org#SOU TV#Variedades
 IPTV-org#Studio Universal Latin America Brazil (720p)#Filmes
 IPTV-org#Telecine Action (1080p)#Ação
 IPTV-org#Telecine Cult#Clássicos
 IPTV-org#Telecine Fun#Comédia
 IPTV-org#Telecine Premium#Filmes
 IPTV-org#Telecine Touch#Drama
-IPTV-org#TV Series (480p)#Séries
 LG#162 FilmRise Séries Gratuitas#Séries
-LG#897 Xumo Filmes Grátis#Variedades
 LG#899 American Classics#Clássicos
 LG#900 Dark Matter TV Brazil#Ficção
 LG#901 Pluto TV Cine Sucessos#Filmes
@@ -53,7 +46,6 @@ LG#920 Runtime Comédia#Comédia
 LG#923 Sessao Trash#Terror
 LG#925 Filmelier TV Vida Real#Drama
 LG#927 Filmelier TV Paixão#Romance
-Movieark#Andromeda#Séries
 Movieark#Ação Total TV#Ação
 Movieark#Booh!#Terror
 Movieark#Cine Familia#Família

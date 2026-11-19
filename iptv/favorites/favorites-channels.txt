@@ -100,7 +100,11 @@
 #IPTV-org#History (Brazil) (720p)
 #IPTV-org#History 2 Latin America Brazil (720p)
 #IPTV-org#iCarly (United States)
+#IPTV-org#ISTV (Brazil) (720p) [Not 24/7]
 #IPTV-org#J3NEWS TV
+#IPTV-org#Jornada nas Estrelas: A Nova Geracao
+#IPTV-org#Jornada nas Estrelas: Deep Space Nine
+#IPTV-org#Jornada nas Estrelas: Voyager
 #IPTV-org#Jovem Pan News (720p)
 #IPTV-org#Kenan & Kel BR
 #IPTV-org#KpopTV Play (576p)
@@ -244,6 +248,7 @@
 #IPTV-org#SIC TV (720p)
 #IPTV-org#Smithsonian Channel Pluto TV
 #IPTV-org#Sony Movies (Brazil) (720p)
+#IPTV-org#SOU TV
 #IPTV-org#SOU TV (720p)
 #IPTV-org#South Park: Colecao Cartman
 #IPTV-org#South Park: Colecao Kenny
@@ -339,6 +344,7 @@
 #IPTV-org#TV Ra Tim Bum (720p)
 #IPTV-org#TV Sao Raimundo (268p)
 #IPTV-org#TV Senado (Brazil) (720p)
+#IPTV-org#TV Series (480p)
 #IPTV-org#TV Sim Cachoeiro (720p)
 #IPTV-org#TV Sim Sao Mateus (720p)
 #IPTV-org#TV Sol Comunidade (480p) [Not 24/7]
@@ -561,6 +567,7 @@
 #LG#886 Herdeiros
 #LG#887 Where Stars Land
 #LG#890 K-Vibe
+#LG#897 Xumo Filmes Grátis
 #LG#898 NEW KMOVIES
 #LG#915 Runtime
 #LG#921 Runtime Ação
@@ -578,6 +585,7 @@
 #Movieark#Adrenalina Pura TV Halloween
 #Movieark#Agro360
 #Movieark#Amor de Aluguel by Noverama TV
+#Movieark#Andromeda
 #Movieark#Assombrações
 #Movieark#Band News FM
 #Movieark#Bandeirantes
@@ -1666,10 +1674,6 @@ IPTV-org#A&E Latin America Brazil (720p)
 IPTV-org#AMC Latin America Brazil (720p)
 IPTV-org#AXN (Brazil) (720p)
 IPTV-org#CSI: Miami BR
-#IPTV-org#ISTV (Brazil) (720p) [Not 24/7]
-#IPTV-org#Jornada nas Estrelas: A Nova Geracao
-#IPTV-org#Jornada nas Estrelas: Deep Space Nine
-#IPTV-org#Jornada nas Estrelas: Voyager
 IPTV-org#NCIS (United States)
 IPTV-org#Pluto TV Aliens
 IPTV-org#Pluto TV Bang Bang
@@ -1684,16 +1688,13 @@ IPTV-org#Pluto TV Series Drama
 IPTV-org#Pluto TV Series Sci-Fi
 IPTV-org#Pluto TV Terror Trash
 IPTV-org#Sony Channel (Brazil) (720p)
-#IPTV-org#SOU TV
 IPTV-org#Studio Universal Latin America Brazil (720p)
 IPTV-org#Telecine Action (1080p)
 IPTV-org#Telecine Cult
 IPTV-org#Telecine Fun
 IPTV-org#Telecine Premium
 IPTV-org#Telecine Touch
-#IPTV-org#TV Series (480p)
 LG#162 FilmRise Séries Gratuitas
-#LG#897 Xumo Filmes Grátis
 LG#899 American Classics
 LG#900 Dark Matter TV Brazil
 LG#901 Pluto TV Cine Sucessos
@@ -1717,7 +1718,6 @@ LG#920 Runtime Comédia
 LG#923 Sessao Trash
 LG#925 Filmelier TV Vida Real
 LG#927 Filmelier TV Paixão
-#Movieark#Andromeda
 Movieark#Ação Total TV
 Movieark#Booh!
 Movieark#Cine Familia

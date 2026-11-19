@@ -2,10 +2,6 @@ IPTV-org#A&E Latin America Brazil (720p)#AELatinAmerica.us@Brazil
 IPTV-org#AMC Latin America Brazil (720p)#AMCLatinAmerica.us@Brazil
 IPTV-org#AXN (Brazil) (720p)#AXN.br@SD
 IPTV-org#CSI: Miami BR#CSIMiami.us@BR
-IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#ISTV.br@SD
-IPTV-org#Jornada nas Estrelas: A Nova Geracao#JornadanasEstrelasANovaGeracao.us@BR
-IPTV-org#Jornada nas Estrelas: Deep Space Nine#JornadanasEstrelasDeepSpaceNine.us@BR
-IPTV-org#Jornada nas Estrelas: Voyager#JornadanasEstrelasVoyager.us@BR
 IPTV-org#NCIS (United States)#NCIS.us@BR
 IPTV-org#Pluto TV Aliens#PlutoTVAliens.us@BR
 IPTV-org#Pluto TV Bang Bang#PlutoTVBangBang.us@BR
@@ -20,16 +16,13 @@ IPTV-org#Pluto TV Series Drama#PlutoTVSeriesDrama.us@BR
 IPTV-org#Pluto TV Series Sci-Fi#PlutoTVSeriesSciFi.us@BR
 IPTV-org#Pluto TV Terror Trash#PlutoTVTerrorTrash.us@BR
 IPTV-org#Sony Channel (Brazil) (720p)#SonyChannel.br@SD
-IPTV-org#SOU TV#SOUTV.br@SD
 IPTV-org#Studio Universal Latin America Brazil (720p)#StudioUniversalLatinAmerica.us@Brazil
 IPTV-org#Telecine Action (1080p)#TelecineAction.br@SD
 IPTV-org#Telecine Cult#TelecineCult.br@SD
 IPTV-org#Telecine Fun#TelecineFun.br@SD
 IPTV-org#Telecine Premium#TelecinePremium.br@SD
 IPTV-org#Telecine Touch#TelecineTouch.br@SD
-IPTV-org#TV Series (480p)#TVSeries.br@SD
 LG#162 FilmRise Séries Gratuitas#FilmRiseSeriesGratuitas.br@BR
-LG#897 Xumo Filmes Grátis#XumoFreeMovies.us@SD
 LG#899 American Classics#AmericanClassics.us@SD
 LG#900 Dark Matter TV Brazil#DarkMatterTV.br@BR
 LG#901 Pluto TV Cine Sucessos#PlutoTVCineSucessos.us@BR
@@ -53,7 +46,6 @@ LG#920 Runtime Comédia#RuntimeComedia.br@BR
 LG#923 Sessao Trash#SessaoTrash.br@BR
 LG#925 Filmelier TV Vida Real#FilmelierTVVidaReal.br@BR
 LG#927 Filmelier TV Paixão#FilmelierTVPaixao.br@BR
-Movieark#Andromeda#Andromeda.us@SD
 Movieark#Ação Total TV#
 Movieark#Booh!#
 Movieark#Cine Familia#
