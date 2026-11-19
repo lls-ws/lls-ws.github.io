@@ -91,12 +91,8 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c54
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11828
 #EXTINF:-1 tvg-id="SparkTVLuzyAmor.br@BR" tvg-logo="http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png" group-title="Romance",Spark Luz E Amor
 https://f4e8bda53ab64cbfb9522fc00b413a8f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-br_SparkTVLuzEAmor/playlist.m3u8
-#EXTINF:-1 tvg-id="Andromeda.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYiX-Qj92CLcTAXL0WjQ4adnzX4r8p_3EJkbbzcJi9w&s=10" group-title="Ficção",Andromeda
-https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
 #EXTINF:-1 tvg-id="DarkMatterTV.br@BR" tvg-logo="https://image.xumo.com/v1/channels/channel/99992147/400x200.png?type=white_cropped" group-title="Ficção",Dark Matter
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992147&ads.xumo_streamId=99992147&ads.channelId=99992147&ads.inventory_router_id=377&ads.csid=lgchannels_br_tricoasttvdarkmattertvportuguesebrazil_ssai&ads.channelName=TricoastTVDarkMatterTVPortugueseBrazil&ads.xumo_contentName=TricoastTVDarkMatterTVPortugueseBrazil&ads.xumo_contentId=2626&ads.xumo_providerName=TricoastTVDarkMatterTVPortugueseBrazil&ads.xumo_providerId=2626&ads.content_category=IAB1-5&ads.content_genre=Entertainment,Action,Drama,GD&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads._fw_content_genre=Entertainment,Action,Drama,GD&aws.brightLineAdSignalingEnabled=true
-#EXTINF:-1 tvg-id="PlutoTVAliens.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="Ficção",Pluto Aliens
-https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Ficção",Pluto Ficção Científica
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 #EXTINF:-1 tvg-id="scifiworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUjredoQT9gRXCdDccbrWrUXWAFpDKUhbzqX1pUSWZXx4p7y02Di2D5w&s=10" group-title="Ficção",Scifi World
@@ -143,6 +139,8 @@ https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="XumoFreeMovies.us@SD" tvg-logo="https://image.xumo.com/v1/channels/channel/99992307/400x200.png?type=white_cropped" group-title="Variedades",Xumo
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307&ads.xumo_streamId=99992307&ads.channelId=99992307&ads.inventory_router_id=377&ads.csid=lgchannels_br_xumofreemoviesbrazil_ssai&ads.channelName=&ads.xumo_contentName=XumoFreeMoviesBrazil&ads.xumo_contentId=5&ads.xumo_providerName=XumoFreeMoviesBrazil&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=tv-ma&ads.coppa=0&ads._fw_content_genre=Movies
+#EXTINF:-1 tvg-id="Andromeda.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYiX-Qj92CLcTAXL0WjQ4adnzX4r8p_3EJkbbzcJi9w&s=10" group-title="Séries",Andromeda
+https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Séries",AXN
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIc19WLgOI7HwECWG_3fOainKNf9h1mLI4iVOXLoA81A&s=10" group-title="Séries",Classique Séries
@@ -161,6 +159,8 @@ https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 #EXTINF:-1 tvg-id="NCIS.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Séries",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAliens.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="Séries",Pluto Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Séries",Pluto Series Acao
 https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Séries",Pluto Series Comedia
