@@ -6,6 +6,7 @@ IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#Variedades
 IPTV-org#Jornada nas Estrelas: A Nova Geracao#Ação
 IPTV-org#Jornada nas Estrelas: Deep Space Nine#Ficção
 IPTV-org#Jornada nas Estrelas: Voyager#Ficção
+IPTV-org#NCIS (United States)#NOGROUP
 IPTV-org#Pluto TV Aliens#Ficção
 IPTV-org#Pluto TV Bang Bang#Faroeste
 IPTV-org#Pluto TV Cine Crime#Suspense

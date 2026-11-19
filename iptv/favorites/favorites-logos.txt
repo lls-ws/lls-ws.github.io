@@ -6,6 +6,7 @@ IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#https://i.imgur.com/RUKVrOH.png
 IPTV-org#Jornada nas Estrelas: A Nova Geracao#https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png
 IPTV-org#Jornada nas Estrelas: Deep Space Nine#https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png
 IPTV-org#Jornada nas Estrelas: Voyager#https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png
+IPTV-org#NCIS (United States)#https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png
 IPTV-org#Pluto TV Aliens#https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png
 IPTV-org#Pluto TV Bang Bang#https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png
 IPTV-org#Pluto TV Cine Crime#https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png
@@ -77,7 +78,6 @@ SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#http://accio.its-newid.net/rt_cha
 SamsungTVPlus#2695 MyTime Movie Network (BR)#https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png
 SamsungTVPlus#2697 Film Plus TV (BR)#https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png
-SamsungTVPlus#2712 Vida Real (BR)#https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png
 SamsungTVPlus#2714 Filmelier TV (BR)#https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png
 SamsungTVPlus#2725 Sony One Cinema (BR)#http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png

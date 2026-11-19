@@ -133,7 +133,6 @@
 #IPTV-org#MyTime Movie Network (Brazil) (720p)
 #IPTV-org#N Sports (1080p)
 #IPTV-org#Naruto Brazil
-IPTV-org#NCIS (United States)
 #IPTV-org#Nick Jr. Club (United States) BR (720p)
 #IPTV-org#Nickelodeon (Brazil) (480p)
 #IPTV-org#Nickelodeon Classico (720p)
@@ -256,6 +255,7 @@ IPTV-org#NCIS (United States)
 #IPTV-org#STZ TV (1080p)
 #IPTV-org#Tastemade Brasil (720p)
 #IPTV-org#TCM 10 HD (1080p)
+#IPTV-org#TELE 6 (1080p)
 #IPTV-org#TELE 6 (720p)
 #IPTV-org#Terra Viva (720p)
 #IPTV-org#The Pet Collective Brazil (720p)
@@ -1236,6 +1236,7 @@ IPTV-org#NCIS (United States)
 #SamsungTVPlus#2645 Runtime Ação alt (BR)
 #SamsungTVPlus#2695 MyTime Movie Network alt (BR)
 #SamsungTVPlus#2705 Spark TV (BR)
+#SamsungTVPlus#2712 Vida Real (BR)
 #SamsungTVPlus#Assombrações
 #SamsungTVPlus#Canal UOL (BR) via PLuto
 #SamsungTVPlus#Kenan & Kel
@@ -1669,6 +1670,7 @@ IPTV-org#ISTV (Brazil) (720p) [Not 24/7]
 IPTV-org#Jornada nas Estrelas: A Nova Geracao
 IPTV-org#Jornada nas Estrelas: Deep Space Nine
 IPTV-org#Jornada nas Estrelas: Voyager
+IPTV-org#NCIS (United States)
 IPTV-org#Pluto TV Aliens
 IPTV-org#Pluto TV Bang Bang
 IPTV-org#Pluto TV Cine Crime
@@ -1740,7 +1742,6 @@ SamsungTVPlus#2685 Cindie Lite Portuguese (BR)
 SamsungTVPlus#2695 MyTime Movie Network (BR)
 SamsungTVPlus#2697 Film Plus TV (BR)
 SamsungTVPlus#2710 Filmelier Esperanca (BR)
-#SamsungTVPlus#2712 Vida Real (BR)
 SamsungTVPlus#2714 Filmelier TV (BR)
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)
 SamsungTVPlus#2725 Sony One Cinema (BR)
