@@ -10,7 +10,7 @@ IPTV-org#NCIS (United States)#Séries
 IPTV-org#Pluto TV Aliens#Ficção
 IPTV-org#Pluto TV Bang Bang#Faroeste
 IPTV-org#Pluto TV Cine Crime#Suspense
-IPTV-org#Pluto TV Cine Inspiracao#
+IPTV-org#Pluto TV Cine Inspiracao#Drama
 IPTV-org#Pluto TV Filmes Aventura#Família
 IPTV-org#Pluto TV Filmes de Luta#Ação
 IPTV-org#Pluto TV Series Acao#Séries
@@ -68,16 +68,16 @@ Olhosnatv#CLASSIQUE TV#Clássicos
 Olhosnatv#CLASSIQUE TV SÉRIES#Séries
 Olhosnatv#TV CHANNEL NETWORK#Clássicos
 Redeitv#Séries Classic#Séries
-Redeitv#TOP MIX TV CANAL 4 FILMES#
+Redeitv#TOP MIX TV CANAL 4 FILMES#Ação
 SamsungTVPlus#2565 Sony One - Emoções (BR)#Drama
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#Faroeste
 SamsungTVPlus#2645 Runtime Ação (BR)#Ação
 SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#Ação
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Terror
 SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Filmes
-SamsungTVPlus#2695 MyTime Movie Network (BR)#
+SamsungTVPlus#2695 MyTime Movie Network (BR)#Romance
 SamsungTVPlus#2697 Film Plus TV (BR)#Filmes
-SamsungTVPlus#2710 Filmelier Esperanca (BR)#
+SamsungTVPlus#2710 Filmelier Esperanca (BR)#Drama
 SamsungTVPlus#2714 Filmelier TV (BR)#Filmes
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Filmes
 SamsungTVPlus#2725 Sony One Cinema (BR)#Filmes
