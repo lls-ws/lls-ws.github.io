@@ -1666,7 +1666,7 @@ IPTV-org#A&E Latin America Brazil (720p)
 IPTV-org#AMC Latin America Brazil (720p)
 IPTV-org#AXN (Brazil) (720p)
 IPTV-org#CSI: Miami BR
-IPTV-org#ISTV (Brazil) (720p) [Not 24/7]
+#IPTV-org#ISTV (Brazil) (720p) [Not 24/7]
 IPTV-org#Jornada nas Estrelas: A Nova Geracao
 IPTV-org#Jornada nas Estrelas: Deep Space Nine
 IPTV-org#Jornada nas Estrelas: Voyager
@@ -1684,7 +1684,7 @@ IPTV-org#Pluto TV Series Drama
 IPTV-org#Pluto TV Series Sci-Fi
 IPTV-org#Pluto TV Terror Trash
 IPTV-org#Sony Channel (Brazil) (720p)
-IPTV-org#SOU TV
+#IPTV-org#SOU TV
 IPTV-org#Studio Universal Latin America Brazil (720p)
 IPTV-org#Telecine Action (1080p)
 IPTV-org#Telecine Cult
@@ -1693,7 +1693,7 @@ IPTV-org#Telecine Premium
 IPTV-org#Telecine Touch
 IPTV-org#TV Series (480p)
 LG#162 FilmRise Séries Gratuitas
-LG#897 Xumo Filmes Grátis
+#LG#897 Xumo Filmes Grátis
 LG#899 American Classics
 LG#900 Dark Matter TV Brazil
 LG#901 Pluto TV Cine Sucessos
