@@ -81,7 +81,7 @@ SamsungTVPlus#2714 Filmelier TV (BR)#https://d2mxb63djushzm.cloudfront.net/image
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png
 SamsungTVPlus#2725 Sony One Cinema (BR)#http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png
 SamsungTVPlus#2732 Moviesphere (BR)#https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png
-WhaleTVPlus#a-z Classic Flix#
-WhaleTVPlus#Filmzie#
-WhaleTVPlus#Movie Mania#
+WhaleTVPlus#a-z Classic Flix#https://echelonstudios.us/wp-content/uploads/2024/12/a-z_classic_flix_square_logo1.jpg
+WhaleTVPlus#Filmzie#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaET6FjZ1G43ZESI5J5Z_0AOk60epuvClrjxMA-wiwXA&s
+WhaleTVPlus#Movie Mania#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp3Jq1C-Xks94E1ySXuR5_sVRCI6P_W5-K18rQYGrSw&s=10
 WhaleTVPlus#Scifi World#
