@@ -38,7 +38,7 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 
 | Tipo | Arquivos |
 | :--- | :--- |
-| **Logs IPTV** | [news-channels.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/news-channels.log) • [duplicates.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/duplicates.log) • [broken-links.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/broken-links.log) • [update-iptv.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/update-iptv.log) |
+| **Logs IPTV** |  [update-iptv.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/update-iptv.log) • [news-channels.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/news-channels.log) <br> [duplicates.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/duplicates.log) • [broken-links.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/broken-links.log) |
 | **Logs EPG** | [update-epg.log](https://github.com/lls-ws/epg/blob/master/lls/update-epg.log) • [EPG Status](https://github.com/lls-ws/epg/blob/master/lls/README.md) |
 | **GitHub Actions** | [update-iptv.yml](https://github.com/lls-ws/lls-ws.github.io/blob/main/.github/workflows/update-iptv.yml) • [update-epg.yml](https://github.com/lls-ws/epg/blob/master/.github/workflows/update-epg.yml)  |
 | **Saídas Finais** | [LLS_TV.m3u](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/LLS_TV.m3u) • [guide.xml.gz](https://github.com/lls-ws/epg/blob/master/guide.xml.gz) |
