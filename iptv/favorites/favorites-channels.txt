@@ -595,7 +595,7 @@
 #Movieark#CBN
 #Movieark#CBN Rio
 #Movieark#CINDIE LITE
-#Movieark#Cine Familia
+Movieark#Cine Familia
 #Movieark#CinEspanto
 #Movieark#CNN Brasil
 #Movieark#CNN Brasil Money
