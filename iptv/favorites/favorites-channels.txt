@@ -1682,7 +1682,7 @@ IPTV-org#Pluto TV Terror Trash
 IPTV-org#Sony Channel (Brazil) (720p)
 IPTV-org#SOU TV
 IPTV-org#Studio Universal Latin America Brazil (720p)
-IPTV-org#TCM 10 HD (1080p)
+#IPTV-org#TCM 10 HD (1080p)
 IPTV-org#Telecine Action (1080p)
 IPTV-org#Telecine Cult
 IPTV-org#Telecine Fun
