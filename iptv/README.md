@@ -39,7 +39,7 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 | Tipo | Recurso | Link Direto |
 | :--- | :--- | :--- |
 | **Logs IPTV** | Descobertas, Duplicados e Links Offline | [news-channels.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/news-channels.log) • [duplicates.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/duplicates.log) • [broken-links.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/broken-links.log) |
-| **Logs EPG** | Execução e Balanço de Cobertura | [update-epg.log](https://github.com/lls-ws/epg/blob/master/lls/update-epg.log) • [epg-status.md](https://github.com/lls-ws/epg/blob/master/lls/epg-status.md) |
+| **Logs EPG** | Execução e Balanço de Cobertura | [update-epg.log](https://github.com/lls-ws/epg/blob/master/lls/update-epg.log) • [EPG Status](https://github.com/lls-ws/epg/blob/master/lls/README.md) |
 | **GitHub Actions** | Workflows de Atualização | [update-iptv.yml](https://github.com/lls-ws/lls-ws.github.io/blob/main/.github/workflows/update-iptv.yml) • [update-epg.yml](https://github.com/lls-ws/epg/blob/master/.github/workflows/update-epg.yml)  |
 | **Saídas Finais** | Playlist M3U e Guia XMLTV | [LLS_TV.m3u](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/LLS_TV.m3u) • [guide.xml.gz](https://github.com/lls-ws/epg/blob/master/guide.xml.gz) |
 
