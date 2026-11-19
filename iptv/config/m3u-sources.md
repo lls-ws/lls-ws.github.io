@@ -1,6 +1,6 @@
-# Sources M3U [apsattv](https://www.apsattv.com) | [iptv-org](https://iptv-org.github.io/iptv)
+# Sources M3U [apsattv](https://www.apsattv.com) | [iptv-org](https://github.com/iptv-org/iptv/blob/master/PLAYLISTS.md)
 
-# [Fontes de M3U Utilizadas](https://www.apsattv.com)
+# Fontes de M3U Utilizadas
 
 * **LG Channels ( Canais)**
   * [brlg.m3u](https://www.apsattv.com/brlg.m3u)
