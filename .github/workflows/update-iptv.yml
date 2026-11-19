@@ -19,10 +19,11 @@ jobs:
 
       - name: Executar scripts IPTV
         run: |
+          mkdir -p iptv/favorites
           chmod +x iptv/run.sh iptv/scripts/*.sh
-          bash iptv/run.sh all
+          bash iptv/run.sh all 2>&1 | tee iptv/favorites/update-iptv.log
 
-      - name: Atualizar LLS_TV.m3u e limpar temporários
+      - name: Limpar temporários
         run: |
           rm -rf iptv/temp 
 
