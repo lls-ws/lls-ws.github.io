@@ -8,6 +8,6 @@ Comédia#Comédia|Comedia|Fun
 Romance#Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark|MyTime
 Drama#Drama|Emotion|Touch|Inspiração|Inspiracao|Esperança|Esperanca|Vida Real
 Família#Familia|Família|Family|Aventura
-Ação#Ação|Acao|Action|Adrenalina|Luta|TOP MIX
-Variedades#A&E|AXN|Filmzie|Nacionais|Movie Mania|Sony Channel|Sony One - Emoções
+Ação#Ação|Acao|Action|Adrenalina|Luta
+Variedades#A&E|AXN|Filmzie|Nacionais|Movie Mania|TOP MIX|Sony Channel|Sony One - Emoções
 Top#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Netmovies|Sony One Cinema|Sucessos|Studio Universal
