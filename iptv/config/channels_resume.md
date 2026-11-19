@@ -22,7 +22,7 @@ Total de Canais: 80
   * Classique Séries (Imagem ruim, retirar)
   * Séries Classic (Remover)
 
-* **Roku Express ()**
+* **Roku Express 3930br ()**
   * 0 canais funcionando
 
 * **Samsung Tizen ()**
