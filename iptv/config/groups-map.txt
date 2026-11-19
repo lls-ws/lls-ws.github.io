@@ -2,7 +2,7 @@ Séries#Séries|Series|CSI|AXN|TV Series|FilmRise
 Film Plus#Film Plus
 +Faroeste#Bang Bang|Faroeste|Grjngo
 
-Clássicos#Clássicos|Classicos|Classic|Classique|Cult
+Clássicos#Clássicos|Classicos|Classic|Classique|Cult|Channel Network|Movie Mania
 
 Terror#Terror|Espanto|Halloween|Trash|Medo|Booh!
 
@@ -18,6 +18,6 @@ Romance#Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark
 Drama#Drama|Emotion|Touch|Vida Real|MyTime|Sony One - Emoções|Sony One Emoções
 Família#Familia|Família|Family|Inspiração|Inspiracao|Esperança|Esperanca|Aventura|
 
-Variedades#A&E|ISTV|SOU TV|Channel Network
+Variedades#A&E|ISTV|SOU TV|Nacionais
 
-Filmes#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Filmzie|Movie Mania|Netmovies|Xumo|Sony One Cinema|Sucessos|TOP MIX|Sony Channel|Studio Universal|Nacionais
+Filmes#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Filmzie|Netmovies|Xumo|Sony One Cinema|Sucessos|TOP MIX|Sony Channel|Studio Universal
