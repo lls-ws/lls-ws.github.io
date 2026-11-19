@@ -133,7 +133,7 @@
 #IPTV-org#MyTime Movie Network (Brazil) (720p)
 #IPTV-org#N Sports (1080p)
 #IPTV-org#Naruto Brazil
-#IPTV-org#NCIS (United States)
+IPTV-org#NCIS (United States)
 #IPTV-org#Nick Jr. Club (United States) BR (720p)
 #IPTV-org#Nickelodeon (Brazil) (480p)
 #IPTV-org#Nickelodeon Classico (720p)
