@@ -10,4 +10,4 @@ Drama#Drama|Emotion|Touch|Inspiração|Inspiracao|Esperança|Esperanca|Vida Real
 Família#Familia|Família|Family|Aventura
 Ação#Ação|Acao|Action|Adrenalina|Luta|TOP MIX
 Variedades#A&E|ISTV|SOU TV|Nacionais|Xumo
-Filmes#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Filmzie|Netmovies|Sony One Cinema|Sucessos|Sony Channel|Studio Universal
+Top#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Filmzie|Netmovies|Sony One Cinema|Sucessos|Sony Channel|Studio Universal
