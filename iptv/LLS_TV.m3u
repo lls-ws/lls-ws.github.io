@@ -35,8 +35,6 @@ https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
 https://run-rt-ra-samsung.otteravision.com/run/rt_ra_h265/rt_ra_h265.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Ação",Telecine Action
 http://46.151.196.223:14326
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png" group-title="Ação",Top Mix
-https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Suspense",Pluto Crime
 https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
 #EXTINF:-1 tvg-id="RuntimeCrimen.es@SD" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_crime_brazil_1400x2000.png" group-title="Suspense",Runtime Crime
@@ -135,6 +133,8 @@ https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyOneEmocoes.br@BR" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="Variedades",Sony One Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png" group-title="Variedades",Top Mix
+https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIc19WLgOI7HwECWG_3fOainKNf9h1mLI4iVOXLoA81A&s=10" group-title="Séries",Classique Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="CSINY.us@BR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-QF9AQJTxZYUTQIfi8RYaT1-9eSeZwHukjQ4lgCl4g&s=10" group-title="Séries",CSI New York
