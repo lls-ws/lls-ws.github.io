@@ -1,8 +1,4 @@
-### Sources M3U
-
-[apsattv](https://www.apsattv.com)
-<br>
-[iptv-org](https://iptv-org.github.io/iptv)
+# Sources M3U [apsattv](https://www.apsattv.com) | [iptv-org](https://iptv-org.github.io/iptv)
 
 # [Fontes de M3U Utilizadas](https://www.apsattv.com)
 
