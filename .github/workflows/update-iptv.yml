@@ -30,8 +30,8 @@ jobs:
 
       - name: Salvar alterações no GitHub (Commit & Push)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add iptv/LLS_TV.m3u iptv/favorites/
           if ! git diff --staged --quiet; then
             git commit -m "chore(iptv): atualização automática LLS_TV.m3u"
