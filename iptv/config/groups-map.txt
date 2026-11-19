@@ -15,9 +15,9 @@ Ficção#Sci-Fi|Ficção|Ficcao|Scifi|Dark Matter|Aliens|Jornada nas Estrelas|An
 Comédia#Comédia|Comedia|Fun
 
 Romance#Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark
-Drama#Drama|Emotion|Touch||Vida Real|MyTime|Sony One - Emoções|Sony One Emoções
+Drama#Drama|Emotion|Touch|Vida Real|MyTime|Sony One - Emoções|Sony One Emoções
 Família#Familia|Família|Family|Inspiração|Inspiracao|Esperança|Esperanca|Aventura|
 
-Variedades#A&E|TLC|ISTV|SOU TV|Made in Hollywood|Channel Network
+Variedades#A&E|ISTV|SOU TV|Channel Network
 
 Filmes#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Filmzie|Movie Mania|Netmovies|Xumo|Sony One Cinema|Sucessos|TOP MIX|Sony Channel|Studio Universal|Nacionais
