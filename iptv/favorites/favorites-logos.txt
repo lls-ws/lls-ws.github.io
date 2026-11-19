@@ -52,7 +52,7 @@ LG#920 Runtime Comédia#https://lge-static.ottera.tv/prod/run/linear_channel/thu
 LG#923 Sessao Trash#https://d2mxb63djushzm.cloudfront.net/images/Logo_SESSAOTRASH_400x200.png
 LG#925 Filmelier TV Vida Real#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png
 LG#927 Filmelier TV Paixão#https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png
-Movieark#Andromeda#
+Movieark#Andromeda#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYiX-Qj92CLcTAXL0WjQ4adnzX4r8p_3EJkbbzcJi9w&s=10
 Movieark#Ação Total TV#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLs3tK7wPtRK_7phyNMead3BShGbYH4nXmA&s
 Movieark#Booh!#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0je_3YrLEwiBHw8QYLHk30XIka8Ruym1oI3ZSjuQaQ&s
 Movieark#Cine Familia#
