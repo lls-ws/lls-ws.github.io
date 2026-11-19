@@ -64,7 +64,7 @@ Movieark#Netmovies#https://images.pluto.tv/channels/663b9de4f999220008230fa8/col
 Movieark#Romance Channel#https://image.roku.com/developer_channels/prod/805c999cb8e6206c655778a7f468ab3f8c4a88dbc7790027a69f72e43f8a3986.png
 Olhosnatv#CLASSIQUE TV#https://i.imgur.com/rHxcraT.png
 Olhosnatv#CLASSIQUE TV SÉRIES#
-Olhosnatv#TV CHANNEL NETWORK#
+Olhosnatv#TV CHANNEL NETWORK#https://s3minio.webativa.com.br/redeitv/tv-channel-network.png
 Redeitv#Séries Classic#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png
 Redeitv#TOP MIX TV CANAL 4 FILMES#https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png
 SamsungTVPlus#2565 Sony One - Emoções (BR)#http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png
