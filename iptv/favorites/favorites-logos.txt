@@ -85,4 +85,4 @@ SamsungTVPlus#2732 Moviesphere (BR)#https://db6iftd8li11q.cloudfront.net/Moviesp
 WhaleTVPlus#a-z Classic Flix#https://echelonstudios.us/wp-content/uploads/2024/12/a-z_classic_flix_square_logo1.jpg
 WhaleTVPlus#Filmzie#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaET6FjZ1G43ZESI5J5Z_0AOk60epuvClrjxMA-wiwXA&s
 WhaleTVPlus#Movie Mania#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp3Jq1C-Xks94E1ySXuR5_sVRCI6P_W5-K18rQYGrSw&s=10
-WhaleTVPlus#Scifi World#
+WhaleTVPlus#Scifi World#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUjredoQT9gRXCdDccbrWrUXWAFpDKUhbzqX1pUSWZXx4p7y02Di2D5w&s=10
