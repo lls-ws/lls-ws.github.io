@@ -60,7 +60,7 @@ Olhosnatv#CLASSIQUE TV#Clássicos
 Olhosnatv#CLASSIQUE TV SÉRIES#Séries
 Olhosnatv#TV CHANNEL NETWORK#Clássicos
 Redeitv#Séries Classic#Séries
-Redeitv#TOP MIX TV CANAL 4 FILMES#Ação
+Redeitv#TOP MIX TV CANAL 4 FILMES#Variedades
 SamsungTVPlus#2565 Sony One - Emoções (BR)#Variedades
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#Faroeste
 SamsungTVPlus#2645 Runtime Ação (BR)#Ação
