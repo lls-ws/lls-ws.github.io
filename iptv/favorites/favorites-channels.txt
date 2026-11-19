@@ -1744,7 +1744,7 @@ SamsungTVPlus#2714 Filmelier TV (BR)
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)
 SamsungTVPlus#2725 Sony One Cinema (BR)
 SamsungTVPlus#2732 Moviesphere (BR)
-TCL#1025 Made in Hollywood (BR)
+#TCL#1025 Made in Hollywood (BR)
 WhaleTVPlus#a-z Classic Flix
 WhaleTVPlus#Filmzie
 WhaleTVPlus#Movie Mania
