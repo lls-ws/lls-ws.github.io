@@ -50,7 +50,7 @@ LG#918 Runtime Romance#RuntimeRomance.es@SD
 LG#919 Runtime Familia#RuntimeFamilia.br@BR
 LG#920 Runtime Comédia#RuntimeComedia.br@BR
 LG#923 Sessao Trash#SessaoTrash.br@BR
-LG#925 Filmelier TV Vida Real#PlutoTVVidaReal.us@BR
+LG#925 Filmelier TV Vida Real#FilmelierTVVidaReal.br@BR
 LG#927 Filmelier TV Paixão#FilmelierTVPaixao.br@BR
 Movieark#Andromeda#Andromeda.us@SD
 Movieark#Ação Total TV#
@@ -77,7 +77,6 @@ SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#CindieTV.br@BR
 SamsungTVPlus#2695 MyTime Movie Network (BR)#MyTimeMovieNetwork.br@SD
 SamsungTVPlus#2697 Film Plus TV (BR)#FilmPlusTV.br@BR
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#FilmelierTVEsperanca.br@BR
-SamsungTVPlus#2712 Vida Real (BR)#PlutoTVVidaReal.us@BR
 SamsungTVPlus#2714 Filmelier TV (BR)#FilmelierTV.us@BR
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Runtime.us@SD
 SamsungTVPlus#2725 Sony One Cinema (BR)#SonyOneCinema.br@BR
