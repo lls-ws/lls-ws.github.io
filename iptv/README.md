@@ -36,7 +36,7 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 
 ### 📊 Monitoramento, Automação e Arquivos Finais
 
-| Tipo | Recurso | Link Direto |
+| Tipo | Arquivos |
 | :--- | :--- |
 | **Logs IPTV** | [news-channels.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/news-channels.log) • [duplicates.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/duplicates.log) • [broken-links.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/broken-links.log) |
 | **Logs EPG** | [update-epg.log](https://github.com/lls-ws/epg/blob/master/lls/update-epg.log) • [EPG Status](https://github.com/lls-ws/epg/blob/master/lls/README.md) |
