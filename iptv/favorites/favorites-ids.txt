@@ -85,3 +85,4 @@ SamsungTVPlus#2732 Moviesphere (BR)#MovieSphere.us@BR
 WhaleTVPlus#a-z Classic Flix#AZClassicFlix.us@BR
 WhaleTVPlus#Filmzie#Filmzie.us@BR
 WhaleTVPlus#Movie Mania#MovieMania.us@BR
+WhaleTVPlus#Scifi World#scifiworld

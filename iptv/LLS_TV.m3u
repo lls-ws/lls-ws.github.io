@@ -15,7 +15,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/6a731cc3056f7bc47781e9fc/main.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/logoAlt_1785430166268.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Filmes",Pluto Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-#EXTINF:-1 tvg-id="Runtime.us@SD" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png" group-title="Filmes",Runtime e
+#EXTINF:-1 tvg-id="Runtime.us@SD" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png" group-title="Filmes",Runtime
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Filmes",Sony Channel
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
@@ -105,7 +105,7 @@ https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Ficção",Pluto Ficção Científica
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
-#EXTINF:-1 tvg-id="ScifiWorld.us@BR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUjredoQT9gRXCdDccbrWrUXWAFpDKUhbzqX1pUSWZXx4p7y02Di2D5w&s=10" group-title="Ficção",Scifi World
+#EXTINF:-1 tvg-id="scifiworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUjredoQT9gRXCdDccbrWrUXWAFpDKUhbzqX1pUSWZXx4p7y02Di2D5w&s=10" group-title="Ficção",Scifi World
 https://streams2.sofast.tv/ptnr-whaletv/title-SCIFI-WORLD-ENG_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/793a5e43-6bf1-4088-a10c-819b89538a54/manifest.m3u8?ads.tag_id=148557&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Scifi+World&ads.wtv_channel_id=0552&ads.content_id=&ads.content_genre=Movies+and+Series&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_ScifiWorld&ads.content_categories=IAB1-5%2CIAB1-7%2CIAB9-26&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=M%2CF&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.did=ff4c0917-443b-4038-84fb-584c960b6b89&ads.dnt=0&ads.lmt=&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.sid=ff4c0917-443b-4038-84fb-584c960b6b89&ads.h=&ads.w=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
 #EXTINF:-1 tvg-id="AdrenalinaPuraTVHalloween.br@BR" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png" group-title="Terror",Adrenalina Pura Halloween
 https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
