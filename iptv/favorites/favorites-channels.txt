@@ -1667,9 +1667,9 @@ IPTV-org#AMC Latin America Brazil (720p)
 IPTV-org#AXN (Brazil) (720p)
 IPTV-org#CSI: Miami BR
 #IPTV-org#ISTV (Brazil) (720p) [Not 24/7]
-IPTV-org#Jornada nas Estrelas: A Nova Geracao
-IPTV-org#Jornada nas Estrelas: Deep Space Nine
-IPTV-org#Jornada nas Estrelas: Voyager
+#IPTV-org#Jornada nas Estrelas: A Nova Geracao
+#IPTV-org#Jornada nas Estrelas: Deep Space Nine
+#IPTV-org#Jornada nas Estrelas: Voyager
 IPTV-org#NCIS (United States)
 IPTV-org#Pluto TV Aliens
 IPTV-org#Pluto TV Bang Bang
@@ -1717,7 +1717,7 @@ LG#920 Runtime Comédia
 LG#923 Sessao Trash
 LG#925 Filmelier TV Vida Real
 LG#927 Filmelier TV Paixão
-Movieark#Andromeda
+#Movieark#Andromeda
 Movieark#Ação Total TV
 Movieark#Booh!
 Movieark#Cine Familia
