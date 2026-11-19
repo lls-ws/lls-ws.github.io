@@ -1,6 +1,6 @@
 IPTV-org#A&E Latin America Brazil (720p)#Variedades
-IPTV-org#AMC Latin America Brazil (720p)#Filmes
-IPTV-org#AXN (Brazil) (720p)#Séries
+IPTV-org#AMC Latin America Brazil (720p)#Top
+IPTV-org#AXN (Brazil) (720p)#Variedades
 IPTV-org#CSI: Miami BR#Séries
 IPTV-org#NCIS (United States)#Séries
 IPTV-org#Pluto TV Aliens#Séries
@@ -15,17 +15,17 @@ IPTV-org#Pluto TV Series Criminais#Séries
 IPTV-org#Pluto TV Series Drama#Séries
 IPTV-org#Pluto TV Series Sci-Fi#Séries
 IPTV-org#Pluto TV Terror Trash#Terror
-IPTV-org#Sony Channel (Brazil) (720p)#Filmes
-IPTV-org#Studio Universal Latin America Brazil (720p)#Filmes
+IPTV-org#Sony Channel (Brazil) (720p)#Variedades
+IPTV-org#Studio Universal Latin America Brazil (720p)#Top
 IPTV-org#Telecine Action (1080p)#Ação
 IPTV-org#Telecine Cult#Clássicos
 IPTV-org#Telecine Fun#Comédia
-IPTV-org#Telecine Premium#Filmes
+IPTV-org#Telecine Premium#Top
 IPTV-org#Telecine Touch#Drama
 LG#162 FilmRise Séries Gratuitas#Séries
 LG#899 American Classics#Clássicos
 LG#900 Dark Matter TV Brazil#Ficção
-LG#901 Pluto TV Cine Sucessos#Filmes
+LG#901 Pluto TV Cine Sucessos#Top
 LG#902 Pluto TV Filmes Ação#Ação
 LG#903 Pluto TV Cine Comédia#Comédia
 LG#904 Pluto TV Cine Drama#Drama
@@ -54,27 +54,27 @@ Movieark#Film Plus Action#Ação
 Movieark#Film Plus Emotion#Drama
 Movieark#Film Plus Family#Família
 Movieark#Medo TV#Terror
-Movieark#Netmovies#Filmes
+Movieark#Netmovies#Top
 Movieark#Romance Channel#Romance
 Olhosnatv#CLASSIQUE TV#Clássicos
 Olhosnatv#CLASSIQUE TV SÉRIES#Séries
 Olhosnatv#TV CHANNEL NETWORK#Clássicos
 Redeitv#Séries Classic#Séries
 Redeitv#TOP MIX TV CANAL 4 FILMES#Ação
-SamsungTVPlus#2565 Sony One - Emoções (BR)#Drama
+SamsungTVPlus#2565 Sony One - Emoções (BR)#Variedades
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#Faroeste
 SamsungTVPlus#2645 Runtime Ação (BR)#Ação
 SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#Ação
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Terror
-SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Filmes
+SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Top
 SamsungTVPlus#2695 MyTime Movie Network (BR)#Romance
-SamsungTVPlus#2697 Film Plus TV (BR)#Filmes
+SamsungTVPlus#2697 Film Plus TV (BR)#Top
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#Drama
-SamsungTVPlus#2714 Filmelier TV (BR)#Filmes
-SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Filmes
-SamsungTVPlus#2725 Sony One Cinema (BR)#Filmes
-SamsungTVPlus#2732 Moviesphere (BR)#Filmes
+SamsungTVPlus#2714 Filmelier TV (BR)#Top
+SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Top
+SamsungTVPlus#2725 Sony One Cinema (BR)#Top
+SamsungTVPlus#2732 Moviesphere (BR)#Top
 WhaleTVPlus#a-z Classic Flix#Clássicos
-WhaleTVPlus#Filmzie#Filmes
-WhaleTVPlus#Movie Mania#Clássicos
+WhaleTVPlus#Filmzie#Variedades
+WhaleTVPlus#Movie Mania#Variedades
 WhaleTVPlus#Scifi World#Ficção
