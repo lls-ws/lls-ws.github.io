@@ -55,6 +55,7 @@ LG#927 Filmelier TV Paixão#https://amg00740-sofa-amg00740c17-lg-br-8613.playout
 Movieark#Andromeda#https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
 Movieark#Ação Total TV#https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 Movieark#Booh!#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ae48d90078af4f5e960904810501e546/playlist.m3u8
+Movieark#Cine Familia#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ebdd098e1daf4002a64bb6e5014cd704/playlist.m3u8
 Movieark#CSI New York#https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6aaff44baba16f4fd4fd83b1/bunnycontent_main.m3u8
 Movieark#Film Plus Action#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3454e59a9e684ebfa9efc1a3feb15bb7/playlist.m3u8
 Movieark#Film Plus Emotion#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8

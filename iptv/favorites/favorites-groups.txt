@@ -55,6 +55,7 @@ LG#927 Filmelier TV Paixão#Romance
 Movieark#Andromeda#Ficção
 Movieark#Ação Total TV#Ação
 Movieark#Booh!#Terror
+Movieark#Cine Familia#Família
 Movieark#CSI New York#Séries
 Movieark#Film Plus Action#Ação
 Movieark#Film Plus Emotion#Drama
