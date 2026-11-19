@@ -5,8 +5,8 @@ Terror#Terror|Espanto|Halloween|Trash|Medo|Booh!
 Suspense#Suspense|Crime|Criminais
 Ficção#Sci-Fi|Ficção|Ficcao|Scifi|Dark Matter
 Comédia#Comédia|Comedia|Fun
-Romance#Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark
-Drama#Drama|Emotion|Touch|Inspiração|Inspiracao|Esperança|Esperanca|Vida Real|MyTime|Sony One - Emoções|Sony One Emoções
+Romance#Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark|MyTime
+Drama#Drama|Emotion|Touch|Inspiração|Inspiracao|Esperança|Esperanca|Vida Real|Sony One - Emoções|Sony One Emoções
 Família#Familia|Família|Family|Aventura
 Ação#Ação|Acao|Action|Adrenalina|Luta|TOP MIX
 Variedades#A&E|ISTV|SOU TV|Nacionais|Xumo
