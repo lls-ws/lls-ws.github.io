@@ -68,7 +68,7 @@ Olhosnatv#TV CHANNEL NETWORK#https://s3minio.webativa.com.br/redeitv/tv-channel-
 Redeitv#Séries Classic#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png
 Redeitv#TOP MIX TV CANAL 4 FILMES#https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png
 SamsungTVPlus#2565 Sony One - Emoções (BR)#http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png
-SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#
+SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#https://i.ytimg.com/vi/v6ux1Oty8EA/hq720.jpg
 SamsungTVPlus#2645 Runtime Ação (BR)#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png
 SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png
