@@ -77,7 +77,6 @@ SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Filmes
 SamsungTVPlus#2695 MyTime Movie Network (BR)#Drama
 SamsungTVPlus#2697 Film Plus TV (BR)#Filmes
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#Família
-SamsungTVPlus#2712 Vida Real (BR)#Drama
 SamsungTVPlus#2714 Filmelier TV (BR)#Filmes
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Filmes
 SamsungTVPlus#2725 Sony One Cinema (BR)#Filmes
