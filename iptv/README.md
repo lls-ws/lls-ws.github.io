@@ -26,7 +26,7 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 
 | Categoria | Arquivos |
 | :--- | :--- |
-| **Fontes** | [epg.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/epg.txt) • [sources.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/sources.txt) • [epg-sources.md](https://github.com/lls-ws/epg/blob/master/lls/epg-sources.md) •  | [m3u-sources.md](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/m3u-sources.md)
+| **Fontes** | [epg.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/epg.txt) • [sources.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/sources.txt) • [epg-sources.md](https://github.com/lls-ws/epg/blob/master/lls/epg-sources.md) • [m3u-sources.md](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/m3u-sources.md) |
 | **Prioridade** | [providers-priority.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/providers-priority.txt) |
 | **Metadados** | [favorites-ids.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-ids.txt) • [favorites-urls.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-urls.txt) • [favorites-logos.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-logos.txt) |
 | **Canais Ativos** | [favorites-channels.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-channels.txt) |
