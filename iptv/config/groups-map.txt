@@ -1,13 +1,13 @@
-Séries#Séries|Series|CSI|NCSI|AXN|TV Series|FilmRise
+Séries#Séries|Series|CSI|NCIS|AXN|TV Series|FilmRise|Jornada nas Estrelas|Andromeda|Aliens
 Faroeste#Bang Bang|Faroeste|Grjngo
 Clássicos#Clássicos|Classicos|Classic|Classique|Cult|Channel Network|Movie Mania
 Terror#Terror|Espanto|Halloween|Trash|Medo|Booh!
 Suspense#Suspense|Crime|Criminais
-Ação#Ação|Acao|Action|Adrenalina|Luta
-Ficção#Sci-Fi|Ficção|Ficcao|Scifi|Dark Matter|Aliens|Jornada nas Estrelas|Andromeda
+Ficção#Sci-Fi|Ficção|Ficcao|Scifi|Dark Matter
 Comédia#Comédia|Comedia|Fun
 Romance#Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark
-Drama#Drama|Emotion|Touch|Vida Real|MyTime|Sony One - Emoções|Sony One Emoções
-Família#Familia|Família|Family|Inspiração|Inspiracao|Esperança|Esperanca|Aventura|TOP MIX
+Drama#Drama|Emotion|Touch|Inspiração|Inspiracao|Esperança|Esperanca|Vida Real|MyTime|Sony One - Emoções|Sony One Emoções
+Família#Familia|Família|Family|Aventura
+Ação#Ação|Acao|Action|Adrenalina|Luta|TOP MIX
 Variedades#A&E|ISTV|SOU TV|Nacionais|Xumo
 Filmes#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Filmzie|Netmovies|Sony One Cinema|Sucessos|Sony Channel|Studio Universal
