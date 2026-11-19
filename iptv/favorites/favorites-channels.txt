@@ -1688,7 +1688,7 @@ IPTV-org#Telecine Cult
 IPTV-org#Telecine Fun
 IPTV-org#Telecine Premium
 IPTV-org#Telecine Touch
-IPTV-org#TLC Latin America Brazil (720p)
+#IPTV-org#TLC Latin America Brazil (720p)
 IPTV-org#TV Series (480p)
 LG#162 FilmRise Séries Gratuitas
 LG#897 Xumo Filmes Grátis
