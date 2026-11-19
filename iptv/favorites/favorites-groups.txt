@@ -7,7 +7,7 @@ IPTV-org#Jornada nas Estrelas: A Nova Geracao#Séries
 IPTV-org#Jornada nas Estrelas: Deep Space Nine#Séries
 IPTV-org#Jornada nas Estrelas: Voyager#Séries
 IPTV-org#NCIS (United States)#Séries
-IPTV-org#Pluto TV Aliens#Ficção
+IPTV-org#Pluto TV Aliens#Séries
 IPTV-org#Pluto TV Bang Bang#Faroeste
 IPTV-org#Pluto TV Cine Crime#Suspense
 IPTV-org#Pluto TV Cine Inspiracao#Drama
@@ -53,7 +53,7 @@ LG#920 Runtime Comédia#Comédia
 LG#923 Sessao Trash#Terror
 LG#925 Filmelier TV Vida Real#Drama
 LG#927 Filmelier TV Paixão#Romance
-Movieark#Andromeda#Ficção
+Movieark#Andromeda#Séries
 Movieark#Ação Total TV#Ação
 Movieark#Booh!#Terror
 Movieark#Cine Familia#Família
