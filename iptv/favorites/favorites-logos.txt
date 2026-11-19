@@ -76,7 +76,7 @@ SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#http://accio.its-newid.net/rt_cha
 SamsungTVPlus#2695 MyTime Movie Network (BR)#https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png
 SamsungTVPlus#2697 Film Plus TV (BR)#https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png
-SamsungTVPlus#2712 Vida Real (BR)#
+SamsungTVPlus#2712 Vida Real (BR)#https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png
 SamsungTVPlus#2714 Filmelier TV (BR)#https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png
 SamsungTVPlus#2725 Sony One Cinema (BR)#http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png
