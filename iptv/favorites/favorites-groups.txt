@@ -3,14 +3,14 @@ IPTV-org#AMC Latin America Brazil (720p)#Filmes
 IPTV-org#AXN (Brazil) (720p)#Séries
 IPTV-org#CSI: Miami BR#Séries
 IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#Variedades
-IPTV-org#Jornada nas Estrelas: A Nova Geracao#Ação
-IPTV-org#Jornada nas Estrelas: Deep Space Nine#Ficção
-IPTV-org#Jornada nas Estrelas: Voyager#Ficção
-IPTV-org#NCIS (United States)#NOGROUP
+IPTV-org#Jornada nas Estrelas: A Nova Geracao#Séries
+IPTV-org#Jornada nas Estrelas: Deep Space Nine#Séries
+IPTV-org#Jornada nas Estrelas: Voyager#Séries
+IPTV-org#NCIS (United States)#Séries
 IPTV-org#Pluto TV Aliens#Ficção
 IPTV-org#Pluto TV Bang Bang#Faroeste
 IPTV-org#Pluto TV Cine Crime#Suspense
-IPTV-org#Pluto TV Cine Inspiracao#Ação
+IPTV-org#Pluto TV Cine Inspiracao#
 IPTV-org#Pluto TV Filmes Aventura#Família
 IPTV-org#Pluto TV Filmes de Luta#Ação
 IPTV-org#Pluto TV Series Acao#Séries
@@ -68,16 +68,16 @@ Olhosnatv#CLASSIQUE TV#Clássicos
 Olhosnatv#CLASSIQUE TV SÉRIES#Séries
 Olhosnatv#TV CHANNEL NETWORK#Clássicos
 Redeitv#Séries Classic#Séries
-Redeitv#TOP MIX TV CANAL 4 FILMES#Família
+Redeitv#TOP MIX TV CANAL 4 FILMES#
 SamsungTVPlus#2565 Sony One - Emoções (BR)#Drama
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#Faroeste
 SamsungTVPlus#2645 Runtime Ação (BR)#Ação
 SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#Ação
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Terror
 SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Filmes
-SamsungTVPlus#2695 MyTime Movie Network (BR)#Drama
+SamsungTVPlus#2695 MyTime Movie Network (BR)#
 SamsungTVPlus#2697 Film Plus TV (BR)#Filmes
-SamsungTVPlus#2710 Filmelier Esperanca (BR)#Família
+SamsungTVPlus#2710 Filmelier Esperanca (BR)#
 SamsungTVPlus#2714 Filmelier TV (BR)#Filmes
 SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Filmes
 SamsungTVPlus#2725 Sony One Cinema (BR)#Filmes
