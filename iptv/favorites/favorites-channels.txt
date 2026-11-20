@@ -269,6 +269,7 @@
 #IPTV-org#TLC Latin America Brazil (720p)
 #IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]
 #IPTV-org#Tokusato
+#IPTV-org#Tooncast Brazil (720p)
 #IPTV-org#Trace Brazuca HD (1080p)
 #IPTV-org#Travel Box Brazil (720p)
 #IPTV-org#Turma da Monica (720p)
