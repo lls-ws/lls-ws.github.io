@@ -570,7 +570,7 @@
 #LG#890 K-Vibe
 #LG#897 Xumo Filmes Grátis
 #LG#898 NEW KMOVIES
-#LG#915 Runtime
+LG#915 Runtime
 LG#921 Runtime Ação
 #LG#924 Cindie TV
 #LG#926 Filmelier TV Esperança
