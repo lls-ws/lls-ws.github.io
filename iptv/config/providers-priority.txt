@@ -1,8 +1,8 @@
-SamsungTVPlus
 LG
+WhaleTVPlus
 TCL
 Movieark
-WhaleTVPlus
+SamsungTVPlus
 IPTV-org
 Redeitv
 Olhosnatv
