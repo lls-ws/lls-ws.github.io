@@ -1,1 +1,1 @@
-LLS_TV#https://raw.githubusercontent.com/lls-ws/epg/refs/heads/master/guide.xml.gz
+LLS_TV#https://lls-ws.github.io/iptv/guide.xml
