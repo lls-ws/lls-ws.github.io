@@ -50,7 +50,7 @@ cat << 'EOF' > "${WORK_DIR}/components/MainScene/MainScene.xml"
 			itemSize="[520, 56]"
 			numRows="10"
 			sectionDividerTextColor="0x38BDF8FF"
-			focusedColor="0xFFFFFFFF"
+			focusedColor="0xFACC15FF"
 			color="0xCBD5E1FF" />
 	</Group>
 
