@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://lls-ws.github.io/iptv/guide.xml.gz"
+#EXTM3U x-tvg-url="https://lls-ws.github.io/iptv/guide.xml"
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Top",AMC
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="CindieTV.br@BR" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Top",Cindie Lite
