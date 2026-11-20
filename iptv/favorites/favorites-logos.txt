@@ -22,6 +22,7 @@ IPTV-org#Telecine Cult#https://i.imgur.com/6GuHXnr.png
 IPTV-org#Telecine Fun#https://i.imgur.com/MO2Ynki.png
 IPTV-org#Telecine Premium#https://i.imgur.com/uVFgIr8.png
 IPTV-org#Telecine Touch#https://i.imgur.com/Nky0hRo.png
+LG#161 Sony One Emoções#http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png
 LG#162 FilmRise Séries Gratuitas#https://image.xumo.com/v1/channels/channel/99992531/400x200.png?type=white_cropped
 LG#899 American Classics#https://image.xumo.com/v1/channels/channel/99992241/400x200.png?type=white_cropped
 LG#900 Dark Matter TV Brazil#https://image.xumo.com/v1/channels/channel/99992147/400x200.png?type=white_cropped
@@ -38,14 +39,23 @@ LG#910 Spark TV Luz E Amor#http://img.platform.wurl.dev/channel/1042/lg/7fd93c/L
 LG#911 Pluto TV Cine Comédia Romântica#https://images.pluto.tv/channels/62545ed3dab4380007582f7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#912 Pluto TV Ficção Científica#https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#913 Pluto TV Cine Família#https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/logoAlt_1762294532960.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#915 Runtime#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png
 LG#916 CinEspanto#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/cinespanto_brazil_1400x2000.png
 LG#917 Runtime Crime#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_crime_brazil_1400x2000.png
 LG#918 Runtime Romance#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000.png
 LG#919 Runtime Familia#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_family_brazil_1400x2000.png
 LG#920 Runtime Comédia#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_comedy_brazil_1400x2000.png
+LG#921 Runtime Ação#
 LG#923 Sessao Trash#https://d2mxb63djushzm.cloudfront.net/images/Logo_SESSAOTRASH_400x200.png
+LG#924 Cindie TV#http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png
 LG#925 Filmelier TV Vida Real#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png
+LG#926 Filmelier TV Esperança#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png
 LG#927 Filmelier TV Paixão#https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png
+LG#928 Filmelier TV#https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png
+LG#930 Adrenalina Pura TV#https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png
+LG#931 Adrenalina Pura TV Halloween#https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png
+LG#939 Moviesphere#https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png
+LG#940 Sony One Cinema#http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png
 Movieark#Ação Total TV#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLs3tK7wPtRK_7phyNMead3BShGbYH4nXmA&s
 Movieark#Booh!#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0je_3YrLEwiBHw8QYLHk30XIka8Ruym1oI3ZSjuQaQ&s
 Movieark#Cine Familia#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMr_V-oGaLlMj-PcLRfMAAQISoBAX81fX5Jw-QkuAgQ&s
@@ -61,19 +71,9 @@ Olhosnatv#CLASSIQUE TV SÉRIES#https://encrypted-tbn0.gstatic.com/images?q=tbn:A
 Olhosnatv#TV CHANNEL NETWORK#https://s3minio.webativa.com.br/redeitv/tv-channel-network.png
 Redeitv#Séries Classic#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png
 Redeitv#TOP MIX TV CANAL 4 FILMES#https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png
-SamsungTVPlus#2565 Sony One - Emoções (BR)#http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#https://i.ytimg.com/vi/v6ux1Oty8EA/hq720.jpg
-SamsungTVPlus#2645 Runtime Ação (BR)#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png
-SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png
-SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png
-SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png
 SamsungTVPlus#2695 MyTime Movie Network (BR)#https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png
 SamsungTVPlus#2697 Film Plus TV (BR)#https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg
-SamsungTVPlus#2710 Filmelier Esperanca (BR)#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png
-SamsungTVPlus#2714 Filmelier TV (BR)#https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png
-SamsungTVPlus#2720 Runtime TV e Filmes (BR)#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png
-SamsungTVPlus#2725 Sony One Cinema (BR)#http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png
-SamsungTVPlus#2732 Moviesphere (BR)#https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png
 WhaleTVPlus#a-z Classic Flix#https://echelonstudios.us/wp-content/uploads/2024/12/a-z_classic_flix_square_logo1.jpg
 WhaleTVPlus#Filmzie#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaET6FjZ1G43ZESI5J5Z_0AOk60epuvClrjxMA-wiwXA&s
 WhaleTVPlus#Movie Mania#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp3Jq1C-Xks94E1ySXuR5_sVRCI6P_W5-K18rQYGrSw&s=10

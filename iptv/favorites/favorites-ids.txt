@@ -22,6 +22,7 @@ IPTV-org#Telecine Cult#TelecineCult.br@SD
 IPTV-org#Telecine Fun#TelecineFun.br@SD
 IPTV-org#Telecine Premium#TelecinePremium.br@SD
 IPTV-org#Telecine Touch#TelecineTouch.br@SD
+LG#161 Sony One Emoções#SonyOneEmocoes.br@BR
 LG#162 FilmRise Séries Gratuitas#FilmRiseSeriesGratuitas.br@BR
 LG#899 American Classics#AmericanClassics.us@SD
 LG#900 Dark Matter TV Brazil#DarkMatterTV.br@BR
@@ -38,14 +39,23 @@ LG#910 Spark TV Luz E Amor#SparkTVLuzyAmor.br@BR
 LG#911 Pluto TV Cine Comédia Romântica#PlutoTVCineComediaRomantica.us@BR
 LG#912 Pluto TV Ficção Científica#PlutoTVFiccaoCientifica.us@BR
 LG#913 Pluto TV Cine Família#PlutoTVCineFamilia.us@BR
+LG#915 Runtime#Runtime.us@SD
 LG#916 CinEspanto#CinEspanto.br@BR
 LG#917 Runtime Crime#RuntimeCrimen.es@SD
 LG#918 Runtime Romance#RuntimeRomance.es@SD
 LG#919 Runtime Familia#RuntimeFamilia.br@BR
 LG#920 Runtime Comédia#RuntimeComedia.br@BR
+LG#921 Runtime Ação#
 LG#923 Sessao Trash#SessaoTrash.br@BR
+LG#924 Cindie TV#CindieTV.br@BR
 LG#925 Filmelier TV Vida Real#FilmelierTVVidaReal.br@BR
+LG#926 Filmelier TV Esperança#FilmelierTVEsperanca.br@BR
 LG#927 Filmelier TV Paixão#FilmelierTVPaixao.br@BR
+LG#928 Filmelier TV#FilmelierTV.us@BR
+LG#930 Adrenalina Pura TV#AdrenalinaPuraTV.us@Brazil
+LG#931 Adrenalina Pura TV Halloween#AdrenalinaPuraTVHalloween.br@BR
+LG#939 Moviesphere#MovieSphere.us@BR
+LG#940 Sony One Cinema#SonyOneCinema.br@BR
 Movieark#Ação Total TV#
 Movieark#Booh!#
 Movieark#Cine Familia#
@@ -61,19 +71,9 @@ Olhosnatv#CLASSIQUE TV SÉRIES#
 Olhosnatv#TV CHANNEL NETWORK#
 Redeitv#Séries Classic#
 Redeitv#TOP MIX TV CANAL 4 FILMES#
-SamsungTVPlus#2565 Sony One - Emoções (BR)#SonyOneEmocoes.br@BR
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#GrjngoFilmesDeFaroeste.br@BR
-SamsungTVPlus#2645 Runtime Ação (BR)#RuntimeAcao.br@BR
-SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#AdrenalinaPuraTV.us@Brazil
-SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#AdrenalinaPuraTVHalloween.br@BR
-SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#CindieTV.br@BR
 SamsungTVPlus#2695 MyTime Movie Network (BR)#MyTimeMovieNetwork.br@SD
 SamsungTVPlus#2697 Film Plus TV (BR)#FilmPlusTV.br@BR
-SamsungTVPlus#2710 Filmelier Esperanca (BR)#FilmelierTVEsperanca.br@BR
-SamsungTVPlus#2714 Filmelier TV (BR)#FilmelierTV.us@BR
-SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Runtime.us@SD
-SamsungTVPlus#2725 Sony One Cinema (BR)#SonyOneCinema.br@BR
-SamsungTVPlus#2732 Moviesphere (BR)#MovieSphere.us@BR
 WhaleTVPlus#a-z Classic Flix#AZClassicFlix.us@BR
 WhaleTVPlus#Filmzie#Filmzie.us@BR
 WhaleTVPlus#Movie Mania#MovieMania.us@BR

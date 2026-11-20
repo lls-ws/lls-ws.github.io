@@ -22,6 +22,7 @@ IPTV-org#Telecine Cult#Clássicos
 IPTV-org#Telecine Fun#Comédia
 IPTV-org#Telecine Premium#Top
 IPTV-org#Telecine Touch#Drama
+LG#161 Sony One Emoções#NOGROUP
 LG#162 FilmRise Séries Gratuitas#Séries
 LG#899 American Classics#Clássicos
 LG#900 Dark Matter TV Brazil#Ficção
@@ -38,14 +39,23 @@ LG#910 Spark TV Luz E Amor#Romance
 LG#911 Pluto TV Cine Comédia Romântica#Comédia
 LG#912 Pluto TV Ficção Científica#Ficção
 LG#913 Pluto TV Cine Família#Família
+LG#915 Runtime#Top
 LG#916 CinEspanto#Terror
 LG#917 Runtime Crime#Suspense
 LG#918 Runtime Romance#Romance
 LG#919 Runtime Familia#Família
 LG#920 Runtime Comédia#Comédia
+LG#921 Runtime Ação#Ação
 LG#923 Sessao Trash#Terror
+LG#924 Cindie TV#Top
 LG#925 Filmelier TV Vida Real#Drama
+LG#926 Filmelier TV Esperança#Drama
 LG#927 Filmelier TV Paixão#Romance
+LG#928 Filmelier TV#Top
+LG#930 Adrenalina Pura TV#Ação
+LG#931 Adrenalina Pura TV Halloween#Terror
+LG#939 Moviesphere#Top
+LG#940 Sony One Cinema#Top
 Movieark#Ação Total TV#Ação
 Movieark#Booh!#Terror
 Movieark#Cine Familia#Família
@@ -61,19 +71,9 @@ Olhosnatv#CLASSIQUE TV SÉRIES#Séries
 Olhosnatv#TV CHANNEL NETWORK#Clássicos
 Redeitv#Séries Classic#Séries
 Redeitv#TOP MIX TV CANAL 4 FILMES#Variedades
-SamsungTVPlus#2565 Sony One - Emoções (BR)#Variedades
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#Faroeste
-SamsungTVPlus#2645 Runtime Ação (BR)#Ação
-SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#Ação
-SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Terror
-SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#Top
 SamsungTVPlus#2695 MyTime Movie Network (BR)#Romance
 SamsungTVPlus#2697 Film Plus TV (BR)#Top
-SamsungTVPlus#2710 Filmelier Esperanca (BR)#Drama
-SamsungTVPlus#2714 Filmelier TV (BR)#Top
-SamsungTVPlus#2720 Runtime TV e Filmes (BR)#Top
-SamsungTVPlus#2725 Sony One Cinema (BR)#Top
-SamsungTVPlus#2732 Moviesphere (BR)#Top
 WhaleTVPlus#a-z Classic Flix#Clássicos
 WhaleTVPlus#Filmzie#Variedades
 WhaleTVPlus#Movie Mania#Variedades

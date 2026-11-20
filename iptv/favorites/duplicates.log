@@ -1,5 +1,58 @@
 ==========================================================
-Verificação de Duplicados em: 16/11/2026 às 23:32:26 (Modo: apply)
-Ativos: 93 | Duplicados: 0 | IDs herdados: 0 | Logos herdados: 0
+Verificação de Duplicados em: 20/11/2026 às 02:24:20 (Modo: apply)
+Ativos: 89 | Duplicados: 9 | IDs herdados: 9 | Logos herdados: 9
 ==========================================================
-Nenhum canal duplicado encontrado!
+Canal Base: [adrenalinapura]
+  [MANTIDO]    LG#930 Adrenalina Pura TV (Prioridade: 1)
+    + ID herdado de [SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)]: AdrenalinaPuraTV.us@Brazil
+    + Logo herdado de [SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)]: https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png
+  [DUPLICADO]  SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL) (Prioridade: 4)
+
+Canal Base: [adrenalinapurahalloween]
+  [MANTIDO]    LG#931 Adrenalina Pura TV Halloween (Prioridade: 1)
+    + ID herdado de [SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)]: AdrenalinaPuraTVHalloween.br@BR
+    + Logo herdado de [SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)]: https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png
+  [DUPLICADO]  SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL) (Prioridade: 4)
+
+Canal Base: [cindie]
+  [MANTIDO]    LG#924 Cindie TV (Prioridade: 1)
+    + ID herdado de [SamsungTVPlus#2685 Cindie Lite Portuguese (BR)]: CindieTV.br@BR
+    + Logo herdado de [SamsungTVPlus#2685 Cindie Lite Portuguese (BR)]: http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png
+  [DUPLICADO]  SamsungTVPlus#2685 Cindie Lite Portuguese (BR) (Prioridade: 4)
+
+Canal Base: [filmelier]
+  [MANTIDO]    LG#928 Filmelier TV (Prioridade: 1)
+    + ID herdado de [SamsungTVPlus#2714 Filmelier TV (BR)]: FilmelierTV.us@BR
+    + Logo herdado de [SamsungTVPlus#2714 Filmelier TV (BR)]: https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png
+  [DUPLICADO]  SamsungTVPlus#2714 Filmelier TV (BR) (Prioridade: 4)
+
+Canal Base: [filmelieresperanca]
+  [MANTIDO]    LG#926 Filmelier TV Esperança (Prioridade: 1)
+    + ID herdado de [SamsungTVPlus#2710 Filmelier Esperanca (BR)]: FilmelierTVEsperanca.br@BR
+    + Logo herdado de [SamsungTVPlus#2710 Filmelier Esperanca (BR)]: http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png
+  [DUPLICADO]  SamsungTVPlus#2710 Filmelier Esperanca (BR) (Prioridade: 4)
+
+Canal Base: [moviesphere]
+  [MANTIDO]    LG#939 Moviesphere (Prioridade: 1)
+    + ID herdado de [SamsungTVPlus#2732 Moviesphere (BR)]: MovieSphere.us@BR
+    + Logo herdado de [SamsungTVPlus#2732 Moviesphere (BR)]: https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png
+  [DUPLICADO]  SamsungTVPlus#2732 Moviesphere (BR) (Prioridade: 4)
+
+Canal Base: [runtime]
+  [MANTIDO]    LG#915 Runtime (Prioridade: 1)
+    + ID herdado de [SamsungTVPlus#2720 Runtime TV e Filmes (BR)]: Runtime.us@SD
+    + Logo herdado de [SamsungTVPlus#2720 Runtime TV e Filmes (BR)]: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png
+  [DUPLICADO]  SamsungTVPlus#2720 Runtime TV e Filmes (BR) (Prioridade: 4)
+
+Canal Base: [sonyonecinema]
+  [MANTIDO]    LG#940 Sony One Cinema (Prioridade: 1)
+    + ID herdado de [SamsungTVPlus#2725 Sony One Cinema (BR)]: SonyOneCinema.br@BR
+    + Logo herdado de [SamsungTVPlus#2725 Sony One Cinema (BR)]: http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png
+  [DUPLICADO]  SamsungTVPlus#2725 Sony One Cinema (BR) (Prioridade: 4)
+
+Canal Base: [sonyoneemocoes]
+  [MANTIDO]    LG#161 Sony One Emoções (Prioridade: 1)
+    + ID herdado de [SamsungTVPlus#2565 Sony One - Emoções (BR)]: SonyOneEmocoes.br@BR
+    + Logo herdado de [SamsungTVPlus#2565 Sony One - Emoções (BR)]: http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png
+  [DUPLICADO]  SamsungTVPlus#2565 Sony One - Emoções (BR) (Prioridade: 4)
+
