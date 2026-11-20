@@ -406,7 +406,6 @@
 #LG#158 The Chosen
 #LG#159 Malhacao
 #LG#160 The Walking Dead by AMC
-LG#161 Sony One Emoções
 #LG#163 Z Nation Brazil
 #LG#164 Misty
 #LG#165 ROMCOM K-Drama
@@ -570,15 +569,6 @@ LG#161 Sony One Emoções
 #LG#890 K-Vibe
 #LG#897 Xumo Filmes Grátis
 #LG#898 NEW KMOVIES
-LG#915 Runtime
-LG#921 Runtime Ação
-LG#924 Cindie TV
-LG#926 Filmelier TV Esperança
-LG#928 Filmelier TV
-LG#930 Adrenalina Pura TV
-LG#931 Adrenalina Pura TV Halloween
-LG#939 Moviesphere
-LG#940 Sony One Cinema
 #Movieark#3 Palavrinhas
 #Movieark#Acelerados
 #Movieark#Adoro Cinema
@@ -1239,13 +1229,23 @@ LG#940 Sony One Cinema
 #SamsungTVPlus#2553 The Chosen (BR)
 #SamsungTVPlus#2555 Western Bound em Portugês (BR)
 #SamsungTVPlus#2560 Rookie Blue (BR)
+#SamsungTVPlus#2565 Sony One - Emoções (BR)
 #SamsungTVPlus#2565 Sony One - Emoções alt (BR)
 #SamsungTVPlus#2570 Clube Do Terror (BR)
 #SamsungTVPlus#2575 O Homem que Veio do Ceu (BR)
+#SamsungTVPlus#2645 Runtime Ação (BR)
 #SamsungTVPlus#2645 Runtime Ação alt (BR)
+#SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)
+#SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)
+#SamsungTVPlus#2685 Cindie Lite Portuguese (BR)
 #SamsungTVPlus#2695 MyTime Movie Network alt (BR)
 #SamsungTVPlus#2705 Spark TV (BR)
+#SamsungTVPlus#2710 Filmelier Esperanca (BR)
 #SamsungTVPlus#2712 Vida Real (BR)
+#SamsungTVPlus#2714 Filmelier TV (BR)
+#SamsungTVPlus#2720 Runtime TV e Filmes (BR)
+#SamsungTVPlus#2725 Sony One Cinema (BR)
+#SamsungTVPlus#2732 Moviesphere (BR)
 #SamsungTVPlus#Assombrações
 #SamsungTVPlus#Canal UOL (BR) via PLuto
 #SamsungTVPlus#Kenan & Kel
@@ -1695,6 +1695,7 @@ IPTV-org#Telecine Cult
 IPTV-org#Telecine Fun
 IPTV-org#Telecine Premium
 IPTV-org#Telecine Touch
+LG#161 Sony One Emoções
 LG#162 FilmRise Séries Gratuitas
 LG#899 American Classics
 LG#900 Dark Matter TV Brazil
@@ -1711,14 +1712,23 @@ LG#910 Spark TV Luz E Amor
 LG#911 Pluto TV Cine Comédia Romântica
 LG#912 Pluto TV Ficção Científica
 LG#913 Pluto TV Cine Família
+LG#915 Runtime
 LG#916 CinEspanto
 LG#917 Runtime Crime
 LG#918 Runtime Romance
 LG#919 Runtime Familia
 LG#920 Runtime Comédia
+LG#921 Runtime Ação
 LG#923 Sessao Trash
+LG#924 Cindie TV
 LG#925 Filmelier TV Vida Real
+LG#926 Filmelier TV Esperança
 LG#927 Filmelier TV Paixão
+LG#928 Filmelier TV
+LG#930 Adrenalina Pura TV
+LG#931 Adrenalina Pura TV Halloween
+LG#939 Moviesphere
+LG#940 Sony One Cinema
 Movieark#Ação Total TV
 Movieark#Booh!
 Movieark#Cine Familia
@@ -1734,19 +1744,9 @@ Olhosnatv#CLASSIQUE TV SÉRIES
 Olhosnatv#TV CHANNEL NETWORK
 Redeitv#Séries Classic
 Redeitv#TOP MIX TV CANAL 4 FILMES
-#SamsungTVPlus#2565 Sony One - Emoções (BR)
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)
-#SamsungTVPlus#2645 Runtime Ação (BR)
-#SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)
-#SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)
-#SamsungTVPlus#2685 Cindie Lite Portuguese (BR)
 SamsungTVPlus#2695 MyTime Movie Network (BR)
 SamsungTVPlus#2697 Film Plus TV (BR)
-#SamsungTVPlus#2710 Filmelier Esperanca (BR)
-#SamsungTVPlus#2714 Filmelier TV (BR)
-#SamsungTVPlus#2720 Runtime TV e Filmes (BR)
-#SamsungTVPlus#2725 Sony One Cinema (BR)
-#SamsungTVPlus#2732 Moviesphere (BR)
 WhaleTVPlus#a-z Classic Flix
 WhaleTVPlus#Filmzie
 WhaleTVPlus#Movie Mania

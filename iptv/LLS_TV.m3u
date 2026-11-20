@@ -1,16 +1,28 @@
 #EXTM3U x-tvg-url="https://lls-ws.github.io/iptv/guide.xml"
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Top",AMC
 http://170.83.49.66:8083/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="CindieTV.br@BR" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Top",Cindie
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt077&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=d3f60e44-cb709537-6a6b3eaf-d9186bf8&live_type=retransmission
 #EXTINF:-1 tvg-id="FilmPlusTV.br@BR" tvg-logo="https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg" group-title="Top",Film Plus
 https://pb-7dac9juxe0240.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmelierTV.us@BR" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="Top",Filmelier
+https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmelierportuguese-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@BR" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png" group-title="Top",Moviesphere
+https://amg00353-amg00353c23-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00353-amg00353c23-amgplt0026/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNetmovies.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png" group-title="Top",Netmovies
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/6a731cc3056f7bc47781e9fc/main.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/logoAlt_1785430166268.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Top",Pluto Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+#EXTINF:-1 tvg-id="Runtime.us@SD" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png" group-title="Top",Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13229
+#EXTINF:-1 tvg-id="SonyOneCinema.br@BR" tvg-logo="http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png" group-title="Top",Sony One Cinema
+https://030a58d4abe245219e65752f7f51ad25.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneCinema/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Top",Studio Universal
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="TelecinePremium.br@SD" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="Top",Telecine Premium
 http://45.185.15.154:9080/stream/28/index.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="Ação",Adrenalina Pura
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-freezoneportuguese-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLs3tK7wPtRK_7phyNMead3BShGbYH4nXmA&s" group-title="Ação",Ação Total
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-3-1024x576.jpg" group-title="Ação",Film Plus Action
@@ -19,6 +31,8 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3454e59a9e6
 https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png" group-title="Ação",Pluto de Luta
 https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Ação",Runtime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13876
 #EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Ação",Telecine Action
 http://46.151.196.223:14326
 #EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Suspense",Pluto Crime
@@ -47,6 +61,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13230
 http://45.185.15.154:9080/stream/63/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/eGjUuYEUojgg-i0PY8kNUTwQ3pce1lbWonb2MTyMPfWFf0LrRuc_9Fm-SqVzHLbP-LRG30jaaw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Drama",Film Plus Emotion
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmelierTVEsperanca.br@BR" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png" group-title="Drama",Filmelier Esperança
+https://amg00740-sofa-amg00740c13-lg-br-9131.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvesperanca-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmelierTVVidaReal.br@BR" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png" group-title="Drama",Filmelier Vida Real
 https://amg00740-sofa-amg00740c16-lg-br-9132.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-vidareal-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Drama",Pluto Drama
@@ -73,6 +89,8 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 #EXTINF:-1 tvg-id="scifiworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUjredoQT9gRXCdDccbrWrUXWAFpDKUhbzqX1pUSWZXx4p7y02Di2D5w&s=10" group-title="Ficção",Scifi World
 https://streams2.sofast.tv/ptnr-whaletv/title-SCIFI-WORLD-ENG_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/793a5e43-6bf1-4088-a10c-819b89538a54/manifest.m3u8?ads.tag_id=148557&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Scifi+World&ads.wtv_channel_id=0552&ads.content_id=&ads.content_genre=Movies+and+Series&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_ScifiWorld&ads.content_categories=IAB1-5%2CIAB1-7%2CIAB9-26&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=M%2CF&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.did=ff4c0917-443b-4038-84fb-584c960b6b89&ads.dnt=0&ads.lmt=&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.sid=ff4c0917-443b-4038-84fb-584c960b6b89&ads.h=&ads.w=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
+#EXTINF:-1 tvg-id="AdrenalinaPuraTVHalloween.br@BR" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png" group-title="Terror",Adrenalina Pura Halloween
+https://amg00740-sofa-amg00740c15-lg-br-9130.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-adrenalinapuratvhalloween-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0je_3YrLEwiBHw8QYLHk30XIka8Ruym1oI3ZSjuQaQ&s" group-title="Terror",Booh!
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ae48d90078af4f5e960904810501e546/playlist.m3u8
 #EXTINF:-1 tvg-id="CinEspanto.br@BR" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/cinespanto_brazil_1400x2000.png" group-title="Terror",CinEspanto
@@ -139,3 +157,5 @@ https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png" group-title="Séries",Séries Classic
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneEmocoes.br@BR" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="NOGROUP",Sony One Emoções
+https://a100d86d23bf4aab8a2f5d0a97acc2c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneEmocoes/playlist.m3u8

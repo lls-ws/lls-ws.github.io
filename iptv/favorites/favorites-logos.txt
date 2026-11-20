@@ -45,7 +45,7 @@ LG#917 Runtime Crime#https://lge-static.ottera.tv/prod/run/linear_channel/thumbn
 LG#918 Runtime Romance#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000.png
 LG#919 Runtime Familia#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_family_brazil_1400x2000.png
 LG#920 Runtime Comédia#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_comedy_brazil_1400x2000.png
-LG#921 Runtime Ação#
+LG#921 Runtime Ação#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png
 LG#923 Sessao Trash#https://d2mxb63djushzm.cloudfront.net/images/Logo_SESSAOTRASH_400x200.png
 LG#924 Cindie TV#http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png
 LG#925 Filmelier TV Vida Real#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png
