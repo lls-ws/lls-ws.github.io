@@ -29,7 +29,7 @@
 *(Já embutido automaticamente na playlist acima, mas disponível caso seu player solicite separado)*
 
 <div style="display:flex;align-items:center;gap:8px;background:#1e1e1e;padding:10px 12px;border-radius:6px;border:1px solid #333;margin-bottom:16px;">
-  <input id="url-epg" type="text" value="https://raw.githubusercontent.com/lls-ws/epg/refs/heads/master/guide.xml.gz" readonly style="flex:1;background:transparent;border:none;color:#e6edf3;font-family:monospace;font-size:13px;outline:none;">
+  <input id="url-epg" type="text" value="https://lls-ws.github.io/iptv/guide.xml.gz" readonly style="flex:1;background:transparent;border:none;color:#e6edf3;font-family:monospace;font-size:13px;outline:none;">
   <button onclick="copiarLink('url-epg', this)" style="background:#2088FF;color:#fff;border:none;padding:6px 12px;border-radius:4px;cursor:pointer;font-weight:bold;font-size:12px;white-space:nowrap;">📋 Copiar</button>
 </div>
 
