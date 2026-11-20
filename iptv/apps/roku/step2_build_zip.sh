@@ -42,20 +42,20 @@ cat << 'EOF' > "${WORK_DIR}/components/MainScene/MainScene.xml"
 		height="1080" />
 
 	<Group id="sidebarGroup" translation="[0, 0]" visible="true">
-		<Rectangle width="620" height="800" color="0x0B0F19E6" />
+		<Rectangle width="620" height="790" color="0x0B0F19E6" />
 		<Label text="LLS TV • Canais" translation="[50, 35]" font="font:MediumBoldSystemFont" color="0x38BDF8FF" />
 		<LabelList
 			id="list"
 			translation="[50, 95]"
 			itemSize="[520, 56]"
-			numRows="11"
+			numRows="10"
 			sectionDividerTextColor="0x38BDF8FF"
 			focusedColor="0xFFFFFFFF"
 			color="0xCBD5E1FF" />
 	</Group>
 
 	<Group id="epgBanner" translation="[40, 820]" visible="false">
-		<Rectangle width="1840" height="220" color="0x0B0F19F2" />
+		<Rectangle width="1840" height="230" color="0x0B0F19F2" />
 		<Label id="lblChannel" text="" translation="[35, 20]" font="font:LargeBoldSystemFont" color="0x38BDF8FF" width="1770" />
 		<Label id="lblNow" text="Carregando guia..." translation="[35, 85]" font="font:MediumBoldSystemFont" color="0xFACC15FF" width="1770" />
 		<Label id="lblNext" text="" translation="[35, 145]" font="font:MediumSystemFont" color="0xE2E8F0FF" width="1770" />
