@@ -22,7 +22,7 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 ### 📅 Guia de Programação — EPG Compactado (`.gz`)
 *(Já embutido na playlist acima, mas disponível caso seu player solicite separado)*
 ```text
-https://raw.githubusercontent.com/lls-ws/epg/refs/heads/master/guide.xml.gz
+https://lls-ws.github.io/iptv/guide.xml.gz
 ```
 
 ---
