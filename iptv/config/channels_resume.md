@@ -28,10 +28,10 @@ Total de Canais: 80
   * Studio Universal
   <br>
   Isso ocorre quando o servidor transmite em H.265 (HEVC), MPEG-2 ou com áudio em AC3/Dolby sem fallback para AAC — formatos que o modelo 3930BR (Full HD básico) não decodifica por hardware.
-<br>
- App Roku (SimpleIPTV-LLS.zip): Leve, com abertura direta, zapping instantâneo pelas setas Cima/Baixo, menu lateral de 10 canais com destaque em azul escuro e banner EPG amarelo.
+    
+  App Roku (SimpleIPTV-LLS.zip): Leve, com abertura direta, zapping instantâneo pelas setas Cima/Baixo, menu lateral de 10 canais com destaque em azul escuro e banner EPG amarelo.
 
- Pipeline IPTV (run.sh + check.sh): Valida automaticamente tanto o status HTTP quanto os codecs H.264 + AAC para o Roku 3930BR antes de publicar.
-<br>
-* **Samsung Tizen ()**
-  * 0 canais funcionando
+  Pipeline IPTV (run.sh + check.sh): Valida automaticamente tanto o status HTTP quanto os codecs H.264 + AAC para o Roku 3930BR antes de publicar.
+  
+* **Samsung Tizen (Fazer Teste)**
+  * 0 canais testados
