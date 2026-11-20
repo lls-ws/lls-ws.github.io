@@ -22,8 +22,11 @@ Total de Canais: 80
   * Classique Séries (Imagem ruim, retirar)
   * Séries Classic (Remover)
 
-* **Roku Express 3930br ()**
-  * 0 canais funcionando
+* **Roku Express 3930br (3 canais não funcionando)**
+  * Studio Universal
+  * Telecine Action
+  * A&E
+  * (Isso ocorre quando o servidor transmite em H.265 (HEVC), MPEG-2 ou com áudio em AC3/Dolby sem fallback para AAC — formatos que o modelo 3930BR (Full HD básico) não decodifica por hardware.)
 
 * **Samsung Tizen ()**
   * 0 canais funcionando
