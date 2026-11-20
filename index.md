@@ -18,7 +18,7 @@
 
 > 💡 **Dica:** Clique no botão **📋 Copiar** ao lado de cada link e cole diretamente no seu aplicativo de IPTV (**TiviMate**, **IPTV Smarters**, **OTT Navigator**, **Kodi** ou **VLC**).
 
-### 🎬 Playlist Principal — LLS_TV (91 Canais • Filmes, Séries e Variedades)
+### 🎬 Playlist Principal — LLS_TV (80 Canais • Filmes, Séries e Variedades)
 
 <div style="display:flex;align-items:center;gap:8px;background:#1e1e1e;padding:10px 12px;border-radius:6px;border:1px solid #333;margin-bottom:16px;">
   <input id="url-m3u" type="text" value="https://lls-ws.github.io/iptv/LLS_TV.m3u" readonly style="flex:1;background:transparent;border:none;color:#e6edf3;font-family:monospace;font-size:13px;outline:none;">
@@ -59,9 +59,9 @@ function copiarLink(idCampo, botao) {
 
 ## ⚙️ Arquitetura do Projeto
 
-* **[lls-ws/lls-ws.github.io](https://github.com/lls-ws/lls-ws.github.io/iptv):** Hospeda os scripts em Shell (`run.sh`, `download.sh`, `favorites.sh`, `playlist.sh`, `check.sh`) e publica a playlist final via GitHub Pages.
-* **[lls-ws/epg](https://github.com/lls-ws/epg/lls):** Repositório dedicado à geração diária do guia XMLTV compactado (`guide.xml.gz`) a partir de múltiplas fontes (`mi.tv`, `plex.tv`, `pluto.tv` e `whaletvplus.com`).
-* **[Quadro de Gestão (GitHub Projects)](https://github.com/lls-ws/lls-ws.github.io/projects):** Acompanhamento de melhorias, novos canais e manutenção das fontes.
+* **[lls-ws/lls-ws.github.io](https://github.com/lls-ws/lls-ws.github.io/):** Hospeda os scripts em Shell (`run.sh`, `download.sh`, `favorites.sh`, `playlist.sh`, `check.sh`) e publica a playlist final via GitHub Pages.
+* **[lls-ws/epg](https://github.com/lls-ws/epg/):** Repositório dedicado à geração diária do guia XMLTV compactado (`guide.xml.gz`) a partir de múltiplas fontes (`mi.tv`, `plex.tv`, `pluto.tv` e `whaletvplus.com`).
+* **[Quadro de Gestão (GitHub Projects)](https://github.com/lls-ws/lls-ws.github.io/projects/):** Acompanhamento de melhorias, novos canais e manutenção das fontes.
 
 <div align="center">
   <sub>Mantido por <a href="https://github.com">lls-ws</a> • Hospedado no GitHub Pages</sub>
