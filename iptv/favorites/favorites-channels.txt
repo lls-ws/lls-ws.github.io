@@ -257,6 +257,7 @@
 #IPTV-org#SporTV 2 (1080p)
 #IPTV-org#SporTV 3 (1080p)
 #IPTV-org#Star Trek
+#IPTV-org#Studio Universal Latin America Brazil (720p)
 #IPTV-org#STZ TV (1080p)
 #IPTV-org#Tastemade Brasil (720p)
 #IPTV-org#TCM 10 HD (1080p)
@@ -613,7 +614,6 @@
 #Movieark#Euronews Português
 #Movieark#Fatos Desconhecidos
 #Movieark#FIFA+
-#Movieark#Film Plus
 #Movieark#Film Plus Shorts
 #Movieark#Filmelier TV
 #Movieark#Filmelier TV Esperança
@@ -1689,7 +1689,6 @@ IPTV-org#Pluto TV Series Drama
 IPTV-org#Pluto TV Series Sci-Fi
 IPTV-org#Pluto TV Terror Trash
 IPTV-org#Sony Channel (Brazil) (720p)
-IPTV-org#Studio Universal Latin America Brazil (720p)
 IPTV-org#Telecine Action (1080p)
 IPTV-org#Telecine Cult
 IPTV-org#Telecine Fun
@@ -1733,6 +1732,7 @@ Movieark#Ação Total TV
 Movieark#Booh!
 Movieark#Cine Familia
 Movieark#CSI New York
+Movieark#Film Plus
 Movieark#Film Plus Action
 Movieark#Film Plus Emotion
 Movieark#Film Plus Family
@@ -1746,7 +1746,7 @@ Redeitv#Séries Classic
 Redeitv#TOP MIX TV CANAL 4 FILMES
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)
 SamsungTVPlus#2695 MyTime Movie Network (BR)
-SamsungTVPlus#2697 Film Plus TV (BR)
+#SamsungTVPlus#2697 Film Plus TV (BR)
 WhaleTVPlus#a-z Classic Flix
 WhaleTVPlus#Filmzie
 WhaleTVPlus#Movie Mania

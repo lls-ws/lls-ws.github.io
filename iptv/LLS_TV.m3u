@@ -4,7 +4,7 @@ http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="CindieTV.br@BR" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Top",Cindie
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt077&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=d3f60e44-cb709537-6a6b3eaf-d9186bf8&live_type=retransmission
 #EXTINF:-1 tvg-id="FilmPlusTV.br@BR" tvg-logo="https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg" group-title="Top",Film Plus
-https://pb-7dac9juxe0240.akamaized.net/playlist.m3u8
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/aab19982787e483a8350a1ba06826cab/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmelierTV.us@BR" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="Top",Filmelier
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmelierportuguese-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@BR" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png" group-title="Top",Moviesphere
@@ -17,8 +17,6 @@ https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13229
 #EXTINF:-1 tvg-id="SonyOneCinema.br@BR" tvg-logo="http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png" group-title="Top",Sony One Cinema
 https://030a58d4abe245219e65752f7f51ad25.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneCinema/playlist.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Top",Studio Universal
-http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="TelecinePremium.br@SD" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="Top",Telecine Premium
 http://45.185.15.154:9080/stream/28/index.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="Ação",Adrenalina Pura

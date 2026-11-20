@@ -16,7 +16,6 @@ IPTV-org#Pluto TV Series Drama#https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
 IPTV-org#Pluto TV Series Sci-Fi#https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 IPTV-org#Pluto TV Terror Trash#https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
 IPTV-org#Sony Channel (Brazil) (720p)#http://170.83.16.50/SONY_CHANNEL/index.m3u8
-IPTV-org#Studio Universal Latin America Brazil (720p)#http://187.102.210.46/universo/index.m3u8
 IPTV-org#Telecine Action (1080p)#http://46.151.196.223:14326
 IPTV-org#Telecine Cult#http://45.185.15.154:9080/stream/64/index.m3u8
 IPTV-org#Telecine Fun#http://45.185.15.154:9080/stream/63/index.m3u8
@@ -60,6 +59,7 @@ Movieark#Ação Total TV#https://ffalconnow.api.leiniao.com/media-channel-api/ff
 Movieark#Booh!#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ae48d90078af4f5e960904810501e546/playlist.m3u8
 Movieark#Cine Familia#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ebdd098e1daf4002a64bb6e5014cd704/playlist.m3u8
 Movieark#CSI New York#https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6aaff44baba16f4fd4fd83b1/bunnycontent_main.m3u8
+Movieark#Film Plus#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/aab19982787e483a8350a1ba06826cab/playlist.m3u8
 Movieark#Film Plus Action#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3454e59a9e684ebfa9efc1a3feb15bb7/playlist.m3u8
 Movieark#Film Plus Emotion#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8
 Movieark#Film Plus Family#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ad9587541ca94b08aefe8b63f11537fa/playlist.m3u8

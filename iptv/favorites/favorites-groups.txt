@@ -16,7 +16,6 @@ IPTV-org#Pluto TV Series Drama#Séries
 IPTV-org#Pluto TV Series Sci-Fi#Séries
 IPTV-org#Pluto TV Terror Trash#Terror
 IPTV-org#Sony Channel (Brazil) (720p)#Variedades
-IPTV-org#Studio Universal Latin America Brazil (720p)#Top
 IPTV-org#Telecine Action (1080p)#Ação
 IPTV-org#Telecine Cult#Clássicos
 IPTV-org#Telecine Fun#Comédia
@@ -60,6 +59,7 @@ Movieark#Ação Total TV#Ação
 Movieark#Booh!#Terror
 Movieark#Cine Familia#Família
 Movieark#CSI New York#Séries
+Movieark#Film Plus#Top
 Movieark#Film Plus Action#Ação
 Movieark#Film Plus Emotion#Drama
 Movieark#Film Plus Family#Família

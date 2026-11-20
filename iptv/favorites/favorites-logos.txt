@@ -16,7 +16,6 @@ IPTV-org#Pluto TV Series Drama#https://images.pluto.tv/channels/65f060d84e017400
 IPTV-org#Pluto TV Series Sci-Fi#https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png
 IPTV-org#Pluto TV Terror Trash#https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png
 IPTV-org#Sony Channel (Brazil) (720p)#https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png
-IPTV-org#Studio Universal Latin America Brazil (720p)#https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png
 IPTV-org#Telecine Action (1080p)#https://i.imgur.com/BHYWG0h.png
 IPTV-org#Telecine Cult#https://i.imgur.com/6GuHXnr.png
 IPTV-org#Telecine Fun#https://i.imgur.com/MO2Ynki.png
@@ -60,6 +59,7 @@ Movieark#Ação Total TV#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ
 Movieark#Booh!#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0je_3YrLEwiBHw8QYLHk30XIka8Ruym1oI3ZSjuQaQ&s
 Movieark#Cine Familia#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMr_V-oGaLlMj-PcLRfMAAQISoBAX81fX5Jw-QkuAgQ&s
 Movieark#CSI New York#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-QF9AQJTxZYUTQIfi8RYaT1-9eSeZwHukjQ4lgCl4g&s=10
+Movieark#Film Plus#https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg
 Movieark#Film Plus Action#https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-3-1024x576.jpg
 Movieark#Film Plus Emotion#https://yt3.googleusercontent.com/eGjUuYEUojgg-i0PY8kNUTwQ3pce1lbWonb2MTyMPfWFf0LrRuc_9Fm-SqVzHLbP-LRG30jaaw=s176-c-k-c0x00ffffff-no-rj-mo
 Movieark#Film Plus Family#https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-5-1024x576.jpg
