@@ -571,7 +571,7 @@
 #LG#897 Xumo Filmes Grátis
 #LG#898 NEW KMOVIES
 #LG#915 Runtime
-#LG#921 Runtime Ação
+LG#921 Runtime Ação
 #LG#924 Cindie TV
 #LG#926 Filmelier TV Esperança
 #LG#928 Filmelier TV
@@ -1736,7 +1736,7 @@ Redeitv#Séries Classic
 Redeitv#TOP MIX TV CANAL 4 FILMES
 SamsungTVPlus#2565 Sony One - Emoções (BR)
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)
-SamsungTVPlus#2645 Runtime Ação (BR)
+#SamsungTVPlus#2645 Runtime Ação (BR)
 SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)
 SamsungTVPlus#2685 Cindie Lite Portuguese (BR)
