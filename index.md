@@ -59,9 +59,9 @@ function copiarLink(idCampo, botao) {
 
 ## ⚙️ Arquitetura do Projeto
 
-* **[lls-ws/lls-ws.github.io](https://github.com/lls-ws/lls-ws.github.io):** Hospeda os scripts em Shell (`run.sh`, `download.sh`, `favorites.sh`, `playlist.sh`, `check.sh`) e publica a playlist final via GitHub Pages.
-* **[lls-ws/epg](https://github.com/lls-ws/epg/):** Repositório dedicado à geração diária do guia XMLTV compactado (`guide.xml.gz`) a partir de múltiplas fontes (`mi.tv`, `plex.tv`, `pluto.tv` e `whaletvplus.com`).
-* **[Quadro de Gestão (GitHub Projects)](https://github.com/lls-ws/lls-ws.github.io/iptv/projects):** Acompanhamento de melhorias, novos canais e manutenção das fontes.
+* **[lls-ws/lls-ws.github.io](https://github.com/lls-ws/lls-ws.github.io/iptv):** Hospeda os scripts em Shell (`run.sh`, `download.sh`, `favorites.sh`, `playlist.sh`, `check.sh`) e publica a playlist final via GitHub Pages.
+* **[lls-ws/epg](https://github.com/lls-ws/epg/lls):** Repositório dedicado à geração diária do guia XMLTV compactado (`guide.xml.gz`) a partir de múltiplas fontes (`mi.tv`, `plex.tv`, `pluto.tv` e `whaletvplus.com`).
+* **[Quadro de Gestão (GitHub Projects)](https://github.com/lls-ws/lls-ws.github.io/projects):** Acompanhamento de melhorias, novos canais e manutenção das fontes.
 
 <div align="center">
   <sub>Mantido por <a href="https://github.com">lls-ws</a> • Hospedado no GitHub Pages</sub>
