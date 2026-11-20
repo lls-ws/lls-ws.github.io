@@ -45,7 +45,7 @@ LG#917 Runtime Crime#RuntimeCrimen.es@SD
 LG#918 Runtime Romance#RuntimeRomance.es@SD
 LG#919 Runtime Familia#RuntimeFamilia.br@BR
 LG#920 Runtime Comédia#RuntimeComedia.br@BR
-LG#921 Runtime Ação#
+LG#921 Runtime Ação#RuntimeAcao.br@BR
 LG#923 Sessao Trash#SessaoTrash.br@BR
 LG#924 Cindie TV#CindieTV.br@BR
 LG#925 Filmelier TV Vida Real#FilmelierTVVidaReal.br@BR

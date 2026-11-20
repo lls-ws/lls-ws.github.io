@@ -22,7 +22,7 @@ IPTV-org#Telecine Cult#Clássicos
 IPTV-org#Telecine Fun#Comédia
 IPTV-org#Telecine Premium#Top
 IPTV-org#Telecine Touch#Drama
-LG#161 Sony One Emoções#NOGROUP
+LG#161 Sony One Emoções#Séries
 LG#162 FilmRise Séries Gratuitas#Séries
 LG#899 American Classics#Clássicos
 LG#900 Dark Matter TV Brazil#Ficção

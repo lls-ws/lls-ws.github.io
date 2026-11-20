@@ -31,7 +31,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3454e59a9e6
 https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png" group-title="Ação",Pluto de Luta
 https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Ação",Runtime Ação
+#EXTINF:-1 tvg-id="RuntimeAcao.br@BR" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Ação",Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13876
 #EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Ação",Telecine Action
 http://46.151.196.223:14326
@@ -155,7 +155,7 @@ https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
 https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us@BR" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Séries",Pluto Series Sci-Fi
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+#EXTINF:-1 tvg-id="SonyOneEmocoes.br@BR" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="Séries",Sony One Emoções
+https://a100d86d23bf4aab8a2f5d0a97acc2c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneEmocoes/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png" group-title="Séries",Séries Classic
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneEmocoes.br@BR" tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="NOGROUP",Sony One Emoções
-https://a100d86d23bf4aab8a2f5d0a97acc2c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneEmocoes/playlist.m3u8
