@@ -51,26 +51,17 @@ function copiarLink(idCampo, botao) {
 
 | Recurso | Detalhes | Atualização Automática |
 | :--- | :--- | :--- |
-| **Canais Ativos** | **91 canais** selecionados (Samsung TV Plus, LG, Plex, Pluto TV, Whale TV+ e TV Aberta/Paga) | Toda Segunda-feira às 05:00 |
-| **Cobertura EPG** | **66 canais** com sinopses, horários e capas em português | Todos os dias às 00:00 |
+| **Canais Ativos** | **80 canais** selecionados (Samsung TV Plus, LG, Plex, Pluto TV, Whale TV+ e TV Aberta/Paga) | Toda Segunda-feira às 05:00 |
+| **Cobertura EPG** | **57 canais** com sinopses, horários e capas em português | Todos os dias às 00:00 |
 | **Verificação de Links** | Script automatizado (`check.sh`) para remoção de streams offline | Integrado ao pipeline |
-
----
-
-## 📻 Rádios Online (Streams Diretos)
-
-| Estação | Estilo | Link M3U Direto |
-| :--- | :--- | :--- |
-| **🎸 Uturn Radio** | Classic Rock | `https://uturnradio.com` |
-| **🤘 89 FM — A Rádio Rock** | Rock / Pop Rock | `https://radios.com.br` |
 
 ---
 
 ## ⚙️ Arquitetura do Projeto
 
-* **[lls-ws/lls-ws.github.io](https://github.com):** Hospeda os scripts em Shell (`run.sh`, `download.sh`, `favorites.sh`, `playlist.sh`, `check.sh`) e publica a playlist final via GitHub Pages.
-* **[lls-ws/epg](https://github.com):** Repositório dedicado à geração diária do guia XMLTV compactado (`guide.xml.gz`) a partir de múltiplas fontes (`mi.tv`, `plex.tv`, `pluto.tv` e `whaletvplus.com`).
-* **[Quadro de Gestão (GitHub Projects)](https://github.com):** Acompanhamento de melhorias, novos canais e manutenção das fontes.
+* **[lls-ws/lls-ws.github.io](https://github.com/lls-ws/iptv/):** Hospeda os scripts em Shell (`run.sh`, `download.sh`, `favorites.sh`, `playlist.sh`, `check.sh`) e publica a playlist final via GitHub Pages.
+* **[lls-ws/epg](https://github.com/lls-ws/epg/):** Repositório dedicado à geração diária do guia XMLTV compactado (`guide.xml.gz`) a partir de múltiplas fontes (`mi.tv`, `plex.tv`, `pluto.tv` e `whaletvplus.com`).
+* **[Quadro de Gestão (GitHub Projects)](https://github.com/lls-ws/iptv/projects):** Acompanhamento de melhorias, novos canais e manutenção das fontes.
 
 <div align="center">
   <sub>Mantido por <a href="https://github.com">lls-ws</a> • Hospedado no GitHub Pages</sub>
