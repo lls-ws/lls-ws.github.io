@@ -1,5 +1,0 @@
-simple-iptv-src/source/main.brs:9:        url = "https://tinyurl.com/yaoc6zpo"
-simple-iptv-src/components/MainScene/MainScene.brs:128:        m.top.dialog.text = "https://tinyurl.com/yaoc6zpo"
-simple-iptv-src/components/MainScene/MainScene.xml:5:<component name="MainScene" extends="Scene" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://rokudev.roku.com/rokudev/schema/RokuSceneGraph.xsd">
-simple-iptv-src/components/get_channel_list/get_channel_list.brs:14:	httpsReg = CreateObject("roRegex", "^https:", "")
-simple-iptv-src/components/get_channel_list/get_channel_list.brs:15:	if httpsReg.isMatch(feedurl)
