@@ -1,9 +1,9 @@
 LG
 WhaleTVPlus
-TCL
 Movieark
 SamsungTVPlus
-IPTV-org
+TCL
+Soultv
 Redeitv
 Olhosnatv
-Soultv
+IPTV-org
