@@ -1,8 +1,6 @@
 ==========================================================
-Verificação de Links e Codecs (Roku) em: 20/11/2026 às 02:55:04
-Total testado: 80 | Com problema: 2
+Verificação de Links e Codecs (Roku) em: 20/11/2026 às 03:09:43
+Total testado: 79 | Com problema: 1
 ==========================================================
-SamsungTVPlus#2697 Film Plus TV (BR)  |  Grupo: [Top]  |  Erro: VÍDEO INCOMPATÍVEL ROKU (hevc)
-    URL: https://pb-7dac9juxe0240.akamaized.net/playlist.m3u8
-IPTV-org#Studio Universal Latin America Brazil (720p)  |  Grupo: [Top]  |  Erro: ÁUDIO INCOMPATÍVEL ROKU (mp2)
-    URL: http://187.102.210.46/universo/index.m3u8
+SamsungTVPlus#2695 MyTime Movie Network (BR)  |  Grupo: [Romance]  |  Erro: HTTP 502
+    URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
