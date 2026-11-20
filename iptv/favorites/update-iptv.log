@@ -10,10 +10,10 @@ Baixando: WhaleTVPlus...
 Baixando: IPTV-org...
 === 2. Extraindo metadados para temp/ ===
 === 3. Atualizando favorites/favorites-channels.txt ===
-Novos canais adicionados em favorites-channels.txt: 1
+Novos canais adicionados em favorites-channels.txt: 0
 Download e extração concluídos!
 === 1. Detectando novos canais para news-channels.log ===
-Adicionados 1 novos canais no topo de /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/favorites/news-channels.log
+Nenhum canal inédito encontrado nesta verificação.
 === 2. Atualizando arquivos de favoritos ===
 Arquivos sincronizados com sucesso:
    80 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/favorites/favorites-ids.txt
