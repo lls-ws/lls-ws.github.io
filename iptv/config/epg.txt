@@ -1,1 +1,1 @@
-LLS_TV#https://lls-ws.github.io/iptv/guide.xml
+LLS_TV#https://lls-ws.github.io/iptv/guide.xml.gz
