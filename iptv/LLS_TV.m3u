@@ -35,13 +35,13 @@ https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13876
 #EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Ação",Telecine Action
 http://46.151.196.223:14326
+#EXTINF:-1 tvg-id="FilmesSuspense.us@Brazil" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Suspense",Filmes Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Suspense",Pluto Crime
 https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
 #EXTINF:-1 tvg-id="RuntimeCrimen.es@SD" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_crime_brazil_1400x2000.png" group-title="Suspense",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11824
-#EXTINF:-1 tvg-id="FilmesSuspense.us@Brazil" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Suspense",Suspense
-https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMr_V-oGaLlMj-PcLRfMAAQISoBAX81fX5Jw-QkuAgQ&s" group-title="Família",Familia
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMr_V-oGaLlMj-PcLRfMAAQISoBAX81fX5Jw-QkuAgQ&s" group-title="Família",Cine Familia
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ebdd098e1daf4002a64bb6e5014cd704/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-5-1024x576.jpg" group-title="Família",Film Plus Family
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ad9587541ca94b08aefe8b63f11537fa/playlist.m3u8

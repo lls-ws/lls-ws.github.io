@@ -35,7 +35,7 @@
 ### Movieark (9 canais)
 * Ação Total
 * Booh!
-* Familia
+* Cine Familia
 * Film Plus
 * Film Plus Action
 * Film Plus Emotion
