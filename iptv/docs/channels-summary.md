@@ -10,8 +10,8 @@
 | Descrição | Total |
 | :-- | --: |
 | **Total de canais:** | **79** canais |
-| **Total com EPG** | **67** canais |
-| **Total sem EPG** | **12** canais |
+| **Total com EPG** | **56** canais |
+| **Total sem EPG** | **23** canais |
 
 ---
 #### Nota:
@@ -19,17 +19,29 @@
 * **12 canais de Séries**
 ---
 
-## Lista dos 12 Canais sem EPG
+## Lista dos 23 Canais sem EPG
 
 
-### Movieark (7 canais)
+### LG (8 canais)
+* `931` Adrenalina Pura Halloween
+* `899` American Classics
+* `899` Dark Matter
+* `926` Filmelier Esperança
+* `927` Filmelier Paixão
+* `925` Filmelier Vida Real
+* `940` Sony One Cinema
+* `161` Sony One Emoções
+
+### Movieark (9 canais)
 * Ação Total
 * Booh!
 * Familia
+* Film Plus
 * Film Plus Action
 * Film Plus Emotion
 * Film Plus Family
 * Medo
+* Romance Channel
 
 ### Olhosnatv (3 canais)
 * Channel Network
@@ -39,3 +51,6 @@
 ### Redeitv (2 canais)
 * Séries Classic
 * Top Mix
+
+### WhaleTVPlus (1 canal)
+* Scifi World

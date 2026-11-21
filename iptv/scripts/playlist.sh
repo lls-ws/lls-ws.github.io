@@ -367,10 +367,19 @@ BALANCO_MD="${BASE_DIR}/docs/channels-summary.md" # <--- Ajuste se o nome do .md
 
 if [ -f "${OUT_M3U}" ] && [ -f "${BALANCO_MD}" ]; then
     python3 -c '
-import re, sys
+import re, sys, os
+import xml.etree.ElementTree as ET
 from collections import defaultdict
 
-m3u_path, fav_urls_path, fav_ch_path, md_path = sys.argv[1:5]
+m3u_path, fav_urls_path, fav_ch_path, md_path, xml_path = sys.argv[1:6]
+
+xml_ids = set()
+if os.path.exists(xml_path):
+    xml_ids = {
+        ch.attrib.get("xmltv_id", "").strip()
+        for ch in ET.parse(xml_path).findall(".//channel")
+        if ch.attrib.get("xmltv_id", "").strip()
+    }
 
 # 1. Mapeia URL -> (Provedor, Nome Original com numero se houver)
 url_to_meta = {}
@@ -427,7 +436,7 @@ while i < len(lines):
         else:
             filmes_count += 1
 
-        if tvg_id:
+        if tvg_id and (not xml_ids or tvg_id in xml_ids):
             com_epg += 1
         else:
             sem_epg += 1
@@ -472,5 +481,5 @@ with open(md_path, "w", encoding="utf-8") as f:
     f.write(md_txt)
 
 print(f"Balanço final atualizado em: {md_path} ({total} total | {com_epg} com EPG | {sem_epg} sem EPG)")
-' "${OUT_M3U}" "${FAV_URLS}" "${FAV_CHANNELS}" "${BALANCO_MD}"
+' "${OUT_M3U}" "${FAV_URLS}" "${FAV_CHANNELS}" "${BALANCO_MD}" "${CHANNELS_XML}"
 fi
