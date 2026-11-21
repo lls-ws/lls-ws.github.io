@@ -28,7 +28,7 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 | :--- | :--- |
 | **Fontes** | [epg.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/epg.txt) • [sources.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/sources.txt) |
 | **Metadados** | [favorites-ids.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-ids.txt) • [favorites-urls.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-urls.txt) • [favorites-logos.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-logos.txt) |
-| **Canais Ativos/EPG** | [favorites-channels.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-channels.txt) • [channels.xml](https://github.com/lls-ws/epg/blob/master/lls/channels.xml) | 
+| **Canais Ativos/EPG** | [favorites-channels.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-channels.txt) • [channels.xml](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/channels.xml) | 
 | **Grupos & Ordem** | [groups-map.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/groups-map.txt) • [groups-map-order.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/groups-map-order.txt) • [favorites-groups.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-groups.txt) |
 | **Filtros & Nomes** | [clean-words.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/clean-words.txt) • [format-names.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/format-names.txt) • [providers-priority.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/providers-priority.txt) |
 
