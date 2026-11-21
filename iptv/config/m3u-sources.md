@@ -1,8 +1,8 @@
 **⚙️ Manutenção** [Painel de Controle](https://github.com/lls-ws/lls-ws.github.io/tree/main/iptv/README.md#painel)
 
-# Sources M3U [apsattv](https://www.apsattv.com) | [iptv-org](https://github.com/iptv-org/iptv/blob/master/PLAYLISTS.md)
+# Fontes M3U [apsattv](https://www.apsattv.com) | [iptv-org](https://github.com/iptv-org/iptv/blob/master/PLAYLISTS.md)
 
-# Fontes M3U Utilizadas
+### Provedores M3U Utilizados
 
 * **LG Channels ( Canais)**
   * [brlg.m3u](https://www.apsattv.com/brlg.m3u)
