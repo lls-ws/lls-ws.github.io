@@ -221,7 +221,17 @@ sub showEpgForNode(chNode as object)
 		if info.nextTitle <> "" and info.nextDesc <> invalid and info.nextDesc <> ""
 			fullDesc = fullDesc + chr(10) + chr(10) + "A SEGUIR (" + info.nextTime + " - " + info.nextTitle + "):" + chr(10) + info.nextDesc
 		end if
-		m.txtDesc.text = fullDesc
+		if m.txtDesc <> invalid then m.descGroup.RemoveChild(m.txtDesc)
+		newTxt = CreateObject("roSGNode", "ScrollableText")
+		newTxt.id = "txtDesc"
+		newTxt.translation = [30, 175]
+		newTxt.width = 680
+		newTxt.height = 585
+		newTxt.font = "font:SmallSystemFont"
+		newTxt.color = "0xE2E8F0FF"
+		newTxt.text = fullDesc
+		m.descGroup.AppendChild(newTxt)
+		m.txtDesc = newTxt
 	else
 		m.lblNow.text = "Guia de programação indisponível para este canal"
 		m.lblNext.text = ""
