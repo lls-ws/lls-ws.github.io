@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>SimpleIPTV-LLS</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; user-select: none; }
+  body { width: 1920px; height: 1080px; overflow: hidden; background: #000; font-family: 'SamsungOne', Arial, sans-serif; color: #fff; }
+  video { position: fixed; top: 0; left: 0; width: 1920px; height: 1080px; object-fit: contain; background: #000; z-index: 1; }
+
+  /* Barra Lateral Esquerda (10 Canais) */
+  #sidebarGroup {
+    position: fixed; top: 20px; left: 40px; width: 620px; height: 790px;
+    background: rgba(11, 15, 25, 0.92); border-radius: 12px; padding: 25px; z-index: 10;
+  }
+  .panel-header { font-size: 30px; font-weight: bold; color: #38BDF8; margin-bottom: 18px; }
+  #channelList { list-style: none; height: 680px; overflow: hidden; }
+  .group-item { font-size: 24px; font-weight: bold; color: #38BDF8; padding: 14px 12px 6px; text-transform: uppercase; letter-spacing: 1px; }
+  .channel-item {
+    font-size: 28px; color: #CBD5E1; padding: 14px 16px; border-radius: 8px;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis; height: 62px; line-height: 34px;
+  }
+  .channel-item.focused { background: #FFFFFF; color: #0B0F19; font-weight: bold; }
+  .channel-item.playing::before { content: "▶ "; color: #38BDF8; }
+  .channel-item.focused.playing::before { color: #0B0F19; }
+
+  /* Barra Lateral Direita (Sinopse EPG) */
+  #descGroup {
+    position: fixed; top: 20px; right: 40px; width: 740px; height: 790px;
+    background: rgba(11, 15, 25, 0.95); border-radius: 12px; padding: 25px 30px; z-index: 10; display: none;
+  }
+  #lblDescTitle { font-size: 30px; font-weight: bold; color: #FACC15; margin-bottom: 20px; line-height: 1.25; }
+  #descViewport { height: 585px; overflow: hidden; position: relative; }
+  #descContent { position: relative; top: 0; transition: top 0.12s ease-out; }
+  .desc-now { font-size: 26px; color: #F8FAFC; line-height: 1.45; }
+  .desc-next-hdr { font-size: 26px; font-weight: bold; color: #FACC15; margin-top: 32px; margin-bottom: 14px; }
+  .desc-next { font-size: 25px; color: #93C5FD; line-height: 1.45; }
+
+  /* Banner Inferior de EPG */
+  #epgBanner {
+    position: fixed; bottom: 25px; left: 40px; width: 1840px; height: 230px;
+    background: rgba(11, 15, 25, 0.95); border-radius: 12px; padding: 22px 30px; z-index: 10; display: none;
+  }
+  #lblChannel { font-size: 30px; font-weight: bold; color: #38BDF8; margin-bottom: 8px; }
+  #lblNow { font-size: 38px; font-weight: bold; color: #FACC15; margin-bottom: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #lblNext { font-size: 26px; color: #E2E8F0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+</style>
+<script src="https://jsdelivr.net"></script>
+</head>
+<body>
+  <video id="videoPlayer" autoplay></video>
+
+  <div id="sidebarGroup">
+    <div class="panel-header">LLS TV • Canais</div>
+    <ul id="channelList"></ul>
+  </div>
+
+  <div id="descGroup">
+    <div class="panel-header">SINOPSE</div>
+    <div id="lblDescTitle"></div>
+    <div id="descViewport">
+      <div id="descContent"></div>
+    </div>
+  </div>
+
+  <div id="epgBanner">
+    <div id="lblChannel">Carregando canais...</div>
+    <div id="lblNow">Aguarde...</div>
+    <div id="lblNext"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
