@@ -292,6 +292,24 @@ sub renderColoredDesc(nowTxt as string, nextHdr as string, nextTxt as string)
 	end if
 end sub
 
+
+sub syncListToCurrentChannel()
+	if m.list.content = invalid or m.flatChannels.Count() = 0 then return
+	if m.currentIndex < 0 or m.currentIndex >= m.flatChannels.Count() then return
+
+	entry = m.flatChannels[m.currentIndex]
+	if m.list.content.getChild(0).getChild(0) = invalid
+		m.list.jumpToItem = m.currentIndex
+	else
+		flatListIdx = 0
+		for s = 0 to entry.secIdx - 1
+			flatListIdx = flatListIdx + m.list.content.getChild(s).getChildCount()
+		end for
+		flatListIdx = flatListIdx + entry.itemIdx
+		m.list.jumpToItem = flatListIdx
+	end if
+end sub
+
 sub updateEpgBanner()
 	if m.currentIndex >= 0 and m.currentIndex < m.flatChannels.Count() then showEpgForNode(m.flatChannels[m.currentIndex].node)
 end sub
@@ -311,6 +329,7 @@ function onKeyEvent(key as String, press as Boolean) as Boolean
 			playChannelByIndex(m.currentIndex + 1, false)
 			return true
 		else if key = "left" or key = "back"
+			syncListToCurrentChannel()
 			m.sidebarGroup.visible = true
 			m.list.SetFocus(true)
 			updateEpgBanner()
