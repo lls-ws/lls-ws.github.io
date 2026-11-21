@@ -304,6 +304,10 @@ for prov, label in labels.items():
     pattern = rf"(\*\*{re.escape(label)} \()\s*\d*\s*Canais?(\)\*\*)"
     md_txt = re.sub(pattern, rf"\g<1>{texto_canal}\g<2>", md_txt)
 
+total_geral = sum(counts.values())
+texto_total = "1 canal" if total_geral == 1 else f"{total_geral} canais"
+md_txt = re.sub(r"(Total:\s*)\d+\s*cana(?:l|is)", rf"\g<1>{texto_total}", md_txt)
+
 with open(resumo_md, "w", encoding="utf-8") as f:
     f.write(md_txt)
 
