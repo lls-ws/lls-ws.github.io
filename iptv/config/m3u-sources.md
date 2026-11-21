@@ -4,28 +4,28 @@
 
 ### Provedores M3U Utilizados
 
-* **LG Channels ( Canais)**
+* **LG Channels ( 0 Canais)**
   * [brlg.m3u](https://www.apsattv.com/brlg.m3u)
 
-* **TCL TV ( Canais)**
+* **TCL TV ( 0 Canais)**
   * [tclbr.m3u](https://www.apsattv.com/tclbr.m3u)
 
-* **Soul TV ( Canais)**
+* **Soul TV ( 0 Canais)**
   * [soultv.m3u](https://www.apsattv.com/soultv.m3u)
 
-* **Redeitv ( Canais)**
+* **Redeitv ( 0 Canais)**
   * [redeitv.m3u](https://www.apsattv.com/redeitv.m3u)
 
-* **Olhosnatv ( Canais)**
+* **Olhosnatv ( 0 Canais)**
   * [olhosnatv.m3u](https://www.apsattv.com/olhosnatv.m3u)
 
-* **Movieark ( Canais)**
+* **Movieark ( 0 Canais)**
   * [moviearkbr.m3u](https://www.apsattv.com/moviearkbr.m3u)
 
-* **Samsung TV Plus ( Canais)**
+* **Samsung TV Plus ( 0 Canais)**
   * [ssungbra.m3u](https://www.apsattv.com/ssungbra.m3u)
 
-* **Whale TV Plus ( Canais)**
+* **Whale TV Plus ( 0 Canais)**
   * [whaletvplus_br.m3u](https://www.apsattv.com/whaletvplus_br.m3u)
 
 * **IPTV-org ( Canais)**
