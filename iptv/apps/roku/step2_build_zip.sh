@@ -35,34 +35,29 @@ cat << 'EOF' > "${WORK_DIR}/components/MainScene/MainScene.xml"
 <component name="MainScene" extends="Scene" xmlns:xsi="__XML_NS__" xsi:noNamespaceSchemaLocation="__ROKU_XSD__">
 <script type="text/brightscript" uri="pkg:/components/MainScene/MainScene.brs"/>
 <children>
-	<Video
-		id="Video"
-		translation="[0, 0]"
-		width="1920"
-		height="1080" />
+	<Video id="Video" translation="" width="1920" height="1080" />
 
-	<Group id="sidebarGroup" translation="[0, 0]" visible="true">
+	<Group id="sidebarGroup" translation="" visible="true">
 		<Rectangle width="620" height="790" color="0x0B0F19E6" />
-		<Label text="LLS TV • Canais" translation="[50, 35]" font="font:MediumBoldSystemFont" color="0x38BDF8FF" />
-		<LabelList
-			id="list"
-			translation="[50, 95]"
-			itemSize="[520, 56]"
-			numRows="10"
-			sectionDividerTextColor="0x38BDF8FF"
-			focusedColor="0x0B0F19FF"
-			color="0xCBD5E1FF" />
+		<Label text="LLS TV • Canais" translation="" font="font:MediumBoldSystemFont" color="0x38BDF8FF" />
+		<LabelList id="list" translation="" itemSize="" numRows="10" sectionDividerTextColor="0x38BDF8FF" focusedColor="0x0B0F19FF" color="0xCBD5E1FF" />
 	</Group>
 
-	<Group id="epgBanner" translation="[40, 820]" visible="false">
+	<Group id="descGroup" translation="" visible="false">
+		<Rectangle width="740" height="790" color="0x0B0F19F2" />
+		<Label id="lblDescHeader" text="SINOPSE" translation="" font="font:MediumBoldSystemFont" color="0x38BDF8FF" width="670" />
+		<Label id="lblDescTitle" text="" translation="" font="font:MediumBoldSystemFont" color="0xFACC15FF" width="670" wrap="true" maxLines="2" />
+		<ScrollableText id="txtDesc" translation="" width="670" height="580" font="font:SmallSystemFont" color="0xE2E8F0FF" text="Nenhuma descrição disponível." />
+	</Group>
+
+	<Group id="epgBanner" translation="" visible="false">
 		<Rectangle width="1840" height="230" color="0x0B0F19F2" />
-		<Label id="lblChannel" text="" translation="[35, 20]" font="font:LargeBoldSystemFont" color="0x38BDF8FF" width="1770" />
-		<Label id="lblNow" text="Carregando guia..." translation="[35, 85]" font="font:MediumBoldSystemFont" color="0xFACC15FF" width="1770" />
-		<Label id="lblNext" text="" translation="[35, 145]" font="font:MediumSystemFont" color="0xE2E8F0FF" width="1770" />
+		<Label id="lblChannel" text="" translation="" font="font:MediumBoldSystemFont" color="0x38BDF8FF" width="1770" />
+		<Label id="lblNow" text="Carregando guia..." translation="" font="font:LargeBoldSystemFont" color="0xFACC15FF" width="1770" />
+		<Label id="lblNext" text="" translation="" font="font:SmallSystemFont" color="0xE2E8F0FF" width="1770" />
 	</Group>
 
 	<Timer id="osdTimer" repeat="false" duration="5" />
-
 	<get_channel_list id="get_channel_list" control="STOP" />
 	<get_epg id="get_epg" control="STOP" />
 	<save_feed_url id="save_feed_url" control="STOP" />
@@ -76,15 +71,11 @@ sed -i "s|__ROKU_XSD__|${ROKU_XSD}|g" "${WORK_DIR}/components/MainScene/MainScen
 cat << 'EOF' > "${WORK_DIR}/components/MainScene/MainScene.brs"
 sub init()
 	m.top.backgroundURI = "pkg:/images/rsgde_bg_hd.jpg"
-
-	if m.global.feedurl = invalid or m.global.feedurl = ""
-		m.global.feedurl = "__M3U_URL__"
-	end if
+	if m.global.feedurl = invalid or m.global.feedurl = "" then m.global.feedurl = "__M3U_URL__"
 
 	m.save_feed_url = m.top.FindNode("save_feed_url")
 	m.get_channel_list = m.top.FindNode("get_channel_list")
 	m.get_channel_list.ObserveField("content", "SetContent")
-
 	m.get_epg = m.top.FindNode("get_epg")
 	m.get_epg.ObserveField("epgData", "onEpgLoaded")
 
@@ -92,6 +83,10 @@ sub init()
 	m.list = m.top.FindNode("list")
 	m.list.ObserveField("itemSelected", "onListChannelSelected")
 	m.list.ObserveField("itemFocused", "onListChannelFocused")
+
+	m.descGroup = m.top.FindNode("descGroup")
+	m.lblDescTitle = m.top.FindNode("lblDescTitle")
+	m.txtDesc = m.top.FindNode("txtDesc")
 
 	m.video = m.top.FindNode("Video")
 	m.video.ObserveField("state", "checkState")
@@ -115,7 +110,6 @@ end sub
 sub SetContent()
 	root = m.get_channel_list.content
 	if root = invalid then return
-
 	m.list.content = root
 	m.flatChannels = []
 
@@ -123,23 +117,19 @@ sub SetContent()
 		for s = 0 to root.getChildCount() - 1
 			sec = root.getChild(s)
 			for c = 0 to sec.getChildCount() - 1
-				ch = sec.getChild(c)
-				m.flatChannels.Push({ node: ch, secIdx: s, itemIdx: c })
+				m.flatChannels.Push({ node: sec.getChild(c), secIdx: s, itemIdx: c })
 			end for
 		end for
 	else
 		for c = 0 to root.getChildCount() - 1
-			ch = root.getChild(c)
-			m.flatChannels.Push({ node: ch, secIdx: 0, itemIdx: c })
+			m.flatChannels.Push({ node: root.getChild(c), secIdx: 0, itemIdx: c })
 		end for
 	end if
 
 	m.sidebarGroup.visible = true
+	m.descGroup.visible = false
 	m.list.SetFocus(true)
-
-	if m.flatChannels.Count() > 0
-		playChannelByIndex(0, false)
-	end if
+	if m.flatChannels.Count() > 0 then playChannelByIndex(0, false)
 end sub
 
 sub onEpgLoaded()
@@ -151,17 +141,12 @@ end sub
 
 sub onListChannelFocused()
 	idx = getFlatIndexFromList()
-	if idx >= 0 and idx < m.flatChannels.Count()
-		chNode = m.flatChannels[idx].node
-		showEpgForNode(chNode)
-	end if
+	if idx >= 0 and idx < m.flatChannels.Count() then showEpgForNode(m.flatChannels[idx].node)
 end sub
 
 sub onListChannelSelected()
 	idx = getFlatIndexFromList()
-	if idx >= 0
-		playChannelByIndex(idx, true)
-	end if
+	if idx >= 0 then playChannelByIndex(idx, true)
 end sub
 
 function getFlatIndexFromList() as integer
@@ -174,9 +159,7 @@ function getFlatIndexFromList() as integer
 			itemRel = itemRel - m.list.content.getChild(i).getChildCount()
 		end for
 		for k = 0 to m.flatChannels.Count() - 1
-			if m.flatChannels[k].secIdx = m.list.currFocusSection and m.flatChannels[k].itemIdx = itemRel
-				return k
-			end if
+			if m.flatChannels[k].secIdx = m.list.currFocusSection and m.flatChannels[k].itemIdx = itemRel then return k
 		end for
 	end if
 	return -1
@@ -188,17 +171,17 @@ sub playChannelByIndex(idx as integer, closeSidebar as boolean)
 	if idx >= m.flatChannels.Count() then idx = 0
 
 	m.currentIndex = idx
-	entry = m.flatChannels[idx]
-	content = entry.node
+	content = m.flatChannels[idx].node
 
 	if closeSidebar
+		m.descGroup.visible = false
 		m.sidebarGroup.visible = false
 		m.list.SetFocus(false)
+		m.txtDesc.SetFocus(false)
 		m.top.SetFocus(true)
 	end if
 
 	showEpgForNode(content)
-
 	if m.video.content <> invalid and m.video.content.url = content.url then return
 
 	content.streamFormat = "hls"
@@ -216,23 +199,31 @@ end sub
 sub showEpgForNode(chNode as object)
 	if chNode = invalid then return
 	m.lblChannel.text = chNode.title
-
 	tvgId = chNode.id
+
 	if tvgId <> "" and m.epgMap.DoesExist(tvgId)
 		info = m.epgMap[tvgId]
 		if info.nowTitle <> ""
 			m.lblNow.text = "AGORA (" + info.nowTime + "): " + info.nowTitle
+			m.lblDescTitle.text = info.nowTitle + " (" + info.nowTime + ")"
 		else
 			m.lblNow.text = "AGORA: Programação não informada"
+			m.lblDescTitle.text = chNode.title
 		end if
-		if info.nextTitle <> ""
-			m.lblNext.text = "A SEGUIR (" + info.nextTime + "): " + info.nextTitle
-		else
-			m.lblNext.text = ""
+		m.lblNext.text = ""
+		if info.nextTitle <> "" then m.lblNext.text = "A SEGUIR (" + info.nextTime + "): " + info.nextTitle
+
+		fullDesc = "Sem sinopse disponível para o programa atual."
+		if info.nowDesc <> invalid and info.nowDesc <> "" then fullDesc = info.nowDesc
+		if info.nextTitle <> "" and info.nextDesc <> invalid and info.nextDesc <> ""
+			fullDesc = fullDesc + chr(10) + chr(10) + "A SEGUIR (" + info.nextTime + " - " + info.nextTitle + "):" + chr(10) + info.nextDesc
 		end if
+		m.txtDesc.text = fullDesc
 	else
 		m.lblNow.text = "Guia de programação indisponível para este canal"
 		m.lblNext.text = ""
+		m.lblDescTitle.text = chNode.title
+		m.txtDesc.text = "Guia de programação indisponível para este canal."
 	end if
 
 	m.epgBanner.visible = true
@@ -241,21 +232,17 @@ sub showEpgForNode(chNode as object)
 end sub
 
 sub updateEpgBanner()
-	if m.currentIndex >= 0 and m.currentIndex < m.flatChannels.Count()
-		showEpgForNode(m.flatChannels[m.currentIndex].node)
-	end if
+	if m.currentIndex >= 0 and m.currentIndex < m.flatChannels.Count() then showEpgForNode(m.flatChannels[m.currentIndex].node)
 end sub
 
 sub hideOsd()
-	if not m.sidebarGroup.visible
-		m.epgBanner.visible = false
-	end if
+	if not m.sidebarGroup.visible and not m.descGroup.visible then m.epgBanner.visible = false
 end sub
 
 function onKeyEvent(key as String, press as Boolean) as Boolean
 	if not press then return false
 
-	if not m.sidebarGroup.visible
+	if not m.sidebarGroup.visible and not m.descGroup.visible
 		if key = "up"
 			playChannelByIndex(m.currentIndex - 1, false)
 			return true
@@ -274,8 +261,13 @@ function onKeyEvent(key as String, press as Boolean) as Boolean
 			showdialog()
 			return true
 		end if
-	else
-		if key = "right"
+	else if m.sidebarGroup.visible and not m.descGroup.visible
+		if key = "left"
+			m.descGroup.visible = true
+			m.list.SetFocus(false)
+			m.txtDesc.SetFocus(true)
+			return true
+		else if key = "right"
 			m.sidebarGroup.visible = false
 			m.list.SetFocus(false)
 			m.top.SetFocus(true)
@@ -285,32 +277,39 @@ function onKeyEvent(key as String, press as Boolean) as Boolean
 			showdialog()
 			return true
 		end if
+	else if m.descGroup.visible
+		if key = "right" or key = "back"
+			m.descGroup.visible = false
+			m.txtDesc.SetFocus(false)
+			m.sidebarGroup.visible = true
+			m.list.SetFocus(true)
+			return true
+		else if key = "options"
+			showdialog()
+			return true
+		end if
 	end if
-
 	return false
 end function
 
 sub checkState()
-	state = m.video.state
-	if state = "error"
+	if m.video.state = "error"
 		m.lblNow.text = "Erro ao reproduzir canal (" + str(m.video.errorCode).Trim() + "): " + m.video.errorMsg
 		m.epgBanner.visible = true
 	end if
 end sub
 
 sub showdialog()
-	keyboarddialog = createObject("roSGNode", "KeyboardDialog")
-	keyboarddialog.backgroundUri = "pkg:/images/rsgde_bg_hd.jpg"
-	keyboarddialog.title = "URL DA PLAYLIST M3U"
-	keyboarddialog.buttons = ["OK", "Restaurar LLS TV", "Salvar"]
-	keyboarddialog.optionsDialog = true
-
-	m.top.dialog = keyboarddialog
+	kd = createObject("roSGNode", "KeyboardDialog")
+	kd.backgroundUri = "pkg:/images/rsgde_bg_hd.jpg"
+	kd.title = "URL DA PLAYLIST M3U"
+	kd.buttons = ["OK", "Restaurar LLS TV", "Salvar"]
+	kd.optionsDialog = true
+	m.top.dialog = kd
 	m.top.dialog.text = m.global.feedurl
 	m.top.dialog.keyboard.textEditBox.cursorPosition = len(m.global.feedurl)
 	m.top.dialog.keyboard.textEditBox.maxTextLength = 300
-
-	keyboarddialog.observeFieldScoped("buttonSelected", "onKeyPress")
+	kd.observeFieldScoped("buttonSelected", "onKeyPress")
 end sub
 
 sub onKeyPress()

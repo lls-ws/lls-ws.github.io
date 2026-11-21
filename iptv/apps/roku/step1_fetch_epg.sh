@@ -158,12 +158,16 @@ sub fetchEpg()
 			stopSec = parseXmltvTime(p@stop)
 			if stopSec > nowSec
 				if not epgMap.DoesExist(ch)
-					epgMap[ch] = { nowTitle: "", nowTime: "", nextTitle: "", nextTime: "" }
+					epgMap[ch] = { nowTitle: "", nowTime: "", nowDesc: "", nextTitle: "", nextTime: "", nextDesc: "" }
 				end if
 				entry = epgMap[ch]
 				titleNodes = p.GetNamedElements("title")
 				pTitle = ""
 				if titleNodes.Count() > 0 then pTitle = titleNodes[0].GetText()
+
+				descNodes = p.GetNamedElements("desc")
+				pDesc = ""
+				if descNodes.Count() > 0 then pDesc = descNodes[0].GetText()
 
 				hhmmStart = mid(p@start, 9, 2) + ":" + mid(p@start, 11, 2)
 				hhmmStop = mid(p@stop, 9, 2) + ":" + mid(p@stop, 11, 2)
@@ -171,9 +175,11 @@ sub fetchEpg()
 				if startSec <= nowSec and stopSec > nowSec
 					entry.nowTitle = pTitle
 					entry.nowTime = hhmmStart + " - " + hhmmStop
+					entry.nowDesc = pDesc
 				else if startSec > nowSec and entry.nextTitle = ""
 					entry.nextTitle = pTitle
 					entry.nextTime = hhmmStart + " - " + hhmmStop
+					entry.nextDesc = pDesc
 				end if
 			end if
 		end if
