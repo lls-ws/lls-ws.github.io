@@ -245,3 +245,68 @@ with open(m3u_file, "w", encoding="utf-8") as f:
 
 print(f"Playlist ordenada com sucesso! ({len(entradas)} canais organizados)")
 EOF
+
+# Atualiza automaticamente a contagem de canais por provedor em config/m3u-sources.md
+RESUMO_MD="${BASE_DIR}/config/m3u-sources.md"
+
+if [ -f "${RESUMO_MD}" ]; then
+    python3 -c '
+import re, sys
+
+fav_channels = sys.argv[1]
+fav_urls = sys.argv[2]
+resumo_md = sys.argv[3]
+
+valid_keys = set()
+with open(fav_urls, "r", encoding="utf-8") as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = line.split("#", 2)
+        if len(parts) == 3 and parts[2].startswith("http"):
+            valid_keys.add(f"{parts[0]}#{parts[1]}")
+
+counts = {
+    "LG": 0, "TCL": 0, "Soultv": 0, "Redeitv": 0,
+    "Olhosnatv": 0, "Movieark": 0, "SamsungTVPlus": 0,
+    "WhaleTVPlus": 0, "IPTV-org": 0
+}
+
+with open(fav_channels, "r", encoding="utf-8") as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line in valid_keys:
+            prov = line.split("#", 1)[0]
+            if prov in counts:
+                counts[prov] += 1
+
+labels = {
+    "LG": "LG Channels",
+    "TCL": "TCL TV",
+    "Soultv": "Soul TV",
+    "Redeitv": "Redeitv",
+    "Olhosnatv": "Olhosnatv",
+    "Movieark": "Movieark",
+    "SamsungTVPlus": "Samsung TV Plus",
+    "WhaleTVPlus": "Whale TV Plus",
+    "IPTV-org": "IPTV-org"
+}
+
+with open(resumo_md, "r", encoding="utf-8") as f:
+    md_txt = f.read()
+
+for prov, label in labels.items():
+    qtd = counts[prov]
+    texto_canal = "1 Canal" if qtd == 1 else f"{qtd} Canais"
+    pattern = rf"(\*\*{re.escape(label)} \()\s*\d*\s*Canais?(\)\*\*)"
+    md_txt = re.sub(pattern, rf"\g<1>{texto_canal}\g<2>", md_txt)
+
+with open(resumo_md, "w", encoding="utf-8") as f:
+    f.write(md_txt)
+
+print(f"Resumo de provedores atualizado em: {resumo_md}")
+' "${FAV_DIR}/favorites-channels.txt" "${FAV_DIR}/favorites-urls.txt" "${RESUMO_MD}"
+fi

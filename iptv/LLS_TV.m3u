@@ -27,7 +27,7 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e9
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3454e59a9e684ebfa9efc1a3feb15bb7/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/logoAlt_1770996295190.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Ação",Pluto Ação
 https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png" group-title="Ação",Pluto de Luta
+#EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png" group-title="Ação",Pluto Luta
 https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
 #EXTINF:-1 tvg-id="RuntimeAcao.br@BR" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png" group-title="Ação",Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13876
@@ -101,7 +101,7 @@ https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
 #EXTINF:-1 tvg-id="SessaoTrash.br@BR" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Logo_SESSAOTRASH_400x200.png" group-title="Terror",Sessao Trash
 https://amg00711-amg00711c11-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00711-amg00711c11-amgplt0026/playlist.m3u8
-#EXTINF:-1 tvg-id="GrjngoFilmesDeFaroeste.br@BR" tvg-logo="https://i.ytimg.com/vi/v6ux1Oty8EA/hq720.jpg" group-title="Faroeste",Grjingo de Faroeste
+#EXTINF:-1 tvg-id="GrjngoFilmesDeFaroeste.br@BR" tvg-logo="https://i.ytimg.com/vi/v6ux1Oty8EA/hq720.jpg" group-title="Faroeste",Grjingo Faroeste
 https://cc-4dvoxbmwicuqr.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBangBang.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png" group-title="Faroeste",Pluto Bang Bang
 https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
