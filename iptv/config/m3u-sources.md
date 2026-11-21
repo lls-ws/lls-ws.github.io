@@ -28,5 +28,5 @@
 * **Whale TV Plus ( 0 Canais)**
   * [whaletvplus_br.m3u](https://www.apsattv.com/whaletvplus_br.m3u)
 
-* **IPTV-org ( Canais)**
+* **IPTV-org ( 0 Canais)**
   * [br.m3u](https://iptv-org.github.io/iptv/countries/br.m3u)
