@@ -27,12 +27,10 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 | Categoria | Arquivos |
 | :--- | :--- |
 | **Fontes** | [epg.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/epg.txt) • [sources.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/sources.txt) • [epg-sources.md](https://github.com/lls-ws/epg/blob/master/lls/epg-sources.md) • [m3u-sources.md](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/m3u-sources.md) |
-| **Prioridade** | [providers-priority.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/providers-priority.txt) |
 | **Metadados** | [favorites-ids.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-ids.txt) • [favorites-urls.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-urls.txt) • [favorites-logos.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-logos.txt) |
-| **Canais Ativos** | [favorites-channels.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-channels.txt) • [Channels Status](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/channels_resume.md) |
-| **Canais EPG XML** | [channels.xml](https://github.com/lls-ws/epg/blob/master/lls/channels.xml) |
+| **Canais Ativos/EPG** | [favorites-channels.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-channels.txt) • [channels.xml](https://github.com/lls-ws/epg/blob/master/lls/channels.xml) | 
 | **Grupos & Ordem** | [groups-map.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/groups-map.txt) • [groups-map-order.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/groups-map-order.txt) • [favorites-groups.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/favorites-groups.txt) |
-| **Filtros & Nomes** | [clean-words.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/clean-words.txt) • [format-names.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/format-names.txt) |
+| **Filtros & Nomes** | [clean-words.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/clean-words.txt) • [format-names.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/format-names.txt) • [providers-priority.txt](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/providers-priority.txt) |
 
 ### 📊 Monitoramento, Automação e Arquivos Finais
 
@@ -40,8 +38,9 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 | :--- | :--- |
 | **Logs IPTV** |  [update-iptv.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/update-iptv.log) • [news-channels.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/news-channels.log) <br> [duplicates.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/duplicates.log) • [broken-links.log](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/favorites/broken-links.log) |
 | **Logs EPG** | [update-epg.log](https://github.com/lls-ws/epg/blob/master/lls/update-epg.log) • [EPG Status](https://github.com/lls-ws/epg/blob/master/lls/README.md) |
+| **Status/Resumo** | [Channels Resume](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/channels_resume.md) |
 | **GitHub Actions** | [update-iptv.yml](https://github.com/lls-ws/lls-ws.github.io/blob/main/.github/workflows/update-iptv.yml) • [update-epg.yml](https://github.com/lls-ws/epg/blob/master/.github/workflows/update-epg.yml)  |
-| **Saídas Finais** | [LLS_TV.m3u](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/LLS_TV.m3u) • [guide.xml.gz](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/guide.xml.gz) • [Channels Resume](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/channels_resume.md) |
+| **Saídas Finais** | [LLS_TV.m3u](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/LLS_TV.m3u) • [guide.xml.gz](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/guide.xml.gz) |
 
 ---
 
