@@ -361,3 +361,116 @@ with open(epg_md, "w", encoding="utf-8") as f:
 print(f"Resumo de EPG atualizado em: {epg_md} (Total: {total_epg})")
 ' "${CHANNELS_XML}" "${EPG_MD}"
 fi
+
+# Atualiza automaticamente o Balanço Final da Lista (LLS_TV.m3u)
+BALANCO_MD="${BASE_DIR}/docs/channels-summary.md" # <--- Ajuste se o nome do .md for outro
+
+if [ -f "${OUT_M3U}" ] && [ -f "${BALANCO_MD}" ]; then
+    python3 -c '
+import re, sys
+from collections import defaultdict
+
+m3u_path, fav_urls_path, fav_ch_path, md_path = sys.argv[1:5]
+
+# 1. Mapeia URL -> (Provedor, Nome Original com numero se houver)
+url_to_meta = {}
+active_keys = set()
+with open(fav_ch_path, "r", encoding="utf-8") as f:
+    for line in f:
+        l = line.strip()
+        if l and not l.startswith("#"):
+            active_keys.add(l)
+
+with open(fav_urls_path, "r", encoding="utf-8") as f:
+    for line in f:
+        l = line.strip()
+        if not l or l.startswith("#"):
+            continue
+        parts = l.split("#", 2)
+        if len(parts) == 3:
+            key = f"{parts[0]}#{parts[1]}"
+            if key in active_keys:
+                url = parts[2]
+                url_base = url.split("?", 1)[0]
+                url_to_meta[url] = (parts[0], parts[1])
+                if url_base not in url_to_meta:
+                    url_to_meta[url_base] = (parts[0], parts[1])
+
+# 2. Lê LLS_TV.m3u final
+with open(m3u_path, "r", encoding="utf-8") as f:
+    lines = [l.rstrip("\r\n") for l in f]
+
+total = 0
+com_epg = 0
+sem_epg = 0
+series_count = 0
+filmes_count = 0
+sem_epg_por_prov = defaultdict(list)
+
+i = 0
+while i < len(lines):
+    l = lines[i]
+    if l.startswith("#EXTINF"):
+        url = lines[i + 1] if (i + 1) < len(lines) else ""
+        total += 1
+
+        m_id = re.search(r"tvg-id=\"([^\"]*)\"", l)
+        tvg_id = m_id.group(1).strip() if m_id else ""
+
+        m_grp = re.search(r"group-title=\"([^\"]*)\"", l)
+        grupo = m_grp.group(1).strip() if m_grp else ""
+
+        nome_limpo = l.rsplit(",", 1)[-1].strip()
+
+        if "série" in grupo.lower() or "serie" in grupo.lower():
+            series_count += 1
+        else:
+            filmes_count += 1
+
+        if tvg_id:
+            com_epg += 1
+        else:
+            sem_epg += 1
+            prov, orig_name = url_to_meta.get(url) or url_to_meta.get(url.split("?", 1)[0]) or ("Outros", nome_limpo)
+            # Formata codigo numerico inicial se existir (ex: 899 American Classics -> `899` American Classics)
+            m_num = re.match(r"^(\d+)\s+(.*)$", orig_name)
+            if m_num:
+                item_fmt = f"`{m_num.group(1)}` {nome_limpo}"
+            else:
+                item_fmt = nome_limpo
+            sem_epg_por_prov[prov].append(item_fmt)
+        i += 2
+    else:
+        i += 1
+
+with open(md_path, "r", encoding="utf-8") as f:
+    md_txt = f.read()
+
+# Atualiza tabela de totais
+md_txt = re.sub(r"(\|\s*\*\*Total de canais:\*\*\s*\|\s*\*\*)\d+(\*\*\s*cana(?:l|is)\s*\|)", rf"\g<1>{total}\g<2>", md_txt)
+md_txt = re.sub(r"(\|\s*\*\*Total com EPG\*\*\s*\|\s*\*\*)\d+(\*\*\s*cana(?:l|is)\s*\|)", rf"\g<1>{com_epg}\g<2>", md_txt)
+md_txt = re.sub(r"(\|\s*\*\*Total sem EPG\*\*\s*\|\s*\*\*)\d+(\*\*\s*cana(?:l|is)\s*\|)", rf"\g<1>{sem_epg}\g<2>", md_txt)
+
+# Atualiza Nota (Filmes e Séries)
+md_txt = re.sub(r"(\*\s*\*\*)\d+(\s*cana(?:l|is) de Filmes\*\*)", rf"\g<1>{filmes_count}\g<2>", md_txt)
+md_txt = re.sub(r"(\*\s*\*\*)\d+(\s*cana(?:l|is) de Séries\*\*)", rf"\g<1>{series_count}\g<2>", md_txt)
+
+# Reconstrói a seção ## Lista dos X Canais sem EPG
+sec_lines = [f"## Lista dos {sem_epg} Canais sem EPG\n"]
+for prov in sorted(sem_epg_por_prov.keys()):
+    itens = sorted(sem_epg_por_prov[prov], key=lambda x: re.sub(r"^`\d+`\s*", "", x).lower())
+    qtd_p = len(itens)
+    lbl_c = "1 canal" if qtd_p == 1 else f"{qtd_p} canais"
+    sec_lines.append(f"\n### {prov} ({lbl_c})")
+    for it in itens:
+        sec_lines.append(f"* {it}")
+
+novo_bloco = "\n".join(sec_lines) + "\n"
+md_txt = re.sub(r"## Lista dos \d+ Canais sem EPG[\s\S]*$", novo_bloco, md_txt)
+
+with open(md_path, "w", encoding="utf-8") as f:
+    f.write(md_txt)
+
+print(f"Balanço final atualizado em: {md_path} ({total} total | {com_epg} com EPG | {sem_epg} sem EPG)")
+' "${OUT_M3U}" "${FAV_URLS}" "${FAV_CHANNELS}" "${BALANCO_MD}"
+fi

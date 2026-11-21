@@ -9,49 +9,33 @@
 
 | Descrição | Total |
 | :-- | --: |
-| **Total de canais:** | **80** canais |
-| **Total com EPG** | **57** canais |
-| **Total sem EPG** | **23** canais |
+| **Total de canais:** | **79** canais |
+| **Total com EPG** | **67** canais |
+| **Total sem EPG** | **12** canais |
 
 ---
 #### Nota:
-* **68** canais de **Filmes**
-* **12** canais de **Séries**
+* **67 canais de Filmes**
+* **12 canais de Séries**
 ---
 
-## Lista dos 23 Canais sem EPG
+## Lista dos 12 Canais sem EPG
 
-### LG (4 canais)
-* `899` American Classics
-* `900` Dark Matter TV Brazil
-* `925` Filmelier TV Vida Real
-* `927` Filmelier TV Paixão
 
-### Movieark (8 canais)
-* Ação Total TV
+### Movieark (7 canais)
+* Ação Total
 * Booh!
-* Cine Familia
+* Familia
 * Film Plus Action
 * Film Plus Emotion
 * Film Plus Family
-* Medo TV
-* Romance Channel
+* Medo
 
 ### Olhosnatv (3 canais)
-* CLASSIQUE TV
-* CLASSIQUE TV SÉRIES
-* TV CHANNEL NETWORK
+* Channel Network
+* Classique
+* Classique Séries
 
 ### Redeitv (2 canais)
 * Séries Classic
-* TOP MIX TV CANAL 4 FILMES
-
-### SamsungTVPlus (5 canais)
-* `2565` Sony One - Emoções (BR)
-* `2670` Adrenalina Pura TV Halloween (BR) *(Substituto TCL)*
-* `2697` Film Plus TV (BR)
-* `2710` Filmelier Esperanca (BR)
-* `2725` Sony One Cinema (BR)
-
-### WhaleTVPlus (1 canal)
-* Scifi World
+* Top Mix
