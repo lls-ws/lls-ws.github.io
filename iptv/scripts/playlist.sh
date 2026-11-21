@@ -246,8 +246,8 @@ with open(m3u_file, "w", encoding="utf-8") as f:
 print(f"Playlist ordenada com sucesso! ({len(entradas)} canais organizados)")
 EOF
 
-# Atualiza automaticamente a contagem de canais por provedor em config/m3u-sources.md
-RESUMO_MD="${BASE_DIR}/config/m3u-sources.md"
+# Atualiza automaticamente a contagem de canais por provedor em docs/m3u-sources.md
+RESUMO_MD="${BASE_DIR}/docs/m3u-sources.md"
 
 if [ -f "${RESUMO_MD}" ]; then
     python3 -c '
@@ -313,4 +313,51 @@ with open(resumo_md, "w", encoding="utf-8") as f:
 
 print(f"Resumo de provedores atualizado em: {resumo_md}")
 ' "${FAV_DIR}/favorites-channels.txt" "${FAV_DIR}/favorites-urls.txt" "${RESUMO_MD}"
+fi
+
+# Atualiza automaticamente a contagem de canais por fonte EPG em docs/epg-sources.md
+CHANNELS_XML="${BASE_DIR}/config/channels.xml"
+EPG_MD="${BASE_DIR}/docs/epg-sources.md"
+
+if [ -f "${CHANNELS_XML}" ] && [ -f "${EPG_MD}" ]; then
+    python3 -c '
+import re, sys
+import xml.etree.ElementTree as ET
+from collections import Counter
+
+xml_path, epg_md = sys.argv[1], sys.argv[2]
+root = ET.parse(xml_path).getroot()
+
+counts = Counter(
+    ch.attrib.get("site", "").strip()
+    for ch in root.findall(".//channel")
+    if ch.attrib.get("site", "").strip()
+)
+
+labels = {
+    "watch.whaletvplus.com": "Whale TV Plus",
+    "mi.tv": "Mi.tv",
+    "plex.tv": "Plex TV",
+    "pluto.tv": "Pluto TV",
+    "i.mjh.nz": "Matt Huisman"
+}
+
+with open(epg_md, "r", encoding="utf-8") as f:
+    md_txt = f.read()
+
+for site, label in labels.items():
+    qtd = counts.get(site, 0)
+    texto_canal = "1 Canal" if qtd == 1 else f"{qtd} Canais"
+    pattern = rf"(\*\*{re.escape(label)} \()\s*\d*\s*Canais?(\)\*\*)"
+    md_txt = re.sub(pattern, rf"\g<1>{texto_canal}\g<2>", md_txt)
+
+total_epg = sum(counts.values())
+texto_total = "1 canal" if total_epg == 1 else f"{total_epg} canais"
+md_txt = re.sub(r"(Total:\s*)\d+\s*cana(?:l|is)", rf"\g<1>{texto_total}", md_txt)
+
+with open(epg_md, "w", encoding="utf-8") as f:
+    f.write(md_txt)
+
+print(f"Resumo de EPG atualizado em: {epg_md} (Total: {total_epg})")
+' "${CHANNELS_XML}" "${EPG_MD}"
 fi
