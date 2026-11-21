@@ -47,6 +47,9 @@ function copiarLink(idCampo, botao) {
 
 ---
 
+## 📱 Aplicativo para Roku (SimpleIPTV-LLS.zip)
+* **Download do App:** [SimpleIPTV-LLS.zip](https://lls-ws.github.io/iptv/apps/roku/SimpleIPTV-LLS.zip)
+
 ## 📊 Status e Cobertura da Grade
 
 | Recurso | Detalhes | Atualização Automática |
