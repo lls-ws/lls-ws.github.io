@@ -35,26 +35,29 @@ cat << 'EOF' > "${WORK_DIR}/components/MainScene/MainScene.xml"
 <component name="MainScene" extends="Scene" xmlns:xsi="__XML_NS__" xsi:noNamespaceSchemaLocation="__ROKU_XSD__">
 <script type="text/brightscript" uri="pkg:/components/MainScene/MainScene.brs"/>
 <children>
-	<Video id="Video" translation="" width="1920" height="1080" />
+	<Video id="Video" translation="[0, 0]" width="1920" height="1080" />
 
-	<Group id="sidebarGroup" translation="" visible="true">
+	<!-- Painel Lateral Esquerdo (Canais) -->
+	<Group id="sidebarGroup" translation="[40, 20]" visible="true">
 		<Rectangle width="620" height="790" color="0x0B0F19E6" />
-		<Label text="LLS TV • Canais" translation="" font="font:MediumBoldSystemFont" color="0x38BDF8FF" />
-		<LabelList id="list" translation="" itemSize="" numRows="10" sectionDividerTextColor="0x38BDF8FF" focusedColor="0x0B0F19FF" color="0xCBD5E1FF" />
+		<Label text="LLS TV • Canais" translation="[25, 25]" font="font:MediumBoldSystemFont" color="0x38BDF8FF" />
+		<LabelList id="list" translation="[25, 95]" itemSize="[570, 62]" numRows="10" sectionDividerTextColor="0x38BDF8FF" focusedColor="0x0B0F19FF" color="0xCBD5E1FF" />
 	</Group>
 
-	<Group id="descGroup" translation="" visible="false">
+	<!-- Painel Lateral Direito (Sinopse / Descrição EPG) -->
+	<Group id="descGroup" translation="[1140, 20]" visible="false">
 		<Rectangle width="740" height="790" color="0x0B0F19F2" />
-		<Label id="lblDescHeader" text="SINOPSE" translation="" font="font:MediumBoldSystemFont" color="0x38BDF8FF" width="670" />
-		<Label id="lblDescTitle" text="" translation="" font="font:MediumBoldSystemFont" color="0xFACC15FF" width="670" wrap="true" maxLines="2" />
-		<ScrollableText id="txtDesc" translation="" width="670" height="580" font="font:SmallSystemFont" color="0xE2E8F0FF" text="Nenhuma descrição disponível." />
+		<Label id="lblDescHeader" text="SINOPSE" translation="[30, 25]" font="font:MediumBoldSystemFont" color="0x38BDF8FF" width="680" />
+		<Label id="lblDescTitle" text="" translation="[30, 75]" font="font:MediumBoldSystemFont" color="0xFACC15FF" width="680" wrap="true" maxLines="2" />
+		<ScrollableText id="txtDesc" translation="[30, 175]" width="680" height="585" font="font:SmallSystemFont" color="0xE2E8F0FF" text="Nenhuma descrição disponível." />
 	</Group>
 
-	<Group id="epgBanner" translation="" visible="false">
+	<!-- Banner Inferior de EPG -->
+	<Group id="epgBanner" translation="[40, 825]" visible="false">
 		<Rectangle width="1840" height="230" color="0x0B0F19F2" />
-		<Label id="lblChannel" text="" translation="" font="font:MediumBoldSystemFont" color="0x38BDF8FF" width="1770" />
-		<Label id="lblNow" text="Carregando guia..." translation="" font="font:LargeBoldSystemFont" color="0xFACC15FF" width="1770" />
-		<Label id="lblNext" text="" translation="" font="font:SmallSystemFont" color="0xE2E8F0FF" width="1770" />
+		<Label id="lblChannel" text="" translation="[30, 20]" font="font:MediumBoldSystemFont" color="0x38BDF8FF" width="1780" />
+		<Label id="lblNow" text="Carregando guia..." translation="[30, 70]" font="font:LargeBoldSystemFont" color="0xFACC15FF" width="1780" />
+		<Label id="lblNext" text="" translation="[30, 145]" font="font:SmallSystemFont" color="0xE2E8F0FF" width="1780" />
 	</Group>
 
 	<Timer id="osdTimer" repeat="false" duration="5" />
