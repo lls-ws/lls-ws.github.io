@@ -16,6 +16,7 @@ IPTV-org#Pluto TV Series Drama#https://images.pluto.tv/channels/65f060d84e017400
 IPTV-org#Pluto TV Series Sci-Fi#https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png
 IPTV-org#Pluto TV Terror Trash#https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png
 IPTV-org#Sony Channel (Brazil) (720p)#https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png
+IPTV-org#Studio Universal Latin America Brazil (720p)#
 IPTV-org#Telecine Action (1080p)#https://i.imgur.com/BHYWG0h.png
 IPTV-org#Telecine Cult#https://i.imgur.com/6GuHXnr.png
 IPTV-org#Telecine Fun#https://i.imgur.com/MO2Ynki.png
@@ -73,7 +74,6 @@ Redeitv#Séries Classic#https://redeitv.com.br/wp-content/uploads/jet-engine-for
 Redeitv#TOP MIX TV CANAL 4 FILMES#https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#https://i.ytimg.com/vi/v6ux1Oty8EA/hq720.jpg
 SamsungTVPlus#2695 MyTime Movie Network (BR)#https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png
-SamsungTVPlus#2697 Film Plus TV (BR)#https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg
 WhaleTVPlus#a-z Classic Flix#https://echelonstudios.us/wp-content/uploads/2024/12/a-z_classic_flix_square_logo1.jpg
 WhaleTVPlus#Filmzie#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaET6FjZ1G43ZESI5J5Z_0AOk60epuvClrjxMA-wiwXA&s
 WhaleTVPlus#Movie Mania#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp3Jq1C-Xks94E1ySXuR5_sVRCI6P_W5-K18rQYGrSw&s=10

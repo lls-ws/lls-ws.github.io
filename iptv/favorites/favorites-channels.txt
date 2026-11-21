@@ -257,7 +257,7 @@
 #IPTV-org#SporTV 2 (1080p)
 #IPTV-org#SporTV 3 (1080p)
 #IPTV-org#Star Trek
-#IPTV-org#Studio Universal Latin America Brazil (720p)
+IPTV-org#Studio Universal Latin America Brazil (720p)
 #IPTV-org#STZ TV (1080p)
 #IPTV-org#Tastemade Brasil (720p)
 #IPTV-org#TCM 10 HD (1080p)

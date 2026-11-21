@@ -16,6 +16,7 @@ IPTV-org#Pluto TV Series Drama#Séries
 IPTV-org#Pluto TV Series Sci-Fi#Séries
 IPTV-org#Pluto TV Terror Trash#Terror
 IPTV-org#Sony Channel (Brazil) (720p)#Variedades
+IPTV-org#Studio Universal Latin America Brazil (720p)#Top
 IPTV-org#Telecine Action (1080p)#Ação
 IPTV-org#Telecine Cult#Clássicos
 IPTV-org#Telecine Fun#Comédia
@@ -73,7 +74,6 @@ Redeitv#Séries Classic#Séries
 Redeitv#TOP MIX TV CANAL 4 FILMES#Variedades
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#Faroeste
 SamsungTVPlus#2695 MyTime Movie Network (BR)#Romance
-SamsungTVPlus#2697 Film Plus TV (BR)#Top
 WhaleTVPlus#a-z Classic Flix#Clássicos
 WhaleTVPlus#Filmzie#Variedades
 WhaleTVPlus#Movie Mania#Variedades
