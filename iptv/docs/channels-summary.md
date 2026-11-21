@@ -3,7 +3,7 @@
 | Categoria | Arquivo | Categoria | Arquivo |
 | :--- | :--- | :--- | :--- |
 | **Canais EPG XML** | [channels.xml](https://github.com/lls-ws/epg/blob/master/lls/channels.xml) | **Log EPG** | [update-epg.log](https://github.com/lls-ws/epg/blob/master/lls/update-epg.log) |
-| **GitHub Action** | [update-epg.yml](https://github.com/lls-ws/epg/blob/master/.github/workflows/update-epg.yml) | **Guia XMLTV** | [guide.xml.gz](https://github.com/lls-ws/epg/blob/master/guide.xml.gz) |
+| **GitHub Action** | [update-epg.yml](https://github.com/lls-ws/epg/blob/master/.github/workflows/update-epg.yml) | **Guia XMLTV** | [guide.xml](https://github.com/lls-ws/epg/blob/master/guide.xml) |
 
 # Balanço Final da Lista (LLS_TV.m3u)
 
