@@ -33,5 +33,5 @@
 
   Pipeline IPTV (run.sh + check.sh): Valida automaticamente tanto o status HTTP quanto os codecs H.264 + AAC para o Roku 3930BR antes de publicar.
   
-* **Samsung Tizen (Fazer Teste)**
+* **Samsung Tizen UN65BU8000GXZD UHD (Fazer Teste)**
   * 0 canais testados
