@@ -40,7 +40,7 @@ https://lls-ws.github.io/iptv/LLS_TV.m3u
 | **Logs EPG** | [update-epg.log](https://github.com/lls-ws/epg/blob/master/lls/update-epg.log) |
 | **Resumo** | [Fontes M3U](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/m3u-sources.md) • [Canais IPTV](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/config/channels_resume.md) <br> [Fontes EPG](https://github.com/lls-ws/epg/blob/master/lls/epg-sources.md) • [Canais EPG](https://github.com/lls-ws/epg/blob/master/lls/README.md) |
 | **GitHub Actions** | [update-iptv.yml](https://github.com/lls-ws/lls-ws.github.io/blob/main/.github/workflows/update-iptv.yml) • [update-epg.yml](https://github.com/lls-ws/epg/blob/master/.github/workflows/update-epg.yml)  |
-| **Saídas Finais** | [LLS_TV.m3u](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/LLS_TV.m3u) • [guide.xml.gz](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/guide.xml.gz) |
+| **Saídas Finais** | [LLS_TV.m3u](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/LLS_TV.m3u) • [guide.xml](https://github.com/lls-ws/lls-ws.github.io/blob/main/iptv/guide.xml) |
 
 ---
 
