@@ -36,7 +36,7 @@
   <channel site="plex.tv" site_id="6864668119cc2e163e38d167" lang="pt" xmltv_id="SessaoTrash.br@BR">Sessão Trash</channel>
   <channel site="plex.tv" site_id="6623c114ed4918437ed56ebc" lang="pt" xmltv_id="SparkTVLuzyAmor.br@BR">Spark TV Luz y Amor</channel>
 
-  <!-- 32 Canais via Pluto TV (pluto.tv) -->
+  <!-- 29 Canais via Pluto TV (pluto.tv) -->
   <channel site="pluto.tv" site_id="61b790b985706b00072cb797" lang="pt" xmltv_id="AdrenalinaPuraTV.us@Brazil">Adrenalina Pura TV</channel>
   <channel site="pluto.tv" site_id="63eb9c5351f5d000085e8d7e" lang="pt" xmltv_id="CSIMiami.us@BR">CSI: Miami</channel>
   <channel site="pluto.tv" site_id="62f54c6439183b000769fb8f" lang="pt" xmltv_id="CSINY.us@BR">CSI: NY</channel>
