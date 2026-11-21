@@ -9,13 +9,13 @@
 
 | Descrição | Total |
 | :-- | --: |
-| **Total de canais:** | **79** canais |
-| **Total com EPG** | **56** canais |
+| **Total de canais:** | **80** canais |
+| **Total com EPG** | **57** canais |
 | **Total sem EPG** | **23** canais |
 
 ---
 #### Nota:
-* **67 canais de Filmes**
+* **68 canais de Filmes**
 * **12 canais de Séries**
 ---
 

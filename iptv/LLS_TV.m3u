@@ -17,6 +17,8 @@ https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13229
 #EXTINF:-1 tvg-id="SonyOneCinema.br@BR" tvg-logo="http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png" group-title="Top",Sony One Cinema
 https://030a58d4abe245219e65752f7f51ad25.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneCinema/playlist.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Top",Studio Universal
+http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="TelecinePremium.br@SD" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="Top",Telecine Premium
 http://45.185.15.154:9080/stream/28/index.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png" group-title="Ação",Adrenalina Pura

@@ -2,14 +2,14 @@
 
 # Fontes M3U [apsattv](https://www.apsattv.com) | [iptv-org](https://github.com/iptv-org/iptv/blob/master/PLAYLISTS.md)
 
-Total: 79 canais
+Total: 80 canais
 
 ### Provedores M3U Utilizados
 
 * **LG Channels (34 Canais)**
   * [brlg.m3u](https://www.apsattv.com/brlg.m3u)
 
-* **IPTV-org (23 Canais)**
+* **IPTV-org (24 Canais)**
   * [br.m3u](https://iptv-org.github.io/iptv/countries/br.m3u)
 
 * **Movieark (11 Canais)**

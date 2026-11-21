@@ -99,6 +99,7 @@
 #IPTV-org#Gospel Movie TV (360p)
 #IPTV-org#History (Brazil) (720p)
 #IPTV-org#History 2 Latin America Brazil (720p)
+#IPTV-org#iCarly
 #IPTV-org#iCarly (United States)
 #IPTV-org#ISTV (Brazil) (720p) [Not 24/7]
 #IPTV-org#J3NEWS TV
@@ -115,6 +116,7 @@
 #IPTV-org#Lider TV (Brazil) (720p)
 #IPTV-org#Lifetime Latin America Brazil (720p)
 #IPTV-org#Loading (720p)
+#IPTV-org#MacGyver
 #IPTV-org#MacGyver (United States)
 #IPTV-org#MasterChef
 #IPTV-org#MBC Brasil TV
@@ -124,12 +126,15 @@
 #IPTV-org#MTV Are you the One?
 #IPTV-org#MTV Biggest Pop BR (1080p)
 #IPTV-org#MTV Catfish (United States) BR (720p)
+#IPTV-org#MTV Catfish BR (720p)
 #IPTV-org#MTV Classic BR (720p)
 #IPTV-org#MTV Com o Ex
+#IPTV-org#MTV Dating
 #IPTV-org#MTV Dating (United States)
 #IPTV-org#MTV Drag
 #IPTV-org#MTV Jovens e Maes (720p)
 #IPTV-org#MTV Pluto TV BR
+#IPTV-org#MTV Reality (720p)
 #IPTV-org#MTV Reality (United States) (720p)
 #IPTV-org#MTV Rocks
 #IPTV-org#MTV Shore
@@ -137,15 +142,18 @@
 #IPTV-org#MyTime Movie Network (Brazil) (720p)
 #IPTV-org#N Sports (1080p)
 #IPTV-org#Naruto Brazil
+#IPTV-org#NCIS
 #IPTV-org#Nick Jr. Club (United States) BR (720p)
 #IPTV-org#Nickelodeon (Brazil) (480p)
 #IPTV-org#Nickelodeon Classico (720p)
 #IPTV-org#Nickelodeon Teen (720p)
 #IPTV-org#Nickelodeon Toons (720p)
+#IPTV-org#NickOnline Bob Esponja [Not 24/7]
 #IPTV-org#NickOnline HD (720p)
 #IPTV-org#Nova Era TV (1080p) [Not 24/7]
 #IPTV-org#Novo Tempo (720p)
 #IPTV-org#NTV (Brazil) (720p)
+#IPTV-org#Numbers
 #IPTV-org#Numbers (United States)
 #IPTV-org#O Dia TV (450p)
 #IPTV-org#O Encantador de Caes
@@ -257,7 +265,6 @@
 #IPTV-org#SporTV 2 (1080p)
 #IPTV-org#SporTV 3 (1080p)
 #IPTV-org#Star Trek
-IPTV-org#Studio Universal Latin America Brazil (720p)
 #IPTV-org#STZ TV (1080p)
 #IPTV-org#Tastemade Brasil (720p)
 #IPTV-org#TCM 10 HD (1080p)
@@ -1239,6 +1246,7 @@ IPTV-org#Studio Universal Latin America Brazil (720p)
 #SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)
 #SamsungTVPlus#2685 Cindie Lite Portuguese (BR)
 #SamsungTVPlus#2695 MyTime Movie Network alt (BR)
+#SamsungTVPlus#2697 Film Plus TV (BR)
 #SamsungTVPlus#2705 Spark TV (BR)
 #SamsungTVPlus#2710 Filmelier Esperanca (BR)
 #SamsungTVPlus#2712 Vida Real (BR)
@@ -1689,6 +1697,7 @@ IPTV-org#Pluto TV Series Drama
 IPTV-org#Pluto TV Series Sci-Fi
 IPTV-org#Pluto TV Terror Trash
 IPTV-org#Sony Channel (Brazil) (720p)
+IPTV-org#Studio Universal Latin America Brazil (720p)
 IPTV-org#Telecine Action (1080p)
 IPTV-org#Telecine Cult
 IPTV-org#Telecine Fun
@@ -1746,7 +1755,6 @@ Redeitv#Séries Classic
 Redeitv#TOP MIX TV CANAL 4 FILMES
 SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)
 SamsungTVPlus#2695 MyTime Movie Network (BR)
-#SamsungTVPlus#2697 Film Plus TV (BR)
 WhaleTVPlus#a-z Classic Flix
 WhaleTVPlus#Filmzie
 WhaleTVPlus#Movie Mania

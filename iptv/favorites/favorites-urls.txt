@@ -16,7 +16,7 @@ IPTV-org#Pluto TV Series Drama#https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
 IPTV-org#Pluto TV Series Sci-Fi#https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 IPTV-org#Pluto TV Terror Trash#https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
 IPTV-org#Sony Channel (Brazil) (720p)#http://170.83.16.50/SONY_CHANNEL/index.m3u8
-IPTV-org#Studio Universal Latin America Brazil (720p)#
+IPTV-org#Studio Universal Latin America Brazil (720p)#http://187.102.210.46/universo/index.m3u8
 IPTV-org#Telecine Action (1080p)#http://46.151.196.223:14326
 IPTV-org#Telecine Cult#http://45.185.15.154:9080/stream/64/index.m3u8
 IPTV-org#Telecine Fun#http://45.185.15.154:9080/stream/63/index.m3u8
