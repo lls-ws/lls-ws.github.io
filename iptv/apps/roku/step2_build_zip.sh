@@ -224,7 +224,7 @@ sub showEpgForNode(chNode as object)
 		nextHeaderTxt = ""
 		nextDescTxt = ""
 		if info.nextTitle <> ""
-			nextHeaderTxt = "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" + chr(10) + "A SEGUIR (" + info.nextTime + "): " + info.nextTitle
+			nextHeaderTxt = "A SEGUIR (" + info.nextTime + "): " + info.nextTitle
 			if info.nextDesc <> invalid and info.nextDesc <> "" then nextDescTxt = info.nextDesc
 		end if
 		renderColoredDesc(nowDescTxt, nextHeaderTxt, nextDescTxt)
@@ -259,7 +259,7 @@ sub renderColoredDesc(nowTxt as string, nextHdr as string, nextTxt as string)
 	lbl1.translation = [0, curY]
 	lbl1.text = nowTxt
 	m.descContent.AppendChild(lbl1)
-	curY = curY + lbl1.boundingRect().height + 24
+	curY = curY + lbl1.boundingRect().height + 32
 
 	if nextHdr <> ""
 		lblHdr = CreateObject("roSGNode", "Label")
