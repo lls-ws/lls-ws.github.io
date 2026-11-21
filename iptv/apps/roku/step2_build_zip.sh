@@ -49,7 +49,7 @@ cat << 'EOF' > "${WORK_DIR}/components/MainScene/MainScene.xml"
 		<Rectangle width="740" height="790" color="0x0B0F19F2" />
 		<Label id="lblDescHeader" text="SINOPSE" translation="[30, 25]" font="font:MediumBoldSystemFont" color="0x38BDF8FF" width="680" />
 		<Label id="lblDescTitle" text="" translation="[30, 75]" font="font:MediumBoldSystemFont" color="0xFACC15FF" width="680" wrap="true" maxLines="2" />
-		<ScrollableText id="txtDesc" translation="[30, 175]" width="680" height="585" font="font:SmallSystemFont" color="0xE2E8F0FF" text="Nenhuma descrição disponível." />
+		<Group id="descViewport" translation="[30, 175]" clippingRect="[0, 0, 680, 585]" focusable="true"><Group id="descContent" translation="[0, 0]" /></Group>
 	</Group>
 
 	<!-- Banner Inferior de EPG -->
@@ -89,7 +89,10 @@ sub init()
 
 	m.descGroup = m.top.FindNode("descGroup")
 	m.lblDescTitle = m.top.FindNode("lblDescTitle")
-	m.txtDesc = m.top.FindNode("txtDesc")
+	m.descViewport = m.top.FindNode("descViewport")
+	m.descContent = m.top.FindNode("descContent")
+	m.descScrollY = 0
+	m.descMaxScroll = 0
 
 	m.video = m.top.FindNode("Video")
 	m.video.ObserveField("state", "checkState")
@@ -180,7 +183,7 @@ sub playChannelByIndex(idx as integer, closeSidebar as boolean)
 		m.descGroup.visible = false
 		m.sidebarGroup.visible = false
 		m.list.SetFocus(false)
-		m.txtDesc.SetFocus(false)
+		m.descViewport.SetFocus(false)
 		m.top.SetFocus(true)
 	end if
 
@@ -216,32 +219,77 @@ sub showEpgForNode(chNode as object)
 		m.lblNext.text = ""
 		if info.nextTitle <> "" then m.lblNext.text = "A SEGUIR (" + info.nextTime + "): " + info.nextTitle
 
-		fullDesc = "Sem sinopse disponível para o programa atual."
-		if info.nowDesc <> invalid and info.nowDesc <> "" then fullDesc = info.nowDesc
-		if info.nextTitle <> "" and info.nextDesc <> invalid and info.nextDesc <> ""
-			fullDesc = fullDesc + chr(10) + chr(10) + "A SEGUIR (" + info.nextTime + " - " + info.nextTitle + "):" + chr(10) + info.nextDesc
+		nowDescTxt = "Sem sinopse disponível para o programa atual."
+		if info.nowDesc <> invalid and info.nowDesc <> "" then nowDescTxt = info.nowDesc
+		nextHeaderTxt = ""
+		nextDescTxt = ""
+		if info.nextTitle <> ""
+			nextHeaderTxt = "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" + chr(10) + "A SEGUIR (" + info.nextTime + "): " + info.nextTitle
+			if info.nextDesc <> invalid and info.nextDesc <> "" then nextDescTxt = info.nextDesc
 		end if
-		if m.txtDesc <> invalid then m.descGroup.RemoveChild(m.txtDesc)
-		newTxt = CreateObject("roSGNode", "ScrollableText")
-		newTxt.id = "txtDesc"
-		newTxt.translation = [30, 175]
-		newTxt.width = 680
-		newTxt.height = 585
-		newTxt.font = "font:SmallSystemFont"
-		newTxt.color = "0xE2E8F0FF"
-		newTxt.text = fullDesc
-		m.descGroup.AppendChild(newTxt)
-		m.txtDesc = newTxt
+		renderColoredDesc(nowDescTxt, nextHeaderTxt, nextDescTxt)
 	else
 		m.lblNow.text = "Guia de programação indisponível para este canal"
 		m.lblNext.text = ""
 		m.lblDescTitle.text = chNode.title
-		m.txtDesc.text = "Guia de programação indisponível para este canal."
+		renderColoredDesc("Guia de programação indisponível para este canal.", "", "")
 	end if
 
 	m.epgBanner.visible = true
 	m.osdTimer.control = "stop"
 	m.osdTimer.control = "start"
+end sub
+
+
+sub renderColoredDesc(nowTxt as string, nextHdr as string, nextTxt as string)
+	if m.descContent = invalid then return
+	while m.descContent.getChildCount() > 0
+		m.descContent.RemoveChildIndex(0)
+	end while
+
+	m.descScrollY = 0
+	m.descContent.translation = [0, 0]
+	curY = 0
+
+	lbl1 = CreateObject("roSGNode", "Label")
+	lbl1.width = 670
+	lbl1.wrap = true
+	lbl1.font = "font:SmallSystemFont"
+	lbl1.color = "0xF8FAFCFF"
+	lbl1.translation = [0, curY]
+	lbl1.text = nowTxt
+	m.descContent.AppendChild(lbl1)
+	curY = curY + lbl1.boundingRect().height + 24
+
+	if nextHdr <> ""
+		lblHdr = CreateObject("roSGNode", "Label")
+		lblHdr.width = 670
+		lblHdr.wrap = true
+		lblHdr.font = "font:SmallBoldSystemFont"
+		lblHdr.color = "0xFACC15FF"
+		lblHdr.translation = [0, curY]
+		lblHdr.text = nextHdr
+		m.descContent.AppendChild(lblHdr)
+		curY = curY + lblHdr.boundingRect().height + 14
+
+		if nextTxt <> ""
+			lbl2 = CreateObject("roSGNode", "Label")
+			lbl2.width = 670
+			lbl2.wrap = true
+			lbl2.font = "font:SmallSystemFont"
+			lbl2.color = "0x93C5FDFF"
+			lbl2.translation = [0, curY]
+			lbl2.text = nextTxt
+			m.descContent.AppendChild(lbl2)
+			curY = curY + lbl2.boundingRect().height + 20
+		end if
+	end if
+
+	if curY > 585
+		m.descMaxScroll = curY - 585
+	else
+		m.descMaxScroll = 0
+	end if
 end sub
 
 sub updateEpgBanner()
@@ -278,7 +326,7 @@ function onKeyEvent(key as String, press as Boolean) as Boolean
 		if key = "left"
 			m.descGroup.visible = true
 			m.list.SetFocus(false)
-			m.txtDesc.SetFocus(true)
+			m.descViewport.SetFocus(true)
 			return true
 		else if key = "right"
 			m.sidebarGroup.visible = false
@@ -291,9 +339,23 @@ function onKeyEvent(key as String, press as Boolean) as Boolean
 			return true
 		end if
 	else if m.descGroup.visible
-		if key = "right" or key = "back"
+		if key = "down"
+			if m.descMaxScroll > 0
+				m.descScrollY = m.descScrollY - 80
+				if m.descScrollY < -m.descMaxScroll then m.descScrollY = -m.descMaxScroll
+				m.descContent.translation = [0, m.descScrollY]
+			end if
+			return true
+		else if key = "up"
+			if m.descScrollY < 0
+				m.descScrollY = m.descScrollY + 80
+				if m.descScrollY > 0 then m.descScrollY = 0
+				m.descContent.translation = [0, m.descScrollY]
+			end if
+			return true
+		else if key = "right" or key = "back"
 			m.descGroup.visible = false
-			m.txtDesc.SetFocus(false)
+			m.descViewport.SetFocus(false)
 			m.sidebarGroup.visible = true
 			m.list.SetFocus(true)
 			return true
