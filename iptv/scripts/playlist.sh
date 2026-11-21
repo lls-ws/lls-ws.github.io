@@ -285,14 +285,14 @@ with open(fav_channels, "r", encoding="utf-8") as f:
 
 labels = {
     "LG": "LG Channels",
-    "TCL": "TCL TV",
-    "Soultv": "Soul TV",
-    "Redeitv": "Redeitv",
-    "Olhosnatv": "Olhosnatv",
+    "IPTV-org": "IPTV-org",
     "Movieark": "Movieark",
-    "SamsungTVPlus": "Samsung TV Plus",
     "WhaleTVPlus": "Whale TV Plus",
-    "IPTV-org": "IPTV-org"
+    "Olhosnatv": "Olhosnatv",
+	"SamsungTVPlus": "Samsung TV Plus",    
+    "Redeitv": "Redeitv",
+    "TCL": "TCL TV",
+    "Soultv": "Soul TV"
 }
 
 with open(resumo_md, "r", encoding="utf-8") as f:
