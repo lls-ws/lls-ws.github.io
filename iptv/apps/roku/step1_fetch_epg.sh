@@ -133,6 +133,17 @@ function parseXmltvTime(ts as string) as integer
 	return secs
 end function
 
+function formatLocalHHMM(secs as integer) as string
+	dt = CreateObject("roDateTime")
+	dt.FromSeconds(secs)
+	dt.ToLocalTime()
+	h = dt.GetHours().ToStr()
+	m = dt.GetMinutes().ToStr()
+	if len(h) = 1 then h = "0" + h
+	if len(m) = 1 then m = "0" + m
+	return h + ":" + m
+end function
+
 sub fetchEpg()
 	req = CreateObject("roUrlTransfer")
 	req.SetURL("__EPG_URL__")
@@ -169,8 +180,8 @@ sub fetchEpg()
 				pDesc = ""
 				if descNodes.Count() > 0 then pDesc = descNodes[0].GetText()
 
-				hhmmStart = mid(p@start, 9, 2) + ":" + mid(p@start, 11, 2)
-				hhmmStop = mid(p@stop, 9, 2) + ":" + mid(p@stop, 11, 2)
+				hhmmStart = formatLocalHHMM(startSec)
+				hhmmStop = formatLocalHHMM(stopSec)
 
 				if startSec <= nowSec and stopSec > nowSec
 					entry.nowTitle = pTitle
