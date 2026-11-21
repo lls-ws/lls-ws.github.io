@@ -2,9 +2,7 @@
 
 # Resumo da Funcionalidade dos Canais
 
-Total de Canais: 80
-
-# Aplicativos Utilizados
+## Aplicativos Utilizados
 
 * **MPV Linux (Todos canais funcionando)**
   * Studio Universal (Espanhol)
