@@ -4,7 +4,7 @@
 # Autor: Leandro Luiz
 # Autor: Modo IA Google
 
-BASE_DIR="$(cd "$(dirname "${${BASH_SOURCE[0]}}")/.." && pwd)"
+BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 CONFIG_DIR="${BASE_DIR}/config"
 FAV_DIR="${BASE_DIR}/favorites"
 LOG_DIR="${BASE_DIR}/log"
