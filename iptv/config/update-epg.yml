@@ -1,0 +1,59 @@
+name: Update and Publish EPG
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund --loglevel=error
+
+      - name: Grab EPG and save log
+        run: |
+          mkdir -p lls
+          npm run grab --- --channels=lls/channels.xml --output=guide.xml --days=2 --maxConnections=2 --gzip | tee lls/update-epg.log
+
+      - name: Publish EPG files and log to epg repo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -f guide.xml guide.xml.gz
+          git add lls/update-epg.log
+          git commit -m "Update guide.xml, guide.xml.gz and execution log" || exit 0
+          git push
+
+      - name: Checkout lls-ws.github.io
+        uses: actions/checkout@v4
+        with:
+          repository: lls-ws/lls-ws.github.io
+          token: ${{ secrets.GH_PAGES_TOKEN }}
+          path: pages-repo
+
+      - name: Publish EPG files to lls-ws.github.io
+        run: |
+          mkdir -p pages-repo/iptv/config pages-repo/iptv/log
+          cp guide.xml guide.xml.gz pages-repo/iptv/
+          cp lls/channels.xml pages-repo/iptv/config/
+          cp lls/update-epg.log pages-repo/iptv/log/
+          cd pages-repo
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add iptv/guide.xml iptv/guide.xml.gz iptv/config/channels.xml iptv/log/update-epg.log
+          git commit -m "Update EPG files" || exit 0
+          git push
