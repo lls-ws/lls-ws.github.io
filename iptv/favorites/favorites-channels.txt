@@ -1,5 +1,6 @@
 #IPTV-org#+MaisUm (720p)
 #IPTV-org#1001 Noites (480p)
+#IPTV-org#A&E Latin America Brazil (720p)
 #IPTV-org#Adesso TV (720p)
 #IPTV-org#Adrenalina Pura TV Brazil
 #IPTV-org#AgroBrasil TV (720p) [Not 24/7]
@@ -169,6 +170,7 @@
 #IPTV-org#Pluto TV Animais
 #IPTV-org#Pluto TV Anime Acao
 #IPTV-org#Pluto TV Anime BR
+#IPTV-org#Pluto TV Bang Bang
 #IPTV-org#Pluto TV Canal UOL (720p)
 #IPTV-org#Pluto TV Cine Classicos
 #IPTV-org#Pluto TV Cine Comedia (United States) BR
@@ -265,11 +267,13 @@
 #IPTV-org#SporTV 2 (1080p)
 #IPTV-org#SporTV 3 (1080p)
 #IPTV-org#Star Trek
+#IPTV-org#Studio Universal Latin America Brazil (720p)
 #IPTV-org#STZ TV (1080p)
 #IPTV-org#Tastemade Brasil (720p)
 #IPTV-org#TCM 10 HD (1080p)
 #IPTV-org#TELE 6 (1080p)
 #IPTV-org#TELE 6 (720p)
+#IPTV-org#Telecine Action (1080p)
 #IPTV-org#Terra Viva (720p)
 #IPTV-org#The Pet Collective Brazil (720p)
 #IPTV-org#TikTok Radio Brasil (1080p)
@@ -577,11 +581,17 @@
 #LG#890 K-Vibe
 #LG#897 Xumo Filmes Grátis
 #LG#898 NEW KMOVIES
+#LG#899 American Classics
+#LG#925 Filmelier TV Vida Real
+#LG#926 Filmelier TV Esperança
+#LG#927 Filmelier TV Paixão
+#LG#928 Filmelier TV
+#LG#930 Adrenalina Pura TV
+#LG#931 Adrenalina Pura TV Halloween
+#LG#939 Moviesphere
 #Movieark#3 Palavrinhas
 #Movieark#Acelerados
 #Movieark#Adoro Cinema
-#Movieark#Adrenalina Pura TV
-#Movieark#Adrenalina Pura TV Halloween
 #Movieark#Agro360
 #Movieark#Amor de Aluguel by Noverama TV
 #Movieark#Andromeda
@@ -622,10 +632,6 @@
 #Movieark#Fatos Desconhecidos
 #Movieark#FIFA+
 #Movieark#Film Plus Shorts
-#Movieark#Filmelier TV
-#Movieark#Filmelier TV Esperança
-#Movieark#Filmelier TV Paixão
-#Movieark#Filmelier TV Vida Real
 #Movieark#FilmRise Séries Gratuitas
 #Movieark#FitDance
 #Movieark#FREETV CRIME
@@ -648,7 +654,6 @@
 #Movieark#MasterChef Brasil
 #Movieark#Metropoles
 #Movieark#Moranguinho
-#Movieark#Moviesphere
 #Movieark#Mr.Bean
 #Movieark#Mr.Bean Live Action
 #Movieark#Mundo
@@ -735,6 +740,8 @@
 #Movieark#X Sports
 #Movieark#Z Nation
 #Olhosnatv#BS-TV ONLINE
+#Olhosnatv#CLASSIQUE TV
+#Olhosnatv#CLASSIQUE TV SÉRIES
 #Olhosnatv#CLOUDING TV
 #Olhosnatv#GLN TV
 #Olhosnatv#LOADING TV
@@ -752,6 +759,7 @@
 #Olhosnatv#TV AMPLITUDE JUARA (Record MT)
 #Olhosnatv#TV ARACATI
 #Olhosnatv#TV ARAPUAN (Band PB)
+#Olhosnatv#TV CHANNEL NETWORK
 #Olhosnatv#TV CLÁSSICOS DO CINEMA
 #Olhosnatv#TV CULTURA
 #Olhosnatv#TV LATINASAT
@@ -902,6 +910,7 @@
 #Redeitv#SIM TV
 #Redeitv#SOU[TV.]
 #Redeitv#Summit TV
+#Redeitv#Séries Classic
 #Redeitv#TBO
 #Redeitv#TELA BRASIL TV
 #Redeitv#The JetSons
@@ -1240,6 +1249,7 @@
 #SamsungTVPlus#2565 Sony One - Emoções alt (BR)
 #SamsungTVPlus#2570 Clube Do Terror (BR)
 #SamsungTVPlus#2575 O Homem que Veio do Ceu (BR)
+#SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)
 #SamsungTVPlus#2645 Runtime Ação (BR)
 #SamsungTVPlus#2645 Runtime Ação alt (BR)
 #SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)
@@ -1531,6 +1541,7 @@
 #WhaleTVPlus#5-Minute Crafts
 #WhaleTVPlus#a-z B-Flix
 #WhaleTVPlus#a-z Best Classic TV
+#WhaleTVPlus#a-z Classic Flix
 #WhaleTVPlus#a-z Western Grit
 #WhaleTVPlus#ACL Cornhole TV
 #WhaleTVPlus#Afroland African
@@ -1588,6 +1599,7 @@
 #WhaleTVPlus#FailArmy
 #WhaleTVPlus#Feliz7Play
 #WhaleTVPlus#FIFA+
+#WhaleTVPlus#Filmzie
 #WhaleTVPlus#Food ON
 #WhaleTVPlus#France 24
 #WhaleTVPlus#FreeTV Crime
@@ -1610,6 +1622,7 @@
 #WhaleTVPlus#Legacy
 #WhaleTVPlus#Loupe Art
 #WhaleTVPlus#Motorvision
+#WhaleTVPlus#Movie Mania
 #WhaleTVPlus#Movie Music
 #WhaleTVPlus#Mundo Series
 #WhaleTVPlus#NEGOCIOS TV
@@ -1633,6 +1646,7 @@
 #WhaleTVPlus#Red Bull TV
 #WhaleTVPlus#Revry Global
 #WhaleTVPlus#Revry Her
+#WhaleTVPlus#Scifi World
 #WhaleTVPlus#Sessão Trash
 #WhaleTVPlus#SHIFT
 #WhaleTVPlus#SKWAD
@@ -1679,13 +1693,11 @@
 #WhaleTVPlus#World Poker Tour
 #WhaleTVPlus#Xtrem Sports
 #WhaleTVPlus#ZenLife
-IPTV-org#A&E Latin America Brazil (720p)
 IPTV-org#AMC Latin America Brazil (720p)
 IPTV-org#AXN (Brazil) (720p)
 IPTV-org#CSI: Miami BR
 IPTV-org#NCIS (United States)
 IPTV-org#Pluto TV Aliens
-IPTV-org#Pluto TV Bang Bang
 IPTV-org#Pluto TV Cine Crime
 IPTV-org#Pluto TV Cine Inspiracao
 IPTV-org#Pluto TV Filmes Aventura
@@ -1697,15 +1709,12 @@ IPTV-org#Pluto TV Series Drama
 IPTV-org#Pluto TV Series Sci-Fi
 IPTV-org#Pluto TV Terror Trash
 IPTV-org#Sony Channel (Brazil) (720p)
-IPTV-org#Studio Universal Latin America Brazil (720p)
-IPTV-org#Telecine Action (1080p)
 IPTV-org#Telecine Cult
 IPTV-org#Telecine Fun
 IPTV-org#Telecine Premium
 IPTV-org#Telecine Touch
 LG#161 Sony One Emoções
 LG#162 FilmRise Séries Gratuitas
-LG#899 American Classics
 LG#900 Dark Matter TV Brazil
 LG#901 Pluto TV Cine Sucessos
 LG#902 Pluto TV Filmes Ação
@@ -1729,14 +1738,9 @@ LG#920 Runtime Comédia
 LG#921 Runtime Ação
 LG#923 Sessao Trash
 LG#924 Cindie TV
-LG#925 Filmelier TV Vida Real
-LG#926 Filmelier TV Esperança
-LG#927 Filmelier TV Paixão
-LG#928 Filmelier TV
-LG#930 Adrenalina Pura TV
-LG#931 Adrenalina Pura TV Halloween
-LG#939 Moviesphere
 LG#940 Sony One Cinema
+Movieark#Adrenalina Pura TV
+Movieark#Adrenalina Pura TV Halloween
 Movieark#Ação Total TV
 Movieark#Booh!
 Movieark#Cine Familia
@@ -1745,17 +1749,13 @@ Movieark#Film Plus
 Movieark#Film Plus Action
 Movieark#Film Plus Emotion
 Movieark#Film Plus Family
+Movieark#Filmelier TV
+Movieark#Filmelier TV Esperança
+Movieark#Filmelier TV Paixão
+Movieark#Filmelier TV Vida Real
 Movieark#Medo TV
+Movieark#Moviesphere
 Movieark#Netmovies
 Movieark#Romance Channel
-Olhosnatv#CLASSIQUE TV
-Olhosnatv#CLASSIQUE TV SÉRIES
-Olhosnatv#TV CHANNEL NETWORK
-Redeitv#Séries Classic
 Redeitv#TOP MIX TV CANAL 4 FILMES
-SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)
 SamsungTVPlus#2695 MyTime Movie Network (BR)
-WhaleTVPlus#a-z Classic Flix
-WhaleTVPlus#Filmzie
-WhaleTVPlus#Movie Mania
-WhaleTVPlus#Scifi World

@@ -1,5 +1,4 @@
-Séries#Séries|Series|CSI|NCIS|TV Series|FilmRise|Aliens
-Faroeste#Bang Bang|Faroeste|Grjngo
+Séries#Séries|Series|CSI|NCIS|TV Series|FilmRise|Aliens|Sony One Emoções
 Clássicos#Clássicos|Classicos|Classic|Classique|Cult|Channel Network
 Terror#Terror|Espanto|Halloween|Trash|Medo|Booh!
 Suspense#Suspense|Crime|Criminais
@@ -9,5 +8,5 @@ Romance#Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark|MyTime
 Drama#Drama|Emotion|Touch|Inspiração|Inspiracao|Esperança|Esperanca|Vida Real
 Família#Familia|Família|Family|Aventura
 Ação#Ação|Acao|Action|Adrenalina|Luta
-Variedades#A&E|AXN|Filmzie|Nacionais|Movie Mania|TOP MIX|Sony Channel|Sony One Emoções
+Variedades#A&E|AXN|Filmzie|Nacionais|Movie Mania|TOP MIX|Sony Channel
 Top#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Netmovies|Sony One Cinema|Sucessos|Studio Universal

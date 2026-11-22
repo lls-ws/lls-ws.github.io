@@ -15,24 +15,20 @@ jobs:
 
     steps:
       - name: Baixar repositório
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Executar scripts IPTV
         run: |
           set -o pipefail
-          mkdir -p iptv/favorites
+          mkdir -p iptv/log iptv/temp
           chmod +x iptv/run.sh iptv/scripts/*.sh
-          bash iptv/run.sh all 2>&1 | tee iptv/favorites/update-iptv.log
-
-      - name: Limpar temporários
-        run: |
-          rm -rf iptv/temp 
+          bash iptv/run.sh all 2>&1 | tee iptv/log/update-iptv.log
 
       - name: Salvar alterações no GitHub (Commit & Push)
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add iptv/LLS_TV.m3u iptv/favorites/
+          git add -f iptv/LLS_TV.m3u iptv/log/ iptv/temp/channels-*.txt
           if ! git diff --staged --quiet; then
             git commit -m "chore(iptv): atualização automática LLS_TV.m3u"
             git push

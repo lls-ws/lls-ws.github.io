@@ -5,28 +5,38 @@
 ## Aplicativos Utilizados
 
 * **MPV Linux (Todos canais funcionando)**
-  * Studio Universal (Espanhol)
-  * Pluto de Luta (Retirar o "Filmes de")
-  * Telecine Action(Iniciou, Travou, Retrocedi, Avancei, Funcionou)
   * Dark Matter (Imagem Quadrados Verde)
+  
+  Remover:
+  * Studio Universal (Espanhol)
   * Scifi Word (Espanhol)
-  * Adrenalina Pura Halloween (Igual algum canal anterior)
+  * Grjingo (Faroeste)
+  * Pluto Bang Bang (Faroeste e Remover Grupo Faroeste)
   * American Classics (Inglês)
-  * Channel Network (Imagem ruim, Possível Desabilitar)
+  * Channel Network (Imagem ruim)
   * Classic Flix (Imagem Ruim, Áudio diferente)
-  * Classique (RETIRAR)
-  * Pluto Clássicos (Iniciou, Parou. Retrocedi, Funcionou)
+  * Classique (Imagem ruim)
   * Filmzie (Ingles)
   * Movie Mania (Ingles)
-  * Top Mix (Mudar Grupo)
-  * Classique Séries (Imagem ruim, retirar)
-  * Séries Classic (Remover)
+  * Classique Séries (Imagem ruim)
+  * Séries Classic (Imagem ruim)
 
 * **Roku Express 3930br (3 canais não funcionando)**
   * A&E
   * Telecine Action
   * Studio Universal
+  
+  Erro na fonte LG alterado para Movieark:
+  * Adrenalina Pura
+  * Adrenalina Pura Halloween
+  * Filmelier
+  * Filmelier Esperança
+  * Filmelier Paixão
+  * Filmelier Vida Real
+  * Moviesphere (Som baixo)
+  
   <br>
+  
   Isso ocorre quando o servidor transmite em H.265 (HEVC), MPEG-2 ou com áudio em AC3/Dolby sem fallback para AAC — formatos que o modelo 3930BR (Full HD básico) não decodifica por hardware.
     
   App Roku (SimpleIPTV-LLS.zip): Leve, com abertura direta, zapping instantâneo pelas setas Cima/Baixo, menu lateral de 10 canais com destaque em azul escuro e banner EPG amarelo.

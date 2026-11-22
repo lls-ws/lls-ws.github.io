@@ -4,7 +4,7 @@
 # Autor: Leandro Luiz
 # Autor: Modo IA Google
 
-BASE_DIR="$(cd "$(dirname "${BASH_SOURCE}")/.." && pwd)"
+BASE_DIR="$(cd "$(dirname "${${BASH_SOURCE[0]}}")/.." && pwd)"
 CONFIG_DIR="${BASE_DIR}/config"
 TEMP_DIR="${BASE_DIR}/temp"
 FAV_DIR="${BASE_DIR}/favorites"
@@ -32,13 +32,18 @@ touch "${TEMP_NAMES}" "${TEMP_DIR}/channels-ids.txt" "${TEMP_DIR}/channels-logos
 # Cria config/groups-map.txt padrão se não existir
 if [ ! -f "${GROUPS_MAP_TXT}" ]; then
     cat << 'EOF' > "${GROUPS_MAP_TXT}"
-Terror & Suspense#Terror|Espanto|Halloween|Trash|Suspense|Medo|Dark Matter
-Ação & Luta#Ação|Acao|Luta|Adrenalina|Crime|Criminais|Aliens|Sci-Fi|Ficção|Ficcao|Scifi
-Comédia & Romance#Comédia|Comedia|Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark
-Faroeste & Clássicos#Bang Bang|Faroeste|Grjngo|Clássicos|Classicos|Classic|Classique|TCM
-Séries#Séries|Series|CSI|Andromeda|FilmRise|Jornada nas Estrelas|Sony One Emoções|Sony One - Emoções|Emoções
-TV & Variedades#A&E|AMC|AXN|Sony Channel|Studio Universal|TLC|ISTV|SOU TV|Vida Real|Inspiração|Inspiracao|Esperança|Esperanca|Made in Hollywood|Booh!|Channel Network|TOP MIX
-Filmes#Telecine|Filmelier|Runtime|Cindie|Moviesphere|MyTime|Film Plus|Filmzie|Movie Mania|Netmovies|Xumo|Sony One Cinema|Familia|Família|Drama|Sucessos|Nacionais|Aventura
+Séries#Séries|Series|CSI|NCIS|TV Series|FilmRise|Aliens|Sony One Emoções
+Clássicos#Clássicos|Classicos|Classic|Classique|Cult|Channel Network
+Terror#Terror|Espanto|Halloween|Trash|Medo|Booh!
+Suspense#Suspense|Crime|Criminais
+Ficção#Sci-Fi|Ficção|Ficcao|Scifi|Dark Matter
+Comédia#Comédia|Comedia|Fun
+Romance#Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark|MyTime
+Drama#Drama|Emotion|Touch|Inspiração|Inspiracao|Esperança|Esperanca|Vida Real
+Família#Familia|Família|Family|Aventura
+Ação#Ação|Acao|Action|Adrenalina|Luta
+Variedades#A&E|AXN|Filmzie|Nacionais|Movie Mania|TOP MIX|Sony Channel
+Top#AMC|Telecine|Filmelier|Runtime|Cindie|Moviesphere|Film Plus|Netmovies|Sony One Cinema|Sucessos|Studio Universal
 EOF
 fi
 

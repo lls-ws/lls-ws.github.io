@@ -1,10 +1,8 @@
-IPTV-org#A&E Latin America Brazil (720p)#AELatinAmerica.us@Brazil
 IPTV-org#AMC Latin America Brazil (720p)#AMCLatinAmerica.us@Brazil
 IPTV-org#AXN (Brazil) (720p)#AXN.br@SD
 IPTV-org#CSI: Miami BR#CSIMiami.us@BR
 IPTV-org#NCIS (United States)#NCIS.us@BR
 IPTV-org#Pluto TV Aliens#PlutoTVAliens.us@BR
-IPTV-org#Pluto TV Bang Bang#PlutoTVBangBang.us@BR
 IPTV-org#Pluto TV Cine Crime#PlutoTVCineCrime.us@BR
 IPTV-org#Pluto TV Cine Inspiracao#PlutoTVCineInspiracao.us@BR
 IPTV-org#Pluto TV Filmes Aventura#PlutoTVFilmesAventura.us@BR
@@ -16,15 +14,12 @@ IPTV-org#Pluto TV Series Drama#PlutoTVSeriesDrama.us@BR
 IPTV-org#Pluto TV Series Sci-Fi#PlutoTVSeriesSciFi.us@BR
 IPTV-org#Pluto TV Terror Trash#PlutoTVTerrorTrash.us@BR
 IPTV-org#Sony Channel (Brazil) (720p)#SonyChannel.br@SD
-IPTV-org#Studio Universal Latin America Brazil (720p)#StudioUniversalLatinAmerica.us@Brazil
-IPTV-org#Telecine Action (1080p)#TelecineAction.br@SD
 IPTV-org#Telecine Cult#TelecineCult.br@SD
 IPTV-org#Telecine Fun#TelecineFun.br@SD
 IPTV-org#Telecine Premium#TelecinePremium.br@SD
 IPTV-org#Telecine Touch#TelecineTouch.br@SD
 LG#161 Sony One Emoções#SonyOneEmocoes.br@BR
 LG#162 FilmRise Séries Gratuitas#FilmRiseSeriesGratuitas.br@BR
-LG#899 American Classics#AmericanClassics.us@SD
 LG#900 Dark Matter TV Brazil#DarkMatterTV.br@BR
 LG#901 Pluto TV Cine Sucessos#PlutoTVCineSucessos.us@BR
 LG#902 Pluto TV Filmes Ação#PlutoTVFilmesAcao.us@BR
@@ -48,14 +43,9 @@ LG#920 Runtime Comédia#RuntimeComedia.br@BR
 LG#921 Runtime Ação#RuntimeAcao.br@BR
 LG#923 Sessao Trash#SessaoTrash.br@BR
 LG#924 Cindie TV#CindieTV.br@BR
-LG#925 Filmelier TV Vida Real#FilmelierTVVidaReal.br@BR
-LG#926 Filmelier TV Esperança#FilmelierTVEsperanca.br@BR
-LG#927 Filmelier TV Paixão#FilmelierTVPaixao.br@BR
-LG#928 Filmelier TV#FilmelierTV.us@BR
-LG#930 Adrenalina Pura TV#AdrenalinaPuraTV.us@Brazil
-LG#931 Adrenalina Pura TV Halloween#AdrenalinaPuraTVHalloween.br@BR
-LG#939 Moviesphere#MovieSphere.us@BR
 LG#940 Sony One Cinema#SonyOneCinema.br@BR
+Movieark#Adrenalina Pura TV#
+Movieark#Adrenalina Pura TV Halloween#
 Movieark#Ação Total TV#
 Movieark#Booh!#
 Movieark#Cine Familia#
@@ -64,17 +54,13 @@ Movieark#Film Plus#
 Movieark#Film Plus Action#
 Movieark#Film Plus Emotion#
 Movieark#Film Plus Family#
+Movieark#Filmelier TV#
+Movieark#Filmelier TV Esperança#
+Movieark#Filmelier TV Paixão#
+Movieark#Filmelier TV Vida Real#
 Movieark#Medo TV#
+Movieark#Moviesphere#
 Movieark#Netmovies#PlutoTVNetmovies.us@BR
 Movieark#Romance Channel#RomanceChannel.us@SD
-Olhosnatv#CLASSIQUE TV#
-Olhosnatv#CLASSIQUE TV SÉRIES#
-Olhosnatv#TV CHANNEL NETWORK#
-Redeitv#Séries Classic#
 Redeitv#TOP MIX TV CANAL 4 FILMES#
-SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#GrjngoFilmesDeFaroeste.br@BR
 SamsungTVPlus#2695 MyTime Movie Network (BR)#MyTimeMovieNetwork.br@SD
-WhaleTVPlus#a-z Classic Flix#AZClassicFlix.us@BR
-WhaleTVPlus#Filmzie#Filmzie.us@BR
-WhaleTVPlus#Movie Mania#MovieMania.us@BR
-WhaleTVPlus#Scifi World#scifiworld

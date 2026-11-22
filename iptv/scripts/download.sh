@@ -33,7 +33,16 @@ while IFS='#' read -r SOURCE_NAME SOURCE_URL || [ -n "$SOURCE_NAME" ]; do
     [[ -z "$SOURCE_NAME" || "$SOURCE_NAME" == \#* ]] && continue
 
     echo "Baixando: ${SOURCE_NAME}..."
-    curl -sL --connect-timeout 15 "${SOURCE_URL}" -o "${TEMP_DIR}/${SOURCE_NAME}.m3u"
+    HTTP_CODE=$(curl -4 -k -sL -w "%{http_code}" \
+        -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" \
+        -H "Referer: https://apsattv.com" \
+        --connect-timeout 20 --max-time 60 \
+        "${SOURCE_URL}" -o "${TEMP_DIR}/${SOURCE_NAME}.m3u")
+
+    if [ "$HTTP_CODE" -ne 200 ] || ! grep -q "#EXTM3U" "${TEMP_DIR}/${SOURCE_NAME}.m3u" 2>/dev/null; then
+        echo "[ERRO] Falha ao baixar ${SOURCE_NAME} (HTTP ${HTTP_CODE})"
+        rm -f "${TEMP_DIR}/${SOURCE_NAME}.m3u"
+    fi
 done < "${SOURCES_TXT}"
 
 echo "=== 2. Extraindo metadados para temp/ ==="

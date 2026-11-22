@@ -1,10 +1,8 @@
-IPTV-org#A&E Latin America Brazil (720p)#Variedades
 IPTV-org#AMC Latin America Brazil (720p)#Top
 IPTV-org#AXN (Brazil) (720p)#Variedades
 IPTV-org#CSI: Miami BR#Séries
 IPTV-org#NCIS (United States)#Séries
 IPTV-org#Pluto TV Aliens#Séries
-IPTV-org#Pluto TV Bang Bang#Faroeste
 IPTV-org#Pluto TV Cine Crime#Suspense
 IPTV-org#Pluto TV Cine Inspiracao#Drama
 IPTV-org#Pluto TV Filmes Aventura#Família
@@ -16,15 +14,12 @@ IPTV-org#Pluto TV Series Drama#Séries
 IPTV-org#Pluto TV Series Sci-Fi#Séries
 IPTV-org#Pluto TV Terror Trash#Terror
 IPTV-org#Sony Channel (Brazil) (720p)#Variedades
-IPTV-org#Studio Universal Latin America Brazil (720p)#Top
-IPTV-org#Telecine Action (1080p)#Ação
 IPTV-org#Telecine Cult#Clássicos
 IPTV-org#Telecine Fun#Comédia
 IPTV-org#Telecine Premium#Top
 IPTV-org#Telecine Touch#Drama
-LG#161 Sony One Emoções#Variedades
+LG#161 Sony One Emoções#Séries
 LG#162 FilmRise Séries Gratuitas#Séries
-LG#899 American Classics#Clássicos
 LG#900 Dark Matter TV Brazil#Ficção
 LG#901 Pluto TV Cine Sucessos#Top
 LG#902 Pluto TV Filmes Ação#Ação
@@ -48,14 +43,9 @@ LG#920 Runtime Comédia#Comédia
 LG#921 Runtime Ação#Ação
 LG#923 Sessao Trash#Terror
 LG#924 Cindie TV#Top
-LG#925 Filmelier TV Vida Real#Drama
-LG#926 Filmelier TV Esperança#Drama
-LG#927 Filmelier TV Paixão#Romance
-LG#928 Filmelier TV#Top
-LG#930 Adrenalina Pura TV#Ação
-LG#931 Adrenalina Pura TV Halloween#Terror
-LG#939 Moviesphere#Top
 LG#940 Sony One Cinema#Top
+Movieark#Adrenalina Pura TV#Ação
+Movieark#Adrenalina Pura TV Halloween#Terror
 Movieark#Ação Total TV#Ação
 Movieark#Booh!#Terror
 Movieark#Cine Familia#Família
@@ -64,17 +54,13 @@ Movieark#Film Plus#Top
 Movieark#Film Plus Action#Ação
 Movieark#Film Plus Emotion#Drama
 Movieark#Film Plus Family#Família
+Movieark#Filmelier TV#Top
+Movieark#Filmelier TV Esperança#Drama
+Movieark#Filmelier TV Paixão#Romance
+Movieark#Filmelier TV Vida Real#Drama
 Movieark#Medo TV#Terror
+Movieark#Moviesphere#Top
 Movieark#Netmovies#Top
 Movieark#Romance Channel#Romance
-Olhosnatv#CLASSIQUE TV#Clássicos
-Olhosnatv#CLASSIQUE TV SÉRIES#Séries
-Olhosnatv#TV CHANNEL NETWORK#Clássicos
-Redeitv#Séries Classic#Séries
 Redeitv#TOP MIX TV CANAL 4 FILMES#Variedades
-SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#Faroeste
 SamsungTVPlus#2695 MyTime Movie Network (BR)#Romance
-WhaleTVPlus#a-z Classic Flix#Clássicos
-WhaleTVPlus#Filmzie#Variedades
-WhaleTVPlus#Movie Mania#Variedades
-WhaleTVPlus#Scifi World#Ficção
