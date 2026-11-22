@@ -25,16 +25,16 @@ epg-sources.md
 m3u-sources.md
 
 iptv/favorites:
-broken-links.log
-duplicates.log
 favorites-channels.txt
 favorites-groups.txt
 favorites-ids.txt
 favorites-logos.txt
 favorites-urls.txt
-news-channels.log
 
 iptv/log:
+broken-links.log
+duplicates.log
+news-channels.log
 struture.log
 update-epg.log
 update-iptv.log
