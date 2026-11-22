@@ -37,4 +37,4 @@
   * M3U IPTV (Instalado pelo Samsung Apps)
   * Chouette TV (Instalar pelo [Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung/releases))
   * SS IPTV (Instalar pelo Samsung Apps)
-  * OttPlayer (Instalar pelo Samsung Apps, criar conta ottplayer.tv)
+  * OttPlayer (Instalar pelo Samsung Apps, criar conta [ottplayer.tv](https://ottplayer.tv/account/registration))
