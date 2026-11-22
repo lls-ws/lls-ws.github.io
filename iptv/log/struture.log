@@ -16,6 +16,7 @@ groups-map-order.txt
 groups-map.txt
 providers-priority.txt
 sources.txt
+update-epg.yml
 
 iptv/docs:
 channels-resume.md
@@ -32,11 +33,11 @@ favorites-ids.txt
 favorites-logos.txt
 favorites-urls.txt
 news-channels.log
-update-iptv.log
 
 iptv/log:
 struture.log
 update-epg.log
+update-iptv.log
 
 iptv/scripts:
 check.sh

@@ -3,7 +3,7 @@
 #
 # Autor: Leandro Luiz
 
-BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+BASE_DIR="$(cd "$(dirname "${${BASH_SOURCE[0]}}")/.." && pwd)"
 FILE_OUT_M3U="${BASE_DIR}/LLS_TV.m3u"
 REPOSITORY_NAME="lls-ws.github.io"
 

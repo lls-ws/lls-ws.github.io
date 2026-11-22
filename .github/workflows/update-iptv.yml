@@ -28,7 +28,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -f iptv/LLS_TV.m3u iptv/log/ iptv/temp/channels-*.txt
+          git add -f iptv/LLS_TV.m3u iptv/log/update-iptv.log iptv/temp/channels-*.txt
           if ! git diff --staged --quiet; then
             git commit -m "chore(iptv): atualização automática LLS_TV.m3u"
             git push

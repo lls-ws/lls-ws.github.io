@@ -4,9 +4,10 @@
 # Autor: Leandro Luiz
 # Autor: Modo IA Google
 
-BASE_DIR="$(cd "$(dirname "${BASH_SOURCE}")/.." && pwd)"
+BASE_DIR="$(cd "$(dirname "${${BASH_SOURCE[0]}}")/.." && pwd)"
 CONFIG_DIR="${BASE_DIR}/config"
 FAV_DIR="${BASE_DIR}/favorites"
+LOG_DIR="${BASE_DIR}/log"
 
 PRIORITY_TXT="${CONFIG_DIR}/providers-priority.txt"
 CLEAN_WORDS_TXT="${CONFIG_DIR}/clean-words.txt"
@@ -14,7 +15,7 @@ CLEAN_WORDS_TXT="${CONFIG_DIR}/clean-words.txt"
 FAV_CHANNELS="${FAV_DIR}/favorites-channels.txt"
 FAV_IDS="${FAV_DIR}/favorites-ids.txt"
 FAV_LOGOS="${FAV_DIR}/favorites-logos.txt"
-DUPLICATES_LOG="${FAV_DIR}/duplicates.log"
+DUPLICATES_LOG="${LOG_DIR}/duplicates.log"
 
 mkdir -p "${CONFIG_DIR}" "${FAV_DIR}"
 touch "${FAV_IDS}" "${FAV_LOGOS}"

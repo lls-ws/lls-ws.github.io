@@ -8,6 +8,7 @@ BASE_DIR="$(cd "$(dirname "${${BASH_SOURCE[0]}}")/.." && pwd)"
 CONFIG_DIR="${BASE_DIR}/config"
 TEMP_DIR="${BASE_DIR}/temp"
 FAV_DIR="${BASE_DIR}/favorites"
+LOG_DIR="${BASE_DIR}/log"
 
 GROUPS_MAP_TXT="${CONFIG_DIR}/groups-map.txt"
 
@@ -16,7 +17,7 @@ FAV_IDS="${FAV_DIR}/favorites-ids.txt"
 FAV_LOGOS="${FAV_DIR}/favorites-logos.txt"
 FAV_URLS="${FAV_DIR}/favorites-urls.txt"
 FAV_GROUPS="${FAV_DIR}/favorites-groups.txt"
-NEWS_LOG="${FAV_DIR}/news-channels.log"
+NEWS_LOG="${LOG_DIR}/news-channels.log"
 
 TEMP_NAMES="${TEMP_DIR}/channels-names.txt"
 

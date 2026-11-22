@@ -4,11 +4,12 @@
 # Autor: Leandro Luiz
 # Autor: Modo IA Google
 
-BASE_DIR="$(cd "$(dirname "${BASH_SOURCE}")/.." && pwd)"
+BASE_DIR="$(cd "$(dirname "${${BASH_SOURCE[0]}}")/.." && pwd)"
 FAV_DIR="${BASE_DIR}/favorites"
 OUT_M3U="${BASE_DIR}/LLS_TV.m3u"
 FAV_URLS="${FAV_DIR}/favorites-urls.txt"
-BROKEN_LOG="${FAV_DIR}/broken-links.log"
+LOG_DIR="${BASE_DIR}/log"
+BROKEN_LOG="${LOG_DIR}/broken-links.log"
 
 if [ ! -s "${OUT_M3U}" ]; then
     echo "[ERRO] Playlist ${OUT_M3U} não encontrada ou vazia. Rode 'bash run.sh playlist' primeiro."
