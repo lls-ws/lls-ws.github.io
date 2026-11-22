@@ -35,6 +35,7 @@ news-channels.log
 update-iptv.log
 
 iptv/log:
+struture.log
 update-epg.log
 
 iptv/scripts:
