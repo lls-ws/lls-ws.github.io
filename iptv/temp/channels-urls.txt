@@ -1,0 +1,400 @@
+IPTV-org#+MaisUm (720p)#https://stream.ichibansys.com:3230/hybrid/play.m3u8
+IPTV-org#1001 Noites (480p)#https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
+IPTV-org#A&E Latin America Brazil (720p)#http://79.127.238.228:14551
+IPTV-org#Adesso TV (720p)#https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+IPTV-org#Adrenalina Pura TV Brazil#https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+IPTV-org#AgroBrasil TV (720p) [Not 24/7]#http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+IPTV-org#AgroCanal (720p)#http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+IPTV-org#AgroMais (720p)#http://45.177.114.115/agromais/index.m3u8
+IPTV-org#Alpha Channel (720p)#https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+IPTV-org#Amazon Sat (1080p)#https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+IPTV-org#AMC Latin America Brazil (720p)#http://170.83.49.66:8083/AMCHD/index.m3u8
+IPTV-org#Angel TV Portuguese (720p)#https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
+IPTV-org#Araruna TV (614p)#https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+IPTV-org#Aratu On (1080p)#https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+IPTV-org#Arte 1 (720p)#http://45.177.114.115/ARTE1/index.m3u8
+IPTV-org#Auge TV (720p)#https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
+IPTV-org#Avatar: A lenda de Aang#https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+IPTV-org#AWTV (1080p) [Geo-blocked]#https://awtv.nuvemplay.live/hls/stream.m3u8
+IPTV-org#AXN (Brazil) (720p)#http://170.83.16.50/AXN/index.m3u8
+IPTV-org#BabyFirst Brazil#https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
+IPTV-org#Band (720p)#http://170.84.165.204/BAND_HD/index.m3u8
+IPTV-org#Band Sports (1080p)#https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+IPTV-org#BandNews (1080p)#https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
+IPTV-org#Bem Mais TV (1080p)#https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+IPTV-org#Bem Melhor (720p)#https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
+IPTV-org#BET Pluto TV BR#https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
+IPTV-org#Blitstv#https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+IPTV-org#BM&C News (720p)#https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+IPTV-org#Boas Novas (1080p)#https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+IPTV-org#Bob Esponja Calca Quadrada (720p)#https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+IPTV-org#Box Kids TV (720p)#http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+IPTV-org#BR8 TV#https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+IPTV-org#Cabo Frio TV (720p)#https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+IPTV-org#Canal 25 Jundiai (720p)#https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+IPTV-org#Canal 38 (720p)#https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+IPTV-org#Canal do Boi (720p)#http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+IPTV-org#Canal do Criador (1080p)#https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+IPTV-org#Canal do Inter (720p) [Not 24/7]#https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+IPTV-org#Canal Educacao (720p)#http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
+IPTV-org#Canal FDR (1080p)#https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+IPTV-org#Canal Futura (720p)#http://170.83.16.50/FUTURA/index.m3u8
+IPTV-org#Canal Gov (720p)#http://45.177.114.115/TV_BRASIL_2/index.m3u8
+IPTV-org#Canal Libras (720p)#https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+IPTV-org#Canal Metropolitano de Noticias#https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+IPTV-org#Canal Ricos (480p)#https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+IPTV-org#Canal Rural (720p)#http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+IPTV-org#Canal Saude#https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+IPTV-org#Canal Sete (1080p)#http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+IPTV-org#Canal START (720p)#https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
+IPTV-org#Canal UOL (1080p)#https://video24.mais.uol.com.br/live/6146.m3u8
+IPTV-org#Cartoon Network Latin America Brazil (720p) [Geo-blocked]#http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
+IPTV-org#Catve FM (720p) [Not 24/7]#https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+IPTV-org#Catve Master TV (720p) [Not 24/7]#https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+IPTV-org#Catve2 (720p)#https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+IPTV-org#Chroma TV (480p)#https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+IPTV-org#Cine Terror BR#https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+IPTV-org#Cinturao Verde#https://play.redecinturaoverde.com.br/playlist.m3u8
+IPTV-org#Classique TV (360p)#https://stmv1.srvif.com/classique/classique/playlist.m3u8
+IPTV-org#CNN Brasil (1080p)#https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+IPTV-org#COM Brasil (720p)#https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+IPTV-org#Combate (720p)#http://143.14.134.107/167/index.m3u8
+IPTV-org#Comedy Central Brasil (480p)#https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+IPTV-org#Comedy Central Pluto TV BR#https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+IPTV-org#Comedy Central South Park#https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+IPTV-org#Conecta Mais TV (720p)#https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
+IPTV-org#ConecTV Brasil (720p)#https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+IPTV-org#Conexao TV (720p)#https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+IPTV-org#CSI: Miami BR#https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+IPTV-org#Cultura Fast (720p)#https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+IPTV-org#Cultura Para (720p)#http://170.84.165.204/CANAL_21_HD/index.m3u8
+IPTV-org#Demais TV (720p)#https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8
+IPTV-org#Despertar TV (720p)#https://br.conectmy.com.br/DespertarTV/index.m3u8
+IPTV-org#Detetives Medicos#https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+IPTV-org#Diff'rent Strokes Arnold#https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+IPTV-org#Discovery Kids Latin America Brazil (720p) [Geo-blocked]#http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+IPTV-org#Discovery World Brazil (720p) [Geo-blocked]#http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+IPTV-org#DumDum (720p)#http://186.219.52.187/zoomoo/index.m3u8
+IPTV-org#Elemental Channel (1080p)#https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+IPTV-org#ElyTV (360p)#https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+IPTV-org#ESPN (Brazil) (1080p)#http://181.78.197.59:8000/play/a07z/index.m3u8
+IPTV-org#ESPN 3 (Brazil) (1080p)#http://190.83.2.182:8090/ESPN3/index.m3u8
+IPTV-org#ESPN 4 (Brazil) (1080p)#http://181.78.197.59:8000/play/a07n/index.m3u8
+IPTV-org#EUTV (720p)#https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+IPTV-org#FailArmy Brazil#https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+IPTV-org#Fala Litoral (480p)#https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+IPTV-org#FIFA+ Portuguese (720p)#https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+IPTV-org#Filmes Suspense#https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+IPTV-org#Fish TV (1080p)#http://190.128.214.97:64333/play/a006/index.m3u8
+IPTV-org#Fonte TV#https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+IPTV-org#Fora Tedio TV (720p)#https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+IPTV-org#Futura (720p)#http://170.83.49.66:8083/FUTURAHD/index.m3u8
+IPTV-org#Geekdot (720p)#https://stream.ichibantv.com:3764/hybrid/play.m3u8
+IPTV-org#Ghost TV (712p) [Not 24/7]#https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+IPTV-org#GloboNews (1080p)#http://79.127.238.228:14093
+IPTV-org#Globoplay Novelas (1080p)#http://79.127.238.228:14455
+IPTV-org#Gloob (576p)#http://45.235.0.78/Gloob/playlist.m3u8
+IPTV-org#Gloob Web [Not 24/7]#https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
+IPTV-org#GNT (1080p)#http://170.82.202.31/GNT/index.m3u8
+IPTV-org#Gospel Cartoon (360p)#https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+IPTV-org#Gospel Movie TV (360p)#https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+IPTV-org#History (Brazil) (720p)#http://45.177.114.114/HISTORY/index.m3u8
+IPTV-org#History 2 Latin America Brazil (720p)#http://45.177.114.114/HISTORY_2/index.m3u8
+IPTV-org#iCarly#https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+IPTV-org#ISTV (Brazil) (720p) [Not 24/7]#https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+IPTV-org#J3NEWS TV#https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+IPTV-org#Jornada nas Estrelas: A Nova Geracao#https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
+IPTV-org#Jornada nas Estrelas: Deep Space Nine#https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
+IPTV-org#Jornada nas Estrelas: Voyager#https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
+IPTV-org#Jovem Pan News (720p)#http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+IPTV-org#Kenan & Kel BR#https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+IPTV-org#KpopTV Play (576p)#https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+IPTV-org#Kuriakos Kids (1080p)#https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+IPTV-org#L!ke (1080p)#https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+IPTV-org#Laboral TV (360p)#https://tv.laboralsst.com.br/hls/stream.m3u8
+IPTV-org#Lamore Rock Show WebTV (720p)#https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+IPTV-org#Lider TV (Brazil) (720p)#https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8
+IPTV-org#Lifetime Latin America Brazil (720p)#http://170.83.16.50/LIFETIME/index.m3u8
+IPTV-org#Loading (720p)#https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+IPTV-org#MacGyver#https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
+IPTV-org#MasterChef#https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+IPTV-org#MBC Brasil TV#https://play.mbcbrasil.tv.br/playlist.m3u8
+IPTV-org#MCM Pop#http://176.65.153.78:8201/play/a070/index.m3u8
+IPTV-org#MCM Top (France)#http://185.228.163.146:8000/play/a00g/index.m3u8
+IPTV-org#MKK Web TV (720p) [Not 24/7]#https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+IPTV-org#MTV Are you the One?#https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
+IPTV-org#MTV Biggest Pop BR (1080p)#https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+IPTV-org#MTV Catfish BR (720p)#https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+IPTV-org#MTV Classic BR (720p)#https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+IPTV-org#MTV Com o Ex#https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+IPTV-org#MTV Dating#https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
+IPTV-org#MTV Drag#https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
+IPTV-org#MTV Jovens e Maes (720p)#https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
+IPTV-org#MTV Pluto TV BR#https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
+IPTV-org#MTV Reality (720p)#https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
+IPTV-org#MTV Rocks#https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+IPTV-org#MTV Shore#https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
+IPTV-org#Music Box Brazil (720p)#http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+IPTV-org#MyTime Movie Network (Brazil) (720p)#https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+IPTV-org#N Sports (1080p)#https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+IPTV-org#Naruto Brazil#https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+IPTV-org#NCIS#https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+IPTV-org#Nick Jr. Club (United States) BR (720p)#https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
+IPTV-org#Nickelodeon (Brazil) (480p)#https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+IPTV-org#Nickelodeon Classico (720p)#https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+IPTV-org#Nickelodeon Teen (720p)#https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+IPTV-org#Nickelodeon Toons (720p)#https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+IPTV-org#NickOnline Bob Esponja [Not 24/7]#https://bob.x1colegal.com/hls/stream.m3u8
+IPTV-org#NickOnline HD (720p)#https://x1colegal.com/hls/stream.m3u8
+IPTV-org#Nova Era TV (1080p) [Not 24/7]#http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+IPTV-org#Novo Tempo (720p)#http://186.219.52.187/novo_tempo/index.m3u8
+IPTV-org#NTV (Brazil) (720p)#https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+IPTV-org#Numbers#https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
+IPTV-org#O Dia TV (450p)#https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+IPTV-org#O Encantador de Caes#https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+IPTV-org#O Reino Infantil#https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
+IPTV-org#Oggy e as Baratas Tontas#https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
+IPTV-org#One Piece BR#https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
+IPTV-org#Petlovers TV (720p)#https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+IPTV-org#Play TV (Brazil) (720p)#http://45.177.114.115/PLAY_TV/index.m3u8
+IPTV-org#Plena TV (720p)#https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+IPTV-org#Plenitude TV (1080p)#https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+IPTV-org#Pluto TV Aliens#https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+IPTV-org#Pluto TV Animais#https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+IPTV-org#Pluto TV Anime Acao#https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
+IPTV-org#Pluto TV Anime BR#https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+IPTV-org#Pluto TV Bang Bang#https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
+IPTV-org#Pluto TV Canal UOL (720p)#https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
+IPTV-org#Pluto TV Cine Classicos#https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+IPTV-org#Pluto TV Cine Comedia (United States) BR#https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+IPTV-org#Pluto TV Cine Comedia Romantica#https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+IPTV-org#Pluto TV Cine Crime#https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
+IPTV-org#Pluto TV Cine Drama#https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+IPTV-org#Pluto TV Cine Familia#https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+IPTV-org#Pluto TV Cine Inspiracao#https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+IPTV-org#Pluto TV Cine Romance#https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+IPTV-org#Pluto TV Cine Sucessos#https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+IPTV-org#Pluto TV Cozinha#https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+IPTV-org#Pluto TV Desenhos Classicos#https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+IPTV-org#Pluto TV Esportes#https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+IPTV-org#Pluto TV Ficcao Cientifica#https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+IPTV-org#Pluto TV Filmes Acao#https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+IPTV-org#Pluto TV Filmes Aventura#https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+IPTV-org#Pluto TV Filmes de Luta#https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+IPTV-org#Pluto TV Filmes Nacionais#https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+IPTV-org#Pluto TV Historia (United States)#https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
+IPTV-org#Pluto TV Investigacao#https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+IPTV-org#Pluto TV Junior#https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+IPTV-org#Pluto TV Karaoke por Stingray (720p)#https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+IPTV-org#Pluto TV KFOOD#https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+IPTV-org#Pluto TV Kids Club#https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
+IPTV-org#Pluto TV Kids#https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
+IPTV-org#Pluto TV Minha Obsessao Favorita#https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+IPTV-org#Pluto TV Misterios#https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+IPTV-org#Pluto TV Natureza#https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+IPTV-org#Pluto TV Negocio Fechado#https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+IPTV-org#Pluto TV Netmovies#https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+IPTV-org#Pluto TV Novelas BR#https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+IPTV-org#Pluto TV Paisagens por Stingray (720p)#https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+IPTV-org#Pluto TV Policial#https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+IPTV-org#Pluto TV Record News (720p)#https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+IPTV-org#Pluto TV Retro#https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+IPTV-org#Pluto TV Series Acao#https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
+IPTV-org#Pluto TV Series Comedia#https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+IPTV-org#Pluto TV Series Criminais#https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+IPTV-org#Pluto TV Series Drama#https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
+IPTV-org#Pluto TV Series Novelescas#https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+IPTV-org#Pluto TV Series Sci-Fi#https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+IPTV-org#Pluto TV Shows por Stingray (720p)#https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+IPTV-org#Pluto TV Terror Trash#https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
+IPTV-org#Pluto TV Turbo#https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+IPTV-org#Pluto TV Viagens#https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+IPTV-org#Pluto TV Vida Real#https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+IPTV-org#Primer TV (1080p)#http://200.194.238.229:8383/live/primer/playlist.m3u8
+IPTV-org#Pronto-socorro: Historias De Emergencia#https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+IPTV-org#RBATV (720p)#https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+IPTV-org#RCTV Brasil#https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
+IPTV-org#Record (720p)#http://170.84.165.204/Record_HD/index.m3u8
+IPTV-org#Record News (720p)#http://45.177.114.115/RECORD_NEWS/index.m3u8
+IPTV-org#Record RS (720p) [Geo-blocked]#https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+IPTV-org#RecordTV Belem (720p) [Geo-blocked]#https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+IPTV-org#RecordTV Brasilia (720p) [Geo-blocked]#https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+IPTV-org#RecordTV Goias (720p) [Geo-blocked]#https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+IPTV-org#RecordTV Interior SP#http://200.77.176.130:8000/udp/224.0.0.4:49152
+IPTV-org#RecordTV Itapoan (720p) [Geo-blocked]#https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+IPTV-org#RecordTV Rio (720p) [Geo-blocked]#https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+IPTV-org#RecordTV Sao Paulo (720p) [Geo-blocked]#https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+IPTV-org#Red Bull TV BR (1080p)#https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+IPTV-org#Rede Brasil (1080p)#https://redebrasil.nuvemplay.live/hls/stream.m3u8
+IPTV-org#Rede CNT Rio de Janeiro (720p)#http://170.83.49.66:8083/REDECNTHD/index.m3u8
+IPTV-org#Rede CNT Salvador (576i)#http://168.205.87.198:8555/live/1368/123456/150.m3u8
+IPTV-org#Rede Familia (720p)#http://186.219.52.187/rede_familia/index.m3u8
+IPTV-org#Rede Globo (1080p)#https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+IPTV-org#Rede Gospel (1080p)#https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+IPTV-org#Rede Meio Norte (720p)#https://maystreaming.cloudecast.com/redemeio/index.m3u8
+IPTV-org#Rede Metropole (720p)#https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
+IPTV-org#Rede Minas (720p)#https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+IPTV-org#Rede NGT (1080p)#https://isaocorp.cloudecast.com/ngt/index.m3u8
+IPTV-org#Rede Premium TV (720p)#https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
+IPTV-org#Rede RC (720p) [Not 24/7]#http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+IPTV-org#Rede Seculo 21 (720p)#http://186.219.52.187/seculo21/index.m3u8
+IPTV-org#Rede SPTV (360p)#https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+IPTV-org#Rede TV! Mais (720p)#https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+IPTV-org#Rede TV! SD (720p)#http://170.83.16.50/REDE_TV/index.m3u8
+IPTV-org#Rede Vida (720p)#http://46.151.196.223:14244
+IPTV-org#RedeTV! Parana (1080p)#https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+IPTV-org#Retro Cartoon (720p)#https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+IPTV-org#RIT TV (1080p)#https://acesso.ecast.site:3648/live/ritlive.m3u8
+IPTV-org#Santa Cecilia TV (1080p)#https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
+IPTV-org#SBT Cuiaba (818p)#https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+IPTV-org#SBT Interior (720p)#https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+IPTV-org#SBT Kids (1080p) [Geo-blocked]#https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8
+IPTV-org#SBT Nacional (1080p)#https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+IPTV-org#SBT News (720p)#https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+IPTV-org#SBT Nova Mutum (818p)#https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+IPTV-org#SBT Rondonopolis (720p)#https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+IPTV-org#Series Classic (720p)#https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+IPTV-org#Sertao TV (720p)#http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+IPTV-org#SESC TV (1080p)#https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
+IPTV-org#Show do Milhao (1080p) [Geo-blocked]#https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
+IPTV-org#SIC TV (720p)#https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+IPTV-org#Smithsonian Channel Pluto TV#https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+IPTV-org#Sony Channel (Brazil) (720p)#http://170.83.16.50/SONY_CHANNEL/index.m3u8
+IPTV-org#Sony Movies (Brazil) (720p)#http://45.177.114.115/SONY_MOVIES/index.m3u8
+IPTV-org#SOU TV (720p)#https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+IPTV-org#South Park: Colecao Cartman#https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+IPTV-org#South Park: Colecao Kenny#https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+IPTV-org#South Park: Colecao Kyle#https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+IPTV-org#South Park: Colecao Stan#https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+IPTV-org#SporTV 2 (1080p)#http://195.178.110.110/sportv2/index.m3u8
+IPTV-org#SporTV 3 (1080p)#http://195.178.110.110/sportv3/index.m3u8
+IPTV-org#Star Trek#https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+IPTV-org#Studio Universal Latin America Brazil (720p)#http://187.102.210.46/universo/index.m3u8
+IPTV-org#STZ TV (1080p)#https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+IPTV-org#Tastemade Brasil (720p)#https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+IPTV-org#TCM 10 HD (1080p)#https://live.tcm10.com.br/tcm10hd/stream.m3u8
+IPTV-org#TELE 6 (1080p)#https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
+IPTV-org#Telecine Action (1080p)#http://46.151.196.223:14326
+IPTV-org#Telecine Cult#http://45.185.15.154:9080/stream/64/index.m3u8
+IPTV-org#Telecine Fun#http://45.185.15.154:9080/stream/63/index.m3u8
+IPTV-org#Telecine Premium#http://45.185.15.154:9080/stream/28/index.m3u8
+IPTV-org#Telecine Touch#http://45.185.15.154:9080/stream/29/index.m3u8
+IPTV-org#Terra Viva (720p)#http://45.177.114.115/TERRAVIVA/index.m3u8
+IPTV-org#The Pet Collective Brazil (720p)#https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
+IPTV-org#TikTok Radio Brasil (1080p)#https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
+IPTV-org#Times Brasil (720p)#https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+IPTV-org#TLC Latin America Brazil (720p)#http://79.127.238.228:14433
+IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]#http://15.204.246.24:8080/TNTHD/index.m3u8
+IPTV-org#Tokusato#https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
+IPTV-org#Tooncast Brazil (720p)#http://170.83.16.50/TOONCAST/index.m3u8
+IPTV-org#Trace Brazuca HD (1080p)#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+IPTV-org#Travel Box Brazil (720p)#http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
+IPTV-org#Turma da Monica (720p)#https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
+IPTV-org#TV 3 Curitiba (720p)#https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
+IPTV-org#TV A Critica (1080p)#https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+IPTV-org#TV A Folha (720p)#https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+IPTV-org#TV Adorar (720p)#https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
+IPTV-org#TV Aldeia (720p)#https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+IPTV-org#TV Alianca Catarinense (720p)#https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+IPTV-org#TV Alternativa (410p)#https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+IPTV-org#TV Aparecida (720p)#http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
+IPTV-org#TV Arapuan (720p)#https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+IPTV-org#TV Assembleia Ceara (720p)#https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+IPTV-org#TV Assembleia Piaui#https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+IPTV-org#TV Bahia (1080i)#http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+IPTV-org#TV Birigui (640p)#https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+IPTV-org#TV Brasil (720p)#http://45.177.114.115/TV_BRASIL/index.m3u8
+IPTV-org#TV Brasil Oeste (720p)#https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+IPTV-org#TV BRICS Portuguese (1080p)#https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+IPTV-org#TV Brusque (720p)#https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+IPTV-org#TV Camara (Brazil) (1080p)#https://stream3.camara.gov.br/tv1/manifest.m3u8
+IPTV-org#TV Camara 2 (1080p) [Not 24/7]#https://stream3.camara.gov.br/tv2/manifest.m3u8
+IPTV-org#TV Camara Salvador (288p) [Not 24/7]#https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+IPTV-org#TV Cancao Nova (720p)#http://170.83.16.50/CANCAO_NOVA/index.m3u8
+IPTV-org#TV Carioca (720p)#https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
+IPTV-org#TV Cidade de Petropolis (1080p) [Not 24/7]#https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+IPTV-org#TV Cidade Verde Cuiaba#https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+IPTV-org#TV Clube (720p)#https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+IPTV-org#TV Comunitaria (360p)#https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+IPTV-org#TV Cultura (720p)#http://45.177.114.115/TV_CULTURA/index.m3u8
+IPTV-org#TV Curuca (360p)#https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+IPTV-org#TV das Artes (360p)#http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+IPTV-org#TV Destak (360p)#http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+IPTV-org#TV Diario Macapa (1080p) [Not 24/7]#https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+IPTV-org#TV Difusao (720p)#https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+IPTV-org#TV Difusora Leste (1080p)#https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+IPTV-org#TV Digital Birigui (640p)#http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+IPTV-org#TV Empire (720p)#https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+IPTV-org#TV Encontro das Aguas#https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
+IPTV-org#TV Evangelizar (720p)#http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
+IPTV-org#TV Fronteira (480i)#https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+IPTV-org#TV Futuro (1080p)#https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+IPTV-org#TV Gazeta (720p)#http://186.219.52.187/gazeta/index.m3u8
+IPTV-org#TV Gazin (720p)#https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8
+IPTV-org#TV Gideoes (1080p) [Not 24/7]#https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+IPTV-org#TV Globo Brasilia (1080p)#http://79.127.238.228:14173
+IPTV-org#TV Globo Sao Paulo (720p)#http://170.84.165.204/Globo_HD/index.m3u8
+IPTV-org#TV GRANDE NATAL HDTV BRASIL (1080p)#http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+IPTV-org#TV Grao Para (720p)#https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+IPTV-org#TV Guara (720p) [Not 24/7]#https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+IPTV-org#TV Guarapari (720p)#https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
+IPTV-org#TV Interlagos (360p)#https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
+IPTV-org#TV Justica (720p)#http://170.83.16.50/TV_JUSTICA/index.m3u8
+IPTV-org#TV Liberdade (720p) [Not 24/7]#https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+IPTV-org#TV Life America (720p)#https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+IPTV-org#TV Litoral RN (720p)#https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+IPTV-org#TV Maanaim (720p) [Not 24/7]#https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
+IPTV-org#TV Mackenzie (480p)#https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+IPTV-org#TV Mais Marica (1080p)#https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+IPTV-org#TV Mana Brasil (1080p)#https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+IPTV-org#TV Marajoara (720p)#https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+IPTV-org#TV Meio (720p)#https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
+IPTV-org#TV Metropole (720p) [Not 24/7]#https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+IPTV-org#TV Mon (720p)#https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8
+IPTV-org#TV Natal (1080p)#http://185.228.163.146:8000/play/a01y/index.m3u8
+IPTV-org#TV Padre Cicero (720p)#https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+IPTV-org#TV Pai Eterno (720p)#http://186.219.52.187/pai_eterno/index.m3u8
+IPTV-org#TV Pantanal MS (360p) [Not 24/7]#https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+IPTV-org#TV Paraense (720p)#https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+IPTV-org#TV Parana Turismo (720p) [Not 24/7]#http://200.189.113.201/hls/tve.m3u8
+IPTV-org#TV Passo Fundo (720p)#https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+IPTV-org#TV Petropolis (720p)#https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+IPTV-org#TV Profissao#https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
+IPTV-org#TV Ra Tim Bum (720p)#http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
+IPTV-org#TV Sao Raimundo (268p)#https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+IPTV-org#TV Senado (Brazil) (720p)#http://170.83.16.50/TV_SENADO/index.m3u8
+IPTV-org#TV Series (480p)#https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+IPTV-org#TV Sim Cachoeiro (720p)#https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+IPTV-org#TV Sim Sao Mateus (720p)#https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+IPTV-org#TV Sol Comunidade (480p) [Not 24/7]#http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+IPTV-org#TV Sul Bahia (320p)#https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+IPTV-org#TV Sul de Minas (720p)#https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+IPTV-org#TV Terceiro Anjo (360p)#https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+IPTV-org#TV Thathi (720p) [Not 24/7]#https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+IPTV-org#TV UFG (720p) [Not 24/7]#http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+IPTV-org#TV UFOP (1080p)#https://app.tvufop.com.br/hls/tvufop.m3u8
+IPTV-org#TV Universal (480p)#https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+IPTV-org#TV Vicosa (480p)#http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+IPTV-org#TV Vila Real (720p)#https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+IPTV-org#TV Zoom (720p)#https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+IPTV-org#TV+Pet#https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+IPTV-org#TVC-Rio#https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+IPTV-org#TVCOM Maceio (480p)#https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+IPTV-org#TVE Bahia (1080p)#http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+IPTV-org#TVE RS (1080p)#https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+IPTV-org#TVideoNews (720p) [Not 24/7]#https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+IPTV-org#TVitape (720p)#https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+IPTV-org#TVLatinaSat (720p)#https://www.latinasat.com.br/hls/live/stream/index.m3u8
+IPTV-org#TVMatic Comedy (720p)#http://cdn.tvmatic.net/comedy.m3u8
+IPTV-org#TVMatic Crafts (720p)#http://cdn.tvmatic.net/crafts.m3u8
+IPTV-org#TVMatic Facebook (720p)#http://cdn.tvmatic.net/facebook.m3u8
+IPTV-org#TVMatic Fight (720p)#http://cdn.tvmatic.net/fight.m3u8
+IPTV-org#TVMatic Funny (720p)#http://cdn.tvmatic.net/funny.m3u8
+IPTV-org#TVMatic TikTok (720p)#http://cdn.tvmatic.net/tiktok.m3u8
+IPTV-org#TVNBN (720p)#https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+IPTV-org#UMA TV#https://umatv.nuvemplay.live/hls/stream.m3u8
+IPTV-org#Unisul TV (720p)#https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+IPTV-org#UniTV Porto Alegre (480p)#http://unitvaovivo.ufrgs.br:8080/live.ogg
+IPTV-org#VEJA+ TV (1080p)#https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+IPTV-org#VRT Channel (720p)#https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+IPTV-org#WooHoo (720p)#http://170.83.16.50/WOOHOO/index.m3u8

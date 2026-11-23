@@ -1,0 +1,400 @@
+IPTV-org#+MaisUm (720p)
+IPTV-org#1001 Noites (480p)
+IPTV-org#A&E Latin America Brazil (720p)
+IPTV-org#Adesso TV (720p)
+IPTV-org#Adrenalina Pura TV Brazil
+IPTV-org#AgroBrasil TV (720p) [Not 24/7]
+IPTV-org#AgroCanal (720p)
+IPTV-org#AgroMais (720p)
+IPTV-org#Alpha Channel (720p)
+IPTV-org#Amazon Sat (1080p)
+IPTV-org#AMC Latin America Brazil (720p)
+IPTV-org#Angel TV Portuguese (720p)
+IPTV-org#Araruna TV (614p)
+IPTV-org#Aratu On (1080p)
+IPTV-org#Arte 1 (720p)
+IPTV-org#Auge TV (720p)
+IPTV-org#Avatar: A lenda de Aang
+IPTV-org#AWTV (1080p) [Geo-blocked]
+IPTV-org#AXN (Brazil) (720p)
+IPTV-org#BabyFirst Brazil
+IPTV-org#Band (720p)
+IPTV-org#Band Sports (1080p)
+IPTV-org#BandNews (1080p)
+IPTV-org#Bem Mais TV (1080p)
+IPTV-org#Bem Melhor (720p)
+IPTV-org#BET Pluto TV BR
+IPTV-org#Blitstv
+IPTV-org#BM&C News (720p)
+IPTV-org#Boas Novas (1080p)
+IPTV-org#Bob Esponja Calca Quadrada (720p)
+IPTV-org#Box Kids TV (720p)
+IPTV-org#BR8 TV
+IPTV-org#Cabo Frio TV (720p)
+IPTV-org#Canal 25 Jundiai (720p)
+IPTV-org#Canal 38 (720p)
+IPTV-org#Canal do Boi (720p)
+IPTV-org#Canal do Criador (1080p)
+IPTV-org#Canal do Inter (720p) [Not 24/7]
+IPTV-org#Canal Educacao (720p)
+IPTV-org#Canal FDR (1080p)
+IPTV-org#Canal Futura (720p)
+IPTV-org#Canal Gov (720p)
+IPTV-org#Canal Libras (720p)
+IPTV-org#Canal Metropolitano de Noticias
+IPTV-org#Canal Ricos (480p)
+IPTV-org#Canal Rural (720p)
+IPTV-org#Canal Saude
+IPTV-org#Canal Sete (1080p)
+IPTV-org#Canal START (720p)
+IPTV-org#Canal UOL (1080p)
+IPTV-org#Cartoon Network Latin America Brazil (720p) [Geo-blocked]
+IPTV-org#Catve FM (720p) [Not 24/7]
+IPTV-org#Catve Master TV (720p) [Not 24/7]
+IPTV-org#Catve2 (720p)
+IPTV-org#Chroma TV (480p)
+IPTV-org#Cine Terror BR
+IPTV-org#Cinturao Verde
+IPTV-org#Classique TV (360p)
+IPTV-org#CNN Brasil (1080p)
+IPTV-org#COM Brasil (720p)
+IPTV-org#Combate (720p)
+IPTV-org#Comedy Central Brasil (480p)
+IPTV-org#Comedy Central Pluto TV BR
+IPTV-org#Comedy Central South Park
+IPTV-org#Conecta Mais TV (720p)
+IPTV-org#ConecTV Brasil (720p)
+IPTV-org#Conexao TV (720p)
+IPTV-org#CSI: Miami BR
+IPTV-org#Cultura Fast (720p)
+IPTV-org#Cultura Para (720p)
+IPTV-org#Demais TV (720p)
+IPTV-org#Despertar TV (720p)
+IPTV-org#Detetives Medicos
+IPTV-org#Diff'rent Strokes Arnold
+IPTV-org#Discovery Kids Latin America Brazil (720p) [Geo-blocked]
+IPTV-org#Discovery World Brazil (720p) [Geo-blocked]
+IPTV-org#DumDum (720p)
+IPTV-org#Elemental Channel (1080p)
+IPTV-org#ElyTV (360p)
+IPTV-org#ESPN (Brazil) (1080p)
+IPTV-org#ESPN 3 (Brazil) (1080p)
+IPTV-org#ESPN 4 (Brazil) (1080p)
+IPTV-org#EUTV (720p)
+IPTV-org#FailArmy Brazil
+IPTV-org#Fala Litoral (480p)
+IPTV-org#FIFA+ Portuguese (720p)
+IPTV-org#Filmes Suspense
+IPTV-org#Fish TV (1080p)
+IPTV-org#Fonte TV
+IPTV-org#Fora Tedio TV (720p)
+IPTV-org#Futura (720p)
+IPTV-org#Geekdot (720p)
+IPTV-org#Ghost TV (712p) [Not 24/7]
+IPTV-org#GloboNews (1080p)
+IPTV-org#Globoplay Novelas (1080p)
+IPTV-org#Gloob (576p)
+IPTV-org#Gloob Web [Not 24/7]
+IPTV-org#GNT (1080p)
+IPTV-org#Gospel Cartoon (360p)
+IPTV-org#Gospel Movie TV (360p)
+IPTV-org#History (Brazil) (720p)
+IPTV-org#History 2 Latin America Brazil (720p)
+IPTV-org#iCarly
+IPTV-org#ISTV (Brazil) (720p) [Not 24/7]
+IPTV-org#J3NEWS TV
+IPTV-org#Jornada nas Estrelas: A Nova Geracao
+IPTV-org#Jornada nas Estrelas: Deep Space Nine
+IPTV-org#Jornada nas Estrelas: Voyager
+IPTV-org#Jovem Pan News (720p)
+IPTV-org#Kenan & Kel BR
+IPTV-org#KpopTV Play (576p)
+IPTV-org#Kuriakos Kids (1080p)
+IPTV-org#L!ke (1080p)
+IPTV-org#Laboral TV (360p)
+IPTV-org#Lamore Rock Show WebTV (720p)
+IPTV-org#Lider TV (Brazil) (720p)
+IPTV-org#Lifetime Latin America Brazil (720p)
+IPTV-org#Loading (720p)
+IPTV-org#MacGyver
+IPTV-org#MasterChef
+IPTV-org#MBC Brasil TV
+IPTV-org#MCM Pop
+IPTV-org#MCM Top (France)
+IPTV-org#MKK Web TV (720p) [Not 24/7]
+IPTV-org#MTV Are you the One?
+IPTV-org#MTV Biggest Pop BR (1080p)
+IPTV-org#MTV Catfish BR (720p)
+IPTV-org#MTV Classic BR (720p)
+IPTV-org#MTV Com o Ex
+IPTV-org#MTV Dating
+IPTV-org#MTV Drag
+IPTV-org#MTV Jovens e Maes (720p)
+IPTV-org#MTV Pluto TV BR
+IPTV-org#MTV Reality (720p)
+IPTV-org#MTV Rocks
+IPTV-org#MTV Shore
+IPTV-org#Music Box Brazil (720p)
+IPTV-org#MyTime Movie Network (Brazil) (720p)
+IPTV-org#N Sports (1080p)
+IPTV-org#Naruto Brazil
+IPTV-org#NCIS
+IPTV-org#Nick Jr. Club (United States) BR (720p)
+IPTV-org#Nickelodeon (Brazil) (480p)
+IPTV-org#Nickelodeon Classico (720p)
+IPTV-org#Nickelodeon Teen (720p)
+IPTV-org#Nickelodeon Toons (720p)
+IPTV-org#NickOnline Bob Esponja [Not 24/7]
+IPTV-org#NickOnline HD (720p)
+IPTV-org#Nova Era TV (1080p) [Not 24/7]
+IPTV-org#Novo Tempo (720p)
+IPTV-org#NTV (Brazil) (720p)
+IPTV-org#Numbers
+IPTV-org#O Dia TV (450p)
+IPTV-org#O Encantador de Caes
+IPTV-org#O Reino Infantil
+IPTV-org#Oggy e as Baratas Tontas
+IPTV-org#One Piece BR
+IPTV-org#Petlovers TV (720p)
+IPTV-org#Play TV (Brazil) (720p)
+IPTV-org#Plena TV (720p)
+IPTV-org#Plenitude TV (1080p)
+IPTV-org#Pluto TV Aliens
+IPTV-org#Pluto TV Animais
+IPTV-org#Pluto TV Anime Acao
+IPTV-org#Pluto TV Anime BR
+IPTV-org#Pluto TV Bang Bang
+IPTV-org#Pluto TV Canal UOL (720p)
+IPTV-org#Pluto TV Cine Classicos
+IPTV-org#Pluto TV Cine Comedia (United States) BR
+IPTV-org#Pluto TV Cine Comedia Romantica
+IPTV-org#Pluto TV Cine Crime
+IPTV-org#Pluto TV Cine Drama
+IPTV-org#Pluto TV Cine Familia
+IPTV-org#Pluto TV Cine Inspiracao
+IPTV-org#Pluto TV Cine Romance
+IPTV-org#Pluto TV Cine Sucessos
+IPTV-org#Pluto TV Cozinha
+IPTV-org#Pluto TV Desenhos Classicos
+IPTV-org#Pluto TV Esportes
+IPTV-org#Pluto TV Ficcao Cientifica
+IPTV-org#Pluto TV Filmes Acao
+IPTV-org#Pluto TV Filmes Aventura
+IPTV-org#Pluto TV Filmes de Luta
+IPTV-org#Pluto TV Filmes Nacionais
+IPTV-org#Pluto TV Historia (United States)
+IPTV-org#Pluto TV Investigacao
+IPTV-org#Pluto TV Junior
+IPTV-org#Pluto TV Karaoke por Stingray (720p)
+IPTV-org#Pluto TV KFOOD
+IPTV-org#Pluto TV Kids
+IPTV-org#Pluto TV Kids Club
+IPTV-org#Pluto TV Minha Obsessao Favorita
+IPTV-org#Pluto TV Misterios
+IPTV-org#Pluto TV Natureza
+IPTV-org#Pluto TV Negocio Fechado
+IPTV-org#Pluto TV Netmovies
+IPTV-org#Pluto TV Novelas BR
+IPTV-org#Pluto TV Paisagens por Stingray (720p)
+IPTV-org#Pluto TV Policial
+IPTV-org#Pluto TV Record News (720p)
+IPTV-org#Pluto TV Retro
+IPTV-org#Pluto TV Series Acao
+IPTV-org#Pluto TV Series Comedia
+IPTV-org#Pluto TV Series Criminais
+IPTV-org#Pluto TV Series Drama
+IPTV-org#Pluto TV Series Novelescas
+IPTV-org#Pluto TV Series Sci-Fi
+IPTV-org#Pluto TV Shows por Stingray (720p)
+IPTV-org#Pluto TV Terror Trash
+IPTV-org#Pluto TV Turbo
+IPTV-org#Pluto TV Viagens
+IPTV-org#Pluto TV Vida Real
+IPTV-org#Primer TV (1080p)
+IPTV-org#Pronto-socorro: Historias De Emergencia
+IPTV-org#RBATV (720p)
+IPTV-org#RCTV Brasil
+IPTV-org#Record (720p)
+IPTV-org#Record News (720p)
+IPTV-org#Record RS (720p) [Geo-blocked]
+IPTV-org#RecordTV Belem (720p) [Geo-blocked]
+IPTV-org#RecordTV Brasilia (720p) [Geo-blocked]
+IPTV-org#RecordTV Goias (720p) [Geo-blocked]
+IPTV-org#RecordTV Interior SP
+IPTV-org#RecordTV Itapoan (720p) [Geo-blocked]
+IPTV-org#RecordTV Rio (720p) [Geo-blocked]
+IPTV-org#RecordTV Sao Paulo (720p) [Geo-blocked]
+IPTV-org#Red Bull TV BR (1080p)
+IPTV-org#Rede Brasil (1080p)
+IPTV-org#Rede CNT Rio de Janeiro (720p)
+IPTV-org#Rede CNT Salvador (576i)
+IPTV-org#Rede Familia (720p)
+IPTV-org#Rede Globo (1080p)
+IPTV-org#Rede Gospel (1080p)
+IPTV-org#Rede Meio Norte (720p)
+IPTV-org#Rede Metropole (720p)
+IPTV-org#Rede Minas (720p)
+IPTV-org#Rede NGT (1080p)
+IPTV-org#Rede Premium TV (720p)
+IPTV-org#Rede RC (720p) [Not 24/7]
+IPTV-org#Rede Seculo 21 (720p)
+IPTV-org#Rede SPTV (360p)
+IPTV-org#Rede TV! Mais (720p)
+IPTV-org#Rede TV! SD (720p)
+IPTV-org#Rede Vida (720p)
+IPTV-org#RedeTV! Parana (1080p)
+IPTV-org#Retro Cartoon (720p)
+IPTV-org#RIT TV (1080p)
+IPTV-org#Santa Cecilia TV (1080p)
+IPTV-org#SBT Cuiaba (818p)
+IPTV-org#SBT Interior (720p)
+IPTV-org#SBT Kids (1080p) [Geo-blocked]
+IPTV-org#SBT Nacional (1080p)
+IPTV-org#SBT News (720p)
+IPTV-org#SBT Nova Mutum (818p)
+IPTV-org#SBT Rondonopolis (720p)
+IPTV-org#Series Classic (720p)
+IPTV-org#Sertao TV (720p)
+IPTV-org#SESC TV (1080p)
+IPTV-org#Show do Milhao (1080p) [Geo-blocked]
+IPTV-org#SIC TV (720p)
+IPTV-org#Smithsonian Channel Pluto TV
+IPTV-org#Sony Channel (Brazil) (720p)
+IPTV-org#Sony Movies (Brazil) (720p)
+IPTV-org#SOU TV (720p)
+IPTV-org#South Park: Colecao Cartman
+IPTV-org#South Park: Colecao Kenny
+IPTV-org#South Park: Colecao Kyle
+IPTV-org#South Park: Colecao Stan
+IPTV-org#SporTV 2 (1080p)
+IPTV-org#SporTV 3 (1080p)
+IPTV-org#Star Trek
+IPTV-org#Studio Universal Latin America Brazil (720p)
+IPTV-org#STZ TV (1080p)
+IPTV-org#Tastemade Brasil (720p)
+IPTV-org#TCM 10 HD (1080p)
+IPTV-org#TELE 6 (1080p)
+IPTV-org#Telecine Action (1080p)
+IPTV-org#Telecine Cult
+IPTV-org#Telecine Fun
+IPTV-org#Telecine Premium
+IPTV-org#Telecine Touch
+IPTV-org#Terra Viva (720p)
+IPTV-org#The Pet Collective Brazil (720p)
+IPTV-org#TikTok Radio Brasil (1080p)
+IPTV-org#Times Brasil (720p)
+IPTV-org#TLC Latin America Brazil (720p)
+IPTV-org#TNT Latin America Brazil (720p) [Geo-blocked]
+IPTV-org#Tokusato
+IPTV-org#Tooncast Brazil (720p)
+IPTV-org#Trace Brazuca HD (1080p)
+IPTV-org#Travel Box Brazil (720p)
+IPTV-org#Turma da Monica (720p)
+IPTV-org#TV 3 Curitiba (720p)
+IPTV-org#TV A Critica (1080p)
+IPTV-org#TV A Folha (720p)
+IPTV-org#TV Adorar (720p)
+IPTV-org#TV Aldeia (720p)
+IPTV-org#TV Alianca Catarinense (720p)
+IPTV-org#TV Alternativa (410p)
+IPTV-org#TV Aparecida (720p)
+IPTV-org#TV Arapuan (720p)
+IPTV-org#TV Assembleia Ceara (720p)
+IPTV-org#TV Assembleia Piaui
+IPTV-org#TV Bahia (1080i)
+IPTV-org#TV Birigui (640p)
+IPTV-org#TV Brasil (720p)
+IPTV-org#TV Brasil Oeste (720p)
+IPTV-org#TV BRICS Portuguese (1080p)
+IPTV-org#TV Brusque (720p)
+IPTV-org#TV Camara (Brazil) (1080p)
+IPTV-org#TV Camara 2 (1080p) [Not 24/7]
+IPTV-org#TV Camara Salvador (288p) [Not 24/7]
+IPTV-org#TV Cancao Nova (720p)
+IPTV-org#TV Carioca (720p)
+IPTV-org#TV Cidade de Petropolis (1080p) [Not 24/7]
+IPTV-org#TV Cidade Verde Cuiaba
+IPTV-org#TV Clube (720p)
+IPTV-org#TV Comunitaria (360p)
+IPTV-org#TV Cultura (720p)
+IPTV-org#TV Curuca (360p)
+IPTV-org#TV das Artes (360p)
+IPTV-org#TV Destak (360p)
+IPTV-org#TV Diario Macapa (1080p) [Not 24/7]
+IPTV-org#TV Difusao (720p)
+IPTV-org#TV Difusora Leste (1080p)
+IPTV-org#TV Digital Birigui (640p)
+IPTV-org#TV Empire (720p)
+IPTV-org#TV Encontro das Aguas
+IPTV-org#TV Evangelizar (720p)
+IPTV-org#TV Fronteira (480i)
+IPTV-org#TV Futuro (1080p)
+IPTV-org#TV Gazeta (720p)
+IPTV-org#TV Gazin (720p)
+IPTV-org#TV Gideoes (1080p) [Not 24/7]
+IPTV-org#TV Globo Brasilia (1080p)
+IPTV-org#TV Globo Sao Paulo (720p)
+IPTV-org#TV GRANDE NATAL HDTV BRASIL (1080p)
+IPTV-org#TV Grao Para (720p)
+IPTV-org#TV Guara (720p) [Not 24/7]
+IPTV-org#TV Guarapari (720p)
+IPTV-org#TV Interlagos (360p)
+IPTV-org#TV Justica (720p)
+IPTV-org#TV Liberdade (720p) [Not 24/7]
+IPTV-org#TV Life America (720p)
+IPTV-org#TV Litoral RN (720p)
+IPTV-org#TV Maanaim (720p) [Not 24/7]
+IPTV-org#TV Mackenzie (480p)
+IPTV-org#TV Mais Marica (1080p)
+IPTV-org#TV Mana Brasil (1080p)
+IPTV-org#TV Marajoara (720p)
+IPTV-org#TV Meio (720p)
+IPTV-org#TV Metropole (720p) [Not 24/7]
+IPTV-org#TV Mon (720p)
+IPTV-org#TV Natal (1080p)
+IPTV-org#TV Padre Cicero (720p)
+IPTV-org#TV Pai Eterno (720p)
+IPTV-org#TV Pantanal MS (360p) [Not 24/7]
+IPTV-org#TV Paraense (720p)
+IPTV-org#TV Parana Turismo (720p) [Not 24/7]
+IPTV-org#TV Passo Fundo (720p)
+IPTV-org#TV Petropolis (720p)
+IPTV-org#TV Profissao
+IPTV-org#TV Ra Tim Bum (720p)
+IPTV-org#TV Sao Raimundo (268p)
+IPTV-org#TV Senado (Brazil) (720p)
+IPTV-org#TV Series (480p)
+IPTV-org#TV Sim Cachoeiro (720p)
+IPTV-org#TV Sim Sao Mateus (720p)
+IPTV-org#TV Sol Comunidade (480p) [Not 24/7]
+IPTV-org#TV Sul Bahia (320p)
+IPTV-org#TV Sul de Minas (720p)
+IPTV-org#TV Terceiro Anjo (360p)
+IPTV-org#TV Thathi (720p) [Not 24/7]
+IPTV-org#TV UFG (720p) [Not 24/7]
+IPTV-org#TV UFOP (1080p)
+IPTV-org#TV Universal (480p)
+IPTV-org#TV Vicosa (480p)
+IPTV-org#TV Vila Real (720p)
+IPTV-org#TV Zoom (720p)
+IPTV-org#TV+Pet
+IPTV-org#TVC-Rio
+IPTV-org#TVCOM Maceio (480p)
+IPTV-org#TVE Bahia (1080p)
+IPTV-org#TVE RS (1080p)
+IPTV-org#TVideoNews (720p) [Not 24/7]
+IPTV-org#TVitape (720p)
+IPTV-org#TVLatinaSat (720p)
+IPTV-org#TVMatic Comedy (720p)
+IPTV-org#TVMatic Crafts (720p)
+IPTV-org#TVMatic Facebook (720p)
+IPTV-org#TVMatic Fight (720p)
+IPTV-org#TVMatic Funny (720p)
+IPTV-org#TVMatic TikTok (720p)
+IPTV-org#TVNBN (720p)
+IPTV-org#UMA TV
+IPTV-org#Unisul TV (720p)
+IPTV-org#UniTV Porto Alegre (480p)
+IPTV-org#VEJA+ TV (1080p)
+IPTV-org#VRT Channel (720p)
+IPTV-org#WooHoo (720p)

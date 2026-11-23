@@ -1,0 +1,38 @@
+name: Atualizar Playlist IPTV (LLS_TV.m3u)
+
+on:
+  # Executa toda segunda-feira às 05:00 (horário de Brasília / 08:00 UTC)
+  schedule:
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Executar scripts IPTV
+        run: |
+          set -o pipefail
+          mkdir -p iptv/log iptv/temp iptv/config
+          cp .github/workflows/update-iptv.yml iptv/config/update-iptv.yml
+          chmod +x iptv/run.sh iptv/scripts/*.sh
+          bash iptv/run.sh all 2>&1 | tee iptv/log/update-iptv.log
+
+      - name: Salvar alterações no GitHub (Commit & Push)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -f iptv/LLS_TV.m3u iptv/log/update-iptv.log iptv/temp/channels-*.txt iptv/config/update-iptv.yml
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(iptv): atualização automática LLS_TV.m3u"
+            git push
+          else
+            echo "Nenhuma alteração detectada nos canais ou URLs."
+          fi
