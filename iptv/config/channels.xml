@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <!-- 3 Canais via Whale TV Plus (://whaletvplus.com) -->
+  <channel site="watch.whaletvplus.com" site_id="979187723418476860" lang="en" xmltv_id="AZClassicFlix.us@BR">a-z Classic Flix</channel>
+  <channel site="watch.whaletvplus.com" site_id="609411515976060398" lang="en" xmltv_id="Filmzie.us@BR">Filmzie</channel>
+  <channel site="watch.whaletvplus.com" site_id="643123131363958663" lang="en" xmltv_id="MovieMania.us@BR">Movie Mania (EN)</channel>
+  
   <!-- 1 Canal via Matt Huisman (i.mjh.nz) -->
   <channel site="i.mjh.nz" site_id="PlutoTV/br#63eb9fdda995710008991c54" lang="pt" xmltv_id="NCIS.us@BR">NCIS</channel>  
 
-  <!-- 7 Canais via Mi TV (mi.tv) -->
+  <!-- 10 Canais via Mi TV (mi.tv) -->
+  <channel site="mi.tv" site_id="br#a-e" lang="pt" xmltv_id="AELatinAmerica.us@Brazil">A&amp;E</channel>
   <channel site="mi.tv" site_id="br#amc-hd" lang="pt" xmltv_id="AMCLatinAmerica.us@Brazil">AMC HD</channel>
   <channel site="mi.tv" site_id="br#axn" lang="pt" xmltv_id="AXN.br@SD">AXN</channel>
   <channel site="mi.tv" site_id="br#sony" lang="pt" xmltv_id="SonyChannel.br@SD">Sony</channel>
+  <channel site="mi.tv" site_id="br#studio-universal" lang="pt" xmltv_id="StudioUniversalLatinAmerica.us@Brazil">Studio Universal</channel>
+  <channel site="mi.tv" site_id="br#telecine-action" lang="pt" xmltv_id="TelecineAction.br@SD">Telecine Action</channel>
   <channel site="mi.tv" site_id="br#telecine-cult" lang="pt" xmltv_id="TelecineCult.br@SD">Telecine Cult</channel>
   <channel site="mi.tv" site_id="br#telecine-fun" lang="pt" xmltv_id="TelecineFun.br@SD">Telecine Fun</channel>
   <channel site="mi.tv" site_id="br#telecine-premium" lang="pt" xmltv_id="TelecinePremium.br@SD">Telecine Premium</channel>
   <channel site="mi.tv" site_id="br#telecine-touch" lang="pt" xmltv_id="TelecineTouch.br@SD">Telecine Touch</channel>
 
-  <!-- 13 Canais via Plex TV (plex.tv) -->
+  <!-- 14 Canais via Plex TV (plex.tv) -->
   <channel site="plex.tv" site_id="6685ad945ffde3f71a3977d5" lang="pt" xmltv_id="CindieTV.br@BR">Cindie TV</channel>
   <channel site="plex.tv" site_id="6683faa4cd6f1d394094114b" lang="pt" xmltv_id="CinEspanto.br@BR">CinEspanto</channel>
   <channel site="plex.tv" site_id="65e9d0ad8fe4ef7053c3c86c" lang="pt" xmltv_id="FilmRiseSeriesGratuitas.br@BR">FilmRise Series Gratuitas</channel>
+  <channel site="plex.tv" site_id="63489bc190b96ef5e0eb327c" lang="pt" xmltv_id="GrjngoFilmesDeFaroeste.br@BR">Grjngo - Filmes De Faroeste</channel>
   <channel site="plex.tv" site_id="6623c836ed4918437ed56ec2" lang="pt" xmltv_id="MovieSphere.us@BR">MOVIESPHERE</channel>
   <channel site="plex.tv" site_id="644874236e1dc0bf5664a674" lang="pt" xmltv_id="MyTimeMovieNetwork.br@SD">MyTime Movie Network</channel>
   <channel site="plex.tv" site_id="66998d1f7888888799f31d27" lang="pt" xmltv_id="Runtime.us@SD">Runtime</channel>
@@ -27,13 +36,14 @@
   <channel site="plex.tv" site_id="6864668119cc2e163e38d167" lang="pt" xmltv_id="SessaoTrash.br@BR">Sessão Trash</channel>
   <channel site="plex.tv" site_id="6623c114ed4918437ed56ebc" lang="pt" xmltv_id="SparkTVLuzyAmor.br@BR">Spark TV Luz y Amor</channel>
 
-  <!-- 28 Canais via Pluto TV (pluto.tv) -->
+  <!-- 29 Canais via Pluto TV (pluto.tv) -->
   <channel site="pluto.tv" site_id="61b790b985706b00072cb797" lang="pt" xmltv_id="AdrenalinaPuraTV.us@Brazil">Adrenalina Pura TV</channel>
   <channel site="pluto.tv" site_id="63eb9c5351f5d000085e8d7e" lang="pt" xmltv_id="CSIMiami.us@BR">CSI: Miami</channel>
   <channel site="pluto.tv" site_id="62f54c6439183b000769fb8f" lang="pt" xmltv_id="CSINY.us@BR">CSI: NY</channel>
   <channel site="pluto.tv" site_id="633dcebd80386500074a2461" lang="pt" xmltv_id="FilmelierTV.us@BR">Filmelier TV</channel>
   <channel site="pluto.tv" site_id="5f171d3442a0500007362f22" lang="pt" xmltv_id="FilmesSuspense.us@Brazil">Filmes Suspense</channel>
   <channel site="pluto.tv" site_id="6806d65e84f24b70109485fa" lang="pt" xmltv_id="PlutoTVAliens.us@BR">Pluto TV Aliens</channel>
+  <channel site="pluto.tv" site_id="663b9dc7cb3ea10008f1a0ce" lang="pt" xmltv_id="PlutoTVBangBang.us@BR">Pluto TV Bang Bang</channel>
   <channel site="pluto.tv" site_id="5fa1612a669ba0000702017b" lang="pt" xmltv_id="PlutoTVCineClassicos.us@BR">Pluto TV Cine Clássicos</channel>
   <channel site="pluto.tv" site_id="5f12101f0b12f00007844c7c" lang="pt" xmltv_id="PlutoTVCineComedia.us@BR">Pluto TV Cine Comédia</channel>
   <channel site="pluto.tv" site_id="62545ed3dab4380007582f7c" lang="pt" xmltv_id="PlutoTVCineComediaRomantica.us@BR">Pluto TV Cine Comédia Romântica</channel>
