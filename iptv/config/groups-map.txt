@@ -4,7 +4,6 @@ Terror#Terror|Espanto|Halloween|Trash|Medo|Booh!
 Suspense#Suspense|Crime|Criminais
 Ficção#Sci-Fi|Ficção|Ficcao|Scifi|Dark Matter
 Comédia#Comédia|Comedia|Fun
-Romance#Romance|Romântica|Romantica|Paixão|Paixao|Luz E Amor|Spark|MyTime
 Drama#Drama|Emotion|Touch|Inspiração|Inspiracao|Esperança|Esperanca|Vida Real
 Família#Familia|Família|Family|Aventura
 Ação#Ação|Acao|Action|Adrenalina|Luta

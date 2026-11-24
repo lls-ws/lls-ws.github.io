@@ -1252,18 +1252,18 @@
 #SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)
 #SamsungTVPlus#2645 Runtime Ação (BR)
 #SamsungTVPlus#2645 Runtime Ação alt (BR)
-#SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)
-#SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)
+SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)
+SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)
 #SamsungTVPlus#2685 Cindie Lite Portuguese (BR)
 #SamsungTVPlus#2695 MyTime Movie Network alt (BR)
 #SamsungTVPlus#2697 Film Plus TV (BR)
 #SamsungTVPlus#2705 Spark TV (BR)
-#SamsungTVPlus#2710 Filmelier Esperanca (BR)
-#SamsungTVPlus#2712 Vida Real (BR)
-#SamsungTVPlus#2714 Filmelier TV (BR)
+SamsungTVPlus#2710 Filmelier Esperanca (BR)
+SamsungTVPlus#2712 Vida Real (BR)
+SamsungTVPlus#2714 Filmelier TV (BR)
 #SamsungTVPlus#2720 Runtime TV e Filmes (BR)
 #SamsungTVPlus#2725 Sony One Cinema (BR)
-#SamsungTVPlus#2732 Moviesphere (BR)
+SamsungTVPlus#2732 Moviesphere (BR)
 #SamsungTVPlus#Assombrações
 #SamsungTVPlus#Canal UOL (BR) via PLuto
 #SamsungTVPlus#Kenan & Kel
@@ -1724,23 +1724,23 @@ LG#905 Pluto TV Cine Terror
 LG#906 Filmes Suspense
 LG#907 Pluto TV Filmes Nacionais
 LG#908 Pluto TV Cine Clássicos
-LG#909 Pluto TV Cine Romance
-LG#910 Spark TV Luz E Amor
-LG#911 Pluto TV Cine Comédia Romântica
+#LG#909 Pluto TV Cine Romance
+#LG#910 Spark TV Luz E Amor
+#LG#911 Pluto TV Cine Comédia Romântica
 LG#912 Pluto TV Ficção Científica
 LG#913 Pluto TV Cine Família
 LG#915 Runtime
 LG#916 CinEspanto
 LG#917 Runtime Crime
-LG#918 Runtime Romance
+#LG#918 Runtime Romance
 LG#919 Runtime Familia
 LG#920 Runtime Comédia
 LG#921 Runtime Ação
 LG#923 Sessao Trash
 LG#924 Cindie TV
 LG#940 Sony One Cinema
-Movieark#Adrenalina Pura TV
-Movieark#Adrenalina Pura TV Halloween
+#Movieark#Adrenalina Pura TV
+#Movieark#Adrenalina Pura TV Halloween
 Movieark#Ação Total TV
 Movieark#Booh!
 Movieark#Cine Familia
@@ -1749,13 +1749,13 @@ Movieark#Film Plus
 Movieark#Film Plus Action
 Movieark#Film Plus Emotion
 Movieark#Film Plus Family
-Movieark#Filmelier TV
-Movieark#Filmelier TV Esperança
-Movieark#Filmelier TV Paixão
-Movieark#Filmelier TV Vida Real
+#Movieark#Filmelier TV
+#Movieark#Filmelier TV Esperança
+#Movieark#Filmelier TV Paixão
+#Movieark#Filmelier TV Vida Real
 Movieark#Medo TV
-Movieark#Moviesphere
+#Movieark#Moviesphere
 Movieark#Netmovies
-Movieark#Romance Channel
+#Movieark#Romance Channel
 Redeitv#TOP MIX TV CANAL 4 FILMES
-SamsungTVPlus#2695 MyTime Movie Network (BR)
+#SamsungTVPlus#2695 MyTime Movie Network (BR)

@@ -29,23 +29,17 @@ LG#905 Pluto TV Cine Terror#https://images.pluto.tv/channels/5f12111c9e6c2c00078
 LG#906 Filmes Suspense#https://images.pluto.tv/channels/5f171d3442a0500007362f22/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#907 Pluto TV Filmes Nacionais#https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#908 Pluto TV Cine Clássicos#https://images.pluto.tv/channels/5fa1612a669ba0000702017b/logo_1733440547919.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-LG#909 Pluto TV Cine Romance#https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/logoAlt_1760454575279.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-LG#910 Spark TV Luz E Amor#http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png
-LG#911 Pluto TV Cine Comédia Romântica#https://images.pluto.tv/channels/62545ed3dab4380007582f7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#912 Pluto TV Ficção Científica#https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#913 Pluto TV Cine Família#https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/logoAlt_1762294532960.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#915 Runtime#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png
 LG#916 CinEspanto#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/cinespanto_brazil_1400x2000.png
 LG#917 Runtime Crime#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_crime_brazil_1400x2000.png
-LG#918 Runtime Romance#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000.png
 LG#919 Runtime Familia#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_family_brazil_1400x2000.png
 LG#920 Runtime Comédia#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_comedy_brazil_1400x2000.png
 LG#921 Runtime Ação#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png
 LG#923 Sessao Trash#https://d2mxb63djushzm.cloudfront.net/images/Logo_SESSAOTRASH_400x200.png
 LG#924 Cindie TV#http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png
 LG#940 Sony One Cinema#http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png
-Movieark#Adrenalina Pura TV#
-Movieark#Adrenalina Pura TV Halloween#
 Movieark#Ação Total TV#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLs3tK7wPtRK_7phyNMead3BShGbYH4nXmA&s
 Movieark#Booh!#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0je_3YrLEwiBHw8QYLHk30XIka8Ruym1oI3ZSjuQaQ&s
 Movieark#Cine Familia#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMr_V-oGaLlMj-PcLRfMAAQISoBAX81fX5Jw-QkuAgQ&s
@@ -54,13 +48,12 @@ Movieark#Film Plus#https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus
 Movieark#Film Plus Action#https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-3-1024x576.jpg
 Movieark#Film Plus Emotion#https://yt3.googleusercontent.com/eGjUuYEUojgg-i0PY8kNUTwQ3pce1lbWonb2MTyMPfWFf0LrRuc_9Fm-SqVzHLbP-LRG30jaaw=s176-c-k-c0x00ffffff-no-rj-mo
 Movieark#Film Plus Family#https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-5-1024x576.jpg
-Movieark#Filmelier TV#
-Movieark#Filmelier TV Esperança#
-Movieark#Filmelier TV Paixão#
-Movieark#Filmelier TV Vida Real#
 Movieark#Medo TV#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGay7mqY6LQSqwVNzii1aORvT7auOJBYEWpQ&s
-Movieark#Moviesphere#
 Movieark#Netmovies#https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png
-Movieark#Romance Channel#https://image.roku.com/developer_channels/prod/805c999cb8e6206c655778a7f468ab3f8c4a88dbc7790027a69f72e43f8a3986.png
 Redeitv#TOP MIX TV CANAL 4 FILMES#https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png
-SamsungTVPlus#2695 MyTime Movie Network (BR)#https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png
+SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#
+SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#
+SamsungTVPlus#2710 Filmelier Esperanca (BR)#
+SamsungTVPlus#2712 Vida Real (BR)#
+SamsungTVPlus#2714 Filmelier TV (BR)#
+SamsungTVPlus#2732 Moviesphere (BR)#

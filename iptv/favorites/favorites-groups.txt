@@ -29,23 +29,17 @@ LG#905 Pluto TV Cine Terror#Terror
 LG#906 Filmes Suspense#Suspense
 LG#907 Pluto TV Filmes Nacionais#Variedades
 LG#908 Pluto TV Cine Clássicos#Clássicos
-LG#909 Pluto TV Cine Romance#Romance
-LG#910 Spark TV Luz E Amor#Romance
-LG#911 Pluto TV Cine Comédia Romântica#Comédia
 LG#912 Pluto TV Ficção Científica#Ficção
 LG#913 Pluto TV Cine Família#Família
 LG#915 Runtime#Top
 LG#916 CinEspanto#Terror
 LG#917 Runtime Crime#Suspense
-LG#918 Runtime Romance#Romance
 LG#919 Runtime Familia#Família
 LG#920 Runtime Comédia#Comédia
 LG#921 Runtime Ação#Ação
 LG#923 Sessao Trash#Terror
 LG#924 Cindie TV#Top
 LG#940 Sony One Cinema#Top
-Movieark#Adrenalina Pura TV#Ação
-Movieark#Adrenalina Pura TV Halloween#Terror
 Movieark#Ação Total TV#Ação
 Movieark#Booh!#Terror
 Movieark#Cine Familia#Família
@@ -54,13 +48,12 @@ Movieark#Film Plus#Top
 Movieark#Film Plus Action#Ação
 Movieark#Film Plus Emotion#Drama
 Movieark#Film Plus Family#Família
-Movieark#Filmelier TV#Top
-Movieark#Filmelier TV Esperança#Drama
-Movieark#Filmelier TV Paixão#Romance
-Movieark#Filmelier TV Vida Real#Drama
 Movieark#Medo TV#Terror
-Movieark#Moviesphere#Top
 Movieark#Netmovies#Top
-Movieark#Romance Channel#Romance
 Redeitv#TOP MIX TV CANAL 4 FILMES#Variedades
-SamsungTVPlus#2695 MyTime Movie Network (BR)#Romance
+SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#Ação
+SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Terror
+SamsungTVPlus#2710 Filmelier Esperanca (BR)#Drama
+SamsungTVPlus#2712 Vida Real (BR)#Drama
+SamsungTVPlus#2714 Filmelier TV (BR)#Top
+SamsungTVPlus#2732 Moviesphere (BR)#Top

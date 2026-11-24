@@ -5,6 +5,10 @@ http://170.83.49.66:8083/AMCHD/index.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt077&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=d3f60e44-cb709537-6a6b3eaf-d9186bf8&live_type=retransmission
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jwave.com.br/wp-content/uploads/2026/05/Film-Plus-1068x601.jpg" group-title="Top",Film Plus
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/aab19982787e483a8350a1ba06826cab/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Top",Filmelier
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/Filmelier_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Top",Moviesphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNetmovies.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png" group-title="Top",Netmovies
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/6a731cc3056f7bc47781e9fc/main.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/logoAlt_1785430166268.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Top",Pluto Sucessos
@@ -15,6 +19,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13229
 https://030a58d4abe245219e65752f7f51ad25.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneCinema/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecinePremium.br@SD" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="Top",Telecine Premium
 http://45.185.15.154:9080/stream/28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ação",Adrenalina Pura
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLs3tK7wPtRK_7phyNMead3BShGbYH4nXmA&s" group-title="Ação",Ação Total
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mobdica.com/wp-content/uploads/2026/08/Canais-FilmPlus-Roku-A2Filmes-MobDica-3-1024x576.jpg" group-title="Ação",Film Plus Action
@@ -47,20 +53,24 @@ https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11826
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Comédia",Pluto Comédia
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us@BR" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Comédia",Pluto Comédia Romântica
-https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
 #EXTINF:-1 tvg-id="RuntimeComedia.br@BR" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_comedy_brazil_1400x2000.png" group-title="Comédia",Runtime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13230
 #EXTINF:-1 tvg-id="TelecineFun.br@SD" tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="Comédia",Telecine Fun
 http://45.185.15.154:9080/stream/63/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/eGjUuYEUojgg-i0PY8kNUTwQ3pce1lbWonb2MTyMPfWFf0LrRuc_9Fm-SqVzHLbP-LRG30jaaw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Drama",Film Plus Emotion
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama",Filmelier Esperanca
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierEsperanca_BR/FilmelierEsperanca.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Drama",Pluto Drama
 https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png" group-title="Drama",Pluto Inspiracao
 https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
 #EXTINF:-1 tvg-id="TelecineTouch.br@SD" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="Drama",Telecine Touch
 http://45.185.15.154:9080/stream/29/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama",Vida Real
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierVidaReal_BR/FilmelierVidaReal.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Terror",Adrenalina Pura Halloween
+https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0je_3YrLEwiBHw8QYLHk30XIka8Ruym1oI3ZSjuQaQ&s" group-title="Terror",Booh!
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ae48d90078af4f5e960904810501e546/playlist.m3u8
 #EXTINF:-1 tvg-id="CinEspanto.br@BR" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/cinespanto_brazil_1400x2000.png" group-title="Terror",CinEspanto
@@ -77,16 +87,6 @@ https://amg00711-amg00711c11-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n2/playli
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
 #EXTINF:-1 tvg-id="TelecineCult.br@SD" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="Clássicos",Telecine Cult
 http://45.185.15.154:9080/stream/64/index.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="Romance",MyTime Movie Network
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/logoAlt_1760454575279.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Romance",Pluto Romance
-https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
-#EXTINF:-1 tvg-id="RomanceChannel.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/805c999cb8e6206c655778a7f468ab3f8c4a88dbc7790027a69f72e43f8a3986.png" group-title="Romance",Romance Channel
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
-#EXTINF:-1 tvg-id="RuntimeRomance.es@SD" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000.png" group-title="Romance",Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11828
-#EXTINF:-1 tvg-id="SparkTVLuzyAmor.br@BR" tvg-logo="http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png" group-title="Romance",Spark Luz E Amor
-https://f4e8bda53ab64cbfb9522fc00b413a8f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-br_SparkTVLuzEAmor/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Variedades",AXN
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us@BR" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Variedades",Pluto Nacionais

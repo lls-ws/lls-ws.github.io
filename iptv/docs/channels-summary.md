@@ -10,8 +10,8 @@
 | Descrição | Total |
 | :-- | --: |
 | **Total de canais:** | **59** canais |
-| **Total com EPG** | **46** canais |
-| **Total sem EPG** | **13** canais |
+| **Total com EPG** | **41** canais |
+| **Total sem EPG** | **18** canais |
 
 ---
 #### Nota:
@@ -19,7 +19,7 @@
 * **11 canais de Séries**
 ---
 
-## Lista dos 13 Canais sem EPG
+## Lista dos 18 Canais sem EPG
 
 
 ### LG (3 canais)
@@ -27,7 +27,7 @@
 * `940` Sony One Cinema
 * `161` Sony One Emoções
 
-### Movieark (9 canais)
+### Movieark (8 canais)
 * Ação Total
 * Booh!
 * Cine Familia
@@ -36,7 +36,14 @@
 * Film Plus Emotion
 * Film Plus Family
 * Medo
-* Romance Channel
 
 ### Redeitv (1 canal)
 * Top Mix
+
+### SamsungTVPlus (6 canais)
+* `2646` Adrenalina Pura
+* `2670` Adrenalina Pura Halloween
+* `2714` Filmelier
+* `2710` Filmelier Esperanca
+* `2732` Moviesphere
+* `2712` Vida Real

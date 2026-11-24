@@ -29,23 +29,17 @@ LG#905 Pluto TV Cine Terror#CineTerror.us@BR
 LG#906 Filmes Suspense#FilmesSuspense.us@Brazil
 LG#907 Pluto TV Filmes Nacionais#PlutoTVFilmesNacionais.us@BR
 LG#908 Pluto TV Cine Clássicos#PlutoTVCineClassicos.us@BR
-LG#909 Pluto TV Cine Romance#PlutoTVCineRomance.us@BR
-LG#910 Spark TV Luz E Amor#SparkTVLuzyAmor.br@BR
-LG#911 Pluto TV Cine Comédia Romântica#PlutoTVCineComediaRomantica.us@BR
 LG#912 Pluto TV Ficção Científica#PlutoTVFiccaoCientifica.us@BR
 LG#913 Pluto TV Cine Família#PlutoTVCineFamilia.us@BR
 LG#915 Runtime#Runtime.us@SD
 LG#916 CinEspanto#CinEspanto.br@BR
 LG#917 Runtime Crime#RuntimeCrimen.es@SD
-LG#918 Runtime Romance#RuntimeRomance.es@SD
 LG#919 Runtime Familia#RuntimeFamilia.br@BR
 LG#920 Runtime Comédia#RuntimeComedia.br@BR
 LG#921 Runtime Ação#RuntimeAcao.br@BR
 LG#923 Sessao Trash#SessaoTrash.br@BR
 LG#924 Cindie TV#CindieTV.br@BR
 LG#940 Sony One Cinema#SonyOneCinema.br@BR
-Movieark#Adrenalina Pura TV#
-Movieark#Adrenalina Pura TV Halloween#
 Movieark#Ação Total TV#
 Movieark#Booh!#
 Movieark#Cine Familia#
@@ -54,13 +48,12 @@ Movieark#Film Plus#
 Movieark#Film Plus Action#
 Movieark#Film Plus Emotion#
 Movieark#Film Plus Family#
-Movieark#Filmelier TV#
-Movieark#Filmelier TV Esperança#
-Movieark#Filmelier TV Paixão#
-Movieark#Filmelier TV Vida Real#
 Movieark#Medo TV#
-Movieark#Moviesphere#
 Movieark#Netmovies#PlutoTVNetmovies.us@BR
-Movieark#Romance Channel#RomanceChannel.us@SD
 Redeitv#TOP MIX TV CANAL 4 FILMES#
-SamsungTVPlus#2695 MyTime Movie Network (BR)#MyTimeMovieNetwork.br@SD
+SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#
+SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#
+SamsungTVPlus#2710 Filmelier Esperanca (BR)#
+SamsungTVPlus#2712 Vida Real (BR)#
+SamsungTVPlus#2714 Filmelier TV (BR)#
+SamsungTVPlus#2732 Moviesphere (BR)#

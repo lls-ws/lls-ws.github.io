@@ -6,13 +6,13 @@ Total: 59 canais
 
 ### Provedores M3U Utilizados
 
-* **LG Channels (26 Canais)**
+* **LG Channels (22 Canais)**
   * [brlg.m3u](https://www.apsattv.com/brlg.m3u)
 
 * **IPTV-org (20 Canais)**
   * [br.m3u](https://iptv-org.github.io/iptv/countries/br.m3u)
 
-* **Movieark (11 Canais)**
+* **Movieark (10 Canais)**
   * [moviearkbr.m3u](https://www.apsattv.com/moviearkbr.m3u)
 
 * **Whale TV Plus (0 Canais)**
