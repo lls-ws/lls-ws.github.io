@@ -27,7 +27,6 @@ LG#903 Pluto TV Cine Comédia#PlutoTVCineComedia.us@BR
 LG#904 Pluto TV Cine Drama#PlutoTVCineDrama.us@BR
 LG#905 Pluto TV Cine Terror#CineTerror.us@BR
 LG#906 Filmes Suspense#FilmesSuspense.us@Brazil
-LG#907 Pluto TV Filmes Nacionais#PlutoTVFilmesNacionais.us@BR
 LG#908 Pluto TV Cine Clássicos#PlutoTVCineClassicos.us@BR
 LG#912 Pluto TV Ficção Científica#PlutoTVFiccaoCientifica.us@BR
 LG#913 Pluto TV Cine Família#PlutoTVCineFamilia.us@BR
@@ -51,9 +50,9 @@ Movieark#Film Plus Family#
 Movieark#Medo TV#
 Movieark#Netmovies#PlutoTVNetmovies.us@BR
 Redeitv#TOP MIX TV CANAL 4 FILMES#
-SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#
+SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#AdrenalinaPuraTV.us@Brazil
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#
 SamsungTVPlus#2712 Vida Real (BR)#
-SamsungTVPlus#2714 Filmelier TV (BR)#
-SamsungTVPlus#2732 Moviesphere (BR)#
+SamsungTVPlus#2714 Filmelier TV (BR)#FilmelierTV.us@BR
+SamsungTVPlus#2732 Moviesphere (BR)#MovieSphere.us@BR

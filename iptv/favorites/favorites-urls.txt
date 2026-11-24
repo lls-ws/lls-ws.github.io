@@ -27,7 +27,6 @@ LG#903 Pluto TV Cine Comédia#https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 LG#904 Pluto TV Cine Drama#https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
 LG#905 Pluto TV Cine Terror#https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 LG#906 Filmes Suspense#https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-LG#907 Pluto TV Filmes Nacionais#https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 LG#908 Pluto TV Cine Clássicos#https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
 LG#912 Pluto TV Ficção Científica#https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 LG#913 Pluto TV Cine Família#https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8

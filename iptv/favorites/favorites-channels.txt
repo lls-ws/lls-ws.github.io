@@ -1722,7 +1722,7 @@ LG#903 Pluto TV Cine Comédia
 LG#904 Pluto TV Cine Drama
 LG#905 Pluto TV Cine Terror
 LG#906 Filmes Suspense
-LG#907 Pluto TV Filmes Nacionais
+#LG#907 Pluto TV Filmes Nacionais
 LG#908 Pluto TV Cine Clássicos
 #LG#909 Pluto TV Cine Romance
 #LG#910 Spark TV Luz E Amor

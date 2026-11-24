@@ -27,7 +27,6 @@ LG#903 Pluto TV Cine Comédia#https://images.pluto.tv/channels/5f12101f0b12f0000
 LG#904 Pluto TV Cine Drama#https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#905 Pluto TV Cine Terror#https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/logoAlt_1779199057176.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#906 Filmes Suspense#https://images.pluto.tv/channels/5f171d3442a0500007362f22/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-LG#907 Pluto TV Filmes Nacionais#https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#908 Pluto TV Cine Clássicos#https://images.pluto.tv/channels/5fa1612a669ba0000702017b/logo_1733440547919.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#912 Pluto TV Ficção Científica#https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 LG#913 Pluto TV Cine Família#https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/logoAlt_1762294532960.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png

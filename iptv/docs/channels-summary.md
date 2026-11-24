@@ -9,17 +9,17 @@
 
 | Descrição | Total |
 | :-- | --: |
-| **Total de canais:** | **59** canais |
-| **Total com EPG** | **41** canais |
-| **Total sem EPG** | **18** canais |
+| **Total de canais:** | **58** canais |
+| **Total com EPG** | **43** canais |
+| **Total sem EPG** | **15** canais |
 
 ---
 #### Nota:
-* **48 canais de Filmes**
+* **47 canais de Filmes**
 * **11 canais de Séries**
 ---
 
-## Lista dos 18 Canais sem EPG
+## Lista dos 15 Canais sem EPG
 
 
 ### LG (3 canais)
@@ -40,10 +40,7 @@
 ### Redeitv (1 canal)
 * Top Mix
 
-### SamsungTVPlus (6 canais)
-* `2646` Adrenalina Pura
+### SamsungTVPlus (3 canais)
 * `2670` Adrenalina Pura Halloween
-* `2714` Filmelier
 * `2710` Filmelier Esperanca
-* `2732` Moviesphere
 * `2712` Vida Real

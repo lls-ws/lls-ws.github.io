@@ -27,7 +27,6 @@ LG#903 Pluto TV Cine Comédia#Comédia
 LG#904 Pluto TV Cine Drama#Drama
 LG#905 Pluto TV Cine Terror#Terror
 LG#906 Filmes Suspense#Suspense
-LG#907 Pluto TV Filmes Nacionais#Variedades
 LG#908 Pluto TV Cine Clássicos#Clássicos
 LG#912 Pluto TV Ficção Científica#Ficção
 LG#913 Pluto TV Cine Família#Família
