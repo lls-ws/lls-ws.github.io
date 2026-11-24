@@ -41,7 +41,7 @@ cat << 'EOF' > "${WORK_DIR}/components/MainScene/MainScene.xml"
 	<Group id="sidebarGroup" translation="[40, 20]" visible="true">
 		<Rectangle width="620" height="790" color="0x0B0F19E6" />
 		<Label text="LLS TV • Canais" translation="[25, 25]" font="font:MediumBoldSystemFont" color="0x38BDF8FF" />
-		<LabelList id="list" translation="[25, 95]" itemSize="[570, 62]" numRows="10" sectionDividerTextColor="0x38BDF8FF" focusedColor="0x0B0F19FF" color="0xCBD5E1FF" />
+		<LabelList id="list" translation="[25, 95]" itemSize="[570, 56]" numRows="8" sectionDividerTextColor="0x38BDF8FF" focusedColor="0x0B0F19FF" color="0xCBD5E1FF" />
 	</Group>
 
 	<!-- Painel Lateral Direito (Sinopse / Descrição EPG) -->
