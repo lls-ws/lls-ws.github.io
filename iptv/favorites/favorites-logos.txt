@@ -38,6 +38,7 @@ LG#920 Runtime Comédia#https://lge-static.ottera.tv/prod/run/linear_channel/thu
 LG#921 Runtime Ação#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png
 LG#923 Sessao Trash#https://d2mxb63djushzm.cloudfront.net/images/Logo_SESSAOTRASH_400x200.png
 LG#924 Cindie TV#http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png
+LG#925 Filmelier TV Vida Real#
 LG#940 Sony One Cinema#http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png
 Movieark#Ação Total TV#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLs3tK7wPtRK_7phyNMead3BShGbYH4nXmA&s
 Movieark#Booh!#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0je_3YrLEwiBHw8QYLHk30XIka8Ruym1oI3ZSjuQaQ&s
@@ -53,6 +54,5 @@ Redeitv#TOP MIX TV CANAL 4 FILMES#https://s3minio.webativa.com.br/redeitv/top-mi
 SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#
-SamsungTVPlus#2712 Vida Real (BR)#
 SamsungTVPlus#2714 Filmelier TV (BR)#
 SamsungTVPlus#2732 Moviesphere (BR)#

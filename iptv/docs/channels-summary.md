@@ -22,8 +22,9 @@
 ## Lista dos 15 Canais sem EPG
 
 
-### LG (3 canais)
+### LG (4 canais)
 * `900` Dark Matter
+* `925` Filmelier Vida Real
 * `940` Sony One Cinema
 * `161` Sony One Emoções
 
@@ -40,7 +41,6 @@
 ### Redeitv (1 canal)
 * Top Mix
 
-### SamsungTVPlus (3 canais)
+### SamsungTVPlus (2 canais)
 * `2670` Adrenalina Pura Halloween
 * `2710` Filmelier Esperanca
-* `2712` Vida Real

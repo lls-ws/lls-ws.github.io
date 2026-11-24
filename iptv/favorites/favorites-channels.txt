@@ -582,7 +582,7 @@
 #LG#897 Xumo Filmes Grátis
 #LG#898 NEW KMOVIES
 #LG#899 American Classics
-#LG#925 Filmelier TV Vida Real
+LG#925 Filmelier TV Vida Real
 #LG#926 Filmelier TV Esperança
 #LG#927 Filmelier TV Paixão
 #LG#928 Filmelier TV
@@ -1259,7 +1259,7 @@ SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)
 #SamsungTVPlus#2697 Film Plus TV (BR)
 #SamsungTVPlus#2705 Spark TV (BR)
 SamsungTVPlus#2710 Filmelier Esperanca (BR)
-SamsungTVPlus#2712 Vida Real (BR)
+#SamsungTVPlus#2712 Vida Real (BR)
 SamsungTVPlus#2714 Filmelier TV (BR)
 #SamsungTVPlus#2720 Runtime TV e Filmes (BR)
 #SamsungTVPlus#2725 Sony One Cinema (BR)

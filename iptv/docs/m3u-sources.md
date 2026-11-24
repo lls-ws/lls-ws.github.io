@@ -6,7 +6,7 @@ Total: 58 canais
 
 ### Provedores M3U Utilizados
 
-* **LG Channels (21 Canais)**
+* **LG Channels (22 Canais)**
   * [brlg.m3u](https://www.apsattv.com/brlg.m3u)
 
 * **IPTV-org (20 Canais)**

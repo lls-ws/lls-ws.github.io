@@ -61,14 +61,14 @@ http://45.185.15.154:9080/stream/63/index.m3u8
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama",Filmelier Esperanca
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierEsperanca_BR/FilmelierEsperanca.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama",Filmelier Vida Real
+https://amg00740-sofa-amg00740c16-lg-br-9132.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-vidareal-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Drama",Pluto Drama
 https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png" group-title="Drama",Pluto Inspiracao
 https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
 #EXTINF:-1 tvg-id="TelecineTouch.br@SD" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="Drama",Telecine Touch
 http://45.185.15.154:9080/stream/29/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama",Vida Real
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierVidaReal_BR/FilmelierVidaReal.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Terror",Adrenalina Pura Halloween
 https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0je_3YrLEwiBHw8QYLHk30XIka8Ruym1oI3ZSjuQaQ&s" group-title="Terror",Booh!

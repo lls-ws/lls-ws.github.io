@@ -38,6 +38,7 @@ LG#920 Runtime Comédia#Comédia
 LG#921 Runtime Ação#Ação
 LG#923 Sessao Trash#Terror
 LG#924 Cindie TV#Top
+LG#925 Filmelier TV Vida Real#Drama
 LG#940 Sony One Cinema#Top
 Movieark#Ação Total TV#Ação
 Movieark#Booh!#Terror
@@ -53,6 +54,5 @@ Redeitv#TOP MIX TV CANAL 4 FILMES#Variedades
 SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#Ação
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#Terror
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#Drama
-SamsungTVPlus#2712 Vida Real (BR)#Drama
 SamsungTVPlus#2714 Filmelier TV (BR)#Top
 SamsungTVPlus#2732 Moviesphere (BR)#Top

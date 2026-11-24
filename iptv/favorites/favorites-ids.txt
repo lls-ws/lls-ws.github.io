@@ -38,6 +38,7 @@ LG#920 Runtime Comédia#RuntimeComedia.br@BR
 LG#921 Runtime Ação#RuntimeAcao.br@BR
 LG#923 Sessao Trash#SessaoTrash.br@BR
 LG#924 Cindie TV#CindieTV.br@BR
+LG#925 Filmelier TV Vida Real#
 LG#940 Sony One Cinema#SonyOneCinema.br@BR
 Movieark#Ação Total TV#
 Movieark#Booh!#
@@ -53,6 +54,5 @@ Redeitv#TOP MIX TV CANAL 4 FILMES#
 SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#AdrenalinaPuraTV.us@Brazil
 SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#
 SamsungTVPlus#2710 Filmelier Esperanca (BR)#
-SamsungTVPlus#2712 Vida Real (BR)#
 SamsungTVPlus#2714 Filmelier TV (BR)#FilmelierTV.us@BR
 SamsungTVPlus#2732 Moviesphere (BR)#MovieSphere.us@BR
