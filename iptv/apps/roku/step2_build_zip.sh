@@ -39,7 +39,7 @@ cat << 'EOF' > "${WORK_DIR}/components/MainScene/MainScene.xml"
 
 	<!-- Painel Lateral Esquerdo (Canais) -->
 	<Group id="sidebarGroup" translation="[40, 20]" visible="true">
-		<Rectangle width="620" height="790" color="0x0B0F19E6" />
+		<Rectangle width="620" height="725" color="0x0B0F19E6" />
 		<Label text="LLS TV • Canais" translation="[25, 25]" font="font:MediumBoldSystemFont" color="0x38BDF8FF" />
 		<LabelList id="list" translation="[25, 95]" itemSize="[570, 56]" numRows="9" sectionDividerTextColor="0x38BDF8FF" focusedColor="0x0B0F19FF" color="0xCBD5E1FF" />
 	</Group>
@@ -111,6 +111,38 @@ sub init()
 
 	m.get_channel_list.control = "RUN"
 	m.get_epg.control = "RUN"
+
+	m.epgRefreshCount = 0
+	m.epgClockTimer = CreateObject("roSGNode", "Timer")
+	m.epgClockTimer.repeat = true
+	m.epgClockTimer.duration = 60
+	m.epgClockTimer.ObserveField("fire", "onEpgClockTick")
+	m.epgClockTimer.control = "START"
+end sub
+
+sub onEpgClockTick()
+	m.epgRefreshCount = m.epgRefreshCount + 1
+	if m.epgRefreshCount >= 360
+		m.epgRefreshCount = 0
+		m.get_epg.control = "RUN"
+	end if
+
+	if m.sidebarGroup.visible or m.descGroup.visible or m.epgBanner.visible
+		chNode = invalid
+		if m.sidebarGroup.visible
+			idx = getFlatIndexFromList()
+			if idx >= 0 and idx < m.flatChannels.Count() then chNode = m.flatChannels[idx].node
+		else if m.currentIndex >= 0 and m.currentIndex < m.flatChannels.Count()
+			chNode = m.flatChannels[m.currentIndex].node
+		end if
+		if chNode <> invalid
+			wasBannerVisible = m.epgBanner.visible
+			showEpgForNode(chNode)
+			if not wasBannerVisible and not m.sidebarGroup.visible and not m.descGroup.visible
+				m.epgBanner.visible = false
+			end if
+		end if
+	end if
 end sub
 
 sub SetContent()
@@ -202,13 +234,35 @@ sub playChannelByIndex(idx as integer, closeSidebar as boolean)
 	m.video.control = "play"
 end sub
 
+function getChannelEpgNowNext(chId as string) as object
+	if chId = "" or not m.epgMap.DoesExist(chId) then return invalid
+	progs = m.epgMap[chId]
+	if progs = invalid or type(progs) <> "roArray" then return invalid
+
+	dtNow = CreateObject("roDateTime")
+	nowSec = dtNow.AsSeconds()
+	res = { nowTitle: "", nowTime: "", nowDesc: "", nextTitle: "", nextTime: "", nextDesc: "" }
+
+	for each p in progs
+		if p.startSec <= nowSec and p.stopSec > nowSec
+			res.nowTitle = p.title
+			res.nowTime = p.timeStr
+			res.nowDesc = p.desc
+		else if p.startSec > nowSec and res.nextTitle = ""
+			res.nextTitle = p.title
+			res.nextTime = p.timeStr
+			res.nextDesc = p.desc
+		end if
+	end for
+	return res
+end function
+
 sub showEpgForNode(chNode as object)
 	if chNode = invalid then return
 	m.lblChannel.text = chNode.title
-	tvgId = chNode.id
+	info = getChannelEpgNowNext(chNode.id)
 
-	if tvgId <> "" and m.epgMap.DoesExist(tvgId)
-		info = m.epgMap[tvgId]
+	if info <> invalid and (info.nowTitle <> "" or info.nextTitle <> "")
 		if info.nowTitle <> ""
 			m.lblNow.text = "AGORA (" + info.nowTime + "): " + info.nowTitle
 			m.lblDescTitle.text = info.nowTitle + " (" + info.nowTime + ")"
