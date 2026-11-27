@@ -45,7 +45,7 @@ https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama",Filmelier Esperanca
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierEsperanca_BR/FilmelierEsperanca.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama",Filmelier Vida Real
+#EXTINF:-1 tvg-id="" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png" group-title="Drama",Filmelier Vida Real
 https://amg00740-sofa-amg00740c16-lg-br-9132.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-vidareal-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Drama",Pluto Drama
 https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8

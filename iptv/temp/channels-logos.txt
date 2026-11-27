@@ -307,6 +307,7 @@ IPTV-org#TV Brasil (720p)#https://upload.wikimedia.org/wikipedia/commons/thumb/9
 IPTV-org#TV Brasil Oeste (720p)#https://i.imgur.com/noqGfuy.png
 IPTV-org#TV BRICS Portuguese (1080p)#https://i.imgur.com/vLpm8tN.png
 IPTV-org#TV Brusque (720p)#https://i.imgur.com/J2EAZPS.png
+IPTV-org#TV CAJUI WEB (720p)#https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891
 IPTV-org#TV Camara (Brazil) (1080p)#https://i.imgur.com/Sdou1Ab.png
 IPTV-org#TV Camara 2 (1080p) [Not 24/7]#https://i.imgur.com/dHrUG1R.png
 IPTV-org#TV Camara Salvador (288p) [Not 24/7]#https://i.imgur.com/VEXEzSx.png
@@ -398,3 +399,1351 @@ IPTV-org#UniTV Porto Alegre (480p)#https://i.imgur.com/GmA5uuk.png
 IPTV-org#VEJA+ TV (1080p)#https://i.imgur.com/n0pxHo4.png
 IPTV-org#VRT Channel (720p)#https://i.imgur.com/crszh3d.png
 IPTV-org#WooHoo (720p)#https://i.imgur.com/me622pa.png
+LG#126 Veja+#https://lge-static.ottera.tv/prod/gpa/linear_channel/thumbnails/poster/280x400/1400x2000_0.png
+LG#127 Jovem Pan#http://d3bd0tgyk368z1.cloudfront.net/feeds/images/jovempan-fast/LGLOGO-400X200COLOR.png
+LG#129 Bloomberg TV+#http://img.platform.wurl.dev/channel/389/lg/6f2a84/LG-Logo-PNG-100x100_v3.png
+LG#130 SBT News#https://d3bd0tgyk368z1.cloudfront.net/feeds/sbtnews/sbtLogo_400x200.png
+LG#131 Rádio BandNews FM#https://d1hiif9y3rkpbt.cloudfront.net/Images/S3/LG_artwork/Logo-400x200.png
+LG#132 CNN Brasil#https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cnn_brasil/CNN_Logo-700x200.png
+LG#133 CNN MONEY#https://d3bd0tgyk368z1.cloudfront.net/feeds/cnn_money_artwork/Logo_700X200.png
+LG#134 Times Brasil#https://lge-static.ottera.tv/prod/tbr/linear_channel/anamorphic-logo/400x200/anamorphic_logo_tb.png
+LG#135 Bandeirantes#https://d3bd0tgyk368z1.cloudfront.net/feeds/images/bandnews/Bandeirantes/05102026-161638519/logo_400x200.png
+LG#137 TIME#https://image.xumo.com/v1/channels/channel/99992482/400x200.png?type=white_cropped
+LG#138 Pluto TV Record News#https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#140 Euronews Português#https://images.pluto.tv/channels/619e6614c9d9650007a2b171/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#141 USA TODAY News#https://image.xumo.com/v1/channels/channel/99992484/400x200.png?type=white_cropped
+LG#142 CBS News 24/7#https://images.pluto.tv/channels/62310f66d5888f0007534342/logoAlt_1778002391431.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#143 Metropoles#https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/metropoles/logoMetropoles400x200.png
+LG#144 Pluto TV Canal UOL#https://images.pluto.tv/channels/64b9370b409629000802d32b/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#146 Superfinanças#https://lge-static.ottera.tv/prod/spf/linear_channel/anamorphic-logo/400x200/sf_logo_branco_0.png
+LG#147 AuriVerde Brasil#https://lge-static.ottera.tv/prod/avb/linear_channel/anamorphic-logo/400x200/logo_auri_400x200.png
+LG#151 Terraviva#http://img.platform.wurl.dev/channel/2176/lg/3943d0/LG-Logo-PNG-100x100_v1.png
+LG#152 Canal Rural#https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Canal_Rural/lg_artwork/canal_rural700x200.png
+LG#153 Brintv#https://d3bd0tgyk368z1.cloudfront.net/feeds/brintv/Logo700x200.png
+LG#155 TV Aparecida#https://d3bd0tgyk368z1.cloudfront.net/feeds/tvaparecida/MARCA_TV_AP_FUNDO_ID_800x200.png
+LG#156 Rede Vida#https://d3bd0tgyk368z1.cloudfront.net/feeds/redevida_turnaround/artwork/RedevidaLGLogo.png
+LG#158 The Chosen#https://db6iftd8li11q.cloudfront.net/Chosen_Logo_400x200.png
+LG#159 Malhacao#https://preview-amagicloud-globo-live-globo-live.cloudport.amagi.tv/Images/S3/LGMalhacaoLOGOCOLOR-400x200.png
+LG#160 The Walking Dead by AMC#https://d2mxb63djushzm.cloudfront.net/images/TWDbyAMC_400x200.png
+LG#161 Sony One Emoções#http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png
+LG#162 FilmRise Séries Gratuitas#https://image.xumo.com/v1/channels/channel/99992531/400x200.png?type=white_cropped
+LG#163 Z Nation Brazil#https://image.xumo.com/v1/channels/channel/99992534/400x200.png?type=white_cropped
+LG#164 Misty#http://accio.its-newid.net/channel/newid_233/lg_channels/img/channel_logo/default/channel_logo.png
+LG#165 ROMCOM K-Drama#http://accio.its-newid.net/channel/newid_232/lg_channels/img/channel_logo/default/channel_logo.png
+LG#166 PlayTV#https://lge-static.ottera.tv/prod/pla/linear_channel/thumbnails/poster/280x400/poster.png
+LG#167 Amor de Aluguel by Noverama TV#https://d3bd0tgyk368z1.cloudfront.net/feeds/images/sofa-amorde/Logo_400x200.png
+LG#170 Heartland#https://d2mxb63djushzm.cloudfront.net/images/Heartland_LGChannel_Logo_400x200.png
+LG#171 Rookie Blue#https://d3bd0tgyk368z1.cloudfront.net/feeds/images/RookieBlue_Logo_400x200.png
+LG#191 Porta TV#https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/podfbr_LG_Artwork/Logo.png
+LG#192 DiaTV#http://d3bd0tgyk368z1.cloudfront.net/feeds/diatv/Logo.png
+LG#193 Podpah#http://img.platform.wurl.dev/channel/2384/lg/38647e/LG-Logo-PNG-100x100_v1.png
+LG#194 TV Flow#https://lge-static.ottera.tv/prod/gpf/linear_channel/anamorphic-logo/400x200/logo_flow.png
+LG#195 Manual do Mundo#http://img.platform.wurl.dev/channel/2381/lg/e1a8b6/LG-Logo-PNG-100x100_v1.png
+LG#198 CARAS+#https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/caras_tv/Logo700x200.png
+LG#205 IA Channel#https://lge-static.ottera.tv/prod/ter/linear_channel/anamorphic-logo/400x200/ia_channel_coolvetica_fonte.png
+LG#206 Canal Like+#https://lge-static.ottera.tv/prod/cnl/linear_channel/anamorphic-logo/400x200/horizontal_transparente_400x200.png
+LG#209 TVPS#https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/tvps-LGBR/Logo+-+400x200.png
+LG#230 Receitas FAST#https://preview-amagicloud-globo-live-globo-live.cloudport.amagi.tv/Images/S3/LGreceitasLOGOCOLOR-400x200.png
+LG#232 Tastemade#https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade_logo.png
+LG#236 Homeful#https://image.xumo.com/v1/channels/channel/99992530/400x200.png?type=white_cropped
+LG#237 NEW KFOOD#http://accio.its-newid.net/channel/newid_002/lg_channels/img/channel_logo/default/channel_logo.png
+LG#240 TRAVEL PLUS#https://lge-static.ottera.tv/prod/tra/linear_channel/anamorphic-logo/400x200/logo_travel_plus_400_x_200.png
+LG#243 FashionTV#https://d2mxb63djushzm.cloudfront.net/images/fashiontvlogo.png
+LG#244 WhE Play#http://img.platform.wurl.dev/channel/2385/lg/ea5c0b/LG-Logo-PNG-100x100_v1.png
+LG#245 This Old House#https://image.xumo.com/v1/channels/channel/99992247/400x200.png?type=white_cropped
+LG#246 JOURNY TV#https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/journy/channels/252-400x200.png
+LG#247 Trace Sport Stars#https://d3dj3gmzxw0r4q.cloudfront.net/Trace_SportStars/LG_Ch_Logo_460x200.png
+LG#249 O Encantador de Cães#https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#280 The Pet Collective#http://img.platform.wurl.dev/channel/1020/lg/d8531a/LG-Logo-PNG-100x100_v3.png
+LG#281 FailArmy#http://img.platform.wurl.dev/channel/1160/lg/847773/LG-Logo-PNG-100x100_v1.png
+LG#282 My Little Pet#http://accio.its-newid.net/channel/newid_118/lg_channels/img/channel_logo/default/channel_logo.png
+LG#283 Just for Laughs Gags#https://image.xumo.com/v1/channels/channel/99992141/400x200.png?type=white_cropped
+LG#284 Comedy Central Pluto TV#https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#285 We Play#http://accio.its-newid.net/channel/newid_041/lg_channels/img/channel_logo/default/channel_logo.png
+LG#301 Nature Time#https://d3bd0tgyk368z1.cloudfront.net/feeds/images/blueant/nature_time_text_white_transparent_400x200.png
+LG#302 WeatherSpy#http://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-Logo-PNG-100x100_v2.png
+LG#306 Stingray Naturescape#https://image.xumo.com/v1/channels/channel/99992490/400x200.png?type=white_cropped
+LG#307 Pluto TV Natureza#https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/logoAlt_1770996650932.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#310 Smithsonian Channel Pluto TV#https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#313 WedoAmorPielSalvaje#https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Videosolutions_piel_salvaje/wedotv_400x200.png
+LG#351 Sony One Shark Tank Brasil#http://img.platform.wurl.dev/channel/1401/lg/c9a718/LG-Logo-PNG-100x100_v2.png
+LG#352 MasterChef Brasil#https://d2yv6y0n3qsl5c.cloudfront.net/MCDGT/MasterchefBrasilLG_LOGO_595x200.png
+LG#355 Pluto TV Negócio Fechado#https://images.pluto.tv/channels/64ad7394798def00087b2bfe/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#356 MTV Catfish#https://images.pluto.tv/channels/626c2a3502d84a0007cec817/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#358 Pluto TV Animais#https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#359 Pluto TV Vida Real#https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/logoAlt_1770996216604.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#360 Pluto TV História#https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/logoAlt_1754405741506.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#379 Fatos Desconhecidos#http://img.platform.wurl.dev/channel/2378/lg/99a04b/LG-Logo-PNG-100x100_v1.png
+LG#380 Pluto TV Investigação#https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#381 Os Arquivos do FBI#https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#382 Assombrações#https://images.pluto.tv/channels/620d1512c7986a0007220213/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#383 Pluto TV Mistérios#https://images.pluto.tv/channels/5fac52f142044f00078e2a51/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#406 MTV Pluto TV#https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/logoAlt_1752678167381.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#407 MTV Com o Ex#https://images.pluto.tv/channels/61a528267e1b8b0007357920/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#408 MTV Are you the One?#https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#409 MTV Jovens e Mães#https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#410 MTV Shore#https://images.pluto.tv/channels/625463563b8ddc0007134aeb/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#411 Pluto TV Retrô#https://images.pluto.tv/channels/5f1212ad1728050007a523b8/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#412 Detetives Médicos#https://images.pluto.tv/channels/638df93ae2f2a3000737c168/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#420 Weekly Idol#http://accio.its-newid.net/channel/newid_038/lg_channels/img/channel_logo/default/channel_logo.png?ver=20230828160212
+LG#421 SMTOWN#http://accio.its-newid.net/channel/newid_381/lg_channels/img/channel_logo/default/channel_logo.png
+LG#520 Pluto TV KFOOD#https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#521 PBS Digital Studios#https://image.xumo.com/v1/channels/channel/99992244/400x200.png?type=white_cropped
+LG#522 Gusto TV#http://img.platform.wurl.dev/channel/858/lg/a0ee4b/LG-Logo-PNG-100x100_v1.png
+LG#523 NatureVision#https://image.xumo.com/v1/channels/channel/99992489/400x200.png?type=white_cropped
+LG#524 Arirang#https://d3bd0tgyk368z1.cloudfront.net/Arirang-images/Arirang_logo_400x200_wh.png
+LG#525 YTN#https://d3s2p39m306u7r.cloudfront.net/YTN/Logo-400x200.png
+LG#526 Newsmax2#https://image.xumo.com/v1/channels/channel/99992483/400x200.png?type=white_cropped
+LG#527 Bloomberg Originals#http://img.platform.wurl.dev/channel/1179/lg/816767/LG-Logo-PNG-100x100_v1.png
+LG#528 SPEEDVISION#https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/speedvision/channels/1683-400x200.png
+LG#531 Highway To Heaven Brazil#https://image.xumo.com/v1/channels/channel/99992533/400x200.png?type=white_cropped
+LG#533 Pluto TV Turbo#https://images.pluto.tv/channels/6014761dfb91870008ea6463/logoAlt_1772476147684.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#534 BET Pluto TV#https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/logoAlt_1756960813691.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#537 NEW KPOP#http://img.platform.wurl.dev/channel/617/lg/01b45e/LG-Logo-PNG-100x100_v2.png
+LG#538 This Is Happening#https://image.xumo.com/v1/channels/channel/99992146/400x200.png?type=white_cropped
+LG#540 Powernation#https://image.xumo.com/v1/channels/channel/99992491/400x200.png?type=white_cropped
+LG#541 K-STAR GOLF#http://accio.its-newid.net/channel/newid_172/lg_channels/img/channel_logo/default/channel_logo.png
+LG#542 Refresh my Soul CBS#http://accio.its-newid.net/channel/newid_158/lg_channels/img/channel_logo/default/channel_logo.png
+LG#544 Pluto TV Esportes#https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#545 KBS World#http://accio.its-newid.net/rt_channel/newid_rt100/lg_channels/img/channel_logo/default/channel_logo.png
+LG#600 DPA#https://preview-amagicloud-globo-live-globo-live.cloudport.amagi.tv/Images/S3/LGDPALOGOCOLOR-400x200.png
+LG#601 Winx Club TV#https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/WinxClubTV400x200.png
+LG#602 Turma Da Monica#https://d2mxb63djushzm.cloudfront.net/images/turmadamonica-Logo700x200.png
+LG#604 El Reino Infantil POR#https://preview-amagicloud-purodigital-automation-purodigital.cloudport.amagi.tv/Images/S3/purodigitalspa_Logo.png
+LG#605 Dove Channel#https://image.xumo.com/v1/channels/channel/99992492/400x200.png?type=white_cropped
+LG#606 Super Onze#https://images.pluto.tv/channels/63988c2750108d00072e2686/logoAlt_1777595704842.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#608 Pluto TV Junior#https://images.pluto.tv/channels/5f12141b146d760007934ea7/logoAlt_1770996885513.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#609 Nick Jr. Club#https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/logoAlt_1748351853828.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#611 Pluto TV Kids#https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#612 Bob Esponja Calça Quadrada#https://images.pluto.tv/channels/62545c0b002f4b0007688b61/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#613 Nickelodeon Clássico#https://images.pluto.tv/channels/5f12151794c1800007a8ae63/logoAlt_1750157165809.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#614 Baby Einstein#https://image.xumo.com/v1/channels/channel/99992129/400x200.png?type=white_cropped
+LG#615 Oggy e as Baratas Tontas#https://images.pluto.tv/channels/63221bafdc6e110007b50270/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#616 Os Padrinhos Mágicos#https://images.pluto.tv/channels/63221e41af69b500076f84e7/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#617 Nickelodeon Toons#https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logoAlt_1767888225653.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#618 Beyblade#https://images.pluto.tv/channels/633dc392e0282400071b0d39/logoAlt_1777595767680.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#620 Cocobi#http://accio.its-newid.net/channel/newid_104/lg_channels/img/channel_logo/default/channel_logo.png?ver=20230915160427
+LG#621 Kongsuni#http://accio.its-newid.net/channel/newid_105/lg_channels/img/channel_logo/default/channel_logo.png
+LG#622 TOBOT#http://accio.its-newid.net/channel/newid_106/lg_channels/img/channel_logo/default/channel_logo.png
+LG#623 Robocar POLI#http://accio.its-newid.net/channel/newid_230/lg_channels/img/channel_logo/default/channel_logo.png
+LG#624 BABY SHARK TV#http://accio.its-newid.net/channel/newid_079/lg_channels/img/channel_logo/default/channel_logo.png
+LG#630 Nickelodeon Teen#https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/logoAlt_1767888207915.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#631 Kenan & Kel#https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#632 Nickelodeon iCarly#https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#650 UBISOFT TV Brasil#https://lge-static.ottera.tv/prod/ubl/linear_channel/anamorphic-logo/400x200/untitled.png
+LG#651 Good Game#http://img.platform.wurl.dev/channel/2383/lg/0d840d/LG-Logo-PNG-100x100_v1.png
+LG#652 Hunter x Hunter#https://images.pluto.tv/channels/65d9167818036500080e8780/logoAlt_1777595607625.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#654 Pluto TV Anime#https://images.pluto.tv/channels/5f12136385bccc00070142ed/logoAlt_1785430875394.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#655 Pluto TV Anime Ação#https://images.pluto.tv/channels/604b79c558393100078faeef/logoAlt_1770996576790.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#656 Naruto#https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/logoAlt_1772476061354.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#657 Death Note#https://images.pluto.tv/channels/625464a945b6a200079257d1/logoAlt_1777595642540.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#658 Tokusato#https://images.pluto.tv/channels/5ff609de50ab210008025c1b/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#660 Boruto: Naruto Next Generations#https://images.pluto.tv/channels/656f389c3944b60008e5bdab/logoAlt_1777595574513.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#800 GE TV#https://preview-amagicloud-globo-live-globo-live.cloudport.amagi.tv/Images/S3/GETV_LG_LOGO_COLOR-400x200.png
+LG#801 N Sports#http://img.platform.wurl.dev/channel/2379/lg/b6d5ea/LG-Logo-PNG-100x100_v1.png
+LG#802 Desimpedidos#http://img.platform.wurl.dev/channel/2382/lg/f97646/LG-Logo-PNG-100x100_v1.png
+LG#803 FIFA+#http://img.platform.wurl.dev/channel/1776/lg/b3f128/LG-Logo-PNG-100x100_v2.png
+LG#804 CazeTV#https://d3bd0tgyk368z1.cloudfront.net/feeds/livemode_cazetv/LOGO_LG.png
+LG#805 CANAL GOAT#https://lge-static.ottera.tv/prod/cng/linear_channel/anamorphic-logo/400x200/400x200.png
+LG#806 Top Barca Spanish#https://d2mxb63djushzm.cloudfront.net/images/LG_top_barca.png
+LG#810 RACER BRASIL#https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/mavtv/Logo.png
+LG#811 GPTV#http://img.platform.wurl.dev/channel/2391/lg/f55fc7/LG-Logo-PNG-100x100_v1.png
+LG#812 Acelerados#http://img.platform.wurl.dev/channel/2380/lg/b94261/LG-Logo-PNG-100x100_v1.png
+LG#813 FUEL TV#https://d3bd0tgyk368z1.cloudfront.net/feeds/fueltv/lg/200X200_CHANNEL_LOGO.png
+LG#814 Red Bull TV#https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/redbull/channels/1026-400x200.png
+LG#817 EASL TV#http://accio.its-newid.net/channel/newid_391/lg_channels/img/channel_logo/default/channel_logo.png
+LG#818 People Are Awesome#http://img.platform.wurl.dev/channel/1161/lg/f9dc8b/LG-Logo-PNG-100x100_v2.png
+LG#820 Fit Dance#http://img.platform.wurl.dev/channel/2377/lg/dd1e51/LG-Logo-PNG-100x100_v1.png
+LG#821 PFL MMA#https://images.pluto.tv/channels/64f6180130ab3300083d896b/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#822 SFT Combat#https://lge-static.ottera.tv/prod/hrm/linear_channel/anamorphic-logo/400x200/fc8sy-v4ix9wydbfbegukocveydophhpdmhxe8e_vka_copy.png
+LG#824 World Billiards TV#http://accio.its-newid.net/channel/newid_003/lg_channels/img/default/channel_logo/channel_logo.png
+LG#825 Billiard TV#https://image.xumo.com/v1/channels/channel/99992250/400x200.png?type=white_cropped
+LG#826 Waypoint TV#https://image.xumo.com/v1/channels/channel/99992493/400x200.png?type=white_cropped
+LG#827 Nitro Circus#https://image.xumo.com/v1/channels/channel/99992252/400x200.png?type=white_cropped
+LG#829 GLORY Kickboxing#http://img.platform.wurl.dev/channel/1360/lg/e8ee82/LG-Logo-PNG-100x100_v2.png
+LG#837 YG TV#http://accio.its-newid.net/channel/newid_005/lg_channels/img/default/channel_logo/channel_logo.png
+LG#838 Mubeat#http://accio.its-newid.net/channel/newid_004/lg_channels/img/default/channel_logo/channel_logo.png
+LG#839 TRACE Brasil#https://d3dj3gmzxw0r4q.cloudfront.net/Trace_Brazuca/LG_Ch_Logo_505x200.png
+LG#843 MTV Biggest Pop#https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#844 Qwest TV#https://d13rrbz4t88obi.cloudfront.net/qjazz/NewQwestTV_200x200.png
+LG#845 Show Champion#http://accio.its-newid.net/channel/newid_037/lg_channels/img/channel_logo/default/channel_logo.png
+LG#846 @K-MUSIC#http://accio.its-newid.net/channel/newid_040/lg_channels/img/channel_logo/default/channel_logo.png
+LG#847 K-ASMR#http://accio.its-newid.net/channel/newid_263/lg_channels/img/channel_logo/default/channel_logo.png
+LG#848 essential;#http://accio.its-newid.net/channel/newid_247/lg_channels/img/channel_logo/default/channel_logo.png
+LG#852 Stingray Hinos de futebol#https://image.xumo.com/v1/channels/channel/99992535/400x200.png?type=white_cropped
+LG#853 Stingray Pop Adult#https://image.xumo.com/v1/channels/channel/99992494/400x200.png?type=white_cropped
+LG#854 Stingray Hip Hop#https://image.xumo.com/v1/channels/channel/99992495/400x200.png?type=white_cropped
+LG#855 Stingray Exitos del Momento#https://image.xumo.com/v1/channels/channel/99992496/400x200.png?type=white_cropped
+LG#856 Stingray Hit List#https://image.xumo.com/v1/channels/channel/99992497/400x200.png?type=white_cropped
+LG#857 Stingray Greatest Hits#https://image.xumo.com/v1/channels/channel/99992498/400x200.png?type=white_cropped
+LG#858 Stingray Hot Country#https://image.xumo.com/v1/channels/channel/99992499/400x200.png?type=white_cropped
+LG#859 Stingray Soul Storm#https://image.xumo.com/v1/channels/channel/99992501/400x200.png?type=white_cropped
+LG#860 Stingray Remember the 80s#https://image.xumo.com/v1/channels/channel/99992100/400x200.png?type=white_cropped
+LG#861 TikTok Radio Brasil#https://image.xumo.com/v1/channels/channel/99992529/400x200.png?type=white_cropped
+LG#862 Qello Concerts by Stingray#https://image.xumo.com/v1/channels/channel/99992527/400x200.png?type=white_cropped
+LG#863 ZenLIFE by Stingray#https://image.xumo.com/v1/channels/channel/99992528/400x200.png?type=white_cropped
+LG#883 Minha Vênus#http://accio.its-newid.net/channel/newid_205/lg_channels/img/channel_logo/default/channel_logo.png
+LG#884 Friendly Rivalry#http://accio.its-newid.net/channel/newid_209/lg_channels/img/channel_logo/default/channel_logo.png
+LG#885 Mi identificación es Belleza de Gangnam#http://accio.its-newid.net/channel/newid_208/lg_channels/img/channel_logo/default/channel_logo.png
+LG#886 Herdeiros#http://accio.its-newid.net/channel/newid_207/lg_channels/img/channel_logo/default/channel_logo.png
+LG#887 Where Stars Land#http://accio.its-newid.net/channel/newid_206/lg_channels/img/channel_logo/default/channel_logo.png
+LG#890 K-Vibe#https://d3bd0tgyk368z1.cloudfront.net/anai/lg/KVIBE_C_W_400.png
+LG#897 Xumo Filmes Grátis#https://image.xumo.com/v1/channels/channel/99992307/400x200.png?type=white_cropped
+LG#898 NEW KMOVIES#http://accio.its-newid.net/channel/newid_012/lg_channels/img/default/channel_logo/channel_logo.png
+LG#899 American Classics#https://image.xumo.com/v1/channels/channel/99992241/400x200.png?type=white_cropped
+LG#900 Dark Matter TV Brazil#https://image.xumo.com/v1/channels/channel/99992147/400x200.png?type=white_cropped
+LG#901 Pluto TV Cine Sucessos#https://images.pluto.tv/channels/5f120e94a5714d00074576a1/logoAlt_1785430166268.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#902 Pluto TV Filmes Ação#https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/logoAlt_1770996295190.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#903 Pluto TV Cine Comédia#https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#904 Pluto TV Cine Drama#https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#905 Pluto TV Cine Terror#https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/logoAlt_1779199057176.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#906 Filmes Suspense#https://images.pluto.tv/channels/5f171d3442a0500007362f22/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#907 Pluto TV Filmes Nacionais#https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#908 Pluto TV Cine Clássicos#https://images.pluto.tv/channels/5fa1612a669ba0000702017b/logo_1733440547919.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#909 Pluto TV Cine Romance#https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/logoAlt_1760454575279.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#910 Spark TV Luz E Amor#http://img.platform.wurl.dev/channel/1042/lg/7fd93c/LG-Logo-PNG-100x100_v1.png
+LG#911 Pluto TV Cine Comédia Romântica#https://images.pluto.tv/channels/62545ed3dab4380007582f7c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#912 Pluto TV Ficção Científica#https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#913 Pluto TV Cine Família#https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/logoAlt_1762294532960.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
+LG#915 Runtime#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000_0.png
+LG#916 CinEspanto#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/cinespanto_brazil_1400x2000.png
+LG#917 Runtime Crime#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_crime_brazil_1400x2000.png
+LG#918 Runtime Romance#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_brazil_1400x2000.png
+LG#919 Runtime Familia#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_family_brazil_1400x2000.png
+LG#920 Runtime Comédia#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_comedy_brazil_1400x2000.png
+LG#921 Runtime Ação#https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_action_brazil_1400x2000.png
+LG#923 Sessao Trash#https://d2mxb63djushzm.cloudfront.net/images/Logo_SESSAOTRASH_400x200.png
+LG#924 Cindie TV#http://accio.its-newid.net/rt_channel/newid_rt077/lg_channels/img/channel_logo/default/channel_logo.png
+LG#925 Filmelier TV Vida Real#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/fmvirl/vidareal_Logo700x200.png
+LG#926 Filmelier TV Esperança#http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/esperanca_Logo700x200.png
+LG#927 Filmelier TV Paixão#https://preview-amagicloud-sofa-automation-sofa.cloudport.amagi.tv/Images/S3/paxiao_Logo700x200.png
+LG#928 Filmelier TV#https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png
+LG#930 Adrenalina Pura TV#https://d2mxb63djushzm.cloudfront.net/images/Sofa%20Digital/Adrenalina%20Pura%20TV/LG/Logo700x200.png
+LG#931 Adrenalina Pura TV Halloween#https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/tvapt/tvapt_logo700x200.png
+LG#939 Moviesphere#https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png
+LG#940 Sony One Cinema#http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png
+Movieark#3 Palavrinhas#
+Movieark#Acelerados#
+Movieark#Adoro Cinema#
+Movieark#Adrenalina Pura TV Halloween#
+Movieark#Adrenalina Pura TV#
+Movieark#Agro360#
+Movieark#Amor de Aluguel by Noverama TV#
+Movieark#Andromeda#
+Movieark#Assombrações#
+Movieark#Ação Total TV#
+Movieark#Band News FM#
+Movieark#Bandeirantes#
+Movieark#Bloomberg TV+#
+Movieark#BM&C NEWS#
+Movieark#Booh!#
+Movieark#BR IN TV#
+Movieark#Canal do Artesanato#
+Movieark#Canal Goat!#
+Movieark#Canal Like+#
+Movieark#Canal Rural#
+Movieark#Canal UOL#
+Movieark#Captain Tsubasa#
+Movieark#Caras tv#
+Movieark#CazéTV#
+Movieark#CBN Rio#
+Movieark#CBN#
+Movieark#CINDIE LITE#
+Movieark#Cine Familia#
+Movieark#CinEspanto#
+Movieark#CNN Brasil Money#
+Movieark#CNN Brasil#
+Movieark#CSI New York#
+Movieark#Cultne.tv#
+Movieark#Curta! Humanidades#
+Movieark#Curta! Música & Artes#
+Movieark#Desimpedidos#
+Movieark#Detetives Médicos#
+Movieark#DiaTV#
+Movieark#DPA Fast#
+Movieark#Drone TV#
+Movieark#Ducktv#
+Movieark#Dum Dum#
+Movieark#El Reino Infantil#
+Movieark#Em Nome do Penhor#
+Movieark#English Club#
+Movieark#Euronews Português#
+Movieark#Fatos Desconhecidos#
+Movieark#FIFA+#
+Movieark#Film Plus Action#
+Movieark#Film Plus Emotion#
+Movieark#Film Plus Family#
+Movieark#Film Plus Shorts#
+Movieark#Film Plus#
+Movieark#Filmelier TV Esperança#
+Movieark#Filmelier TV Paixão#
+Movieark#Filmelier TV Vida Real#
+Movieark#Filmelier TV#
+Movieark#FilmRise Séries Gratuitas#
+Movieark#FitDance#
+Movieark#FREETV CRIME#
+Movieark#FREETV DRAMA#
+Movieark#FUEL TV#
+Movieark#GE TV#
+Movieark#GLORY Kickboxing#
+Movieark#GPTV#
+Movieark#Grjngo#
+Movieark#Highway To Heaven#
+Movieark#Homeful#
+Movieark#Hunter x Hunter#
+Movieark#Inspetor Bugiganga#
+Movieark#Inu Yasha#
+Movieark#Jesus#
+Movieark#JoJo’s Bizarre Adventure#
+Movieark#Jovem Pan News#
+Movieark#Malhação Fast#
+Movieark#Manual do Mundo#
+Movieark#MasterChef Brasil#
+Movieark#Medo TV#
+Movieark#Metropoles#
+Movieark#Moranguinho#
+Movieark#Moviesphere#
+Movieark#Mr.Bean Live Action#
+Movieark#Mr.Bean#
+Movieark#Mundo#
+Movieark#Naruto Next Generation#
+Movieark#Naruto Shippuden#
+Movieark#Naruto#
+Movieark#Nature Moments by Love Nature#
+Movieark#Nature Time#
+Movieark#Nerd Show#
+Movieark#Netmovies#
+Movieark#New Brasil#
+Movieark#Novela Jesus#
+Movieark#Novelíssima#
+Movieark#NOW 70s#
+Movieark#NSports#
+Movieark#Os Arquivos do FBI#
+Movieark#Os Smurfs#
+Movieark#PFL MMA#
+Movieark#Play TV#
+Movieark#Pod Pah TV#
+Movieark#Pokemon#
+Movieark#Porta TV#
+Movieark#Qello Concerts by Stingray#
+Movieark#RACER Brasil#
+Movieark#RBTI+Sports#
+Movieark#Receitas Fast#
+Movieark#Record News#
+Movieark#Red Bull TV#
+Movieark#Rede Vida#
+Movieark#Romance Channel#
+Movieark#Rookie Blue#
+Movieark#Runtime Ação#
+Movieark#Runtime Comédia#
+Movieark#Runtime Crime#
+Movieark#Runtime Familia#
+Movieark#Runtime Romance#
+Movieark#Runtime TV E Filmes#
+Movieark#Sabor & Arte#
+Movieark#SATO+#
+Movieark#SBT News#
+Movieark#Será#
+Movieark#Sessão Trash#
+Movieark#SFT Combat#
+Movieark#SHIFT#
+Movieark#Sobrevivi#
+Movieark#Sonic O Ouriço#
+Movieark#Sony One Cinema#
+Movieark#SONY ONE EMOÇÕES#
+Movieark#Sony One Shark Tank Brasil#
+Movieark#Spark TV Luz E Amor#
+Movieark#Sporty Net#
+Movieark#Stingray Brazilian Pop#
+Movieark#Stingray Classica#
+Movieark#Stingray Easy Listening#
+Movieark#Stingray Greatest Hits#
+Movieark#Stingray Total Hits Brazil#
+Movieark#Strongman Champions League#
+Movieark#Tastemade Brasil#
+Movieark#Tastemade Casa#
+Movieark#Tastemade Viagem#
+Movieark#Teletubbies#
+Movieark#That's 80s#
+Movieark#That's ROCK#
+Movieark#TikTok Radio Brasil#
+Movieark#Times Brasil | CNBC#
+Movieark#Toon Goggles Brasil#
+Movieark#Topa ou Não Topa EUA#
+Movieark#Trace Brazuca#
+Movieark#Trace Latina#
+Movieark#Trace Urban#
+Movieark#Travel Plus#
+Movieark#Travelxp#
+Movieark#Turma da Mônica#
+Movieark#TV Aparecida#
+Movieark#TV Cultura#
+Movieark#TV Evangelizar#
+Movieark#TV Flow#
+Movieark#TV Notícias Agrícolas#
+Movieark#UBISOFT TV Brasil#
+Movieark#Veja+#
+Movieark#Wedotv Amor Pele Selvagem#
+Movieark#Western Bound em Portugês#
+Movieark#WhE Play#
+Movieark#Woohoo Surf#
+Movieark#World Poker Tour Portuguese#
+Movieark#X Sports#
+Movieark#Z Nation#
+Olhosnatv#BS-TV ONLINE#
+Olhosnatv#CLASSIQUE TV SÉRIES#
+Olhosnatv#CLASSIQUE TV#
+Olhosnatv#CLOUDING TV#
+Olhosnatv#GLN TV#
+Olhosnatv#LOADING TV#
+Olhosnatv#LUCAS TV#
+Olhosnatv#MBC BRASIL TV#
+Olhosnatv#OTAKU SIGN TV#
+Olhosnatv#PLAYMAX TV#
+Olhosnatv#RECORD NEWS#
+Olhosnatv#REDE BRASIL#
+Olhosnatv#REDE NGT#
+Olhosnatv#REDE TV! PARANÁ#
+Olhosnatv#REVIVA TV#
+Olhosnatv#TELA BRASIL TV#
+Olhosnatv#TV ALIANÇA#
+Olhosnatv#TV AMPLITUDE JUARA (Record MT)#
+Olhosnatv#TV ARACATI#
+Olhosnatv#TV ARAPUAN (Band PB)#
+Olhosnatv#TV CHANNEL NETWORK#
+Olhosnatv#TV CLÁSSICOS DO CINEMA#
+Olhosnatv#TV CULTURA#
+Olhosnatv#TV LATINASAT#
+Olhosnatv#TV MAIS BRASIL#
+Olhosnatv#TV MIURA#
+Olhosnatv#TV NBT (Rede NGT PA)#
+Olhosnatv#TV ONE (TV Meio Norte PA)#
+Olhosnatv#TV POMPEIA#
+Olhosnatv#TV SANTA#
+Olhosnatv#TV SONATA#
+Olhosnatv#TV TROPICAL (Record RN)#
+Olhosnatv#TV WEB SÃO LUIS CANOAS RS#
+Olhosnatv#WORDING TV#
+Olhosnatv#XTREME TV#
+Redeitv#+MaisUm#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/137/2023/08/IMG-20220508-WA0121-1-e1692619875326.jpg
+Redeitv#01 TV Itapetinga Rio#https://s3minio.webativa.com.br/redeitv/tv-tabatinga-rio.png
+Redeitv#01 TV Itapetinga SP#https://s3minio.webativa.com.br/redeitv/01-tv-itapetinga-sp.png
+Redeitv#01 TV Itapetinga#https://s3minio.webativa.com.br/redeitv/01-tv-itapetinga.png
+Redeitv#40gtv#https://s3minio.webativa.com.br/redeitv/40gtv.png
+Redeitv#7tvs#https://s3minio.webativa.com.br/redeitv/7tvs.png
+Redeitv#A Voz Popular TV#https://s3minio.webativa.com.br/redeitv/a-voz-popular-tv.png
+Redeitv#AB TV#https://s3minio.webativa.com.br/redeitv/ab-tv.png
+Redeitv#ABC Brasil#https://s3minio.webativa.com.br/redeitv/abc-brasil.png
+Redeitv#Acesso BR#https://s3minio.webativa.com.br/redeitv/acesso-channel.png
+Redeitv#Acesso Brasil TV#https://s3minio.webativa.com.br/redeitv/acesso.png
+Redeitv#Acesso Brasil#https://s3minio.webativa.com.br/redeitv/acesso-channel-tv.png
+Redeitv#ACESSO TV BR#https://s3minio.webativa.com.br/redeitv/acesso-tv-br.png
+Redeitv#Adesso TV#https://s3minio.webativa.com.br/redeitv/adesso-tv.png
+Redeitv#AG TV BRASIL#https://s3minio.webativa.com.br/redeitv/ag-tv-brasil.png
+Redeitv#AG TV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1217/2024/03/REDE-ITV-800-x-450-px.png
+Redeitv#AGITOMAX Channel#https://s3minio.webativa.com.br/redeitv/agitomax-channel.png
+Redeitv#Alpha Channel#https://s3minio.webativa.com.br/redeitv/alpha-channel.png
+Redeitv#Amazon Sat#https://s3minio.webativa.com.br/redeitv/amazon-sat.png
+Redeitv#ANTENA 10#https://s3minio.webativa.com.br/redeitv/antena-10.png
+Redeitv#ArarunaTV#https://redeitv.com.br/wp-content/uploads/2024/02/ararunatv.jpg
+Redeitv#Astral TV#https://s3minio.webativa.com.br/redeitv/astral-tv.png
+Redeitv#AUGE TV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/2322/2024/07/IMG-20240718-WA0065.jpg
+Redeitv#AUTO TV#https://redeitv.com.br/wp-content/uploads/2024/08/Auto-TV.png
+Redeitv#AWTV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/24/2023/07/AWTV-LOGO-ALPHA5_VALE.png
+Redeitv#BDC TV#https://redeitv.com.br/wp-content/uploads/2024/07/BDC-TV-800x450-2.png
+Redeitv#BEM MAIS TV#https://s3minio.webativa.com.br/redeitv/bem-mais-tv.png
+Redeitv#BS-TV Online#https://s3minio.webativa.com.br/redeitv/bs-tv-online.png
+Redeitv#BSTV#https://s3minio.webativa.com.br/redeitv/bstv.png
+Redeitv#BTTV - Brazilian Times TV#https://s3minio.webativa.com.br/redeitv/bttv-brazilian-times-tv.png
+Redeitv#Canal 29#https://redeitv.online/roku/imgcanais/canal29.jpg
+Redeitv#Canal Acesso Brasil#https://s3minio.webativa.com.br/redeitv/canal-acesso-brasil.png
+Redeitv#Canal Bem Melhor#https://s3minio.webativa.com.br/redeitv/canal-bem-melhor.png
+Redeitv#Canal Promessas#https://redeitv.online/roku/imgcanais/canal-promessas.jpg?alt=media&token=ad232b98-a201-4321-8fcf-c35afcb1624c
+Redeitv#Canal Ricos#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1072/2024/03/logo-800x450-1.png
+Redeitv#Canal Rural#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/656/2024/01/images.jpeg
+Redeitv#CANAL START#https://s3minio.webativa.com.br/redeitv/canal-start.png
+Redeitv#Canção Nova Portugal#https://s3minio.webativa.com.br/redeitv/cancao-nova-portugal.png
+Redeitv#Caravana Play#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/368/2023/10/94E2BE69-679B-4AB3-B60B-7F97F6BB1C81.jpeg
+Redeitv#CARIRI TV#https://s3minio.webativa.com.br/redeitv/cariri-tv.png
+Redeitv#Casa Gamela#https://s3minio.webativa.com.br/redeitv/casa-gamela.png
+Redeitv#CBTV PLAY#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1896/2024/06/Design-sem-nome_20240604_143646_0000-1.png
+Redeitv#Central TV Brasil#https://s3minio.webativa.com.br/redeitv/central-tv-brasil.png
+Redeitv#Chroma TV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/721/2024/01/tv-chroma-2024-1-2.png
+Redeitv#Cine Clássicos Do Cinema#https://s3minio.webativa.com.br/redeitv/cine-classicos-do-cinema.png
+Redeitv#Clouding TV#https://s3minio.webativa.com.br/redeitv/clouding-tv.png
+Redeitv#Clube Web TV#https://s3minio.webativa.com.br/redeitv/clube-web-tv.png
+Redeitv#CNN Portugal#https://s3minio.webativa.com.br/redeitv/cnn-portugal.png
+Redeitv#CNU#https://s3minio.webativa.com.br/redeitv/cnu.png
+Redeitv#COM Brasil#https://s3minio.webativa.com.br/redeitv/com-brasil.png
+Redeitv#CONECT X#https://s3minio.webativa.com.br/redeitv/conect-x.png
+Redeitv#Creative TV Brasil#https://s3minio.webativa.com.br/redeitv/creative-tv-brasil.png
+Redeitv#D+TV#https://i.ibb.co/xC1nTt2/802.jpg
+Redeitv#DeoPLay TV#https://s3minio.webativa.com.br/redeitv/deoplay-tv.png
+Redeitv#Extremo Oriental TV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/581/2024/01/capa_eotv.png
+Redeitv#F. Kids Network#https://s3minio.webativa.com.br/redeitv/f-kids-network.png
+Redeitv#Farol TV#https://s3minio.webativa.com.br/redeitv/farol-tv.png
+Redeitv#Folha do Campo#https://redeitv.com.br/wp-content/uploads/2023/08/folhadocampo.jpg
+Redeitv#Fonte TV#https://redeitv.online/roku/imgcanais/tv-fonte.jpg?alt=media&token=0818be5e-79fc-43df-bdf5-1a7eef440393
+Redeitv#FOZ TV#https://s3minio.webativa.com.br/redeitv/foz-tv.png
+Redeitv#Gazeta Brasil#https://s3minio.webativa.com.br/redeitv/gazeta-brasil.png
+Redeitv#Geekdot#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/133/2023/08/geekdot_itv.png
+Redeitv#GERAL TV HD#https://s3minio.webativa.com.br/redeitv/geral-tv-hd.png
+Redeitv#Gramado TV#https://s3minio.webativa.com.br/redeitv/gramado-tv.png
+Redeitv#HIP-HOP VAI ALEM NA TV#https://redeitv.com.br/wp-content/uploads/2024/01/hiphop.jpg
+Redeitv#IGREJA MUNDIAL#https://s3minio.webativa.com.br/redeitv/igreja-mundial.png
+Redeitv#Ijuí Play#https://s3minio.webativa.com.br/redeitv/ijui-play.png
+Redeitv#JOVEM TOTAL TV DIGITAL#https://s3minio.webativa.com.br/redeitv/jovem-total-tv-digital.png
+Redeitv#JRTV#https://s3minio.webativa.com.br/redeitv/jrtv.png
+Redeitv#Já Viu TV#https://s3minio.webativa.com.br/redeitv/ja-viu-tv.png
+Redeitv#Kanuca TV Brasil#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2024/07/Kanuca-TV-800x450-1.png
+Redeitv#KATHOLIKA#https://s3minio.webativa.com.br/redeitv/katholika.png
+Redeitv#KE TV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/346/2024/02/LEAO-LOGO-OFICIAL-3-tamanho-800X450-1.png
+Redeitv#Kuriakos TV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1288/2024/03/LOGO-KURIAKOS-TV-1.png
+Redeitv#Lamore Rock Show WebTV#https://s3minio.webativa.com.br/redeitv/lamore-rock-show-webtv.png
+Redeitv#Litoral Play TV#https://s3minio.webativa.com.br/redeitv/litoral-play-tv.png
+Redeitv#Lucas TV#https://s3minio.webativa.com.br/redeitv/lucas-tv.png
+Redeitv#Líder TV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/2270/2024/07/LOGO-LIDER-EM-BAIXA-1.png
+Redeitv#Maceió#https://i.ibb.co/VYWsJfD/006.jpg
+Redeitv#Masper TV#https://s3minio.webativa.com.br/redeitv/masper-tv.png
+Redeitv#Ministério Infantil TV - MITV (Kids)#https://s3minio.webativa.com.br/redeitv/ministerio-infantil-tv-mitv-kids.png
+Redeitv#MJR TV#https://redeitv.online/roku/imgcanais/MJR.jpg?alt=media&token=80fe892b-1227-4052-b313-09a29445d743
+Redeitv#MULTIMIX#https://s3minio.webativa.com.br/redeitv/multimix.png
+Redeitv#MVerso TV#https://s3minio.webativa.com.br/redeitv/mverso-tv.png
+Redeitv#NERY TV#https://s3minio.webativa.com.br/redeitv/nery-tv.png
+Redeitv#Nossa TV#https://s3minio.webativa.com.br/redeitv/nossa-tv.png
+Redeitv#Nova Rio TV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/68/2023/08/Fundo-transparente-1.png
+Redeitv#Nova Tvi Petrópolis#https://s3minio.webativa.com.br/redeitv/nova-tvi-petropolis.jpeg
+Redeitv#NTC PLAY#https://s3minio.webativa.com.br/redeitv/ntc-play.png
+Redeitv#ON TV#https://s3minio.webativa.com.br/redeitv/on-tv.png
+Redeitv#Oriundi TV#https://redeitv.webativa.com.br/wp-content/uploads/jet-engine-forms/8/2023/06/VEGAS_INTRO_01-800X-450-1.jpg
+Redeitv#Otaku Sign TV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1869/2024/05/Otaku-Sign-TV-5.png
+Redeitv#Pan TV MT#https://s3minio.webativa.com.br/redeitv/pan-tv-mt.png
+Redeitv#Petlovers TV#https://s3minio.webativa.com.br/redeitv/petlovers-tv.png
+Redeitv#Play TV#https://s3minio.webativa.com.br/redeitv/play-tv.png
+Redeitv#PlayTV horse#https://s3minio.webativa.com.br/redeitv/playtv-horse.png
+Redeitv#POLIDORO TV São Paulo#https://s3minio.webativa.com.br/redeitv/polidoro-tv-sao-paulo.png
+Redeitv#PoopTV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/813/2024/02/20240214_114451.jpg
+Redeitv#Quixeramobim TV#https://s3minio.webativa.com.br/redeitv/quixeramobim-tv.png
+Redeitv#R9TV#https://s3minio.webativa.com.br/redeitv/r9tv.png
+Redeitv#RADIOTVWEBSILVESFM#https://s3minio.webativa.com.br/redeitv/radiotvwebsilvesfm.jpeg
+Redeitv#RCTV#https://s3minio.webativa.com.br/redeitv/rctv.png
+Redeitv#Rede Blitz - Só música de qualidade.#https://s3minio.webativa.com.br/redeitv/rede-blitz-so-musica-de-qualidade.png
+Redeitv#Rede Fénix#https://s3minio.webativa.com.br/redeitv/rede-fenix.png
+Redeitv#Rede Gospel#https://i.ibb.co/d0p3Zvk/gospel.jpg
+Redeitv#Rede ISTV#https://s3minio.webativa.com.br/redeitv/rede-istv.png
+Redeitv#Rede Metropolitano#https://s3minio.webativa.com.br/redeitv/rede-metropolitano.png
+Redeitv#Rede Metrópole#https://redeitv.online/roku/imgcanais/rede_metropoles.jpg?alt=media&token=6bbf6f1c-4279-4a66-8000-ba49ce2ad72b
+Redeitv#Rede Metrópole#https://s3minio.webativa.com.br/redeitv/rede-metropole.png
+Redeitv#Rede QDM de Televisão#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/145/2023/08/IMG-20230328-WA0040-e1692190261211.jpg
+Redeitv#REDE SPTV#https://redeitv.com.br/wp-content/uploads/2024/02/rede-sptv.jpg
+Redeitv#Rede TV#https://redeitv.online/roku/imgcanais/cana-rede-tv.png?alt=media&token=cc279d94-72ac-4523-8227-1d9b96a9df58
+Redeitv#REDE TV.E#https://s3minio.webativa.com.br/redeitv/rede-tve.png
+Redeitv#REDE TVS#https://s3minio.webativa.com.br/redeitv/rede-tvs.png
+Redeitv#REDE ULTRA TV#https://s3minio.webativa.com.br/redeitv/rede-ultra-tv.png
+Redeitv#REDE UTV BRASIL#https://redeitv.com.br/wp-content/uploads/2023/05/m.png
+Redeitv#REDE VIVAX TV#https://redeitv.com.br/wp-content/uploads/2024/08/Vivax.png
+Redeitv#REDE WTJMINAS#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/114/2023/08/logo-para-a-nova-iptv.jpg
+Redeitv#Reisen Clube TV#https://s3minio.webativa.com.br/redeitv/reisen-clube-tv.png
+Redeitv#Reviva TV#https://s3minio.webativa.com.br/redeitv/reviva-tv.png
+Redeitv#RITTV#https://s3minio.webativa.com.br/redeitv/rittv.png
+Redeitv#RS Play#https://s3minio.webativa.com.br/redeitv/rs-play.png
+Redeitv#Rádio e TV Livre Brasil#https://s3minio.webativa.com.br/redeitv/radio-e-tv-livre-brasil.png
+Redeitv#Rádio Forró Mix#https://s3minio.webativa.com.br/redeitv/radio-forro-mix.png
+Redeitv#SBC TV#https://s3minio.webativa.com.br/redeitv/sbc-tv.png
+Redeitv#SBT Cuiabá#https://s3minio.webativa.com.br/redeitv/sbt-cuiaba.png
+Redeitv#SBT Nova Mutum#https://s3minio.webativa.com.br/redeitv/sbt-nova-mutum.png
+Redeitv#SBT Pará#https://s3minio.webativa.com.br/redeitv/sbt-para.png
+Redeitv#SBT Rondonópolis#https://s3minio.webativa.com.br/redeitv/sbt-rondonopolis.png
+Redeitv#SBT Sinop#https://s3minio.webativa.com.br/redeitv/sbt-sinop.png
+Redeitv#Seven Tv#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/136/2023/09/Arte-Para-Site-Terceiros-Seven-Tv-2023.jpg
+Redeitv#SIC Notícias#https://s3minio.webativa.com.br/redeitv/sic-noticias.png
+Redeitv#SIC#https://redeitv.online/roku/imgcanais/sic-png-2.png?alt=media&token=fe9e5ef8-61af-4c6a-a7d0-e4885d76e8b3
+Redeitv#SICtv#https://i.ibb.co/0VDqCX9/041.jpg
+Redeitv#SIM TV#https://i.ibb.co/w0X3pJt/jjj.jpg
+Redeitv#SOU[TV.]#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1530/2024/04/LOGO-OFICIAL-ALTA.png
+Redeitv#Summit TV#https://s3minio.webativa.com.br/redeitv/summit-tv.png
+Redeitv#Séries Classic#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png
+Redeitv#TBO#https://redeitv.online/roku/imgcanais/tv-tbo.jpg?alt=media&token=e5b667f1-9f59-4024-adda-3fce4f106a8a
+Redeitv#TELA BRASIL TV#https://s3minio.webativa.com.br/redeitv/tela-brasil-tv.png
+Redeitv#The JetSons#https://redeitv.online/roku/imgcanais/the_jetsons.jpg?alt=media&token=654e8255-c585-4de5-89f6-3ac02a271c2c
+Redeitv#Top Demais TV#https://s3minio.webativa.com.br/redeitv/top-demaistv.png
+Redeitv#TOP MIX TV - CANAL POP RETRÔ#https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-pop-retro.png
+Redeitv#TOP MIX TV - CANAL SERTANEJO#https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-sertanejo.png
+Redeitv#TOP MIX TV CANAL 3 GOSPEL#https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-3-gospel.png
+Redeitv#TOP MIX TV CANAL 4 FILMES#https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-4-filmes.png
+Redeitv#TOP MIX TV FILMES GOSPEL#https://s3minio.webativa.com.br/redeitv/top-mix-tv-filmes-gospel.png
+Redeitv#TOP MIX TV#https://s3minio.webativa.com.br/redeitv/top-mix-tv.png
+Redeitv#TOPMIXTV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/281/2023/09/MUSICA-GOSPEL-NOVAS-E-LANCAMENTOS.jpg
+Redeitv#Tramandaí TV#https://s3minio.webativa.com.br/redeitv/tramandai-tv.png
+Redeitv#TV 100% Caipira#https://redeitv.com.br/wp-content/uploads/2024/07/LOGO-TV-100-800x450-2.png
+Redeitv#TV 247#https://s3minio.webativa.com.br/redeitv/tv-247.png
+Redeitv#TV 3 Fronteiras#https://s3minio.webativa.com.br/redeitv/tv-3-fronteiras.png
+Redeitv#TV A FOLHA#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/241/2023/09/tv-e1694173039734.png
+Redeitv#Tv Adorador Gospel#https://redeitv.online/roku/imgcanais/tv-adorador-gospel.jpg?alt=media&token=fdf0f1fd-f5bc-4077-b8f8-a9c8490f57eb
+Redeitv#Tv Adorando Jesus#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1869/2024/05/Tv-Adorando-Jesus-4.png
+Redeitv#TV ALA#https://s3minio.webativa.com.br/redeitv/tv-ala.png
+Redeitv#Tv Alagoinha#https://redeitv.online/roku/imgcanais/tva.jpg?alt=media&token=74f67529-a63a-431d-9733-22151edcd58e
+Redeitv#TV Aliança#https://s3minio.webativa.com.br/redeitv/tv-alianca.png
+Redeitv#TV Alpha#https://s3minio.webativa.com.br/redeitv/tv-alpha.png
+Redeitv#TV ALVORADA#https://s3minio.webativa.com.br/redeitv/tv-alvorada.png
+Redeitv#TV Aparecida#https://i.ibb.co/nfjgPjH/048.jpg
+Redeitv#TV Apóstolos#https://i.ibb.co/ch8L6WH/1280.jpg
+Redeitv#Tv Aracati HD#https://i.ibb.co/q7TFWST/ddd.jpg
+Redeitv#Tv Arapuan#https://i.ibb.co/bvXJKPr/020.jpg
+Redeitv#TV Assembleia MS#https://redeitv.online/roku/imgcanais/tv-assembleia-ms.jpg?alt=media&token=91618d01-7931-44aa-859a-5c83dfe2a148
+Redeitv#TV AVIVANDO NAÇÕES#https://s3minio.webativa.com.br/redeitv/tv-avivando-nacoes.png
+Redeitv#TV Banqueta#https://s3minio.webativa.com.br/redeitv/tv-banqueta.png
+Redeitv#TV Blue Brasil#https://s3minio.webativa.com.br/redeitv/tv-blue-brasil.jpeg
+Redeitv#TV Brasil Angola#https://s3minio.webativa.com.br/redeitv/tv-brasil-angola.png
+Redeitv#TV Brasil Hits#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/44/2023/07/TV-BRASIL-HITS-1.png
+Redeitv#TV Brasil Internacional#https://s3minio.webativa.com.br/redeitv/tv-brasil-internacional.png
+Redeitv#TV BRASIL SINOP FM#https://s3minio.webativa.com.br/redeitv/tv-brasil-sinop-fm.png
+Redeitv#tv brasil sinop#https://s3minio.webativa.com.br/redeitv/tv-brasil-sinop.JPG
+Redeitv#TV Brusque#https://redeitv.online/roku/imgcanais/brusque.jpg?alt=media&token=a0bde148-3166-4384-babb-fd3fd45fd8fe
+Redeitv#TV Candidés#https://i.ibb.co/QX2s7DC/016.jpg
+Redeitv#TV Cariris#https://s3minio.webativa.com.br/redeitv/tv-cariris.png
+Redeitv#TV Caruaru#https://redeitv.online/roku/imgcanais/caruaru-tv.jpg?alt=media&token=4bc13b02-80ac-4286-94a4-d70ab0ba1ea3
+Redeitv#TV CHANNEL NETWORK#https://s3minio.webativa.com.br/redeitv/tv-channel-network.png
+Redeitv#TV Cidade 10#https://s3minio.webativa.com.br/redeitv/tv-cidade-10.png
+Redeitv#TV Cidade Araçatuba#https://s3minio.webativa.com.br/redeitv/tv-cidade-aracatuba.png
+Redeitv#Tv Cidade Bahia#https://s3minio.webativa.com.br/redeitv/tv-cidade-bahia.png
+Redeitv#TV Cidade Rio de Janeiro#https://s3minio.webativa.com.br/redeitv/tv-cidade-rio-de-janeiro.png
+Redeitv#Tv cidade verde Cuiabá#https://redeitv.com.br/wp-content/uploads/2023/11/Logotipo_da_Rede_Cidade_Verde-1.png
+Redeitv#TV Cidade Verde#https://i.ibb.co/nnnyG3k/029.jpg
+Redeitv#Tv Cidade#https://redeitv.com.br/wp-content/uploads/2023/06/tvcidadebrasil.jpg
+Redeitv#TV Com Brasil#https://s3minio.webativa.com.br/redeitv/tv-com-brasil.png
+Redeitv#TV Com DF#https://s3minio.webativa.com.br/redeitv/tv-com-df.png
+Redeitv#TV Conexão#https://s3minio.webativa.com.br/redeitv/tv-conexao.png
+Redeitv#TV CONQUISTA#https://s3minio.webativa.com.br/redeitv/tv-conquista.png
+Redeitv#TV Cristal Tocantins#https://s3minio.webativa.com.br/redeitv/tv-cristal-tocantins.png
+Redeitv#TV Cultura#https://redeitv.online/roku/imgcanais/cultura.png?alt=media&token=ce0b2069-1719-4d09-b303-c5555a35b765
+Redeitv#TV CÂMARA LINS#https://s3minio.webativa.com.br/redeitv/tv-camara-lins.png
+Redeitv#TV Da Pesca#https://s3minio.webativa.com.br/redeitv/tv-da-pesca.png
+Redeitv#TV Difusora Leste#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/203/2024/07/252810197_2927661030712377_3852608683659475570_n-e1721651897706.png
+Redeitv#TV Difusora São Luís#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/203/2024/07/245792697_3958664411025416_3600284647331741374_n-e1721651722307.png
+Redeitv#TV DIFUSÃO#https://s3minio.webativa.com.br/redeitv/tv-difusao.png
+Redeitv#TV DIVERSIDADE#https://s3minio.webativa.com.br/redeitv/tv-diversidade.png
+Redeitv#TV Diário Do Sertão#https://i.ibb.co/cTCtLMj/021.jpg
+Redeitv#TV DO CARRO#https://redeitv.com.br/wp-content/uploads/2024/08/TV-do-Carro.png
+Redeitv#TV Entono Sul#https://s3minio.webativa.com.br/redeitv/tv-entono-sul.png
+Redeitv#TV EXPLOSÃO FM FILIAL#https://s3minio.webativa.com.br/redeitv/tv-explosao-fm-filial.png
+Redeitv#TV EXPLOSÃO FM#https://s3minio.webativa.com.br/redeitv/tv-explosao-fm.png
+Redeitv#TV EXPLOSÃO#https://s3minio.webativa.com.br/redeitv/tv-explosao.png
+Redeitv#TV EXPLOSÃOFM FILIAL#https://s3minio.webativa.com.br/redeitv/tv-explosaofm-filial.png
+Redeitv#TV EXPLOSÃOFM MUSICAL#https://s3minio.webativa.com.br/redeitv/tv-explosaofm-musical.png
+Redeitv#TV EXPLOSÃOFM SÉRIES#https://s3minio.webativa.com.br/redeitv/tv-explosaofm-series.png
+Redeitv#TV Feira de Santana Ao Vivo#https://redeitv.online/roku/imgcanais/feira-de-santana.jpg?alt=media&token=1c8ff367-e1bf-47a7-8b1e-b32a292b3ba7
+Redeitv#TV FELIZ#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/142/2023/08/LOGO.png
+Redeitv#TV Galega#https://i.ibb.co/3MtcpfN/vivo.jpg
+Redeitv#TV Gazin#https://s3minio.webativa.com.br/redeitv/tv-gazin.png
+Redeitv#TV GOITACÁ#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/2137/2024/06/TV-GOITACA-IP-TV-1.png
+Redeitv#TV GRANDE NATAL HDTV BRASIL#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/909/2024/06/logo-para-icone.jpg
+Redeitv#Tv Grande Natal#https://hosttec.online/rokuxml/natal/vivo.jpg
+Redeitv#TV Grão Verde#https://s3minio.webativa.com.br/redeitv/tv-grao-verde.png
+Redeitv#TV Guará - RedeTV!#https://s3minio.webativa.com.br/redeitv/tv-guara-redetv.png
+Redeitv#TV História#https://s3minio.webativa.com.br/redeitv/tv-historia.png
+Redeitv#TV HORTOLÂNDIA#https://s3minio.webativa.com.br/redeitv/tv-hortolandia.png
+Redeitv#TV IF CINE#https://s3minio.webativa.com.br/redeitv/tv-if-cine.png
+Redeitv#TV IMJC#https://s3minio.webativa.com.br/redeitv/tv-imjc.png
+Redeitv#TV ITABAIANA#https://s3minio.webativa.com.br/redeitv/tv-itabaiana.png
+Redeitv#TV Itaipuaçu#https://s3minio.webativa.com.br/redeitv/tv-itaipuacu.png
+Redeitv#TV Itapetinga (ES)#https://s3minio.webativa.com.br/redeitv/tv-itapetinga.png
+Redeitv#TV Itapetinga MG#https://s3minio.webativa.com.br/redeitv/tv-itapetinga-mg.png
+Redeitv#Tv J.SID#https://redeitv.com.br/wp-content/uploads/2023/05/novo16.jpg
+Redeitv#TV JAPÃO#https://s3minio.webativa.com.br/redeitv/tv-japao.png
+Redeitv#Tv Lagoa Dantas#https://s3minio.webativa.com.br/redeitv/tv-lagoa-dantas.png
+Redeitv#TV Lagos#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1296/2024/03/800x450.png
+Redeitv#TV Liberdade HD#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2024/07/TV-Liberdade-800x450-1.png
+Redeitv#TV LIFE AMÉRICA#https://s3minio.webativa.com.br/redeitv/tv-life-america.png
+Redeitv#TV MAIS BRASIL#https://redeitv.online/roku/imgcanais/tvmaisbrasil%20(1).jpg
+Redeitv#TV Mais Marília#https://s3minio.webativa.com.br/redeitv/tv-mais-marilia.png
+Redeitv#TV MAIS PET#https://s3minio.webativa.com.br/redeitv/tv-mais-pet.png
+Redeitv#TV MANA BRASIL#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1288/2024/03/LOGO_TV_MANA_BRASIL_V4-1.jpg
+Redeitv#TV Manancial#https://s3minio.webativa.com.br/redeitv/tv-manancial.png
+Redeitv#TV Mar Rio Grande#https://s3minio.webativa.com.br/redeitv/tv-mar-rio-grande.png
+Redeitv#TV Marajoara#https://i.ibb.co/zJTmHFm/018.jpg
+Redeitv#TV MARCHETI#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/95/2023/07/logo-tv-projeto-e1690460421190.jpg
+Redeitv#TV MEGA BRASIL#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1367/2024/04/BackgroundEraser_20230923_191810870-e1712923742793.png
+Redeitv#Tv metropole guaiuba#https://s3minio.webativa.com.br/redeitv/tv-metropole-guaiuba.png
+Redeitv#Tv metropole Sobral 46.1#https://s3minio.webativa.com.br/redeitv/tv-metrople-sobral-461.png
+Redeitv#TV METROPOLITANA - BELÉM#https://s3minio.webativa.com.br/redeitv/tv-metropolitana-belem.png
+Redeitv#TV METROPOLITANA RIO#https://s3minio.webativa.com.br/redeitv/tv-metropolitana-rio.png
+Redeitv#TV Metropolitana#https://s3minio.webativa.com.br/redeitv/tv-metropolitana.png
+Redeitv#TV Metrópole#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/844/2024/02/images-1.jpeg
+Redeitv#TV MIRA FM#https://s3minio.webativa.com.br/redeitv/tv-mira-fm.png
+Redeitv#TV Mirai#https://s3minio.webativa.com.br/redeitv/tv-mirai.png
+Redeitv#TV Mon HD#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/07/TV-1-JPG-3.jpg
+Redeitv#TV NBN#https://redeitv.com.br/wp-content/uploads/2024/03/tv-nbn.jpg
+Redeitv#TV NORTE NEWS#https://s3minio.webativa.com.br/redeitv/tv-norte-news.png
+Redeitv#TV NORTE PARÁ - SC#https://s3minio.webativa.com.br/redeitv/tv-norte-para-sc.png
+Redeitv#TV Notícias Agrícolas#https://s3minio.webativa.com.br/redeitv/tv-noticias-agricolas.png
+Redeitv#Tv nova juarez canal 2#https://s3minio.webativa.com.br/redeitv/nanal-2-tv-nova-juarez.png
+Redeitv#TV NOVA JUAREZ#https://s3minio.webativa.com.br/redeitv/tv-nova-juarez.png
+Redeitv#tv nova juarez.1#https://s3minio.webativa.com.br/redeitv/tv-nova-juarez1.png
+Redeitv#Tv Nova MT Ao Vivo#https://s3minio.webativa.com.br/redeitv/tv-nova-mt-ao-vivo.png
+Redeitv#TV NOVA MT#https://redeitv.com.br/wp-content/uploads/2023/09/LOGO-TV-NOVA-MT-1.png
+Redeitv#TV Nova Nordeste#https://redeitv.com.br/wp-content/uploads/2023/10/TVNOVA-1-1.jpg
+Redeitv#TV Novo Tempo#https://redeitv.online/roku/imgcanais/novo-tempo.jpg?alt=media&token=86102375-67b0-4f50-8a12-730a2afb9dcf
+Redeitv#TV O Reporter#https://s3minio.webativa.com.br/redeitv/tv-o-reporter.png
+Redeitv#TV Olho D´água#https://s3minio.webativa.com.br/redeitv/tv-olho-dagua.png
+Redeitv#TV OMINDARÉ#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/858/2024/02/TV-omindare.png
+Redeitv#TV ONE#https://s3minio.webativa.com.br/redeitv/tv-one.png
+Redeitv#Tv Padre Cicero#https://i.ibb.co/hZwzXDY/008.jpg
+Redeitv#TV Pai Eterno#https://s3minio.webativa.com.br/redeitv/tv-pai-eterno.png
+Redeitv#TV Paradise#https://s3minio.webativa.com.br/redeitv/tv-paradise.png
+Redeitv#TV Paraná Turismo#https://s3minio.webativa.com.br/redeitv/tv-parana-turismo.png
+Redeitv#TV PETRÓPOLIS#https://redeitv.com.br/wp-content/uploads/2024/04/Novo-Projeto.png
+Redeitv#TV PLANALTO#https://s3minio.webativa.com.br/redeitv/tv-planalto.png
+Redeitv#TV POMPEIA#https://s3minio.webativa.com.br/redeitv/tv-pompeia.png
+Redeitv#Tv Ponta da Serra#https://s3minio.webativa.com.br/redeitv/tv-ponta-da-serra.png
+Redeitv#TV POPULAR#https://s3minio.webativa.com.br/redeitv/tv-popular.png
+Redeitv#TV Portal HD#http://redeitv.online/roku/thumb/Logo-Portal-Ativo.jpeg
+Redeitv#Tv Princesa do Vale#https://redeitv.com.br/wp-content/uploads/2024/02/princesadovale.jpg
+Redeitv#TV Rabelo Nacional (Rede)#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/2382/2024/07/background-tv-1280x720.jpg-e1722946457125.png
+Redeitv#TV Rabelo#https://s3minio.webativa.com.br/redeitv/tv-rabelo.png
+Redeitv#TV RADICAL DIGITAL#https://s3minio.webativa.com.br/redeitv/tv-radical-digital.png
+Redeitv#TV Recôncavo#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1188/2024/03/logo-i-TV.png
+Redeitv#TV Rede União#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/844/2024/02/images-2.jpeg
+Redeitv#TV Rio Madeira#https://redeitv.online/roku/imgcanais/web-tv.jpg?alt=media&token=0ee24aea-3b47-43f5-94b9-0b07c7d1ab03
+Redeitv#TV SANTA#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/70/2023/07/logo-tv-santa-800-x-450-1.jpg
+Redeitv#TV Serrana#https://s3minio.webativa.com.br/redeitv/tv-serrana.png
+Redeitv#TV SERTÃO#https://s3minio.webativa.com.br/redeitv/tv-sertao.png
+Redeitv#TV Sonata#https://s3minio.webativa.com.br/redeitv/tv-sonata.png
+Redeitv#TV SONORA#https://s3minio.webativa.com.br/redeitv/tv-sonora.jpeg
+Redeitv#TV THATHI#http://redeitv.online/roku/thumb/live.jpeg
+Redeitv#TV TROPICAL RECORD#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1450/2024/04/TV-TROPICAL-800x450-1.png
+Redeitv#TV TUDO PARANÁ#https://s3minio.webativa.com.br/redeitv/tv-tudo-parana.png
+Redeitv#TV TUDO#https://redeitv.com.br/wp-content/uploads/2024/08/TV-Tudo.png
+Redeitv#TV TVR#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/2240/2024/07/Design-sem-nome.png
+Redeitv#TV UFMA#https://s3minio.webativa.com.br/redeitv/tv-ufma.png
+Redeitv#TV Universal#https://redeitv.com.br/wp-content/uploads/2024/02/images-1.jpg
+Redeitv#TV Velhos Tempos#https://s3minio.webativa.com.br/redeitv/tv-velhos-tempos.png
+Redeitv#TVAN#https://s3minio.webativa.com.br/redeitv/tvan.png
+Redeitv#TVBC#https://s3minio.webativa.com.br/redeitv/tvbc.png
+Redeitv#TVC Tocantins#https://s3minio.webativa.com.br/redeitv/tvc-tocantins.png
+Redeitv#TVCi#https://s3minio.webativa.com.br/redeitv/tvci.png
+Redeitv#TVCOM#https://redeitv.online/roku/imgcanais/tvcom.jpg
+Redeitv#TVD#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/126/2023/08/TVD-ok-outro.jpg
+Redeitv#TVE RS#https://s3minio.webativa.com.br/redeitv/tve-rs.png
+Redeitv#Tvi INTER#https://s3minio.webativa.com.br/redeitv/tvi-inter.png
+Redeitv#TVI Internacional#https://s3minio.webativa.com.br/redeitv/tvi-internacional.png
+Redeitv#TVI Reality#https://s3minio.webativa.com.br/redeitv/tvi-reality.png
+Redeitv#TVI África#https://s3minio.webativa.com.br/redeitv/tvi-africa.png
+Redeitv#TVI#https://s3minio.webativa.com.br/redeitv/tvi.png
+Redeitv#TVIN#https://s3minio.webativa.com.br/redeitv/tvin.png
+Redeitv#TvNilcera#https://s3minio.webativa.com.br/redeitv/tvnilcera.png
+Redeitv#tvnovajuarez#https://s3minio.webativa.com.br/redeitv/tvnovajuarez.png
+Redeitv#TVP - Rede Brasil#https://s3minio.webativa.com.br/redeitv/tvp-rede-brasil.png
+Redeitv#tvPBC18#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/714/2024/01/tv-pbc-800x450-1.png
+Redeitv#tvportalweb#https://s3minio.webativa.com.br/redeitv/tvportalweb.png
+Redeitv#TVR Amparo#https://s3minio.webativa.com.br/redeitv/tvr-amparo.png
+Redeitv#TVS - BAHIA#https://s3minio.webativa.com.br/redeitv/tvs-bahia.png
+Redeitv#TVS AMAZONAS#https://s3minio.webativa.com.br/redeitv/tvs-amazonas.png
+Redeitv#TVS BRASIL#https://s3minio.webativa.com.br/redeitv/tvs-brasil.png
+Redeitv#TVS LITORAL NORTE#https://s3minio.webativa.com.br/redeitv/tvs-litoral-norte.png
+Redeitv#TVS REGIONAL - BAHIA#https://s3minio.webativa.com.br/redeitv/tvs-regional-bahia.png
+Redeitv#TVS SERGIPE#https://s3minio.webativa.com.br/redeitv/tvs-sergipe.png
+Redeitv#UMA TV#https://s3minio.webativa.com.br/redeitv/uma-tv.png
+Redeitv#Unifé Cristão#https://s3minio.webativa.com.br/redeitv/unife-cristao.png
+Redeitv#Unique TV#https://s3minio.webativa.com.br/redeitv/unique-tv.png
+Redeitv#Unisul TV#https://redeitv.online/roku/imgcanais/unisul-tv.jpg?alt=media&token=5eaf8f54-6a37-4997-b79f-43c9750c430f
+Redeitv#UNO TV#https://s3minio.webativa.com.br/redeitv/uno-tv.png
+Redeitv#V+ TVI#https://s3minio.webativa.com.br/redeitv/v-tvi.png
+Redeitv#VGSTV#https://s3minio.webativa.com.br/redeitv/vgstv.png
+Redeitv#Via Morena#https://redeitv.online/roku/imgcanais/via-morena.jpg?alt=media&token=d9e536b3-9c03-47ae-828b-36d536c79b32
+Redeitv#Viva Vida#https://s3minio.webativa.com.br/redeitv/viva-vida.png
+Redeitv#VoxTV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1117/2024/03/BANNER-VOXTV-APP-ITV-1.png
+Redeitv#W1WEBTV#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1359/2024/04/LOGO_W1WEBTV_ITV.png
+Redeitv#Web Rádio Lairton Teclas#https://s3minio.webativa.com.br/redeitv/web-radio-lairton-teclas.png
+Redeitv#WEB TV CATOLICA#https://s3minio.webativa.com.br/redeitv/web-tv-catolica.png
+Redeitv#WEB TV CR#https://s3minio.webativa.com.br/redeitv/web-tv-cr.png
+Redeitv#Web Tv Juventude#https://i.ibb.co/1vRsHpG/1280.jpg
+Redeitv#WEB TV PSIHARMONIA#https://s3minio.webativa.com.br/redeitv/web-tv-psiharmonia.png
+Redeitv#WebTv Familia de Jesus#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1933/2024/06/WebTv-Familia-de-Jesus-1.jpg
+Redeitv#WebTv Npfd#https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1094/2024/03/1704417432615-3.jpg
+Redeitv#Wording de Televisão#https://s3minio.webativa.com.br/redeitv/wording-de-televisao.png
+Redeitv#Xtreme TV#https://s3minio.webativa.com.br/redeitv/xtreme-tv.png
+Redeitv#Yeeaah Dois#https://s3minio.webativa.com.br/redeitv/yeeaah-dois.png
+Redeitv#Yeeaah#https://s3minio.webativa.com.br/redeitv/yeeaah.png
+SamsungTVPlus#2001 GE TV (BR)#
+SamsungTVPlus#2038 Record News (BR) alt H265#
+SamsungTVPlus#2038 Record News (BR)#
+SamsungTVPlus#2039 SBT News (BR)#
+SamsungTVPlus#2040 Jovem Pan News (BR)#
+SamsungTVPlus#2042 CNN Brasil (BR) (Substituto BRLG)#
+SamsungTVPlus#2042 CNN Brasil (BR) alt#
+SamsungTVPlus#2042 CNN Brasil (BR)#
+SamsungTVPlus#2043 BandNews FM (BR)#
+SamsungTVPlus#2044 Metropoles (Via LG)#
+SamsungTVPlus#2045 Oeste TV (BR)#
+SamsungTVPlus#2047 TVT News (BR)#
+SamsungTVPlus#2051 Times Brasil CNBC (BR) (Substituto BRLG)#
+SamsungTVPlus#2053 BM&C News (BR) (Substituto Pluto)#
+SamsungTVPlus#2059 Veja Mais (BR)#
+SamsungTVPlus#2063 New Brasil (BR)#
+SamsungTVPlus#2067 NBC News Now#
+SamsungTVPlus#2069 Euronews Portugues (BR)#
+SamsungTVPlus#2071 Breaking News By Leadstory (BR)#
+SamsungTVPlus#2073 Bloomberg TV (BR)#
+SamsungTVPlus#2077 TV Aparecida (BR)#
+SamsungTVPlus#2078 Redevida#
+SamsungTVPlus#2080 Canal Rural (BR)#
+SamsungTVPlus#2082 BR IN TV (BR) Substituto LG#
+SamsungTVPlus#2084 WhE Play (BR)#
+SamsungTVPlus#2086 Cultne.tv (BR)#
+SamsungTVPlus#2087 Reis (BR)#
+SamsungTVPlus#2089 Malhação Fast (BR)#
+SamsungTVPlus#2091 Amor de Aluguel by Noverama#
+SamsungTVPlus#2092 Wedo TV Pele Selvagem (BR)#
+SamsungTVPlus#2093 Novelisima em Português (BR)#
+SamsungTVPlus#2097 Pluto TV MasterChef (BR)#
+SamsungTVPlus#2100 Sony One Shark Tank Brasil (BR)#
+SamsungTVPlus#2100 Sony One Shark Tank Brasil alt (BR)#
+SamsungTVPlus#2105 Topa ou Não Topa EUA (BR)#
+SamsungTVPlus#2111 Negocio Fechado (BR)#
+SamsungTVPlus#2115 60 Dias infiltrados na prisão (BR)#
+SamsungTVPlus#2117 Pequenas Grandes Mulheres LA (BR)#
+SamsungTVPlus#2120 MTV Catfish (BR)#
+SamsungTVPlus#2125 MTV Jovens e Mães#
+SamsungTVPlus#2168 Receitas Fast (BR)#
+SamsungTVPlus#2169 Sabor and Arte 2 (BR)#
+SamsungTVPlus#2170 Tastemade#
+SamsungTVPlus#2171 Ideias Incríveis#
+SamsungTVPlus#2172 Tastemade Casa#
+SamsungTVPlus#2173 Homeful (BR) Substituto LG#
+SamsungTVPlus#2177 Tastemade Viagem#
+SamsungTVPlus#2178 Travel Plus (BR)#
+SamsungTVPlus#2185 Demand Africa (BR)#
+SamsungTVPlus#2190 Salon Line (BR)#
+SamsungTVPlus#2195 Zenlife by Stingray (BR)#
+SamsungTVPlus#2197 Luxe Fireplace Vibes#
+SamsungTVPlus#2199 Cozy Vibes#
+SamsungTVPlus#2200 Stingray Naturescape (BR)#
+SamsungTVPlus#2215 Love Nature#
+SamsungTVPlus#2223 Wild Earth (BR)#
+SamsungTVPlus#2231 Weather Spy (BR)#
+SamsungTVPlus#2238 TV Turma da Mônica (BR)#
+SamsungTVPlus#2240 3 Palavrinhas (BR)#
+SamsungTVPlus#2242 Baby Shark TV (BR)#
+SamsungTVPlus#2245 O Reino Infantil (BR)#
+SamsungTVPlus#2248 Car City Adventures (Substituto)#
+SamsungTVPlus#2249 Toon Goggles (BR)#
+SamsungTVPlus#2251 Pluto TV Moraguinhos (BR)#
+SamsungTVPlus#2253 Os Padrinhos Mágicos (BR)#
+SamsungTVPlus#2255 As Tartarugas Ninja (BR)#
+SamsungTVPlus#2257 Nickelodeon Bob Esponja Calça Quadrada (BR)#
+SamsungTVPlus#2259 Sonic (BR)#
+SamsungTVPlus#2261 Inspetor Bugiganga (BR)#
+SamsungTVPlus#2266 D.P.A Fast (BR)#
+SamsungTVPlus#2268 Nick Clássico (BR)#
+SamsungTVPlus#2270 Nick Junior Club (BR)#
+SamsungTVPlus#2274 Pokemon via Pluto#
+SamsungTVPlus#2277 Naruto#
+SamsungTVPlus#2278 Boruto Next Generation#
+SamsungTVPlus#2279 One Piece#
+SamsungTVPlus#2280 Death Note#
+SamsungTVPlus#2281 Hunter x Hunter#
+SamsungTVPlus#2286 Pluto TV Anime (BR)#
+SamsungTVPlus#2288 Sato + (BR)#
+SamsungTVPlus#2289 Ubisoft TV (BR) alt H265#
+SamsungTVPlus#2289 Ubisoft TV (BR)#
+SamsungTVPlus#2290 Manual Do Mundo (BR)#
+SamsungTVPlus#2294 Canal L!ke (BR)#
+SamsungTVPlus#2299 DiaTV (BR)#
+SamsungTVPlus#2301 Caras TV#
+SamsungTVPlus#2305 Pod Pah (BR)#
+SamsungTVPlus#2306 Flow TV (BR)#
+SamsungTVPlus#2308 Cazé TV (BR)#
+SamsungTVPlus#2309 Nsports FAST (BR) (H265)#
+SamsungTVPlus#2309 Nsports FAST (BR)#
+SamsungTVPlus#2311 Canal Goat (BR) alt H265#
+SamsungTVPlus#2311 Canal Goat (BR)#
+SamsungTVPlus#2312 Desimpedidos (BR) alt H265#
+SamsungTVPlus#2312 Desimpedidos (BR)#
+SamsungTVPlus#2313 Fifa Plus (BR)#
+SamsungTVPlus#2314 Xsports (BR)#
+SamsungTVPlus#2324 Woohoo Surf (BR) (Substituto movieark)#
+SamsungTVPlus#2326 Fuel TV (BR)#
+SamsungTVPlus#2328 Tennis TV (BR)#
+SamsungTVPlus#2329 UFC (BR)#
+SamsungTVPlus#2330 SFT Combat (BR)#
+SamsungTVPlus#2332 Hard Knocks Fight Championship (BR)#
+SamsungTVPlus#2334 GPTV (BR) H265#
+SamsungTVPlus#2334 GPTV (BR)#
+SamsungTVPlus#2336 Acelerados (BR) alt#
+SamsungTVPlus#2336 Acelerados (BR)#
+SamsungTVPlus#2338 Racer Brasil (BR)#
+SamsungTVPlus#2340 People Are Awesome (BR)#
+SamsungTVPlus#2342 World Poker Tour em Portuguese (BR)#
+SamsungTVPlus#2342 World Poker Tour Portuguese alt (BR)#
+SamsungTVPlus#2435 Qello Concerts by Stingray (BR)#
+SamsungTVPlus#2442 Trace Brasil (BR)#
+SamsungTVPlus#2450 Qwest TV (BR)#
+SamsungTVPlus#2454 Stingray Classica (BR)#
+SamsungTVPlus#2460 Porta TV (BR) (Substituto BRLG)#
+SamsungTVPlus#2462 Mr Bean Live Action#
+SamsungTVPlus#2464 Mr Bean Animated#
+SamsungTVPlus#2468 Nickelodeon iCarly (BR)#
+SamsungTVPlus#2470 The Pet Collective (BR)#
+SamsungTVPlus#2475 FailArmy (BR)#
+SamsungTVPlus#2485 Just for Laughs Gags (BR)#
+SamsungTVPlus#2512 Mark Rober TV#
+SamsungTVPlus#2516 Canal do Artesanato#
+SamsungTVPlus#2524 Sobrevivi#
+SamsungTVPlus#2530 Smithsonian Channel Pluto TV (BR)#
+SamsungTVPlus#2531 Fatos Desconhecidos (via LG)#
+SamsungTVPlus#2534 Royalworld Nobreza e Dinastias (BR)#
+SamsungTVPlus#2545 Z Nation (BR)#
+SamsungTVPlus#2550 Heartland (BR)#
+SamsungTVPlus#2553 The Chosen (BR)#
+SamsungTVPlus#2555 Western Bound em Portugês (BR)#
+SamsungTVPlus#2560 Rookie Blue (BR)#
+SamsungTVPlus#2565 Sony One - Emoções (BR)#
+SamsungTVPlus#2565 Sony One - Emoções alt (BR)#
+SamsungTVPlus#2570 Clube Do Terror (BR)#
+SamsungTVPlus#2575 O Homem que Veio do Ceu (BR)#
+SamsungTVPlus#2640 Grjingo Filmes de Faroeste (BR)#
+SamsungTVPlus#2645 Runtime Ação (BR)#
+SamsungTVPlus#2645 Runtime Ação alt (BR)#
+SamsungTVPlus#2646 Adrenalina Pura TV (BR) (Substituto TCL)#
+SamsungTVPlus#2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)#
+SamsungTVPlus#2685 Cindie Lite Portuguese (BR)#
+SamsungTVPlus#2695 MyTime Movie Network (BR)#
+SamsungTVPlus#2695 MyTime Movie Network alt (BR)#
+SamsungTVPlus#2697 Film Plus TV (BR)#
+SamsungTVPlus#2705 Spark TV (BR)#
+SamsungTVPlus#2710 Filmelier Esperanca (BR)#
+SamsungTVPlus#2712 Vida Real (BR)#
+SamsungTVPlus#2714 Filmelier TV (BR)#
+SamsungTVPlus#2720 Runtime TV e Filmes (BR)#
+SamsungTVPlus#2725 Sony One Cinema (BR)#
+SamsungTVPlus#2732 Moviesphere (BR)#
+SamsungTVPlus#Assombrações#
+SamsungTVPlus#Canal UOL (BR) via PLuto#
+SamsungTVPlus#Kenan & Kel#
+SamsungTVPlus#Real Madrid TV via Pluto#
+SamsungTVPlus#Red Bull TV via Pluto#
+SamsungTVPlus#Top Barca via Pluto#
+Soultv#40 gtv#
+Soultv#ABBA RTV#
+Soultv#Adesso TV#
+Soultv#AG Tv#
+Soultv#Alpha Channel TV#
+Soultv#Amazon Sat#
+Soultv#AMC PLAY TV#
+Soultv#America TV#
+Soultv#Assim é Portugal#
+Soultv#Astral TV#
+Soultv#Atitude New#
+Soultv#ATV#
+Soultv#Auge TV#
+Soultv#AWTV#
+Soultv#Bem + TV#
+Soultv#Bem Melhor#
+Soultv#BH Channel#
+Soultv#BH TV#
+Soultv#Bitt TV#
+Soultv#Blits TV#
+Soultv#Br Global Station#
+Soultv#Canal 25#
+Soultv#Canal do Boi#
+Soultv#CANAL START#
+Soultv#Canal TVC#
+Soultv#Central TV#
+Soultv#CNB American TV#
+Soultv#Coletiva TV#
+Soultv#COM BRASIL#
+Soultv#Conexão TV#
+Soultv#D+ TV#
+Soultv#DM Kids TV#
+Soultv#Extremo Oriental TV#
+Soultv#FMTV#
+Soultv#Geekdot#
+Soultv#GLN TV#
+Soultv#GMC TV#
+Soultv#Hackathon Brasil TV#
+Soultv#Hip Hop Vai Além TV#
+Soultv#ISTV#
+Soultv#Kanuca TV Brasil#
+Soultv#Kids Mais#
+Soultv#Kpop TV#
+Soultv#Latina TEST INTERNO#
+Soultv#Lider TV#
+Soultv#Masper TV#
+Soultv#Nova TV Agrotour#
+Soultv#OK TV#
+Soultv#Onda Digital TV#
+Soultv#Peru Channel#
+Soultv#Pet Lovers TV#
+Soultv#Play TV Horse#
+Soultv#Play TV#
+Soultv#POA Streaming TV#
+Soultv#Primer TV#
+Soultv#Q Tal Channel#
+Soultv#RAE TV#
+Soultv#Record News#
+Soultv#Rede Brasil#
+Soultv#Rede Gramado#
+Soultv#Rede Metrópole#
+Soultv#Rede NGT TV#
+Soultv#Rede Premium TV#
+Soultv#Rede QDM#
+Soultv#Rede SDP TV#
+Soultv#Rede SP TV#
+Soultv#Rede TV Paraná#
+Soultv#Rede UTV Brasil#
+Soultv#REISEN CLUBE TV#
+Soultv#Republic#
+Soultv#RIT TV#
+Soultv#Roraima TV#
+Soultv#RS SPORTS 2#
+Soultv#RS SPORTS 3#
+Soultv#RS SPORTS#
+Soultv#SBC#
+Soultv#SescTV#
+Soultv#Sou + Pop TV#
+Soultv#Soul Lab#
+Soultv#Séries Classic#
+Soultv#Tenda TV#
+Soultv#THELED E#
+Soultv#THELED M#
+Soultv#THELED P#
+Soultv#TV + Pet#
+Soultv#TV A Folha#
+Soultv#Tv Adorar#
+Soultv#TV Alagoinha#
+Soultv#TV Alternativa#
+Soultv#Tv Amplitude Juara#
+Soultv#Tv Amplitude Juína#
+Soultv#Tv Aurora#
+Soultv#TV Avivando Nações#
+Soultv#TV Carioca Net#
+Soultv#TV Clube#
+Soultv#TV CNB#
+Soultv#TV COM#
+Soultv#TV Conquista#
+Soultv#TV Correio do Imbé#
+Soultv#TV da Pesca#
+Soultv#TV Difusão#
+Soultv#TV Diário do Sertão#
+Soultv#TV Educar#
+Soultv#TV Erga Omnes#
+Soultv#Tv Estilo#
+Soultv#Tv Evangelizar#
+Soultv#TV Florida#
+Soultv#TV Folha do Campo#
+Soultv#TV Gazin#
+Soultv#Tv Grande Natal HDTV#
+Soultv#Tv História#
+Soultv#TV IN#
+Soultv#TV Itapê#
+Soultv#TV Judaica#
+Soultv#TV Liberdade#
+Soultv#Tv Life America#
+Soultv#TV Litoral RN#
+Soultv#Tv Londres#
+Soultv#TV Mais Brasil#
+Soultv#TV Marataizes#
+Soultv#TV Marcheti#
+Soultv#TV MAX#
+Soultv#TV Meio#
+Soultv#Tv Metropolitana Rio#
+Soultv#Tv Mogiana#
+Soultv#TV Mon HD#
+Soultv#Tv Nordestina#
+Soultv#TV Notícias Agrícolas#
+Soultv#TV Nova MT#
+Soultv#Tv Nova Nordeste#
+Soultv#TV O Repórter#
+Soultv#TV Ondas Play#
+Soultv#TV Onix#
+Soultv#TV PAMPA#
+Soultv#TV Petrópolis#
+Soultv#TV Planalto Norte#
+Soultv#Tv Ponta da Serra#
+Soultv#TV Portuguesa#
+Soultv#TV Potengi#
+Soultv#TV Rabelo#
+Soultv#TV Reconcavo#
+Soultv#TV Rede Mais Familia#
+Soultv#TV Rio Preto#
+Soultv#TV SBN#
+Soultv#TV Sertão#
+Soultv#TV Sonata#
+Soultv#TV Surubim#
+Soultv#Tv Verdade#
+Soultv#TV Votorantim#
+Soultv#Tv Zoom#
+Soultv#TVídeoNews#
+Soultv#UMA TV#
+Soultv#Unique Sports#
+Soultv#Unique TV#
+Soultv#Vambora Channel#
+Soultv#Veza TV#
+Soultv#VGS TV#
+Soultv#Viajando pelo Brasil#
+Soultv#Viva e Eduque#
+Soultv#Vivax#
+Soultv#VRT Channel#
+Soultv#WTJ TV#
+Soultv#WTV Brasil#
+TCL#10005 Fitdance (BR)#
+TCL#10020 Spark TV (BR)#
+TCL#10021 Sony One Emoções (BR)#
+TCL#10022 Desimpedidos (BR)#
+TCL#10022 Desimpedidos H265 (BR)#
+TCL#10024 DPA Fast (BR)#
+TCL#10025 Fifa Plus (BR)#
+TCL#10027 Play TV#
+TCL#10028 Sony One Shark Tank Brasil (BR)#
+TCL#10030 TV Jovem Pan News (BR)#
+TCL#1004 Record News (BR)#
+TCL#1005 MasterChef Brasil (BR)#
+TCL#1006 Grjngo Brasil (BR)#
+TCL#1007 Ubisoft (BR)#
+TCL#1009 Toon Goggles (BR) H265#
+TCL#1009 Toon Goggles (BR)#
+TCL#1010 Turma Da Monica (BR)#
+TCL#1011 GPTV (BR)#
+TCL#1012 New Brasil (BR)#
+TCL#1013 Like (BR)#
+TCL#1014 Sony One Cinema (BR)#
+TCL#1016 Filmelier TV (BR)#
+TCL#1017 Mr Bean Animated (BR)#
+TCL#1020 Charlie Silent Movies (BR)#
+TCL#1021 Racer Brasil (BR)#
+TCL#1025 Made in Hollywood (BR)#
+TCL#1031 The Design Network#
+TCL#10310 Nature Moments by Love Nature (BR)#
+TCL#1034 Documentry plus#
+TCL#1037 Lovestories TV (BR)#
+TCL#1040 Drone TV (BR)#
+TCL#10410 PGA Tour#
+TCL#1043 Go Usa (BR)#
+TCL#1046 Funny or Die (BR)#
+TCL#1055 Bloomberg Originals (BR)#
+TCL#10650 Novelisima em Português (BR)#
+TCL#10650 Novelisima em Português H265 (BR)#
+TCL#1067 Stingray Music the Spa#
+TCL#1070 Fuel TV (BR)#
+TCL#1073 Glory Kick Boxing (BR)#
+TCL#1076 Stingray Music Hot Country#
+TCL#10775 Sabor Arte 2 (BR)#
+TCL#1082 Stingray Music Greatest Hits#
+TCL#1085 Ditty TV (BR)#
+TCL#1088 Watch Mojo (BR)#
+TCL#1091 Fashion TV International (BR)#
+TCL#1094 Stingray Music Classic Rock#
+TCL#1103 Stingray Cmusic#
+TCL#1106 Xploration Station (BR)#
+TCL#1112 ROI (BR)#
+TCL#1118 Stingray Karaoke#
+TCL#1139 Real Nosey (BR)#
+TCL#1142 Stingray Naturescape#
+TCL#1151 Stingray Music Easy Listening#
+TCL#1160 Nosey (BR)#
+TCL#1163 Stingray Music Hit List#
+TCL#1166 Stingray Qello Concerts#
+TCL#1178 Stingray Karaoke#
+TCL#1187 Stingray DJAZZ#
+TCL#119 Caze TV (BR)#
+TCL#1244 Stingray Music Greatest Hits#
+TCL#137 Hardcore Pawn Negócios Extremos (BR)#
+TCL#139 Mr. Bean Series (BR)#
+TCL#1425 The Homestyle Channel (BR)#
+TCL#1427 Stingray Music The Spa#
+TCL#143 Adrenalina Pura TV Halloween (BR)#
+TCL#1433 Stingray Music Classic Rock#
+TCL#1469 Stingray Naturescape#
+TCL#147 Filmelier TV Paixão (BR)#
+TCL#1472 Stingray Music Hot Country#
+TCL#1490 Stingray Music Easy Listening#
+TCL#1499 Stingray DJAZZ#
+TCL#1511 4AceTV RNB?#
+TCL#1514 Stingray Music Smooth Jazz#
+TCL#1529 Stingray Qello Concerts#
+TCL#1535 Stingray Music Hot Country#
+TCL#1569 Adrenalina Pura TV (BR)#
+TCL#157 Malhacao Fast (BR)#
+TCL#2125 Free TV Crime (BR)#
+TCL#2127 Pluto TV Rockie Blue (BR)#
+TCL#2175 Filmelier TV Esperança (BR)#
+TCL#2280 Filmelier TV Vida Real (BR)#
+TCL#23098 Travel XP (BR)#
+TCL#2400 Free TV Drama (BR)#
+TCL#2742 Canal Rural (BR) H265#
+TCL#2742 Canal Rural (BR)#
+TCL#2744 BR IN TV (BR) H265#
+TCL#2744 BR IN TV (BR)#
+TCL#3038 Trace Brazil (BR)#
+TCL#3050 Moviesphere (BR)#
+TCL#3060 SFT Combat (BR)#
+TCL#3300 ACI On the Go (not log)#
+TCL#4030 Accelerados (BR)#
+TCL#4902 Receitas Fast (BR)#
+TCL#4980 Canal do Artesanato (BR)#
+TCL#5400 Wheplay (BR)#
+TCL#8551 Now 70's (BR)#
+TCL#8552 Now 80's (BR)#
+TCL#8553 Now Rock (BR)#
+TCL#8555 Trace Latina (BR)#
+TCL#8556 Trace Urban (NR)#
+TCL#Dia TV (BR)#
+TCL#GE Fast (BR)#
+TCL#Manual de Mundo (BR)#
+WhaleTVPlus#123GO!#
+WhaleTVPlus#5-Minute Crafts#
+WhaleTVPlus#a-z B-Flix#
+WhaleTVPlus#a-z Best Classic TV#
+WhaleTVPlus#a-z Classic Flix#
+WhaleTVPlus#a-z Western Grit#
+WhaleTVPlus#ACL Cornhole TV#
+WhaleTVPlus#Afroland African#
+WhaleTVPlus#Afroland Comedy#
+WhaleTVPlus#Afroland Crime#
+WhaleTVPlus#Afroland Docus#
+WhaleTVPlus#Afroland Faith#
+WhaleTVPlus#Afroland Family#
+WhaleTVPlus#Afroland Nollywood#
+WhaleTVPlus#Afroland Romance#
+WhaleTVPlus#Afroland Thriller#
+WhaleTVPlus#AfroLandTV#
+WhaleTVPlus#Alaraby News#
+WhaleTVPlus#AllHipHop#
+WhaleTVPlus#Arab Heritage TV#
+WhaleTVPlus#AWE Plus#
+WhaleTVPlus#AYM Sports#
+WhaleTVPlus#Azteca Internacional#
+WhaleTVPlus#Backstage En Español#
+WhaleTVPlus#Bark TV#
+WhaleTVPlus#BEONDTV#
+WhaleTVPlus#Beyond The Score#
+WhaleTVPlus#Billiards TV#
+WhaleTVPlus#Bloomberg Originals#
+WhaleTVPlus#Bloomberg TV+#
+WhaleTVPlus#Bollywood 4U#
+WhaleTVPlus#Bollywood TV#
+WhaleTVPlus#Box Playlist#
+WhaleTVPlus#Brat TV#
+WhaleTVPlus#China Travel#
+WhaleTVPlus#Chrono TV#
+WhaleTVPlus#Cigar TV#
+WhaleTVPlus#CINDIE#
+WhaleTVPlus#Cirque Du Soleil#
+WhaleTVPlus#Clic#
+WhaleTVPlus#CNA Originals#
+WhaleTVPlus#Comercio TV#
+WhaleTVPlus#Confess by Nosey#
+WhaleTVPlus#Cooking Panda#
+WhaleTVPlus#Craftsy TV#
+WhaleTVPlus#crema.tv#
+WhaleTVPlus#Daystar#
+WhaleTVPlus#DeFiance News#
+WhaleTVPlus#Delito#
+WhaleTVPlus#Discovering China#
+WhaleTVPlus#DIY Art#
+WhaleTVPlus#Docs & Historias#
+WhaleTVPlus#Docu Vision#
+WhaleTVPlus#Drive+Speed#
+WhaleTVPlus#Drone TV#
+WhaleTVPlus#Drool#
+WhaleTVPlus#Earth Day 365#
+WhaleTVPlus#Escape TV#
+WhaleTVPlus#euronews português#
+WhaleTVPlus#FailArmy#
+WhaleTVPlus#Feliz7Play#
+WhaleTVPlus#FIFA+#
+WhaleTVPlus#Filmzie#
+WhaleTVPlus#Food ON#
+WhaleTVPlus#France 24#
+WhaleTVPlus#FreeTV Crime#
+WhaleTVPlus#FreeTV Drama#
+WhaleTVPlus#FUEL TV#
+WhaleTVPlus#Global Biz#
+WhaleTVPlus#Goal TV#
+WhaleTVPlus#GoProTV#
+WhaleTVPlus#GoUSA TV#
+WhaleTVPlus#Gusto TV#
+WhaleTVPlus#Homerun TV#
+WhaleTVPlus#Hoop TV#
+WhaleTVPlus#Hunt Fish TV#
+WhaleTVPlus#In Touch +#
+WhaleTVPlus#INTER 24/7#
+WhaleTVPlus#Judge Nosey#
+WhaleTVPlus#Just For Laughs Comedy#
+WhaleTVPlus#Just For Laughs Gags#
+WhaleTVPlus#LatiNation#
+WhaleTVPlus#Legacy#
+WhaleTVPlus#Loupe Art#
+WhaleTVPlus#Motorvision#
+WhaleTVPlus#Movie Mania#
+WhaleTVPlus#Movie Music#
+WhaleTVPlus#Mundo Series#
+WhaleTVPlus#NEGOCIOS TV#
+WhaleTVPlus#Nesting TV#
+WhaleTVPlus#NEW KFOOD#
+WhaleTVPlus#NEW KPOP#
+WhaleTVPlus#Newsmax#
+WhaleTVPlus#NHRA TV#
+WhaleTVPlus#NOMADLife.tv#
+WhaleTVPlus#Nosey#
+WhaleTVPlus#NTD#
+WhaleTVPlus#OAN Plus#
+WhaleTVPlus#Peekflick#
+WhaleTVPlus#Pelimex#
+WhaleTVPlus#People are Awesome#
+WhaleTVPlus#Pet Collective +#
+WhaleTVPlus#Playing For Change#
+WhaleTVPlus#PowerSports World#
+WhaleTVPlus#Qwest TV#
+WhaleTVPlus#RACER International#
+WhaleTVPlus#Red Bull TV#
+WhaleTVPlus#Revry Global#
+WhaleTVPlus#Revry Her#
+WhaleTVPlus#Scifi World#
+WhaleTVPlus#Sessão Trash#
+WhaleTVPlus#SHIFT#
+WhaleTVPlus#SKWAD#
+WhaleTVPlus#Smart Healthy Green Living#
+WhaleTVPlus#Sooner: Coming of Age#
+WhaleTVPlus#Sooner: Next Gen#
+WhaleTVPlus#Space Series#
+WhaleTVPlus#Sport Fishing TV#
+WhaleTVPlus#SportOutdoor.TV#
+WhaleTVPlus#Sports Illustrated TV#
+WhaleTVPlus#Stingray Cityscapes#
+WhaleTVPlus#Stingray Cozy Café#
+WhaleTVPlus#Stingray Easy Listening#
+WhaleTVPlus#Stingray Naturescape#
+WhaleTVPlus#Stingray Remember the 80s#
+WhaleTVPlus#Stingray Smooth Jazz#
+WhaleTVPlus#Stingray SPA#
+WhaleTVPlus#Stingray Stargaze#
+WhaleTVPlus#Surf Cinema#
+WhaleTVPlus#Tastemade Brasil#
+WhaleTVPlus#Tastemade Casa#
+WhaleTVPlus#Tastemade Viagem#
+WhaleTVPlus#Tasty#
+WhaleTVPlus#Tennis TV#
+WhaleTVPlus#The Boat Show#
+WhaleTVPlus#The Red Green Channel#
+WhaleTVPlus#TidPix#
+WhaleTVPlus#time2Rlx#
+WhaleTVPlus#Trace UK#
+WhaleTVPlus#Travel & Food TV#
+WhaleTVPlus#Travel ON#
+WhaleTVPlus#TRT World#
+WhaleTVPlus#TyC Sports FAN#
+WhaleTVPlus#Ubisoft TV Brasil#
+WhaleTVPlus#UnchainedTV#
+WhaleTVPlus#Unleashed by DOGTV#
+WhaleTVPlus#WatchMojo#
+WhaleTVPlus#Weather Spy#
+WhaleTVPlus#wedotv Amor Pele Selvagem#
+WhaleTVPlus#wedotv Amor#
+WhaleTVPlus#WeShort#
+WhaleTVPlus#Whoa! That was Wild!#
+WhaleTVPlus#World Billiards TV#
+WhaleTVPlus#World Poker Tour#
+WhaleTVPlus#Xtrem Sports#
+WhaleTVPlus#ZenLife#

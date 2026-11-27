@@ -1,48 +1,33 @@
 === 1. Baixando listas M3U ===
 Baixando: LG...
-[ERRO] Falha ao baixar LG (HTTP 000)
 Baixando: TCL...
-[ERRO] Falha ao baixar TCL (HTTP 000)
 Baixando: Soultv...
-[ERRO] Falha ao baixar Soultv (HTTP 000)
 Baixando: Redeitv...
-[ERRO] Falha ao baixar Redeitv (HTTP 000)
 Baixando: Olhosnatv...
-[ERRO] Falha ao baixar Olhosnatv (HTTP 000)
 Baixando: Movieark...
-[ERRO] Falha ao baixar Movieark (HTTP 000)
 Baixando: SamsungTVPlus...
-[ERRO] Falha ao baixar SamsungTVPlus (HTTP 000)
 Baixando: WhaleTVPlus...
-[ERRO] Falha ao baixar WhaleTVPlus (HTTP 000)
 Baixando: IPTV-org...
 === 2. Extraindo metadados para temp/ ===
 === 3. Atualizando favorites/favorites-channels.txt ===
-Novos canais adicionados em favorites-channels.txt: 1
+Novos canais adicionados em favorites-channels.txt: 2
 Download e extração concluídos!
 === 1. Detectando novos canais para news-channels.log ===
-Adicionados 1 novos canais no topo de /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/log/news-channels.log
+Adicionados 2 novos canais no topo de /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/log/news-channels.log
 === 2. Atualizando arquivos de favoritos ===
 Arquivos sincronizados com sucesso:
-   66 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/favorites/favorites-ids.txt
-   66 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/favorites/favorites-logos.txt
-   66 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/favorites/favorites-urls.txt
-   66 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/favorites/favorites-groups.txt
- 1791 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/log/news-channels.log
- 2055 total
+   58 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/favorites/favorites-ids.txt
+   58 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/favorites/favorites-logos.txt
+   58 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/favorites/favorites-urls.txt
+   58 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/favorites/favorites-groups.txt
+ 1832 /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/log/news-channels.log
+ 2064 total
 === Gerando playlist final: /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/LLS_TV.m3u ===
-[AVISO] Canal sem URL http válida ignorado: Adrenalina Pura TV (Movieark)
-[AVISO] Canal sem URL http válida ignorado: Adrenalina Pura TV Halloween (Movieark)
-[AVISO] Canal sem URL http válida ignorado: Filmelier TV (Movieark)
-[AVISO] Canal sem URL http válida ignorado: Filmelier TV Esperança (Movieark)
-[AVISO] Canal sem URL http válida ignorado: Filmelier TV Paixão (Movieark)
-[AVISO] Canal sem URL http válida ignorado: Filmelier TV Vida Real (Movieark)
-[AVISO] Canal sem URL http válida ignorado: Moviesphere (Movieark)
-Playlist gerada com sucesso! Total de canais: 59
+Playlist gerada com sucesso! Total de canais: 58
 Limpando tags, números e palavras configuradas em clean-words.txt...
 Formatando nomes configurados em format-names.txt...
 Ordenando playlist por prioridade de grupos (groups-map-order.txt)...
-Playlist ordenada com sucesso! (59 canais organizados)
+Playlist ordenada com sucesso! (58 canais organizados)
 Resumo de provedores atualizado em: /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/docs/m3u-sources.md
 Resumo de EPG atualizado em: /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/docs/epg-sources.md (Total: 57)
-Balanço final atualizado em: /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/docs/channels-summary.md (59 total | 46 com EPG | 13 sem EPG)
+Balanço final atualizado em: /home/runner/work/lls-ws.github.io/lls-ws.github.io/iptv/docs/channels-summary.md (58 total | 43 com EPG | 15 sem EPG)
